@@ -1,28 +1,43 @@
 # MalaysiaTV.m3u
 # 
 # DISCLAIMER:
-# This playlist contains legal streams grabbed from Malaysia streaming sites (RTM MyKlik and MediaPrima Xtra). 
+# This playlist contains legal 720p streams grabbed from Malaysia streaming sites (RTM MyKlik and MediaPrima Xtra).
 # Non-Malaysian IPs might not be able to access them.
 # 
 # This file is updated daily due to DailyMotion's token expiration after 18 hours
   
-#EXTM3U
-
 #EXTINF:-1,TV 1
-
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my/
 
 #EXTINF:-1,TV 2
+https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my
 
+#EXTINF:-1,TV 3*
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHR_-p2xGZjeHDdPsGDodUTs)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://google.com
 
-#EXTINF:-1,TV 3
+#EXTINF:-1,NTV 7*
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRsMH6b3wHBK3w41-O8xVYw)/dm/3/x6qp6ou/s/live-3.m3u8|Referer=https://google.com
 
-
-#EXTINF:-1,NTV 7
-
-
-#EXTINF:-1,8 TV
-
+#EXTINF:-1,8 TV*
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXwmNird8xBJMoYBKgc8W9g)/dm/3/x6qud17/s/live-3.m3u8|Referer=https://google.com
 
 #EXTINF:-1,TV 9
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUHCZ1KHraIcDJfursHsh7I)/dm/3/x6qqja6/s/live-3.m3u8|Referer=https://google.com
 
+#EXTINF:-1,OKEY
+https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my/
 
+#EXTINF:-1,RTM HD Sports
+https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my/
+
+#EXTINF:-1,RTM BES
+https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my/
+
+#EXTINF:-1,One News
+https://rtmonenews.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my/
+
+#EXTINF:-1,Parlimen (Dewan Rakyat)
+https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my/
+
+#EXINTF:-1,Parlimen (Dewan Negara)
+https://parlimennegara.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my/
