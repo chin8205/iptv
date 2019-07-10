@@ -4,7 +4,7 @@ Collection of IPTV streams. You can feed this playlist to any video player of yo
 2. [VLC Media Player](https://www.videolan.org/vlc/index.html)
 3. [TVirl](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl&hl=en) (Android TV only)
 
-If streams are broken, please open an issue.
+For requests or broken streams, please open an [issue](https://github.com/akmalharith/IPTV/issues).
 
 ### Info:
 The streams are publicly provided by RTM and MediaPrima on their streaming websites:
