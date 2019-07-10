@@ -1,10 +1,10 @@
-# MalaysiaTV.m3u
+# MalaysiaTV.m3u by Akmal Harith
 # 
 # DISCLAIMER:
-# This playlist contains legal 720p streams grabbed from Malaysia streaming sites (RTM MyKlik and MediaPrima Xtra)
-# Non-Malaysian IPs might not be able to access them
+# 1) This playlist contains legal 720p streams grabbed from Malaysia streaming sites (RTM MyKlik and MediaPrima Xtra)
+# 2) Non-Malaysian IPs might not be able to access them
 # 
-# This file is updated daily due to DailyMotion's token expiration after 18 hours
+# INFO: DailyMotion token is updated daily
   
 #EXTINF:-1,TV 1
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my/
