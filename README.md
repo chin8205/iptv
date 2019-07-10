@@ -1,5 +1,5 @@
 # IPTV
-`Last update: Moved playlists under src`
+`10/7/2019: Moved playlists under src`
 
 A single-entry playlist file pointing to video streams. You can feed this playlist to any video player of your choice:
 1. [Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=en)
