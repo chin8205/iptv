@@ -9,7 +9,7 @@ A single-entry playlist file pointing to video streams. You can feed this playli
 **Terms of Use**
 - This is free for all, strictly for personal use
 - **DO NOT** redistribute or resell
-- **DO NOT** request for **ILLEGALLY HOSTED** streams
+- **DO NOT** request for **ILLEGALLY HOSTED** streams (Please see: [DMCA Takedown Policy](https://help.github.com/en/articles/dmca-takedown-policy))
 
 For assistance, feel free to open an [issue](https://github.com/akmalharith/IPTV/issues).
 ___
