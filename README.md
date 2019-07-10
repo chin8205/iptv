@@ -6,6 +6,8 @@ A single-entry playlist file pointing to video streams. You can feed this playli
 2. [VLC Media Player](https://www.videolan.org/vlc/index.html)
 3. [TVirl](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl&hl=en) (Android TV only)
 
+Free for personal use. **DO NOT redistribute or resell**. 
+
 For requests or broken streams, please open an [issue](https://github.com/akmalharith/IPTV/issues).
 ___
 ### Playlist:
