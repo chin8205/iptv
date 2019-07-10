@@ -12,5 +12,5 @@ The streams are publicly provided by RTM and MediaPrima on their streaming websi
 2. https://www.xtra.com.my/ms/livetv
 
 ### Playlist:
-1. Malaysian TV : `https://raw.githubusercontent.com/akmalharith/IPTV/master/MalaysiaTV.m3u` | `https://git.io/fjPkl` 
-EPG (coming soon)
+1. Malaysia TV: `https://raw.githubusercontent.com/akmalharith/IPTV/master/MalaysiaTV.m3u` | `https://git.io/fjPkl` 
+EPG:(coming soon)
