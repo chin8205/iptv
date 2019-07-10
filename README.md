@@ -1,7 +1,7 @@
 ## IPTV playlist
 `10/7/2019: Moved playlists under src`
 
-Collection of M3U playlist file for live TV streams available hosted in the internet.
+Collection of M3U playlist file for live TV streams publicly available in the internet.
 
 **Terms of Use**
 - This is free for all, strictly for personal use
