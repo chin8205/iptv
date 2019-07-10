@@ -11,7 +11,7 @@ Free for personal use. **DO NOT redistribute or resell**.
 For requests or broken streams, please open an [issue](https://github.com/akmalharith/IPTV/issues).
 ___
 ### Playlist:
-1. Malaysia TV: `https://git.io/fjPk7` 
-EPG: (coming soon)
+1. **MalaysiaTV.m3u**: `https://git.io/fjPk7` 
+**EPG**: *coming soon*
     - The streams are publicly provided by RTM and MediaPrima on their streaming websites: [MyKlik](https://myklik.rtm.gov.my/) and [Xtra](https://www.xtra.com.my/ms/livetv)
     - Streams are grabbed under 720p for performance reasons. (1080p require a consistently fast network connection)
