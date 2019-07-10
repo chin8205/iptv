@@ -15,5 +15,5 @@ For requests or broken streams, please open an [issue](https://github.com/akmalh
 1. Streams are grabbed under 720p for performance reasons. (1080p require a consistently fast network connection)
 
 ### Playlist:
-1. Malaysia TV: `https://raw.githubusercontent.com/akmalharith/IPTV/master/MalaysiaTV.m3u` | `https://git.io/fjPkl` 
+1. Malaysia TV: `https://raw.githubusercontent.com/akmalharith/IPTV/master/src/MalaysiaTV.m3u` | `https://git.io/fjPk7` 
 EPG: (coming soon)
