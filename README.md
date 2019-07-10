@@ -9,8 +9,8 @@ For requests or broken streams, please open an [issue](https://github.com/akmalh
 ### Info:
 1. The streams are publicly provided by RTM and MediaPrima on their streaming websites:
   1. https://myklik.rtm.gov.my/
-  2. https://www.xtra.com.my/ms/livetv
-2. Streams are grabbed under 720p for performance reasons. 1080p may require a consistently fast network connection.
+  1. https://www.xtra.com.my/ms/livetv
+1. Streams are grabbed under 720p for performance reasons. 1080p may require a consistently fast network connection.
 
 ### Playlist:
 1. Malaysia TV: `https://raw.githubusercontent.com/akmalharith/IPTV/master/MalaysiaTV.m3u` | `https://git.io/fjPkl` 
