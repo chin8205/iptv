@@ -1,10 +1,7 @@
 ## IPTV playlist
 `10/7/2019: Moved playlists under src`
 
-A single-entry playlist file pointing to video streams. You can feed this playlist to any video player of your choice:
-1. [Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=en)
-2. [VLC Media Player](https://www.videolan.org/vlc/index.html)
-3. [TVirl](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl&hl=en) (Android TV only)
+A single-entry playlist file pointing to video streams.
 
 **Terms of Use**
 - This is free for all, strictly for personal use
