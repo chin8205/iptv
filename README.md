@@ -11,7 +11,6 @@ The streams are publicly provided by RTM and MediaPrima on their streaming websi
 1. https://myklik.rtm.gov.my/
 2. https://www.xtra.com.my/ms/livetv
 
-EPG coming soon.
-
 ### Playlist:
 1. Malaysian TV : `https://raw.githubusercontent.com/akmalharith/IPTV/master/MalaysiaTV.m3u` | `https://git.io/fjPkl` 
+EPG (coming soon)
