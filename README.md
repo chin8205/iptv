@@ -16,6 +16,6 @@ ___
 ### Playlist:
 1. **MalaysiaTV.m3u**: `https://git.io/fjPk7` 
 **EPG**: *coming soon*
-    - The streams are publicly provided by RTM and MediaPrima on their streaming websites: [MyKlik](https://myklik.rtm.gov.my/) and [Xtra](https://www.xtra.com.my/ms/livetv)
+    - The streams are PUBLICLY provided by RTM and MediaPrima on their streaming websites: [MyKlik](https://myklik.rtm.gov.my/) and [Xtra](https://www.xtra.com.my/ms/livetv)
     - Streams are grabbed under 720p for performance reasons. (1080p require a consistently fast network connection)
 2. **SingaporeTV.m3u**: *coming soon* 
