@@ -13,4 +13,4 @@ The streams are publicly provided by RTM and MediaPrima on their streaming websi
 
 ### Playlist:
 1. Malaysia TV: `https://raw.githubusercontent.com/akmalharith/IPTV/master/MalaysiaTV.m3u` | `https://git.io/fjPkl` 
-EPG:(coming soon)
+EPG: (coming soon)
