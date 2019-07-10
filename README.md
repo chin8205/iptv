@@ -7,10 +7,7 @@ A single-entry playlist file pointing to video streams. You can feed this playli
 3. [TVirl](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl&hl=en) (Android TV only)
 
 For requests or broken streams, please open an [issue](https://github.com/akmalharith/IPTV/issues).
-
-### Info:
-
-
+___
 ### Playlist:
 1. Malaysia TV: `https://git.io/fjPk7` 
 EPG: (coming soon)
