@@ -6,7 +6,7 @@ A single-entry playlist file pointing to video streams. You can feed this playli
 2. [VLC Media Player](https://www.videolan.org/vlc/index.html)
 3. [TVirl](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl&hl=en) (Android TV only)
 
-### :heavy_exclamation_mark: Terms of Use
+:heavy_exclamation_mark: **Terms of Use**
 - This is free for all, strictly for personal use
 - **DO NOT** redistribute or resell
 - **DO NOT** request for **ILLEGALLY HOSTED** streams
