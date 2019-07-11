@@ -6,7 +6,7 @@ Collection of M3U playlist file for live TV streams publicly available in the in
 **Terms of Use**
 - This is free for all, strictly for personal use
 - **DO NOT** redistribute or resell
-- **DO NOT** request for **ILLEGALLY HOSTED** streams (Please see: [DMCA Takedown Policy](https://help.github.com/en/articles/dmca-takedown-policy))
+- **DO NOT** request for **ILLEGALLY HOSTED** streams (Please see [DMCA Takedown Policy](https://help.github.com/en/articles/dmca-takedown-policy))
 
 For assistance, feel free to open an [issue](https://github.com/akmalharith/IPTV/issues).
 ___
