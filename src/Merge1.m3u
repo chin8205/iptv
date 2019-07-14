@@ -1,0 +1,58 @@
+# MalaysiaTV.m3u
+# https://github.com/akmalharith/IPTV
+  
+#EXTINF:-1,TV 1
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1,TV 2
+https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1,TV 3*
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQpssWxy2ybrtZWbfnK77MM)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://google.com
+
+#EXTINF:-1,NTV 7*
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbIj4mWReKydFDDWRdka0R4)/dm/3/x6qp6ou/s/live-3.m3u8|Referer=https://google.com
+
+#EXTINF:-1,8 TV*
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHV64RaovJIZzW81_JCbv3NU)/dm/3/x6qud17/s/live-3.m3u8|Referer=https://google.com
+
+#EXTINF:-1,TV 9*
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaBQX0dPQplxk-OsW9SEkCs)/dm/3/x6qqja6/s/live-3.m3u8|Referer=https://google.com
+
+#EXTINF:-1,OKEY
+https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1,RTM HD Sports
+https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1,RTM BES
+https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1,One News
+https://rtmonenews.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1,Parlimen (Dewan Rakyat)
+https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1,Parlimen (Dewan Negara)
+https://parlimennegara.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my
+# SingaporeTV.m3u
+# https://github.com/akmalharith/IPTV
+  
+#EXTINF:-1,Channel 5 
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8 
+
+#EXTINF:-1,Channel 8 
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8 
+
+#EXTINF:-1,Channel U 
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8 
+
+#EXTINF:-1,Channel NewsAsia 
+http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8 
+
+#EXTINF:-1,Suria 
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8 
+
+#EXTINF:-1,Vasantham 
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8 
