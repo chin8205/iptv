@@ -1,22 +1,22 @@
 # MalaysiaTV.m3u - Last update Tue 16/07/2019
 # https://github.com/akmalharith/IPTV
   
-#EXTINF:-1,TV 1
+#EXTINF:-1,TV1
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1,TV 2
+#EXTINF:-1,TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1,TV 3*
+#EXTINF:-1,TV3
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQpssWxy2ybrtZWbfnK77MM)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
-#EXTINF:-1,NTV 7*
+#EXTINF:-1,NTV7
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRBzr6mgzHKBvBkay_L01F4)/dm/3/x6qp6ou/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
 
-#EXTINF:-1,8 TV*
+#EXTINF:-1,8TV
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHV64RaovJIZzW81_JCbv3NU)/dm/3/x6qud17/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
 
-#EXTINF:-1,TV 9*
+#EXTINF:-1,TV9
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZdcGtybjme_8C0onDsu-zU)/dm/3/x6qqja6/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
 
 #EXTINF:-1,OKEY
