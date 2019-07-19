@@ -11,6 +11,6 @@ Collection of M3U playlist file for live TV streams officially available in the 
 For assistance, feel free to open an [issue](https://github.com/akmalharith/IPTV/issues).
 ___
 ### Playlist:
-1. **MalaysiaTV.m3u**: `https://git.io/fjPk7` 
+1. **MalaysiaTV.m3u**: https://git.io/MalaysiaIPTV
 **EPG**: *coming soon*
 2. **SingaporeTV.m3u**: `https://git.io/fjPnl`
