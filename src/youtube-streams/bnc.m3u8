@@ -1,2 +1,4 @@
+#EXTM3U
+
 #EXTINF:-1,BNC
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1563434316/ei/7MgvXd2kINiZz7sPiYut-AQ/ip/2001:f40:902:287f:193d:d81a:1b2c:4eec/id/2oXx0De86G0.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-uphxqvujvh-30az.googlevideo.com/playlist_type/DVR/initcwndbps/12400/mm/44/mn/sn-uphxqvujvh-30az/ms/lva/mv/m/mvi/0/pl/53/dover/11/keepalive/yes/mt/1563412638/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_type/sig/ALgxI2wwRAIgAR6YEEC24dcl6DgG0UxzKy9ZjA9lckpZckN4Kiuo3lQCIGzMGFhZ9wtb1qkkydD3_pDP_N_vUVt0ytOlt_cQBlUX/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRQIhAKsxOCJoxv_q4TYyUhf3c8qG5SLqabUyp55yd5-pteoBAiB-NscmuyUQMCPi2G4i2ksfaGHBtsl5wozfHSC1PWBfxQ%3D%3D/playlist/index.m3u8
