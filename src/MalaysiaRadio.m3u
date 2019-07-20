@@ -1,0 +1,40 @@
+# Radio
+
+#EXTINF:-1,Hitz FM
+http://astro1.rastream.com/hitz
+
+#EXTINF:-1,ERA
+http://astro2.rastream.com/era
+
+#EXTINF:-1,Sinar FM
+http://astro2.rastream.com/sinar
+
+#EXTINF:-1,Mix FM
+http://astro2.rastream.com/mix
+
+#EXTINF:-1,BFM
+http://20043.live.streamtheworld.com/BFMAAC.aac
+
+#EXTINF:-1,My FM
+http://astro1.rastream.com/myfm
+
+#EXTINF:-1,LITE FM
+https://astro1.rastream.com/lite.web.hls/playlist.m3u8|Referer=https://listen.lite.my/
+
+#EXTINF:-1,Nasional FM
+https://nasionalfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
+
+#EXTINF:-1,Traxx FM
+https://traxxfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8
+
+#EXTINF:-1,Minnal FM
+https://minnalfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021-96000.m3u8
+
+#EXTINF:-1,Ai FM
+https://aifm.secureswiftcontent.com/memorystreams/HLS/rtm-ch020/rtm-ch020-96000.m3u8
+
+#EXTINF:-1,Klasik FM
+https://radioklasik.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8
+
+#EXTINF:-1,Asyik FM
+https://salamfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022-96000.m3u8
