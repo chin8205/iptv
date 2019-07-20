@@ -8,8 +8,7 @@ Collection of M3U playlist file for live TV streams officially available in the 
 - **DO NOT** redistribute or resell
 - **DO NOT** request for **ILLEGALLY HOSTED** streams (Please see [DMCA Takedown Policy](https://help.github.com/en/articles/dmca-takedown-policy))
 
-For assistance, feel free to open an [issue](https://github.com/akmalharith/IPTV/issues).
 ___
 ### Playlist:
-1. **MalaysiaTV.m3u**: https://git.io/MalaysiaIPTV
+1. **MalaysiaIPTV.m3u**: https://git.io/MalaysiaIPTV
 2. **SingaporeTV.m3u**: `https://git.io/fjPnl`
