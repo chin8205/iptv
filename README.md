@@ -4,5 +4,6 @@ ___
 ### Playlist:
 ![Malaysia TV logos](https://raw.githubusercontent.com/akmalharith/IPTV/master/logos/header/malaysiaiptv.png)
 
-**MalaysiaIPTV.m3u**: https://git.io/MalaysiaIPTV
-
+**TV**: https://git.io/MalaysiaIPTV
+**EPG (XML)**: https://git.io/MY-EPG-XMLTV
+(Full 7 day EPG file)
