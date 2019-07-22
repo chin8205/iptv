@@ -5,5 +5,5 @@ ___
 ![Malaysia TV logos](https://raw.githubusercontent.com/akmalharith/IPTV/master/logos/header/malaysiaiptv.png)
 
 **TV**: https://git.io/MalaysiaIPTV
-**EPG (XML)**: https://git.io/MY-EPG-XMLTV
-(Full 7 day EPG file)
+
+**EPG** (Full 7 days of EPG in XML): https://git.io/MY-EPG-XMLTV
