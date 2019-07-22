@@ -4,7 +4,7 @@ EPG consists of 7 full days of data.
 ___
 ### Malaysia IPTV & EPG 
 
-1. **TV**: https://git.io/MY-IPTV
+1. **TV**: https://git.io/MalaysiaIPTV
 1. **EPG**: https://git.io/MY-EPG-XMLTV
 
 ### Singapore IPTV & EPG
