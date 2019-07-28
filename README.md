@@ -1,8 +1,7 @@
 ## IPTV playlist
 Collection of M3U playlist file for live TV streams officially available in the internet.
 - EPG consists of 7 full days of data.
-- Tested every 6 hours. 
-- Broken streams will be automatically updated.
+- Playlist compiled for Android TV IPTV apps (Tested to work with TVirl and Tivimate)
 ___
 ### Malaysia IPTV & EPG 
 
