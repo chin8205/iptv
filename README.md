@@ -5,10 +5,10 @@ Collection of M3U playlist file for live TV streams officially available in the 
 ___
 ### Malaysia IPTV & EPG 
 
-1. **TV**: https://git.io/MalaysiaIPTV
-1. **EPG**: https://git.io/MY-EPG-XMLTV
+1. **TV**: https://raw.githubusercontent.com/akmalharith/IPTV/master/src/MYIPTV.m3u
+1. **EPG**: https://raw.githubusercontent.com/akmalharith/IPTV/master/epg/MalaysiaEPG.xml
 
 ### Singapore IPTV & EPG
 
-1. **TV**: https://git.io/SG-IPTV
-1. **EPG**: https://git.io/SG-EPG-XMLTV
+1. **TV**: https://raw.githubusercontent.com/akmalharith/IPTV/master/src/SGIPTV.m3u
+1. **EPG**: https://raw.githubusercontent.com/akmalharith/IPTV/master/epg/SingaporeEPG.xml
