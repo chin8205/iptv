@@ -1,5 +1,5 @@
 #EXTM3U
-# SingaporeIPTV.m3u
+# SGIPTV.m3u
   
 #EXTINF:-1 tvg-logo="https://video.toggle.sg/image/5253176/16x9/947/533/b49cfbbdfadcac8183438a67da78f60a/Ef/channel-5.png",Channel 5 
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8 
