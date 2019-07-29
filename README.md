@@ -12,4 +12,4 @@ ___
 ### Singapore IPTV & EPG
 
 1. **TV**: https://akmalharith.github.io/blog/TV/sg.m3u
-1. **EPG**: https://akmalharith.github.io/blog/TV/sg.xml
+1. **EPG**: https://akmalharith.github.io/blog/EPG/sg.xml
