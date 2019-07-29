@@ -7,9 +7,9 @@ ___
 ### Malaysia IPTV & EPG 
 
 1. **TV**: https://akmalharith.github.io/blog/TV/my.m3u
-1. **EPG**: https://akmalharith.github.io/blog/EPG/my.xml
+1. **EPG**: https://git.io/MY-EPG-XMLTV
 
 ### Singapore IPTV & EPG
 
 1. **TV**: https://akmalharith.github.io/blog/TV/sg.m3u
-1. **EPG**: https://akmalharith.github.io/blog/EPG/sg.xml
+1. **EPG**: https://git.io/SG-EPG-XMLTV
