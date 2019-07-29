@@ -22,7 +22,7 @@ https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcz3YBzfdU5OXMj9vd
 #EXTINF:-1 tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png",OKEY
 https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-logo="https://epg.rtm.gov.my/ems/uploads/channels/C0C52C66-D1EB-48C7-8D58-FE60BC9BFDD5.png",RTM HD Sports
+#EXTINF:-1 tvg-logo="https://epg.rtm.gov.my/ems/uploads/channels/C0C52C66-D1EB-48C7-8D58-FE60BC9BFDD5.png",RTM Sports HD
 https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/smartware-cms-prod/image/tvTVSALURANBERITARTMlogo.jpg",RTM BES
