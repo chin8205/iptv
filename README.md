@@ -1,14 +1,16 @@
 ## IPTV playlist
-Collection of M3U playlist file for live TV streams officially available in the internet.
-- Playlist compiled for Android TV apps [TVirl](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl&hl=en) and [Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=en)
-- How does it look? https://youtu.be/dNbuKAaS5oc
+Collection of M3U playlist and EPG for live TV streams officially available in the internet.
+#### How do I use the playlists? 
+1. Using [Tivimate](https://stremenify.com/how-to-setup-iptv-on-tivimate-iptv-player-app/) (recommended)
+1. Using [TVirl](https://www.reddit.com/r/AndroidTV/comments/6rfcoe/how_to_use_tvirl_with_your_provider_iptv_into/)
 ___
-### Malaysia IPTV & EPG 
+### Playlists
+#### Malaysia IPTV & EPG 
 
 1. **TV**: https://git.io/MY-IPTV-M3U
 1. **EPG**: https://git.io/MY-EPG-XMLTV
 
-### Singapore IPTV & EPG
+#### Singapore IPTV & EPG
 
 1. **TV**: https://git.io/SG-IPTV-M3U
 1. **EPG**: https://git.io/SG-EPG-XMLTV
