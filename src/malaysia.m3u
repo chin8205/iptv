@@ -8,16 +8,16 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8|R
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/tv3.png",TV3
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZCFoH_ixyL1rWCIkzLmR2s)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZCFoH_ixyL1rWCIkzLmR2s)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/ntv7.png",NTV7
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeBi4mhLPILv_rLKdOnvHEc)/dm/3/x6qp6ou/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeBi4mhLPILv_rLKdOnvHEc)/dm/3/x6qp6ou/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
 
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/8tv.png",8TV
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVRO-q446ES5UsyaZEea36k)/dm/3/x6qud17/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVRO-q446ES5UsyaZEea36k)/dm/3/x6qud17/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
 
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/tv9.png",TV9
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbRiLVPQCJIKrYFzOtl6BOA)/dm/3/x6qqja6/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbRiLVPQCJIKrYFzOtl6BOA)/dm/3/x6qqja6/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
 
 #EXTINF:-1 tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png",OKEY
 https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my
@@ -34,7 +34,7 @@ https://rtmonenews.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2096000.
 # Youtube Channels (6 hours token)
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Logo_of_the_TV_Alhijrah.svg/538px-Logo_of_the_TV_Alhijrah.svg.png",TV Alhijrah 
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1565906267/ei/-4BVXY7YE46G3LUPxLOcoA4/ip/2001:f40:908:cc4b:8416:6233:69c2:df17/id/njAdUM-EYnw.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-uphxqvujvh-30a6.googlevideo.com/playlist_type/DVR/initcwndbps/11550/mm/44/mn/sn-uphxqvujvh-30a6/ms/lva/mv/m/mvi/3/pl/48/dover/11/keepalive/yes/beids/9466587/mt/1565884524/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_type/sig/ALgxI2wwRQIgWNG7PmRcwwmUvyuh9QLOyYD_HnFZBPtC-ieEdNVLYc8CIQCB5pujqcXL5U5PaQb8aWYjEitXsy2DFYeuZliXDh0I3w%3D%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRQIhANwXnj3tZPLq2Nwa2G72dLkfE82R4yhKmBDeSyDAT7XdAiAbda3FFUNh0UDqFMryOPwsfIwyPyargM2pAW6GU_sI6w%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1565937394/ei/kvpVXaaXJvmx1Aa7r6kw/ip/2001:f40:908:cc4b:c5bf:cec9:e89:50e8/id/njAdUM-EYnw.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-uphxqvujvh-30a6.googlevideo.com/playlist_type/DVR/initcwndbps/13240/mm/44/mn/sn-uphxqvujvh-30a6/ms/lva/mv/m/mvi/3/pl/48/dover/11/keepalive/yes/mt/1565915658/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_type/sig/ALgxI2wwRAIgSgYSLg_giSudHY9eWB4dH0Pw32qkIwDMmtoaYUDbw4gCIEI-A4_94QT0VEASh2gd1TdxYih6_lI-7KVjxBrR3f8J/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRQIhAOupfxh7dvjvb9xLwf6KOQpiBGhY3JAUGIa-Dvh6IEJtAiAB80pXZ6YLfHEyg7SppwhXW-WDlfN3wa1YCuvmztYH2Q%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png",BNC 
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1565906275/ei/A4FVXceYJti61Aa886SoBA/ip/2001:f40:908:cc4b:8416:6233:69c2:df17/id/PSPEtq2htPI.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-uphxqvujvh-30as.googlevideo.com/playlist_type/DVR/initcwndbps/10300/mm/44/mn/sn-uphxqvujvh-30as/ms/lva/mv/m/mvi/2/pl/48/dover/11/keepalive/yes/mt/1565884524/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_type/sig/ALgxI2wwRgIhAJD0yV8MxP9bysEPqSkris3jpuwFpeAkLcOHFU1ktWixAiEAh6ApLRVbUiKeMk40qKMC2gmfU53gEWEYoE8X4_rv6iY%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRQIgFepWzBzQ036tXvE7G_R3J9jo4f5U-AS94qxl1ZvbbU8CIQDqjPHwvwHz76tRkdgiFBahcvsfgsVjzq5eISDULMQoEQ%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1565937401/ei/mPpVXbKaPIKJ1Aa7yquwBA/ip/2001:f40:908:cc4b:c5bf:cec9:e89:50e8/id/PSPEtq2htPI.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-uphxqvujvh-30as.googlevideo.com/playlist_type/DVR/initcwndbps/11290/mm/44/mn/sn-uphxqvujvh-30as/ms/lva/mv/m/mvi/2/pl/48/dover/11/keepalive/yes/mt/1565915658/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_type/sig/ALgxI2wwRAIgWZJZvkPVGbY4LjXMWrQykg0g0dlMz6UZbM3lKx9_C9kCIEylMA5VBw0jtxPZAye8VXDVtem8uR8gDuIS5w6gTcoi/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRQIgAnorKdQNhazEsrmGO6_iC4J55c_uPr1MaPqU5TilgEsCIQD0vVywmq-xVsM4-fNfqpsnHwXltNdsEiPqnWoWQPW6AQ%3D%3D/playlist/index.m3u8
