@@ -36,191 +36,11 @@
     <display-name lang="en">BNC</display-name>
     <url>http://www.astro.com.my</url>
   </channel>
-  <programme start="20190826003000 +0800" stop="20190826010000 +0800" channel="TV 1">
-    <title lang="en">Nasional 12</title>
-    <desc lang="en">Saksikan Berita Nasional yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  <programme start="20190827000000 +0800" stop="20190827003000 +0800" channel="TV 1">
+    <title lang="en">Formula E</title>
+    <desc lang="en">Saksikan rangkuman dan sorotan, dalam perlumbaan Formula E.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826010000 +0800" stop="20190826013000 +0800" channel="TV 1">
-    <title lang="en">How It's Made</title>
-    <desc lang="en">Sebuah dokumentari memaparkan teknologi dan cara penghasilan sesuatu produk.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20190826013000 +0800" stop="20190826020000 +0800" channel="TV 1">
-    <title lang="en">Kembara Backpackers</title>
-    <desc lang="en">Sebuah program TV travelogue realiti pertama di Malaysia yang mengisahkan tentang pengembaraan Moji menjelajah dunia secara \"backpacking\".</desc>
-    <category lang="en">Lifestyle, Leisure, Hobbies</category>
-    <category lang="en">Travel</category>
-  </programme>
-  <programme start="20190826020000 +0800" stop="20190826023000 +0800" channel="TV 1">
-    <title lang="en">Malam-Malam Cari Makan</title>
-    <desc lang="en">Memaparkan penjelajahan hos ke tempat-tempat pekerjaan segenap lapisan masyarakat untuk memahami secara mendalam terhadap tugasan, risiko dan cabaran mereka dalam bidang pekerjaan tertentu.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20190826023000 +0800" stop="20190826030000 +0800" channel="TV 1">
-    <title lang="en">Tumit Tinggi</title>
-    <desc lang="en">Sebuah majalah wanita berkongsi mengenai pelbagai isu berkaitan wanita yang menyentuh tentang aspek kejayaan, permasalahan dan gaya hidup.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Talk Show</category>
-  </programme>
-  <programme start="20190826030000 +0800" stop="20190826033000 +0800" channel="TV 1">
-    <title lang="en">Kompas Muzik</title>
-    <desc lang="en">Rancangan travelog ke beberapa destinasi di rantau ASEAN bagi menimba pengalaman berkaitan sosio-budaya, kesenian dan muzik.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20190826033000 +0800" stop="20190826053000 +0800" channel="TV 1">
-    <title lang="en">3 Kali Sayang</title>
-    <desc lang="en">Memaparkan kisah seorang Datuk yang menghadapi masalah isterinya yang tidak dapat memberi zuriat, setelah beliau beristeri dua orang lagi.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826053000 +0800" stop="20190826060000 +0800" channel="TV 1">
-    <title lang="en">Tahiyatul Masjid</title>
-    <desc lang="en">Dokumentari yang berkisar mengenai peranan dan keunikan masjid-masjid terpilih.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20190826060000 +0800" stop="20190826070000 +0800" channel="TV 1">
-    <title lang="en">Tilawah Interaktif</title>
-    <desc lang="en">Belajar mengaji dan memperbaiki bacaan Al-Quran dari segi tajwid dan fasohah bersama Ustaz jemputan di studio.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826070000 +0800" stop="20190826080000 +0800" channel="TV 1">
-    <title lang="en">Nasional 7</title>
-    <desc lang="en">Saksikan Berita Nasional yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Discussion / Interview / Debate</category>
-  </programme>
-  <programme start="20190826080000 +0800" stop="20190826100000 +0800" channel="TV 1">
-    <title lang="en">(L) Selamat Pagi Malaysia</title>
-    <desc lang="en">Ikuti kupasan pelbagai topik menarik dalam program bual bicara berbentuk interaktif Selamat Pagi Malaysia (Nadi Seri Pagi).</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20190826100000 +0800" stop="20190826110000 +0800" channel="TV 1">
-    <title lang="en">Log Pahlawan</title>
-    <desc lang="en">Saksikan kehebatan dan keberanian pahlawan Iban di Sarawak dan kenali Penerima Pingat Gagah Berani iaitu Lt Kol (B) Robert Rizal Abdullah.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20190826110000 +0800" stop="20190826113000 +0800" channel="TV 1">
-    <title lang="en">Klik-Klik Asia</title>
-    <desc lang="en">Saksikan  #KlikKlikAsia (ep.11) yang telah membawa Stephen di beberapa tempat menarik di Kaherah, Mesir seperti Pusat Kristal, Masjid dan Makam Imam Shafiee serta Tasik dan Istana Qarun.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20190826113000 +0800" stop="20190826120000 +0800" channel="TV 1">
-    <title lang="en">3P</title>
-    <desc lang="en">Kenali pekerjaan yang luar biasa bersama Baki Zainal, Ghoni (Pembuat Keris) dan Sukarelawan Mohd Asri (Pegawai Pusat Penerangan Pelancongan) melihat sendiri dan merasai pengalaman sebagai Pembuat Keris.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20190826120000 +0800" stop="20190826123000 +0800" channel="TV 1">
-    <title lang="en">Go Jetters</title>
-    <desc lang="en">Saksikan kisah The Forbidden City dan Weliczka Salt Mine.</desc>
-    <category lang="en">Kids</category>
-    <category lang="en">General</category>
-  </programme>
-  <programme start="20190826123000 +0800" stop="20190826130000 +0800" channel="TV 1">
-    <title lang="en">Singgah Rasa</title>
-    <desc lang="en">Jom! Ikut Chef Sabri Hassan ke Kuala Selangor berkongsi resipi masakan Ayam Masak Susu, Wadai Kipeng, Mentarang Goreng Berlada, Jus Kedondong Asam Boi &amp; Ketam Goreng Berempah.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20190826130000 +0800" stop="20190826133000 +0800" channel="TV 1">
-    <title lang="en">Nasional 1</title>
-    <desc lang="en">Saksikan Berita Nasional 1 yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
-    <category lang="en">Kids</category>
-    <category lang="en">General</category>
-  </programme>
-  <programme start="20190826133000 +0800" stop="20190826143000 +0800" channel="TV 1">
-    <title lang="en">Impossible Engineering</title>
-    <desc lang="en">Saksikan tentang kapal-kapal yang dibina khas untuk operasi berdekatan pantai oleh Tentera Laut Amerika Syarikat.</desc>
-    <category lang="en">Lifestyle, Leisure, Hobbies</category>
-    <category lang="en">Food</category>
-  </programme>
-  <programme start="20190826143000 +0800" stop="20190826150000 +0800" channel="TV 1">
-    <title lang="en">School of Rock</title>
-    <desc lang="en">Kafe School of Rock kecoh dengan kehadiran tikus hingga menyebabkan kafeteria ditutup! Zack menyediakan hidangan 'Meal Shake' berkonsepkan 'Food Truck'.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826150000 +0800" stop="20190826160000 +0800" channel="TV 1">
-    <title lang="en">Aku Di Sisimu</title>
-    <desc lang="en">Mira dan Laila mula bekerja semula. Tapi.. hari pertama bekerja, dah di marah oleh bos. Apa yang mira telah lakukan sampai di marah oleh bos?</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826160000 +0800" stop="20190826170000 +0800" channel="TV 1">
-    <title lang="en">(L) Kami Bah Ini</title>
-    <desc lang="en">Memaparkan berita dan cerita, serta memperkenalkan artis dan personaliti dari Sabah untuk tatapan seluruh rakyat Malaysia.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Talk Show</category>
-  </programme>
-  <programme start="20190826170000 +0800" stop="20190826180000 +0800" channel="TV 1">
-    <title lang="en">N5</title>
-    <desc lang="en">Laporan berita semasa dalam negeri.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Talk Show</category>
-  </programme>
-  <programme start="20190826180000 +0800" stop="20190826190000 +0800" channel="TV 1">
-    <title lang="en">My Halal</title>
-    <desc lang="en">Bicarawara MyHalal akan membicarakan isu-isu berkaitan Halal. Sumber maklumat sahih untuk kebaikan kita bersama.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Talk Show</category>
-  </programme>
-  <programme start="20190826190000 +0800" stop="20190826193000 +0800" channel="TV 1">
-    <title lang="en">Puteri Labu</title>
-    <desc lang="en">Sukar untuk Trita dan Ika menerima Labu yang kini sudah cantik dan bakal berkahwin dengan Tan Sri. Saksikan lakonan Cristina Suzzane, Syuhaida Dottie &amp; Syafiq Kyle,.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826193000 +0800" stop="20190826200000 +0800" channel="TV 1">
-    <title lang="en">More Curious</title>
-    <desc lang="en">Saksikan maklumat dan fakta asal usul Mesin Pengisar, 'Boomerang', 'Air Fryer', Mumia Mesir, tombol pintu, permainan computer dan pemijak kaki.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Talk Show</category>
-  </programme>
-  <programme start="20190826200000 +0800" stop="20190826210000 +0800" channel="TV 1">
-    <title lang="en">Nasional 8</title>
-    <desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826210000 +0800" stop="20190826220000 +0800" channel="TV 1">
-    <title lang="en">(L) Bicara Pengguna</title>
-    <desc lang="en">Sebuah rancangan bual bicara yang membicarakan isu-isu kepenggunaan.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Talk Show</category>
-  </programme>
-  <programme start="20190826220000 +0800" stop="20190826223000 +0800" channel="TV 1">
-    <title lang="en">Panorama</title>
-    <desc lang="en">Program majalah iaitu menyampaikan informasi and berkongsi maklumat tentang isu, alam semula jadi, adat and kebudayaan, pelancongan, teknologi, warisan, sejarah and profil.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20190826223000 +0800" stop="20190826230000 +0800" channel="TV 1">
-    <title lang="en">Garis Waktu</title>
-    <desc lang="en">Saksikan kisah \"Penjejak Berkesan\".</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20190826230000 +0800" stop="20190826233000 +0800" channel="TV 1">
-    <title lang="en">BES Dunia</title>
-    <desc lang="en">Ikuti paparan berita semasa dari luar negara dalam BES Dunia.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20190826233000 +0800" stop="20190827000000 +0800" channel="TV 1">
-    <title lang="en">Sorotan Cubprix</title>
-    <desc lang="en">Saksikan Sorotan Cuprix  (ep.11).</desc>
-    <category lang="en">News</category>
-    <category lang="en">Discussion / Interview / Debate</category>
   </programme>
   <programme start="20190827003000 +0800" stop="20190827010000 +0800" channel="TV 1">
     <title lang="en">Nasional 12</title>
@@ -296,19 +116,19 @@
   </programme>
   <programme start="20190827100000 +0800" stop="20190827110000 +0800" channel="TV 1">
     <title lang="en">Log Pahlawan</title>
-    <desc lang="en">Kisah keberanian yang ditonjolkan oleh penerima anugerah Seri Pahlawan Gagah Perkasa. Diimbas kembali melalui penceritaan rakan seperjuangan, ahli keluarga dan lakonan semula.</desc>
+    <desc lang="en">Saksikan kehebatan &amp; keberanian Penerima Anugerah Seri Pahlawan Gagah Perkasa daripada Batalion Ke-17 RAMD iaitu Kapten Zainal Bin Abdul Rashid &amp; Lt Muda Abdul Hamid Ismail Daripada Batalion Ke-3 RAMD.</desc>
     <category lang="en">Factual &amp; Documentary</category>
     <category lang="en">Documentary</category>
   </programme>
   <programme start="20190827110000 +0800" stop="20190827113000 +0800" channel="TV 1">
     <title lang="en">Klik-Klik Asia</title>
-    <desc lang="en">Sebuah dokumentari bercorak pengembaraan membawa penonton menjelajah ke negara-negara terpilih.</desc>
+    <desc lang="en">Saksikan pengalaman menarik Stephen melawat tempat-tempat menarik di Beijing, China.</desc>
     <category lang="en">Factual &amp; Documentary</category>
     <category lang="en">Documentary</category>
   </programme>
   <programme start="20190827113000 +0800" stop="20190827120000 +0800" channel="TV 1">
     <title lang="en">3P</title>
-    <desc lang="en">Majalah bersiri yang menyelami kepayahan dan keperitan sesuatu kerjaya yang kurang diketahui orang ramai.</desc>
+    <desc lang="en">Bersama Baki Zainal, selami &amp; kenali perkerjaan yang luar biasa Puan Norani Jusoh (Penguasa atap singhora) &amp; Isham Sharudin (Penyampai Radio Kelantan FM) merasai pengalaman sebagai Pembuat Atap.</desc>
     <category lang="en">Factual &amp; Documentary</category>
     <category lang="en">Documentary</category>
   </programme>
@@ -332,7 +152,7 @@
   </programme>
   <programme start="20190827133000 +0800" stop="20190827143000 +0800" channel="TV 1">
     <title lang="en">Impossible Engineering</title>
-    <desc lang="en">Memaparkan kejuruteraan moden di mana jurutera-jurutera berjaya membina beberapa struktur-struktur mega dan mustahil, dengan menggunakan bahanbahan yang tidak teruji.</desc>
+    <desc lang="en">Saksikan tentang \"Panama Canal\" yang berukuran sepanjang 77 km, merupakan sebuah saluran air buatan manusia di Panama yang menghubungkan Lautan Atlantik dengan Lautan Pasifik.</desc>
     <category lang="en">Factual &amp; Documentary</category>
     <category lang="en">Documentary</category>
   </programme>
@@ -362,7 +182,7 @@
   </programme>
   <programme start="20190827180000 +0800" stop="20190827190000 +0800" channel="TV 1">
     <title lang="en">Anda Musykil?</title>
-    <desc lang="en">Rancangan yang menjawab segala persoalan berkaitan soal keagamaan bersama penonton di rumah melalui Telefon, Facebook, SMS dan Email.</desc>
+    <desc lang="en">\"MASJID RUMAH KEDUA\" - Ikuti Diskusi &amp; Kupasannya Secara Langsung, Bersama Moderator Nurul Syafiqah Mohamed Hanafiah Serta Panel Undangan Dr. Lokman Bin Ab. Rahman (Jabatan Kemajuan Islam Malaysia).</desc>
     <category lang="en">Factual &amp; Documentary</category>
     <category lang="en">Religious</category>
   </programme>
@@ -398,7 +218,7 @@
   </programme>
   <programme start="20190827223000 +0800" stop="20190827230000 +0800" channel="TV 1">
     <title lang="en">Garis Waktu</title>
-    <desc lang="en">Sebuah dokumentari memaparkan usaha-usaha yang dilakukan bagi menjejak kembali hasil tinggalan sejarah yang berlaku semasa era zaman peperangan.</desc>
+    <desc lang="en">Saksikan kisah \"Lanun Pulau Tambisan\".</desc>
     <category lang="en">Factual &amp; Documentary</category>
     <category lang="en">Documentary</category>
   </programme>
@@ -1320,191 +1140,53 @@
     <category lang="en">Lifestyle, Leisure, Hobbies</category>
     <category lang="en">Travel</category>
   </programme>
-  <programme start="20190826000000 +0800" stop="20190826003000 +0800" channel="TV 2">
-    <title lang="en">Ekspresi Muzikku</title>
-    <desc lang="en">Rancangan menarik untuk tontonan semua di TV2.</desc>
+  <programme start="20190901233000 +0800" stop="20190902000000 +0800" channel="TV 1">
+    <title lang="en">How It's Made</title>
+    <desc lang="en">Sebuah dokumentari memaparkan teknologi dan cara penghasilan sesuatu produk.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20190902003000 +0800" stop="20190902013000 +0800" channel="TV 1">
+    <title lang="en">Sports Max</title>
+    <desc lang="en">Saksikan Pertarungan Sport Max.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+  </programme>
+  <programme start="20190902013000 +0800" stop="20190902020000 +0800" channel="TV 1">
+    <title lang="en">Kembara Backpackers</title>
+    <desc lang="en">Sebuah program TV travelogue realiti pertama di Malaysia yang mengisahkan tentang pengembaraan Moji menjelajah dunia secara \"backpacking\".</desc>
+    <category lang="en">Lifestyle, Leisure, Hobbies</category>
+    <category lang="en">Travel</category>
+  </programme>
+  <programme start="20190902020000 +0800" stop="20190902023000 +0800" channel="TV 1">
+    <title lang="en">Malam-Malam Cari Makan</title>
+    <desc lang="en">Memaparkan penjelajahan hos ke tempat-tempat pekerjaan segenap lapisan masyarakat untuk memahami secara mendalam terhadap tugasan, risiko dan cabaran mereka dalam bidang pekerjaan tertentu.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20190902023000 +0800" stop="20190902030000 +0800" channel="TV 1">
+    <title lang="en">Tumit Tinggi</title>
+    <desc lang="en">Sebuah majalah wanita berkongsi mengenai pelbagai isu berkaitan wanita yang menyentuh tentang aspek kejayaan, permasalahan dan gaya hidup.</desc>
     <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
+    <category lang="en">Talk Show</category>
   </programme>
-  <programme start="20190826003000 +0800" stop="20190826013000 +0800" channel="TV 2">
-    <title lang="en">Kenali Sempadan</title>
-    <desc lang="en">Bersama Arja Lee menjelajah ke beberapa buah daerah yang bersempadan antara negeri - negeri dan mengenali keunikan dan keistimewaan sosiobudaya, sosioekonomi, bentuk muka bumi.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
+  <programme start="20190902030000 +0800" stop="20190902033000 +0800" channel="TV 1">
+    <title lang="en">Kompas Muzik</title>
+    <desc lang="en">Rancangan travelog ke beberapa destinasi di rantau ASEAN bagi menimba pengalaman berkaitan sosio-budaya, kesenian dan muzik.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20190826013000 +0800" stop="20190826020000 +0800" channel="TV 2">
-    <title lang="en">Sunrise to Health</title>
-    <desc lang="en">Majalah ini bertemakan gaya hidup sihat tentang bagaimana memulakan kehidupan dengan cara yang lebih positif dan bermanfaat.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826020000 +0800" stop="20190826030000 +0800" channel="TV 2">
-    <title lang="en">Gondolo Cinta Di Venice</title>
-    <desc lang="en">Rancangan menarik untuk tontonan semua di TV2.</desc>
+  <programme start="20190902033000 +0800" stop="20190902053000 +0800" channel="TV 1">
+    <title lang="en">Khutbah Terakhir</title>
+    <desc lang="en">Kisah Ustaz Hidayat yang dipilih menjadi Imam sementara di kampung tidak disukai oleh orang kampung atas sebab beberapa tindakannya yang dirasakan pelik.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20190826030000 +0800" stop="20190826040000 +0800" channel="TV 2">
-    <title lang="en">Cinta Di Langit Cardiff</title>
-    <desc lang="en">Rancangan menarik untuk tontonan semua di TV2.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826040000 +0800" stop="20190826050000 +0800" channel="TV 2">
-    <title lang="en">Kaaval</title>
-    <desc lang="en">Kisah sekumpulan pegawai polis yang diketuai oleh seorang DSP menyiasat dan menyelesaikan pelbagai kes jenayah seperti perdagangan manusia, penyeludupan kanak-kanak dan lain-lain.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826050000 +0800" stop="20190826060000 +0800" channel="TV 2">
-    <title lang="en">Kondominium</title>
-    <desc lang="en">Rancangan menarik untuk tontonan semua di TV2.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826060000 +0800" stop="20190826063000 +0800" channel="TV 2">
-    <title lang="en">Table for Two</title>
-    <desc lang="en">Sebuah rancangan masakan dihoskan chef Anis Nabilah. Hos akan melawat restoran yang berlainan dan menjemput sepasang selebriti untuk merasa makanan di restoran tersebut.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826063000 +0800" stop="20190826070000 +0800" channel="TV 2">
-    <title lang="en">Makan Di Mana</title>
-    <desc lang="en">Kali ini Aliff Hadi mencuba hidangan Myanmar di Restoran Gantawin dan Restoran Colony.  Antara hidangan yang menarik ialah Laksa Myanmar, Puyuh Goreng, Ikan Malar, Mohinga, Mee Suan, Susu Tea Burmese.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826070000 +0800" stop="20190826080000 +0800" channel="TV 2">
-    <title lang="en">Gondolo Cinta Di Venice</title>
-    <desc lang="en">Mengisahkan tentang konflik kekeluargaan dimana sikap tamak seorang isteri dan anaknya sanggup merancang untuk membunuh suami dan anak tirinya, hanya untuk mendapatkan harta dari syarikat milik suaminya.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826080000 +0800" stop="20190826090000 +0800" channel="TV 2">
-    <title lang="en">Tentang Hati</title>
-    <desc lang="en">Zakuan dan Azeya kembali ke tanah air dari New Zealand sebagai suami isteri, namun merahsiakan perkahwinan mereka kerana bimbang tidak mendapat restu dari ibu Zakuan, iaitu Sharifah Hamidah.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826090000 +0800" stop="20190826093000 +0800" channel="TV 2">
-    <title lang="en">Aura Femina</title>
-    <desc lang="en">Sebuah majalah yang berkisar tentang dunia wanita masa kini dengan pelbagai tips dan panduan untuk wanita.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826093000 +0800" stop="20190826100000 +0800" channel="TV 2">
+  <programme start="20190827000000 +0800" stop="20190827003000 +0800" channel="TV 2">
     <title lang="en">Khazanah Borneo</title>
     <desc lang="en">Bersama Munarwar Azmi menjelajah ke Muzium Sabah bagi mengkaji dan menghuraikan pelbagai peninggalan sejarah di sekitar Sabah.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826100000 +0800" stop="20190826110000 +0800" channel="TV 2">
-    <title lang="en">Suami Jenis 'A'</title>
-    <desc lang="en">Hui merupakan seorang penyelia yang tegas di sebuah syarikat insurans dan berkawan baik dengan rakan sekerjanya Thay yang masih bujang.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826110000 +0800" stop="20190826120000 +0800" channel="TV 2">
-    <title lang="en">19th Street</title>
-    <desc lang="en">Kisah empat sahabat yang mengharungi pelbagai pengalaman pahit manis, berhadapan dengan keadaan yang terdesak sehingga terlibat dalam jenayah serta kisah cinta yang menyulami kehidupan mereka.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826120000 +0800" stop="20190826122000 +0800" channel="TV 2">
-    <title lang="en">Berita Mandarin</title>
-    <desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Business</category>
-  </programme>
-  <programme start="20190826122000 +0800" stop="20190826123000 +0800" channel="TV 2">
-    <title lang="en">Galeri Nasional Mandarin</title>
-    <desc lang="en">Rancangan berbentuk majalah berbahasa Mandarin yang mengupas kegiatan semasa masyarakat.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Discussion / Interview / Debate</category>
-  </programme>
-  <programme start="20190826123000 +0800" stop="20190826130000 +0800" channel="TV 2">
-    <title lang="en">Berita Inggeris</title>
-    <desc lang="en">News On 2, brings you the latest news of national interest and trending international issues.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Business</category>
-  </programme>
-  <programme start="20190826130000 +0800" stop="20190826140000 +0800" channel="TV 2">
-    <title lang="en">Khabar Dari Casablanca</title>
-    <desc lang="en">Kisah kehidupan romantis sepasang suami isteri yang bekerja di luar negara. Akibat satu insiden, suaminya tidak dapat dikesan dan ramai percaya yang dia telah meninggal dunia.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826140000 +0800" stop="20190826150000 +0800" channel="TV 2">
-    <title lang="en">Cinta Yang Ku Rasa</title>
-    <desc lang="en">Mengisahkan tentang Laila Nabila yang menghadapi kesusahan dalam hidupnya setelah kekasihnya menghilangkan diri dan keluarganya ditimpa musibah.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826150000 +0800" stop="20190826153000 +0800" channel="TV 2">
-    <title lang="en">Mannipu</title>
-    <desc lang="en">Drama bersiri yang mengisahkan konflik diantara dua keluarga usahawan iaitu Ramamurthy dan Renganathan yang saling bersaing untuk membina empayar perniagaan.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826153000 +0800" stop="20190826160000 +0800" channel="TV 2">
-    <title lang="en">Nee Yar</title>
-    <desc lang="en">Mengisahkan tentang masalah sosial yang berlaku dalam kalangan masyarakat seperti jenayah siber, hubungan kekeluargaan dan persahabatan yang membabitkan penyiasatan pihak polis.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826160000 +0800" stop="20190826163000 +0800" channel="TV 2">
-    <title lang="en">Vetri Unggal Vasalil</title>
-    <desc lang="en">Rancangan majalah yang memberi inspirasi khasnya buat kaum wanita untuk lebih maju dan berjaya dalam pelbagai aspek kehidupan.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826163000 +0800" stop="20190826170000 +0800" channel="TV 2">
-    <title lang="en">Vaai Vittu Siringga</title>
-    <desc lang="en">Rancangan majalah berkonsepkan hiburan ringan yang menampilkan lakonan artis-artis komedi tamil.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826170000 +0800" stop="20190826180000 +0800" channel="TV 2">
-    <title lang="en">Wu Xin the Monster Killer</title>
-    <desc lang="en">Kisah fantasi yang memaparkan seorang pemuda bernama Wu Xin mempunyai kebolehan berkomunikasi dengan roh.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826180000 +0800" stop="20190826190000 +0800" channel="TV 2">
-    <title lang="en">Adi Zehra</title>
-    <desc lang="en">Kisah seorang wanita Turki yang tinggal di Frankfurt, German dibesarkan dalam dalam sebuah keluarga yang memegang tradisi dan fahaman konservatif.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826190000 +0800" stop="20190826193000 +0800" channel="TV 2">
-    <title lang="en">Berita Inggeris</title>
-    <desc lang="en">News On 2, brings you the latest news of national interest and trending international issues.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Business</category>
-  </programme>
-  <programme start="20190826193000 +0800" stop="20190826200000 +0800" channel="TV 2">
-    <title lang="en">Berita Tamil</title>
-    <desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Business</category>
-  </programme>
-  <programme start="20190826200000 +0800" stop="20190826203000 +0800" channel="TV 2">
-    <title lang="en">Berita Mandarin</title>
-    <desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Business</category>
-  </programme>
-  <programme start="20190826203000 +0800" stop="20190826213000 +0800" channel="TV 2">
-    <title lang="en">Ripin Mugha Batu</title>
-    <desc lang="en">Kedua-dua isteri Aripin, iaitu Mek Nab dan Mek Siah bergaduh. Hal ini mengaibkan Aripin dan Aripin pulang ke rumah memarahi mereka.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826213000 +0800" stop="20190827000000 +0800" channel="TV 2">
-    <title lang="en">Perempuan Melayu Terakhir</title>
-    <desc lang="en">Mengisahkan pencarian identiti oleh seorang lelaki Melayu untuk mengenal lebih mendalam tentang erti 'Melayu' selepas dia sering mengamalkan budaya hidup barat.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
   </programme>
   <programme start="20190827003000 +0800" stop="20190827013000 +0800" channel="TV 2">
     <title lang="en">Opah</title>
@@ -2544,173 +2226,191 @@
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
   </programme>
-  <programme start="20190826000000 +0800" stop="20190826003000 +0800" channel="TV 3">
+  <programme start="20190901233000 +0800" stop="20190902000000 +0800" channel="TV 2">
+    <title lang="en">Tanya Pakar</title>
+    <desc lang="en">Rancangan majalah yang menawarkan nasihat daripada pakar kesihatan tentang kaedah menjaga kecergasan fizikal dan kesihatan mental.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20190902003000 +0800" stop="20190902013000 +0800" channel="TV 2">
+    <title lang="en">Opah</title>
+    <desc lang="en">Kisah Opah yang penyabar, penyayang dalam menghadapi pelbagai karenah anak-anaknya. Opah juga sering menjadi tempat rujukan keluarganya apabila menghadapi masalah.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190902013000 +0800" stop="20190902020000 +0800" channel="TV 2">
+    <title lang="en">Sunrise to Health</title>
+    <desc lang="en">Majalah ini bertemakan gaya hidup sihat tentang bagaimana memulakan kehidupan dengan cara yang lebih positif dan bermanfaat.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20190902020000 +0800" stop="20190902030000 +0800" channel="TV 2">
+    <title lang="en">Gondolo Cinta Di Venice</title>
+    <desc lang="en">Mengisahkan tentang konflik kekeluargaan dimana sikap tamak seorang isteri dan anaknya sanggup merancang untuk membunuh suami dan anak tirinya, hanya untuk mendapatkan harta dari syarikat milik suaminya.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190902030000 +0800" stop="20190902040000 +0800" channel="TV 2">
+    <title lang="en">Tentang Hati</title>
+    <desc lang="en">Zakuan dan Azeya kembali ke tanah air dari New Zealand sebagai suami isteri, namun merahsiakan perkahwinan mereka kerana bimbang tidak mendapat restu dari ibu Zakuan, iaitu Sharifah Hamidah.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20190902040000 +0800" stop="20190902050000 +0800" channel="TV 2">
+    <title lang="en">Kaaval</title>
+    <desc lang="en">Kisah sekumpulan pegawai polis yang diketuai oleh seorang DSP menyiasat dan menyelesaikan pelbagai kes jenayah seperti perdagangan manusia, penyeludupan kanak-kanak dan lain-lain.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20190902050000 +0800" stop="20190902060000 +0800" channel="TV 2">
+    <title lang="en">Kondominium</title>
+    <desc lang="en">Drama yang berkisar tentang kehidupan peribadi meliputi hubungan persahabatan, hubungan cinta, kerjaya dan rumahtangga beberapa orang individu yang bersahabat baik.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20190902060000 +0800" stop="20190902063000 +0800" channel="TV 2">
+    <title lang="en">Table for Two</title>
+    <desc lang="en">Sebuah rancangan masakan dihoskan chef Anis Nabilah. Hos akan melawat restoran yang berlainan dan menjemput sepasang selebriti untuk merasa makanan di restoran tersebut.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190902063000 +0800" stop="20190902070000 +0800" channel="TV 2">
+    <title lang="en">Makan Di Mana</title>
+    <desc lang="en">Kali ini Aliff Hadi mencuba hidangan Myanmar di Restoran Gantawin dan Restoran Colony.  Antara hidangan yang menarik ialah Laksa Myanmar, Puyuh Goreng, Ikan Malar, Mohinga, Mee Suan, Susu Tea Burmese.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20190902070000 +0800" stop="20190902080000 +0800" channel="TV 2">
+    <title lang="en">Gondolo Cinta Di Venice</title>
+    <desc lang="en">Mengisahkan tentang konflik kekeluargaan dimana sikap tamak seorang isteri dan anaknya sanggup merancang untuk membunuh suami dan anak tirinya, hanya untuk mendapatkan harta dari syarikat milik suaminya.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190902080000 +0800" stop="20190902090000 +0800" channel="TV 2">
+    <title lang="en">Tentang Hati</title>
+    <desc lang="en">Zakuan dan Azeya kembali ke tanah air dari New Zealand sebagai suami isteri, namun merahsiakan perkahwinan mereka kerana bimbang tidak mendapat restu dari ibu Zakuan, iaitu Sharifah Hamidah.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20190902090000 +0800" stop="20190902093000 +0800" channel="TV 2">
+    <title lang="en">Aura Femina</title>
+    <desc lang="en">Sebuah majalah yang berkisar tentang dunia wanita masa kini dengan pelbagai tips dan panduan untuk wanita.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20190902093000 +0800" stop="20190902100000 +0800" channel="TV 2">
+    <title lang="en">Khazanah Borneo</title>
+    <desc lang="en">Bersama Munarwar Azmi menjelajah ke Muzium Sabah bagi mengkaji dan menghuraikan pelbagai peninggalan sejarah di sekitar Sabah.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20190902100000 +0800" stop="20190902110000 +0800" channel="TV 2">
+    <title lang="en">Suami Jenis 'A'</title>
+    <desc lang="en">Hui merupakan seorang penyelia yang tegas di sebuah syarikat insurans dan berkawan baik dengan rakan sekerjanya Thay yang masih bujang.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190902110000 +0800" stop="20190902120000 +0800" channel="TV 2">
+    <title lang="en">19th Street</title>
+    <desc lang="en">Kisah empat sahabat yang mengharungi pelbagai pengalaman pahit manis, berhadapan dengan keadaan yang terdesak sehingga terlibat dalam jenayah serta kisah cinta yang menyulami kehidupan mereka.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190902120000 +0800" stop="20190902122000 +0800" channel="TV 2">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+  </programme>
+  <programme start="20190902122000 +0800" stop="20190902123000 +0800" channel="TV 2">
+    <title lang="en">Galeri Nasional Mandarin</title>
+    <desc lang="en">Rancangan berbentuk majalah berbahasa Mandarin yang mengupas kegiatan semasa masyarakat.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+  </programme>
+  <programme start="20190902123000 +0800" stop="20190902130000 +0800" channel="TV 2">
+    <title lang="en">Berita Inggeris</title>
+    <desc lang="en">News On 2, brings you the latest news of national interest and trending international issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+  </programme>
+  <programme start="20190902130000 +0800" stop="20190902140000 +0800" channel="TV 2">
+    <title lang="en">Khabar Dari Casablanca</title>
+    <desc lang="en">Kisah kehidupan romantis sepasang suami isteri yang bekerja di luar negara. Akibat satu insiden, suaminya tidak dapat dikesan dan ramai percaya yang dia telah meninggal dunia.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190902140000 +0800" stop="20190902150000 +0800" channel="TV 2">
+    <title lang="en">Cinta Yang Ku Rasa</title>
+    <desc lang="en">Mengisahkan tentang Laila Nabila yang menghadapi kesusahan dalam hidupnya setelah kekasihnya menghilangkan diri dan keluarganya ditimpa musibah.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20190902150000 +0800" stop="20190902153000 +0800" channel="TV 2">
+    <title lang="en">Mannipu</title>
+    <desc lang="en">Drama bersiri yang mengisahkan konflik diantara dua keluarga usahawan iaitu Ramamurthy dan Renganathan yang saling bersaing untuk membina empayar perniagaan.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20190902153000 +0800" stop="20190902160000 +0800" channel="TV 2">
+    <title lang="en">Nee Yar</title>
+    <desc lang="en">Mengisahkan tentang masalah sosial yang berlaku dalam kalangan masyarakat seperti jenayah siber, hubungan kekeluargaan dan persahabatan yang membabitkan penyiasatan pihak polis.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20190902160000 +0800" stop="20190902163000 +0800" channel="TV 2">
+    <title lang="en">Vetri Unggal Vasalil</title>
+    <desc lang="en">Rancangan majalah yang memberi inspirasi khasnya buat kaum wanita untuk lebih maju dan berjaya dalam pelbagai aspek kehidupan.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190902163000 +0800" stop="20190902170000 +0800" channel="TV 2">
+    <title lang="en">Vaai Vittu Siringga</title>
+    <desc lang="en">Rancangan majalah berkonsepkan hiburan ringan yang menampilkan lakonan artis-artis komedi tamil.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20190902170000 +0800" stop="20190902180000 +0800" channel="TV 2">
+    <title lang="en">Wu Xin the Monster Killer</title>
+    <desc lang="en">Kisah fantasi yang memaparkan seorang pemuda bernama Wu Xin mempunyai kebolehan berkomunikasi dengan roh.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20190902180000 +0800" stop="20190902190000 +0800" channel="TV 2">
+    <title lang="en">Adi Zehra</title>
+    <desc lang="en">Kisah seorang wanita Turki yang tinggal di Frankfurt, German dibesarkan dalam dalam sebuah keluarga yang memegang tradisi dan fahaman konservatif.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20190902190000 +0800" stop="20190902193000 +0800" channel="TV 2">
+    <title lang="en">Berita Inggeris</title>
+    <desc lang="en">News On 2, brings you the latest news of national interest and trending international issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+  </programme>
+  <programme start="20190902193000 +0800" stop="20190902200000 +0800" channel="TV 2">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+  </programme>
+  <programme start="20190902200000 +0800" stop="20190902203000 +0800" channel="TV 2">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+  </programme>
+  <programme start="20190902203000 +0800" stop="20190902213000 +0800" channel="TV 2">
+    <title lang="en">Ripin Mugha Batu</title>
+    <desc lang="en">Rancangan menarik untuk tontonan semua di TV2.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190827000000 +0800" stop="20190827003000 +0800" channel="TV 3">
     <title lang="en">(L) Nightline</title>
     <desc lang="en">News in English including business, financial and sports.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826003000 +0800" stop="20190826023000 +0800" channel="TV 3">
-    <title lang="en">Nasi Air</title>
-    <desc lang="en">Pak Rahman telah meninggalkan 2 orang anaknya yang masih kecil, Adawiyah dan Jidin tanpa khabar berita selama 23 tahun setelah dikhianati oleh birasnya, Zakaria.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826023000 +0800" stop="20190826030000 +0800" channel="TV 3">
-    <title lang="en">Kariah Cak Pong</title>
-    <desc lang="en">Kisah Pak Non, Pak Nan dan Pak Nin yang merupakan barisan ahli jawatan kuasa masjid. Segala berita panas yang tular di kampung mereka, dilakukan melalui media sosial oleh penduduk kampung.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826030000 +0800" stop="20190826043000 +0800" channel="TV 3">
-    <title lang="en">Tanyalah Ustaz</title>
-    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Religious</category>
-  </programme>
-  <programme start="20190826043000 +0800" stop="20190826053000 +0800" channel="TV 3">
-    <title lang="en">Tuan Danial</title>
-    <desc lang="en">Cinta yang cuba diatur oleh keluarga Tengku Ismahanim dengan jejaka yang tidak dikenali bernama Danial, telah mendorongnya menyamar sebagai pembantu rumah.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826053000 +0800" stop="20190826060000 +0800" channel="TV 3">
-    <title lang="en">CJ Wow Shop</title>
-    <desc lang="en">CJ Wow Shop gives you access to the best home products retail has to offer, each designed to simplify your life and help you be a more efficient homemaker.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826060000 +0800" stop="20190826080000 +0800" channel="TV 3">
-    <title lang="en">Tanyalah Ustaz</title>
-    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826080000 +0800" stop="20190826093000 +0800" channel="TV 3">
-    <title lang="en">(L) Malaysia Hari Ini</title>
-    <desc lang="en">Dapatkan bahan-bahan berita terbaru di dalam negara dan juga antarabangsa termasuklah beberapa segmen menarik bersama penyampai MHI.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Discussion / Interview / Debate</category>
-  </programme>
-  <programme start="20190826093000 +0800" stop="20190826100000 +0800" channel="TV 3">
-    <title lang="en">(L) Buletin Pagi</title>
-    <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826100000 +0800" stop="20190826103000 +0800" channel="TV 3">
-    <title lang="en">Dora, the Explorer</title>
-    <desc lang="en">Siri animasi menarik untuk tontonan anda semua.</desc>
-    <category lang="en">Kids</category>
-    <category lang="en">General</category>
-  </programme>
-  <programme start="20190826103000 +0800" stop="20190826110000 +0800" channel="TV 3">
-    <title lang="en">Rabbids Invasion S2</title>
-    <desc lang="en">Siri animasi menarik untuk tontonan anda semua.</desc>
-    <category lang="en">Kids</category>
-    <category lang="en">General</category>
-  </programme>
-  <programme start="20190826110000 +0800" stop="20190826113000 +0800" channel="TV 3">
-    <title lang="en">Menantu Ting Tong</title>
-    <desc lang="en">Mengisahkan tentang kekecohan dan konflik yang berlaku antara dua buah keluarga iaitu keluarga Tuan Mazlan dan Puan Rozie serta keluarga Encik Ismail dan Puan Latifah.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826113000 +0800" stop="20190826120000 +0800" channel="TV 3">
-    <title lang="en">5 Rencah 5 Rasa 2019</title>
-    <desc lang="en">Rancangan masakan yang memberikan idea dalam menyediakan 5 jenis masakan serta tip-tip mudah yang boleh dilakukan oleh penonton di rumah.</desc>
-    <category lang="en">Lifestyle, Leisure, Hobbies</category>
-    <category lang="en">Food</category>
-  </programme>
-  <programme start="20190826120000 +0800" stop="20190826130000 +0800" channel="TV 3">
-    <title lang="en">(L) Wanita Hari Ini</title>
-    <desc lang="en">Program bual bicara memfokuskan isu kewanitaan, kanak-kanak dan keluarga keseluruhannya dengan menyediakan pelbagai topik menarik.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Talk Show</category>
-  </programme>
-  <programme start="20190826130000 +0800" stop="20190826133000 +0800" channel="TV 3">
-    <title lang="en">CJ Wow Shop</title>
-    <desc lang="en">CJ Wow Shop gives you access to the best home products retail has to offer, each designed to simplify your life and help you be a more efficient homemaker.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826133000 +0800" stop="20190826140000 +0800" channel="TV 3">
-    <title lang="en">(L) Buletin 130</title>
-    <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826140000 +0800" stop="20190826150000 +0800" channel="TV 3">
-    <title lang="en">Janji Jaslina</title>
-    <desc lang="en">Apakah nasibnya akan berubah dan Jaslina dapat menemui kebahagiaan selepas apa yang telah berlaku dalam hidupnya?</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826150000 +0800" stop="20190826160000 +0800" channel="TV 3">
-    <title lang="en">Legally Blind</title>
-    <desc lang="en">Grace, who has pursued law to acquit her jailed father, finds herself fighting her own battle after she is raped and left for dead. Can she balance the scales?</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826160000 +0800" stop="20190826170000 +0800" channel="TV 3">
-    <title lang="en">Destiny Ties</title>
-    <desc lang="en">This drama depicts how the bonds that connect three siblings, Ayaz, Ferhat and Cicek, are tested by conspiracy, money, passion and revenge.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826170000 +0800" stop="20190826173000 +0800" channel="TV 3">
-    <title lang="en">Rimba Racer S2</title>
-    <desc lang="en">On the way to RGP Island, the racers recall all the events leading up to the upcoming grand finale.</desc>
-    <category lang="en">Kids</category>
-    <category lang="en">General</category>
-  </programme>
-  <programme start="20190826173000 +0800" stop="20190826180000 +0800" channel="TV 3">
-    <title lang="en">Mahligai Cinta 2019</title>
-    <desc lang="en">Berkongsi idea,tip-tip persiapan dan kelengkapan majlis resepsi perkahwinan yang anda idamkan.</desc>
-    <category lang="en">Lifestyle, Leisure, Hobbies</category>
-    <category lang="en">Fashion</category>
-  </programme>
-  <programme start="20190826180000 +0800" stop="20190826183000 +0800" channel="TV 3">
-    <title lang="en">Anak Malaysia Masak Bersama Pensonic</title>
-    <desc lang="en">Join Chef Ismail and Malaysian celebrities as they travel across the country, celebrating its best-loved food, culture and destinations.</desc>
-    <category lang="en">Lifestyle, Leisure, Hobbies</category>
-    <category lang="en">Food</category>
-  </programme>
-  <programme start="20190826183000 +0800" stop="20190826190000 +0800" channel="TV 3">
-    <title lang="en">Tuan Rumah Pembantu Rumah</title>
-    <desc lang="en">Majlis perkahwinan Emir dan Areen akan bermula tidak lama lagi. Tiba-tiba, Lut melulu masuk ke rumah mencari kelibat Areen.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826190000 +0800" stop="20190826200000 +0800" channel="TV 3">
-    <title lang="en">Kau Yang Pertama</title>
-    <desc lang="en">Hubungan Farhan dan Natasya sebagai suami isteri semakin mesra. Namun, Puan Sally pula nampak kurang senang apabila dia rasa Farhan semakin menjauhinya dan melebihkan Natasya dan emaknya.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826200000 +0800" stop="20190826210000 +0800" channel="TV 3">
-    <title lang="en">(L) Buletin Utama</title>
-    <desc lang="en">Berita tempatan dan antarabangsa yang terkini.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826210000 +0800" stop="20190826220000 +0800" channel="TV 3">
-    <title lang="en">Majalah 3</title>
-    <desc lang="en">Majalah dokumentari yang memaparkan pelbagai informasi dan segmen menarik yang pastinya memberi fakta serta penjelasan yang mudah difahami.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20190826220000 +0800" stop="20190826230000 +0800" channel="TV 3">
-    <title lang="en">Hilang Yang Kembali</title>
-    <desc lang="en">Razif mempertikaikan kewujudan Danial kepada Fara. Fara kata mungkin kehadiran Danial adalah salah satu sebab untuk mereka memperbaiki hubungan, tapi Razik pula tidak menunjukkan kesungguhannya.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826230000 +0800" stop="20190827000000 +0800" channel="TV 3">
-    <title lang="en">Muzik-Muzik 34</title>
-    <desc lang="en">Satu program 'infotainment' tentang muzik terkini, carta, isu-isu semasa dan klip video dari tempatan dan juga di luar negara.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Music</category>
   </programme>
   <programme start="20190827003000 +0800" stop="20190827013000 +0800" channel="TV 3">
     <title lang="en">Utusan Cinta Buat Adam</title>
@@ -3636,100 +3336,41 @@
     <category lang="en">TV Show</category>
     <category lang="en">Talk Show</category>
   </programme>
-  <programme start="20190826000000 +0800" stop="20190826010000 +0800" channel="NTV7">
+  <programme start="20190901233000 +0800" stop="20190902000000 +0800" channel="TV 3">
+    <title lang="en">Go Explore</title>
+    <desc lang="en">At the National Wildlife Rescue Centre, Hannah learns the significance of the Malayan Tiger in local culture. Let us help it conquer its worst foe  extinction.</desc>
+    <category lang="en">Lifestyle, Leisure, Hobbies</category>
+    <category lang="en">Travel</category>
+  </programme>
+  <programme start="20190902003000 +0800" stop="20190902023000 +0800" channel="TV 3">
+    <title lang="en">Runtuhnya Sebuah Dosa</title>
+    <desc lang="en">Tragedi tanah runtuh telah menjadi titik baru di dalam kehidupan dua keluarga yang menjalani kehidupan yang berbeza. Shahdan mengahwini Manisa dan mempunyai dua anak iaitu Emelda dan Daniel.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190902023000 +0800" stop="20190902030000 +0800" channel="TV 3">
+    <title lang="en">Kariah Cak Pong</title>
+    <desc lang="en">Kisah Pak Non, Pak Nan dan Pak Nin yang merupakan barisan ahli jawatan kuasa masjid. Segala berita panas yang tular di kampung mereka, dilakukan melalui media sosial oleh penduduk kampung.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190902030000 +0800" stop="20190902043000 +0800" channel="TV 3">
+    <title lang="en">Tanyalah Ustaz</title>
+    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Religious</category>
+  </programme>
+  <programme start="20190902043000 +0800" stop="20190902053000 +0800" channel="TV 3">
+    <title lang="en">Tuan Danial</title>
+    <desc lang="en">Cinta yang cuba diatur oleh keluarga Tengku Ismahanim dengan jejaka yang tidak dikenali bernama Danial, telah mendorongnya menyamar sebagai pembantu rumah.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190827000000 +0800" stop="20190827010000 +0800" channel="NTV7">
     <title lang="en">CJ Wow Shop</title>
     <desc lang="en">CJ Wow Shop gives you access to the best home products retail has to offer, each designed to simplify your life and help you be a more efficient homemaker.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826010000 +0800" stop="20190826020000 +0800" channel="NTV7">
-    <title lang="en">Pretty Li Huizhen</title>
-    <desc lang="en">Li Hui Zhen, a woman whose hardships have taken their toll on her beauty, sends her stylish roommate in her place when her childhood male friend seeks to reconnect.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826020000 +0800" stop="20190826060000 +0800" channel="NTV7">
-    <title lang="en">Transmission Ends</title>
-    <desc lang="en">NTV7 will resume in a few hours with your favourite programs. Have a pleasant day and thank you for watching.</desc>
-    <category lang="en">Special Characteristics</category>
-  </programme>
-  <programme start="20190826060000 +0800" stop="20190826070000 +0800" channel="NTV7">
-    <title lang="en">Living Delight</title>
-    <desc lang="en">This lively daily Chinese magazine talk show comprises topics pertaining to the Chinese community and focuses on issues close to the family.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Talk Show</category>
-  </programme>
-  <programme start="20190826070000 +0800" stop="20190826090000 +0800" channel="NTV7">
-    <title lang="en">Dragon Dance</title>
-    <desc lang="en">Taiwan's very first drama to be set against the Qing Dynasty Taipei circa 1868 -1888, this tale captures the Sino-French War and Mudan Incident.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826090000 +0800" stop="20190826120000 +0800" channel="NTV7">
-    <title lang="en">CJ Wow Shop</title>
-    <desc lang="en">CJ Wow Shop gives you access to the best home products retail has to offer, each designed to simplify your life and help you be a more efficient homemaker.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826120000 +0800" stop="20190826130000 +0800" channel="NTV7">
-    <title lang="en">Royal Romance</title>
-    <desc lang="en">This epic romance captures the love of a Qing Dynasty emperor and his imperial consort, Dong Xiao Wan, a beautiful singer from Jiangnan who captures his heart.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826130000 +0800" stop="20190826170000 +0800" channel="NTV7">
-    <title lang="en">CJ Wow Shop</title>
-    <desc lang="en">CJ Wow Shop gives you access to the best home products retail has to offer, each designed to simplify your life and help you be a more efficient homemaker.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826170000 +0800" stop="20190826180000 +0800" channel="NTV7">
-    <title lang="en">Mandarin 7</title>
-    <desc lang="en">This bulletin delivers the latest news updates on the local and foreign front.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826180000 +0800" stop="20190826190000 +0800" channel="NTV7">
-    <title lang="en">Revolutionary Love</title>
-    <desc lang="en">Byun Huk, who is wealthy, chooses to live beneath his means, but finds someone to care about in spirited Baek Joon, who is struggling to make ends meet.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826190000 +0800" stop="20190826193000 +0800" channel="NTV7">
-    <title lang="en">Finding Angels</title>
-    <desc lang="en">This show harnesses the power of children and the public to fulfill dreams, offering many helping hands to the disadvantaged minority.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826193000 +0800" stop="20190826200000 +0800" channel="NTV7">
-    <title lang="en">Edisi 7</title>
-    <desc lang="en">This half hour daily news programme delivers the latest news updates on the local and foreign front.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826200000 +0800" stop="20190826203000 +0800" channel="NTV7">
-    <title lang="en">7 Edition</title>
-    <desc lang="en">This half hour daily news programme delivers the latest news updates on the local and foreign front.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826203000 +0800" stop="20190826210000 +0800" channel="NTV7">
-    <title lang="en">Blogger Boy</title>
-    <desc lang="en">This dramedy series depicts the ups and downs of Mr. Average Budy, a 20 -something numbers-cruncher working in the city.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826210000 +0800" stop="20190826230000 +0800" channel="NTV7">
-    <title lang="en">CJ Wow Shop</title>
-    <desc lang="en">CJ Wow Shop gives you access to the best home products retail has to offer, each designed to simplify your life and help you be a more efficient homemaker.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826230000 +0800" stop="20190827000000 +0800" channel="NTV7">
-    <title lang="en">Super Mischievous Mil</title>
-    <desc lang="en">A cold architect finds life taking on a new slant after he is saved by the spirit of Mei Leng. Together, they begin helping other spirits resolve their pasts.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
   </programme>
   <programme start="20190827010000 +0800" stop="20190827020000 +0800" channel="NTV7">
     <title lang="en">Fighter of the Destiny</title>
@@ -4247,124 +3888,100 @@
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
   </programme>
-  <programme start="20190826003000 +0800" stop="20190826013000 +0800" channel="8TV">
-    <title lang="en">Food of Life</title>
-    <desc lang="en">The greatest celebrations of our lives are captured here from the perspectives of cuisine and culture.</desc>
+  <programme start="20190901230000 +0800" stop="20190902000000 +0800" channel="NTV7">
+    <title lang="en">First Love</title>
+    <desc lang="en">When a woman returns for her daughter after eight years, a rivalry is ignited between the two men who care about her and have helped her raise the child.</desc>
     <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
+    <category lang="en">Drama</category>
   </programme>
-  <programme start="20190826013000 +0800" stop="20190826060000 +0800" channel="8TV">
+  <programme start="20190902010000 +0800" stop="20190902020000 +0800" channel="NTV7">
+    <title lang="en">Pretty Li Huizhen</title>
+    <desc lang="en">Li Hui Zhen, a woman whose hardships have taken their toll on her beauty, sends her stylish roommate in her place when her childhood male friend seeks to reconnect.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190902020000 +0800" stop="20190902060000 +0800" channel="NTV7">
     <title lang="en">Transmission Ends</title>
-    <desc lang="en">8TV will resume in a few hours with your favourite programs. Have a pleasant day and thank you for watching.</desc>
+    <desc lang="en">NTV7 will resume in a few hours with your favourite programs. Have a pleasant day and thank you for watching.</desc>
     <category lang="en">Special Characteristics</category>
   </programme>
-  <programme start="20190826060000 +0800" stop="20190826093000 +0800" channel="8TV">
-    <title lang="en">CJ Wow Shop</title>
-    <desc lang="en">CJ Wow Shop gives you access to the best home products retail has to offer, each designed to simplify your life and help you be a more efficient homemaker.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826093000 +0800" stop="20190826103000 +0800" channel="8TV">
-    <title lang="en">Hottest and Craziest</title>
-    <desc lang="en">Hosted by Jacky Wu, OD and friends, this variety show links Taiwan and China, featuring the most wanted people and the hottest topics.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826103000 +0800" stop="20190826113000 +0800" channel="8TV">
-    <title lang="en">Ma Zu &amp; Guan Yin</title>
-    <desc lang="en">Hear the stories of Mazu, indigenous goddess of the sea who is said to protect fishermen and sailors  and Guan Yin, goddess of peace and compassion.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826113000 +0800" stop="20190826123000 +0800" channel="8TV">
-    <title lang="en">A General, a Scholar &amp; a Eunuch</title>
-    <desc lang="en">Three Ming Dynasty officials, who somehow find themselves in modern  day Foshan, wind up exploited by a restaurant owner in search of a chef and kitchen staff.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826123000 +0800" stop="20190826130000 +0800" channel="8TV">
-    <title lang="en">Mid Day Mandarin News</title>
-    <desc lang="en">This Mandarin news programme delivers stories that have a direct impact on Chinese interest, focusing on issues that concern them.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826130000 +0800" stop="20190826140000 +0800" channel="8TV">
-    <title lang="en">Once Upon a Time in Beitou</title>
-    <desc lang="en">Set in the 70s, this Taiwanese Hokkien drama captures how a man meets the love of his life at the Hot Springs village, while travelling from his hometown to Beitou.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826140000 +0800" stop="20190826150000 +0800" channel="8TV">
+  <programme start="20190902060000 +0800" stop="20190902070000 +0800" channel="NTV7">
     <title lang="en">Living Delight</title>
     <desc lang="en">This lively daily Chinese magazine talk show comprises topics pertaining to the Chinese community and focuses on issues close to the family.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Talk Show</category>
   </programme>
-  <programme start="20190826150000 +0800" stop="20190826153000 +0800" channel="8TV">
-    <title lang="en">8 E-News</title>
-    <desc lang="en">8 E-news brings you the local and international entertainment news, from what's new and what's hot.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Entertainment News</category>
-  </programme>
-  <programme start="20190826153000 +0800" stop="20190826163000 +0800" channel="8TV">
-    <title lang="en">100% Wife</title>
-    <desc lang="en">Amidst changing times, this drama charts the lives of the Jin Family, and the age and cultural divide that separates them all.</desc>
+  <programme start="20190902070000 +0800" stop="20190902090000 +0800" channel="NTV7">
+    <title lang="en">Dragon Dance</title>
+    <desc lang="en">Taiwan's very first drama to be set against the Qing Dynasty Taipei circa 1868 -1888, this tale captures the Sino-French War and Mudan Incident.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20190826163000 +0800" stop="20190826173000 +0800" channel="8TV">
-    <title lang="en">The Guest People</title>
-    <desc lang="en">Spanning the 1930s - 50s, this drama traces the early years of four young Hakka men who make Nanyang their home and become involved in the anti-colonial uprising.</desc>
+  <programme start="20190902090000 +0800" stop="20190902120000 +0800" channel="NTV7">
+    <title lang="en">CJ Wow Shop</title>
+    <desc lang="en">CJ Wow Shop gives you access to the best home products retail has to offer, each designed to simplify your life and help you be a more efficient homemaker.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20190902120000 +0800" stop="20190902130000 +0800" channel="NTV7">
+    <title lang="en">Royal Romance</title>
+    <desc lang="en">This epic romance captures the love of a Qing Dynasty emperor and his imperial consort, Dong Xiao Wan, a beautiful singer from Jiangnan who captures his heart.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20190826173000 +0800" stop="20190826180000 +0800" channel="8TV">
-    <title lang="en">Ho Chak!</title>
-    <desc lang="en">This food magazine show will feature Chinese hawker food and other local dishes too!</desc>
-    <category lang="en">Lifestyle, Leisure, Hobbies</category>
-    <category lang="en">Food</category>
-  </programme>
-  <programme start="20190826180000 +0800" stop="20190826190000 +0800" channel="8TV">
-    <title lang="en">Pushing Hands</title>
-    <desc lang="en">Having migrated from Beijing to the USA, an elderly taichi master struggles to fit in  until a shift happens when he begins teaching at a local school.</desc>
+  <programme start="20190902130000 +0800" stop="20190902170000 +0800" channel="NTV7">
+    <title lang="en">CJ Wow Shop</title>
+    <desc lang="en">CJ Wow Shop gives you access to the best home products retail has to offer, each designed to simplify your life and help you be a more efficient homemaker.</desc>
     <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
+    <category lang="en">TV Shows (General)</category>
   </programme>
-  <programme start="20190826190000 +0800" stop="20190826200000 +0800" channel="8TV">
-    <title lang="en">The Unholy Alliance</title>
-    <desc lang="en">A surfer running a BandB in Taiwan returns to Hong Kong to investigate, when his foster mother is killed in what may be a crime-syndicate related event.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826200000 +0800" stop="20190826203500 +0800" channel="8TV">
-    <title lang="en">Mandarin News</title>
-    <desc lang="en">This Mandarin news programme delivers stories that have a direct impact on Chinese interest, focusing on issues that concern them.</desc>
+  <programme start="20190902170000 +0800" stop="20190902180000 +0800" channel="NTV7">
+    <title lang="en">Mandarin 7</title>
+    <desc lang="en">This bulletin delivers the latest news updates on the local and foreign front.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
   </programme>
-  <programme start="20190826203500 +0800" stop="20190826213000 +0800" channel="8TV">
-    <title lang="en">The Destiny of White Snake</title>
-    <desc lang="en">Inspired by a folk legend, this star-crossed romance captures the love between a white snake roaming the mortal realm and a master of the medicinal valley.</desc>
+  <programme start="20190902180000 +0800" stop="20190902190000 +0800" channel="NTV7">
+    <title lang="en">Fight for My Way</title>
+    <desc lang="en">Despite an increasingly hostile world, a pair of lovers and fighters decide not to give up, challenging the odds that litter the road to happiness.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20190826213000 +0800" stop="20190826223000 +0800" channel="8TV">
-    <title lang="en">Turning Point II</title>
-    <desc lang="en">Laughing applies his undercover agent skills once more to investigate Tai Chit, a fellow inmate and corrupt cop who has turned himself in for money laundering.</desc>
+  <programme start="20190902190000 +0800" stop="20190902193000 +0800" channel="NTV7">
+    <title lang="en">Finding Angels</title>
+    <desc lang="en">This show harnesses the power of children and the public to fulfill dreams, offering many helping hands to the disadvantaged minority.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20190902193000 +0800" stop="20190902200000 +0800" channel="NTV7">
+    <title lang="en">Edisi 7</title>
+    <desc lang="en">This half hour daily news programme delivers the latest news updates on the local and foreign front.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20190902200000 +0800" stop="20190902203000 +0800" channel="NTV7">
+    <title lang="en">7 Edition</title>
+    <desc lang="en">This half hour daily news programme delivers the latest news updates on the local and foreign front.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20190902203000 +0800" stop="20190902210000 +0800" channel="NTV7">
+    <title lang="en">Blogger Boy</title>
+    <desc lang="en">This dramedy series depicts the ups and downs of Mr. Average Budy, a 20 -something numbers-cruncher working in the city.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20190826223000 +0800" stop="20190826233000 +0800" channel="8TV">
-    <title lang="en">What's Wrong With Secretary Kim</title>
-    <desc lang="en">The series revolves around the narcissistic company vice president and his longtime secretary who plans to resign. Abruptly, he begins seeing her in a new light.</desc>
+  <programme start="20190902210000 +0800" stop="20190902230000 +0800" channel="NTV7">
+    <title lang="en">CJ Wow Shop</title>
+    <desc lang="en">CJ Wow Shop gives you access to the best home products retail has to offer, each designed to simplify your life and help you be a more efficient homemaker.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20190827000000 +0800" stop="20190827010000 +0800" channel="8TV">
+    <title lang="en">The Great Adventurer Wesley</title>
+    <desc lang="en">An international detective uses technologically-advanced gadgets to guard against aliens and protect humanity.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826233000 +0800" stop="20190827000000 +0800" channel="8TV">
-    <title lang="en">Global Watch</title>
-    <desc lang="en">Hosted by Jc Cheah, Yong Yu Xi, Chee Kah Teik and Liew Li Li, this talkshow looks at the hottest current issues and trends moving the world.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Talk Show</category>
   </programme>
   <programme start="20190827010000 +0800" stop="20190827021500 +0800" channel="8TV">
     <title lang="en">Suits</title>
@@ -5038,107 +4655,124 @@
     <category lang="en">Movie</category>
     <category lang="en">Classic</category>
   </programme>
-  <programme start="20190826000000 +0800" stop="20190826010000 +0800" channel="TV 9">
+  <programme start="20190901233500 +0800" stop="20190902010000 +0800" channel="8TV">
+    <title lang="en">Twenty-Four Hours</title>
+    <desc lang="en">This outdoor reality show follows the adventures of six men 600 years from the past. They play games and complete missions to learn history and culture.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20190902020000 +0800" stop="20190902060000 +0800" channel="8TV">
+    <title lang="en">Transmission Ends</title>
+    <desc lang="en">8TV will resume in a few hours with your favourite programs. Have a pleasant day and thank you for watching.</desc>
+    <category lang="en">Special Characteristics</category>
+  </programme>
+  <programme start="20190902060000 +0800" stop="20190902093000 +0800" channel="8TV">
+    <title lang="en">CJ Wow Shop</title>
+    <desc lang="en">CJ Wow Shop gives you access to the best home products retail has to offer, each designed to simplify your life and help you be a more efficient homemaker.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20190902093000 +0800" stop="20190902103000 +0800" channel="8TV">
+    <title lang="en">Hottest and Craziest</title>
+    <desc lang="en">Hosted by Jacky Wu, OD and friends, this variety show links Taiwan and China, featuring the most wanted people and the hottest topics.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20190902103000 +0800" stop="20190902113000 +0800" channel="8TV">
+    <title lang="en">Ma Zu &amp; Guan Yin</title>
+    <desc lang="en">Hear the stories of Mazu, indigenous goddess of the sea who is said to protect fishermen and sailors  and Guan Yin, goddess of peace and compassion.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190902113000 +0800" stop="20190902123000 +0800" channel="8TV">
+    <title lang="en">A General, a Scholar &amp; a Eunuch</title>
+    <desc lang="en">Three Ming Dynasty officials, who somehow find themselves in modern  day Foshan, wind up exploited by a restaurant owner in search of a chef and kitchen staff.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190902123000 +0800" stop="20190902130000 +0800" channel="8TV">
+    <title lang="en">Mid Day Mandarin News</title>
+    <desc lang="en">This Mandarin news programme delivers stories that have a direct impact on Chinese interest, focusing on issues that concern them.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20190902130000 +0800" stop="20190902140000 +0800" channel="8TV">
+    <title lang="en">Father's Wish</title>
+    <desc lang="en">This drama portrays a righteous father, who lets hope, happiness and goodness guide him as he raises his family amidst hard circumstances and a changing society.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190902140000 +0800" stop="20190902150000 +0800" channel="8TV">
+    <title lang="en">Living Delight</title>
+    <desc lang="en">This lively daily Chinese magazine talk show comprises topics pertaining to the Chinese community and focuses on issues close to the family.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20190902150000 +0800" stop="20190902153000 +0800" channel="8TV">
+    <title lang="en">8 E-News</title>
+    <desc lang="en">8 E-news brings you the local and international entertainment news, from what's new and what's hot.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Entertainment News</category>
+  </programme>
+  <programme start="20190902153000 +0800" stop="20190902163000 +0800" channel="8TV">
+    <title lang="en">100% Wife</title>
+    <desc lang="en">Amidst changing times, this drama charts the lives of the Jin Family, and the age and cultural divide that separates them all.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190902163000 +0800" stop="20190902173000 +0800" channel="8TV">
+    <title lang="en">The Guest People</title>
+    <desc lang="en">Spanning the 1930s - 50s, this drama traces the early years of four young Hakka men who make Nanyang their home and become involved in the anti-colonial uprising.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190902173000 +0800" stop="20190902180000 +0800" channel="8TV">
+    <title lang="en">Ho Chak!</title>
+    <desc lang="en">This food magazine show will feature Chinese hawker food and other local dishes too!</desc>
+    <category lang="en">Lifestyle, Leisure, Hobbies</category>
+    <category lang="en">Food</category>
+  </programme>
+  <programme start="20190902180000 +0800" stop="20190902190000 +0800" channel="8TV">
+    <title lang="en">Pushing Hands</title>
+    <desc lang="en">Having migrated from Beijing to the USA, an elderly taichi master struggles to fit in  until a shift happens when he begins teaching at a local school.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190902190000 +0800" stop="20190902200000 +0800" channel="8TV">
+    <title lang="en">The Unholy Alliance</title>
+    <desc lang="en">A surfer running a BandB in Taiwan returns to Hong Kong to investigate, when his foster mother is killed in what may be a crime-syndicate related event.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190902200000 +0800" stop="20190902203500 +0800" channel="8TV">
+    <title lang="en">Mandarin News</title>
+    <desc lang="en">This Mandarin news programme delivers stories that have a direct impact on Chinese interest, focusing on issues that concern them.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20190902203500 +0800" stop="20190902213000 +0800" channel="8TV">
+    <title lang="en">The Destiny of White Snake</title>
+    <desc lang="en">Inspired by a folk legend, this star-crossed romance captures the love between a white snake roaming the mortal realm and a master of the medicinal valley.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190902213000 +0800" stop="20190902223000 +0800" channel="8TV">
+    <title lang="en">Turning Point II</title>
+    <desc lang="en">Michael Tse plays the \"Laughing Gor\", a convict who infiltrates the police force by joining the academy.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190902223000 +0800" stop="20190902233000 +0800" channel="8TV">
+    <title lang="en">What's Wrong With Secretary Kim</title>
+    <desc lang="en">The series revolves around the narcissistic company vice president and his longtime secretary who plans to resign. Abruptly, he begins seeing her in a new light.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20190827000000 +0800" stop="20190827010000 +0800" channel="TV 9">
     <title lang="en">Tanyalah Ustazah</title>
     <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
     <category lang="en">Factual &amp; Documentary</category>
     <category lang="en">Religious</category>
-  </programme>
-  <programme start="20190826010000 +0800" stop="20190826030000 +0800" channel="TV 9">
-    <title lang="en">(L) Solat Dari Mekah</title>
-    <desc lang="en">Solat dari Masjidil Haram, Mekah.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Religious</category>
-  </programme>
-  <programme start="20190826030000 +0800" stop="20190826033000 +0800" channel="TV 9">
-    <title lang="en">Obsesi</title>
-    <desc lang="en">Berjayakah Paul membuktikan Tengku Azzuddin sebagai pembunuh? Siapakah pembunuh sebenar Shirly dan dapatkah Tengku Azzuddin menerima Suriati dalam hidupnya?</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826033000 +0800" stop="20190826043000 +0800" channel="TV 9">
-    <title lang="en">Majalah 3</title>
-    <desc lang="en">Majalah dokumentari yang memaparkan pelbagai informasi dan segmen menarik yang pastinya memberi fakta serta penjelasan yang mudah difahami.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20190826043000 +0800" stop="20190826053000 +0800" channel="TV 9">
-    <title lang="en">Bunga-Bunga Syurga</title>
-    <desc lang="en">Kisah perjuangan seorang pemuda dalam memberi pendidikan agama dan menyelamatkan kehidupan tiga anak yatim piatu yang dipelihara oleh ibu saudaranya yang kejam.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826053000 +0800" stop="20190826060000 +0800" channel="TV 9">
-    <title lang="en">Jejak Rasul</title>
-    <desc lang="en">Program dokumentari berbentuk ilmiah yang menjejaki peninggalan para rasul dengan paparan peristiwa yang berlaku dalam kehidupan 25 Rasul.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20190826060000 +0800" stop="20190826070000 +0800" channel="TV 9">
-    <title lang="en">Majalah 3</title>
-    <desc lang="en">Majalah dokumentari yang memaparkan pelbagai informasi dan segmen menarik yang pastinya memberi fakta serta penjelasan yang mudah difahami.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20190826070000 +0800" stop="20190826080000 +0800" channel="TV 9">
-    <title lang="en">Wanita Hari Ini</title>
-    <desc lang="en">Program bual bicara memfokuskan isu kewanitaan, kanak-kanak dan keluarga keseluruhannya dengan menyediakan pelbagai topik menarik.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Talk Show</category>
-  </programme>
-  <programme start="20190826080000 +0800" stop="20190826130000 +0800" channel="TV 9">
-    <title lang="en">CJ Wow Shop</title>
-    <desc lang="en">Anda boleh membeli-belah dengan mudah dan mengikut keselesaan sendiri. Demonstrasi yang komprehensif, berciri visual and interaktif. Bersama Maria Tunku Sabri and ramai lagi.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Religious</category>
-  </programme>
-  <programme start="20190826130000 +0800" stop="20190826133000 +0800" channel="TV 9">
-    <title lang="en">Berita Tengahari</title>
-    <desc lang="en">Laporan terkini berita tempatan dan antarabangsa termasuk berita ekonomi dan sukan.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826133000 +0800" stop="20190826150000 +0800" channel="TV 9">
-    <title lang="en">Tanyalah Ustaz</title>
-    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Religious</category>
-  </programme>
-  <programme start="20190826150000 +0800" stop="20190826190000 +0800" channel="TV 9">
-    <title lang="en">CJ Wow Shop</title>
-    <desc lang="en">Anda boleh membeli-belah dengan mudah dan mengikut keselesaan sendiri. Demonstrasi yang komprehensif, berciri visual and interaktif. Bersama Maria Tunku Sabri and ramai lagi.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20190826190000 +0800" stop="20190826200000 +0800" channel="TV 9">
-    <title lang="en">A Woman Scorned</title>
-    <desc lang="en">Mengisahkan tentang Rome dan Emma, sepasang suami isteri yang mempunyai anak lelaki, Austin. Emma seorang suri rumah dan isteri yang bertanggungjawab tetapi tidak pandai bergaya.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826200000 +0800" stop="20190826203000 +0800" channel="TV 9">
-    <title lang="en">Berita TV9</title>
-    <desc lang="en">Laporan terkini berita tempatan dan antarabangsa termasuk berita ekonomi dan sukan.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826203000 +0800" stop="20190826223000 +0800" channel="TV 9">
-    <title lang="en">Ada Sejadah Panjang Terbentang</title>
-    <desc lang="en">Rosyam membilang hari untuk menjadi raja sehari. Dia tidak menyangka pinangannya di terima oleh keluarga Siti Aisyah. Kecantikan wajahnya ditambah lagi dengan kemerduan suaranya.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20190826223000 +0800" stop="20190826230000 +0800" channel="TV 9">
-    <title lang="en">Bersamamu</title>
-    <desc lang="en">Dengan misi untuk meringankan beban dan membantu demi kehidupan yang lebih baik, Bersamamu cuba menjejaki golongan masyarakat yang kurang bernasib baik dan menghulurkan bantuan dengan segera.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20190826230000 +0800" stop="20190827000000 +0800" channel="TV 9">
-    <title lang="en">CJ Wow Shop</title>
-    <desc lang="en">Anda boleh membeli-belah dengan mudah dan mengikut keselesaan sendiri. Demonstrasi yang komprehensif, berciri visual and interaktif. Bersama Maria Tunku Sabri and ramai lagi.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
   </programme>
   <programme start="20190827010000 +0800" stop="20190827030000 +0800" channel="TV 9">
     <title lang="en">(L) Solat Dari Mekah</title>
@@ -5746,284 +5380,41 @@
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20190826003000 +0800" stop="20190826010000 +0800" channel="OKEY">
-    <title lang="en">From France to Italy</title>
-    <desc lang="en">Ikuti Pengembaraan Sharifah Amani ke Perancis dan Itali sambil meneroka tempat menarik di sana.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.6.</episode-num>
+  <programme start="20190901230000 +0800" stop="20190902000000 +0800" channel="TV 9">
+    <title lang="en">CJ Wow Shop</title>
+    <desc lang="en">Anda boleh membeli-belah dengan mudah dan mengikut keselesaan sendiri. Demonstrasi yang komprehensif, berciri visual and interaktif. Bersama Maria Tunku Sabri and ramai lagi.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Religious</category>
   </programme>
-  <programme start="20190826010000 +0800" stop="20190826013000 +0800" channel="OKEY">
-    <title lang="en">Mogindalan</title>
-    <desc lang="en">Memaparkan kehidupan dan aktiviti masyarakat beberapa etnik di Sabah.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.3.</episode-num>
+  <programme start="20190902010000 +0800" stop="20190902030000 +0800" channel="TV 9">
+    <title lang="en">(L) Solat Dari Mekah</title>
+    <desc lang="en">Solat dari Masjidil Haram, Mekah.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Religious</category>
   </programme>
-  <programme start="20190826013000 +0800" stop="20190826020000 +0800" channel="OKEY">
-    <title lang="en">YES</title>
-    <desc lang="en">Memaparkan usahawan-usahawan yang berjaya dengan kerjaya dan perniagaan masing-masing.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.8.</episode-num>
+  <programme start="20190902030000 +0800" stop="20190902033000 +0800" channel="TV 9">
+    <title lang="en">Obsesi</title>
+    <desc lang="en">Berjayakah Paul membuktikan Tengku Azzuddin sebagai pembunuh? Siapakah pembunuh sebenar Shirly dan dapatkah Tengku Azzuddin menerima Suriati dalam hidupnya?</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
   </programme>
-  <programme start="20190826020000 +0800" stop="20190826023000 +0800" channel="OKEY">
-    <title lang="en">Impak Aksi</title>
-    <desc lang="en">memaparkan corak-corak aktiviti dan sukan lasak kegemaran ramai remaja dan individu masa kini.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">1.7.</episode-num>
+  <programme start="20190902033000 +0800" stop="20190902043000 +0800" channel="TV 9">
+    <title lang="en">Majalah 3</title>
+    <desc lang="en">Majalah dokumentari yang memaparkan pelbagai informasi dan segmen menarik yang pastinya memberi fakta serta penjelasan yang mudah difahami.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20190826023000 +0800" stop="20190826030000 +0800" channel="OKEY">
-    <title lang="en">Mansau Ansau</title>
-    <desc lang="en">Rancangan menarik khas untuk anda.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.18.</episode-num>
+  <programme start="20190902043000 +0800" stop="20190902053000 +0800" channel="TV 9">
+    <title lang="en">Bunga-Bunga Syurga</title>
+    <desc lang="en">Kisah perjuangan seorang pemuda dalam memberi pendidikan agama dan menyelamatkan kehidupan tiga anak yatim piatu yang dipelihara oleh ibu saudaranya yang kejam.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
   </programme>
-  <programme start="20190826030000 +0800" stop="20190826033000 +0800" channel="OKEY">
-    <title lang="en">Aksi Dekor</title>
-    <desc lang="en">Menampilkan dekorasi dan susun atur rumah kediaman khas untuk anda.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.2.</episode-num>
-  </programme>
-  <programme start="20190826033000 +0800" stop="20190826040000 +0800" channel="OKEY">
-    <title lang="en">Kisah Selebriti</title>
-    <desc lang="en">Dalam episod ini, selebriti jemputan ialah Eyra Hazali.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.2.</episode-num>
-  </programme>
-  <programme start="20190826040000 +0800" stop="20190826043000 +0800" channel="OKEY">
-    <title lang="en">Trek &amp; Rel</title>
-    <desc lang="en">Memaparkan penggunaan keretapi untuk menjelajah ke seluruh negeri didalam Malaysia. Rancangan ini dihos oleh Keroz Nazri.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20190826043000 +0800" stop="20190826050000 +0800" channel="OKEY">
-    <title lang="en">Jelajah Aroma</title>
-    <desc lang="en">Meneruskan perjalanan melawat ke bandar Knuisford di United Kingdom untuk bertemu dengan seorang penari profesional yang bernama Natalie Lowe.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20190826050000 +0800" stop="20190826063000 +0800" channel="OKEY">
-    <title lang="en">Jangan Padam Rindu</title>
-    <desc lang="en">Mel mengarahkan konco-konconya agar segera membunuh Ellina sebelum Fauzan sampai ke rumahnya di Malaysia. Konco-konco Mel memecah masuk ke rumah Fauzan dan menangkap Ellina.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.19.</episode-num>
-  </programme>
-  <programme start="20190826063000 +0800" stop="20190826070000 +0800" channel="OKEY">
-    <title lang="en">Table for Two</title>
-    <desc lang="en">Melawat beberapa restoran di seluruh Malaysia dan bersama chef di restoran berkenaan untuk menyediakan masakan yang popular.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">1.8.</episode-num>
-  </programme>
-  <programme start="20190826070000 +0800" stop="20190826080000 +0800" channel="OKEY">
-    <title lang="en">Nasional 7</title>
-    <desc lang="en">Membawa berita-berita menyeluruh dan terkini di seluruh Malaysia khas untuk anda.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-  </programme>
-  <programme start="20190826080000 +0800" stop="20190826083000 +0800" channel="OKEY">
-    <title lang="en">Living Well</title>
-    <desc lang="en">Menumpukan tiga jenis senaman asas dan mudah yang dapat dilaksanakan dimana jua kita berada. Senaman harian asas dimaksudkan ialah, 'Push-Ups', 'Lunges' dan 'The Plank'.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.8.</episode-num>
-  </programme>
-  <programme start="20190826083000 +0800" stop="20190826090000 +0800" channel="OKEY">
-    <title lang="en">Klik-Klik Andalus</title>
-    <desc lang="en">Membawa penonton ke Cordoba dan melawat Mezquita de Cordoba atau Masjid Cordoba.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.8.</episode-num>
-  </programme>
-  <programme start="20190826090000 +0800" stop="20190826093000 +0800" channel="OKEY">
-    <title lang="en">Faces &amp; Places 4</title>
-    <desc lang="en">Mark O' Dea memperkenalkan satu lagi acara sukan yang dikenali sebagai ' Sport Casting' iaitu acara latihan untuk memancing ikan menggunakan Joran di darat.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.8.</episode-num>
-  </programme>
-  <programme start="20190826093000 +0800" stop="20190826100000 +0800" channel="OKEY">
-    <title lang="en">Fashion Files</title>
-    <desc lang="en">Episod ini memberi fokus kepada konsep baharu \"One Stop Centre\" dimana terdapat pelbagai jenis jenama dan juga aksesori didalam butik berkenaan.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.3.</episode-num>
-  </programme>
-  <programme start="20190826100000 +0800" stop="20190826103000 +0800" channel="OKEY">
-    <title lang="en">Helo Switzerland</title>
-    <desc lang="en">Ben melawat Schilton dan menuju ke kawasan pergunungan. Di sini beliau mencuba aktiviti \"skyline walk\" iaitu berjalan diatas sebuah jambatan yang diperbuat daripada jaring besi dan lantai kaca.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.4.</episode-num>
-  </programme>
-  <programme start="20190826103000 +0800" stop="20190826110000 +0800" channel="OKEY">
-    <title lang="en">La Fusion</title>
-    <desc lang="en">Rancangan masakan gabungan resepi tempatan dan juga barat yang menjadi tarikan pada masakini.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.5.</episode-num>
-  </programme>
-  <programme start="20190826110000 +0800" stop="20190826113000 +0800" channel="OKEY">
-    <title lang="en">Bukan Jalan Biasa</title>
-    <desc lang="en">Dari pekan Semporna, Mat Redho meneruskan perjalanan menuju ke Ranau, Sabah yang mana perjalanannya mengambil masa selama 8 jam.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.8.</episode-num>
-  </programme>
-  <programme start="20190826113000 +0800" stop="20190826114500 +0800" channel="OKEY">
-    <title lang="en">I Kadazan</title>
-    <desc lang="en">Saksikan berita dalam bahasa Kadazan.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-  </programme>
-  <programme start="20190826114500 +0800" stop="20190826120000 +0800" channel="OKEY">
-    <title lang="en">I Iban</title>
-    <desc lang="en">Saksikan berita dalam bahasa Iban.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-  </programme>
-  <programme start="20190826120000 +0800" stop="20190826130000 +0800" channel="OKEY">
-    <title lang="en">Fajar Di Bukhara</title>
-    <desc lang="en">Selepas mengikat pertunangan dengan Citra, Fahim melanjutkan pelajarannya ke Ubekistan. Sampai di Bukhara, Fahim cepat menyesuaikan diri di sana.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.3.</episode-num>
-  </programme>
-  <programme start="20190826130000 +0800" stop="20190826133000 +0800" channel="OKEY">
-    <title lang="en">Belangan Kacukan</title>
-    <desc lang="en">Dalam episod ini, selebriti jemputan, Fahad Iman yang akan memasak beberapa hidangan bersama-sama dengan Cef Dee.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.2.</episode-num>
-  </programme>
-  <programme start="20190826133000 +0800" stop="20190826140000 +0800" channel="OKEY">
-    <title lang="en">Inovasi Hijau</title>
-    <desc lang="en">Johnson juga menunjukkan sebuah projek sampingan yang menghasilkan batang pelita. Batang pelita ini menggunakan botol plastik diisi minyak dan sumbu untuk pelita.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20190826140000 +0800" stop="20190826141500 +0800" channel="OKEY">
-    <title lang="en">Berita I-Bajau</title>
-    <desc lang="en">Berita menarik di dalam bahasa Bajau.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-  </programme>
-  <programme start="20190826141500 +0800" stop="20190826143000 +0800" channel="OKEY">
+  <programme start="20190827000000 +0800" stop="20190827003000 +0800" channel="OKEY">
     <title lang="en">Klip Video</title>
     <desc lang="en">Seleksi Klip-Klip video terbaik untuk anda.</desc>
     <category lang="en">Music &amp; Dance</category>
     <category lang="en">General</category>
-  </programme>
-  <programme start="20190826143000 +0800" stop="20190826150000 +0800" channel="OKEY">
-    <title lang="en">Fashion Files</title>
-    <desc lang="en">Episod ini memberi fokus kepada konsep baharu \"One Stop Centre\" dimana terdapat pelbagai jenis jenama dan juga aksesori didalam butik berkenaan.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.3.</episode-num>
-  </programme>
-  <programme start="20190826150000 +0800" stop="20190826153000 +0800" channel="OKEY">
-    <title lang="en">Bolly Hunter</title>
-    <desc lang="en">Episod ini memaparkan tempat-tempat menarik di Mysore saperti Balmori Falls, Ganapathy Temple, Gopura Ruins dan Mysore Palace.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.6.</episode-num>
-  </programme>
-  <programme start="20190826153000 +0800" stop="20190826160000 +0800" channel="OKEY">
-    <title lang="en">Ekspresi Kasih</title>
-    <desc lang="en">S Kali ini Ashraf ke Seri Kembangan bagi menemui anak-anak Encik Jalil bin Basiron yang ingin membuat kejutan kepada ayah mereka.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.6.</episode-num>
-  </programme>
-  <programme start="20190826160000 +0800" stop="20190826170000 +0800" channel="OKEY">
-    <title lang="en">Mukhlis Siri 2</title>
-    <desc lang="en">Mukhlis dan Zara berpakat untuk menghancurkan kehidupan Budin dan Mukhlis telah mengupah Emy untuk mengenakan Budin.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.6.</episode-num>
-  </programme>
-  <programme start="20190826170000 +0800" stop="20190826180000 +0800" channel="OKEY">
-    <title lang="en">Berita Nasional 5</title>
-    <desc lang="en">Himpunan berita-berita terbaru untuk tontonan anda.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-  </programme>
-  <programme start="20190826180000 +0800" stop="20190826183000 +0800" channel="OKEY">
-    <title lang="en">13 Puncak</title>
-    <desc lang="en">Mendaki ke 13 puncak yang terkenal di Malaysia.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.1.</episode-num>
-  </programme>
-  <programme start="20190826183000 +0800" stop="20190826184500 +0800" channel="OKEY">
-    <title lang="en">I Iban</title>
-    <desc lang="en">Saksikan berita dalam bahasa Iban.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-  </programme>
-  <programme start="20190826184500 +0800" stop="20190826190000 +0800" channel="OKEY">
-    <title lang="en">I Dusun</title>
-    <desc lang="en">Saksikan berita dalam bahasa Kadazan.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-  </programme>
-  <programme start="20190826190000 +0800" stop="20190826193000 +0800" channel="OKEY">
-    <title lang="en">Merah Mawar Di Kundasang</title>
-    <desc lang="en">Hambali telah memutuskan perkongsian dengan Azman kerana isteri Azman akan menjadi penghalang antara beliau dengan Mahani.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.11.</episode-num>
-  </programme>
-  <programme start="20190826193000 +0800" stop="20190826200000 +0800" channel="OKEY">
-    <title lang="en">La Fusion</title>
-    <desc lang="en">Rancangan masakan gabungan resepi tempatan dan juga barat yang menjadi tarikan pada masakini.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.5.</episode-num>
-  </programme>
-  <programme start="20190826200000 +0800" stop="20190826210000 +0800" channel="OKEY">
-    <title lang="en">Culinary Genius</title>
-    <desc lang="en">Pusingan ini melihat peserta menghadapi kemahiran memotong bawang putih dengan pisau selama lima minit.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.14.</episode-num>
-  </programme>
-  <programme start="20190826210000 +0800" stop="20190826213000 +0800" channel="OKEY">
-    <title lang="en">Helo Switzerland</title>
-    <desc lang="en">Ben melawat Schilton dan menuju ke kawasan pergunungan. Di sini beliau mencuba aktiviti \"skyline walk\" iaitu berjalan diatas sebuah jambatan yang diperbuat daripada jaring besi dan lantai kaca.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.4.</episode-num>
-  </programme>
-  <programme start="20190826213000 +0800" stop="20190826220000 +0800" channel="OKEY">
-    <title lang="en">Inovasi Hijau</title>
-    <desc lang="en">Johnson juga menunjukkan sebuah projek sampingan yang menghasilkan batang pelita. Batang pelita ini menggunakan botol plastik diisi minyak dan sumbu untuk pelita.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20190826220000 +0800" stop="20190826230000 +0800" channel="OKEY">
-    <title lang="en">Anugerah Cinta Aisyah</title>
-    <desc lang="en">Nadihah berkongsi dengan Dato' dan Datin tentang rancangan Syazwan untuk mencari Aisyah. Syazwan tetap berdegil dengan keputusan ke Budapest walaupun cuba dihalang oleh Nadihah dan Mak Yan.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.10.</episode-num>
-  </programme>
-  <programme start="20190826230000 +0800" stop="20190827000000 +0800" channel="OKEY">
-    <title lang="en">Kami Bah Ini</title>
-    <desc lang="en">Kami Bah Ini memaparkan berita dan isu semasa termasuk memperkenalkan artis dan personaliti dari Sabah untuk tatapan seluruh rakyat Malaysia.</desc>
-    <category lang="en">Music &amp; Dance</category>
-    <category lang="en">General</category>
-    <episode-num system="xmltv_ns">.46.</episode-num>
   </programme>
   <programme start="20190827003000 +0800" stop="20190827010000 +0800" channel="OKEY">
     <title lang="en">Merah Mawar Di Kundasang</title>
@@ -7680,328 +7071,11 @@
     <category lang="en">General</category>
     <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
-  <programme start="20190826000000 +0800" stop="20190826003000 +0800" channel="TV Alhijrah">
+  <programme start="20190827000000 +0800" stop="20190827003000 +0800" channel="TV Alhijrah">
     <title lang="en">ASSALAM BIZ</title>
     <desc lang="en">Program bual bicara bisnes yang menampilkan produk-produk dari klien, profil individu yang berjaya dan juga projek-projek CSR yang dijalankan.</desc>
     <category lang="en">Factual &amp; Documentary</category>
     <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826003000 +0800" stop="20190826010000 +0800" channel="TV Alhijrah">
-    <title lang="en">MELODI IMAN</title>
-    <desc lang="en">Klip - klip video pilihan.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826010000 +0800" stop="20190826013000 +0800" channel="TV Alhijrah">
-    <title lang="en">SAAT SYAHDU</title>
-    <desc lang="en">Kapsul selawat-selawat, zikir-zikir dan Surah-Surah pilihan.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826013000 +0800" stop="20190826023000 +0800" channel="TV Alhijrah">
-    <title lang="en">ALUNAN SURAH-SURAH</title>
-    <desc lang="en">Surah - surah Al-Quran.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826023000 +0800" stop="20190826023500 +0800" channel="TV Alhijrah">
-    <title lang="en">Bayan Linnas</title>
-    <desc lang="en">Kapsul pendek yang padat dengan ilmu, pencerahan dan penerangan oleh Mufti Wilayah Persekutuan, Sahibus Samahah Dato' Seri Dr. Haji Zulkifli Mohamad Al-Bakri.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.15.</episode-num>
-  </programme>
-  <programme start="20190826023500 +0800" stop="20190826024300 +0800" channel="TV Alhijrah">
-    <title lang="en">TAZKIRAH</title>
-    <desc lang="en">Kapsul takzirah ringkas oleh ustaz dan ustazah.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826024300 +0800" stop="20190826024500 +0800" channel="TV Alhijrah">
-    <title lang="en">2 MINIT USTAZ</title>
-    <desc lang="en">Kapsul takzirah ringkas oleh ustaz dan ustazah.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826024500 +0800" stop="20190826025000 +0800" channel="TV Alhijrah">
-    <title lang="en">Bayan Linnas</title>
-    <desc lang="en">Kapsul pendek yang padat dengan ilmu, pencerahan dan penerangan oleh Mufti Wilayah Persekutuan, Sahibus Samahah Dato' Seri Dr. Haji Zulkifli Mohamad Al-Bakri.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.16.</episode-num>
-  </programme>
-  <programme start="20190826025000 +0800" stop="20190826030000 +0800" channel="TV Alhijrah">
-    <title lang="en">Interaksi Bersama Al Quran</title>
-    <desc lang="en">Interaksi bersama Al Quran merupakan sebuah kapsul yang menerangkan maksud ayat al quran yang dibaca.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.27.</episode-num>
-  </programme>
-  <programme start="20190826030000 +0800" stop="20190826050000 +0800" channel="TV Alhijrah">
-    <title lang="en">Malam Dhijrah</title>
-    <desc lang="en">Rancangan yang membawakan info-info terkini / motivasi / hal ehwal semasadan paparan keadaan/aktiviti persekitaran di Masjidil HaramMekah dan Madinah.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826050000 +0800" stop="20190826050500 +0800" channel="TV Alhijrah">
-    <title lang="en">DOA - DOA</title>
-    <desc lang="en">Himpunan doa -doa.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826050500 +0800" stop="20190826051000 +0800" channel="TV Alhijrah">
-    <title lang="en">SELAWAT - SELAWAT</title>
-    <desc lang="en">Himpunan selawat - selawat.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826051000 +0800" stop="20190826052500 +0800" channel="TV Alhijrah">
-    <title lang="en">SURAH AL QURAN</title>
-    <desc lang="en">Surah - surah Al-Quran.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826052500 +0800" stop="20190826053000 +0800" channel="TV Alhijrah">
-    <title lang="en">ZIKIR - ZIKIR</title>
-    <desc lang="en">Himpunan zikir- zikir harian.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826053000 +0800" stop="20190826060000 +0800" channel="TV Alhijrah">
-    <title lang="en">PANGGILAN AGUNG SUBUH</title>
-    <desc lang="en">Saksikan himpunan video klip selawat, lagu Ketuhanan dan pelbagai kapsul menarik yang memaparkan perkongsian ilmu agama.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826060000 +0800" stop="20190826063000 +0800" channel="TV Alhijrah">
-    <title lang="en">MASJID KE MASJID</title>
-    <desc lang="en">Saksikan program kerohanian Masjid Ke Masjid 2018.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.3.</episode-num>
-  </programme>
-  <programme start="20190826063000 +0800" stop="20190826064500 +0800" channel="TV Alhijrah">
-    <title lang="en">TAZKIRAH</title>
-    <desc lang="en">Kapsul takzirah ringkas oleh ustaz dan ustazah.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826064500 +0800" stop="20190826070000 +0800" channel="TV Alhijrah">
-    <title lang="en">ZIKIR &amp; SELAWAT</title>
-    <desc lang="en">Himpunan selawat - selawat.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826070000 +0800" stop="20190826080000 +0800" channel="TV Alhijrah">
-    <title lang="en">ASSALAMUALAIKUM INTERAKTIF (L)</title>
-    <desc lang="en">Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826080000 +0800" stop="20190826100000 +0800" channel="TV Alhijrah">
-    <title lang="en">ASSALAMUALAIKUM (L)</title>
-    <desc lang="en">Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826100000 +0800" stop="20190826103000 +0800" channel="TV Alhijrah">
-    <title lang="en">DHUHA</title>
-    <desc lang="en">Program ini memaparkan kapsul, zikir dan info berkaitan kelebihan Dhuha.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826103000 +0800" stop="20190826110000 +0800" channel="TV Alhijrah">
-    <title lang="en">Home Shopping</title>
-    <desc lang="en">Saksikan Rancangan Home Shopping Slot.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.12.</episode-num>
-  </programme>
-  <programme start="20190826110000 +0800" stop="20190826113000 +0800" channel="TV Alhijrah">
-    <title lang="en">Jom Shoppe</title>
-    <desc lang="en">Saksikan Rancangan Jom Shoppe Slot.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20190826113000 +0800" stop="20190826120000 +0800" channel="TV Alhijrah">
-    <title lang="en">Jom Shoppe</title>
-    <desc lang="en">Saksikan Rancangan Home Shopping Slot.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20190826120000 +0800" stop="20190826123000 +0800" channel="TV Alhijrah">
-    <title lang="en">Home Shopping</title>
-    <desc lang="en">Saksikan Rancangan Jom Shoppe Slot.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.12.</episode-num>
-  </programme>
-  <programme start="20190826123000 +0800" stop="20190826130000 +0800" channel="TV Alhijrah">
-    <title lang="en">Home Shopping</title>
-    <desc lang="en">Saksikan Rancangan Home Shopping Slot.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.12.</episode-num>
-  </programme>
-  <programme start="20190826130000 +0800" stop="20190826130200 +0800" channel="TV Alhijrah">
-    <title lang="en">2 MINIT USTAZ</title>
-    <desc lang="en">Kapsul takzirah ringkas oleh ustaz dan ustazah.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826130200 +0800" stop="20190826133000 +0800" channel="TV Alhijrah">
-    <title lang="en">PANGGILAN AGUNG ZOHOR</title>
-    <desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826133000 +0800" stop="20190826135800 +0800" channel="TV Alhijrah">
-    <title lang="en">Reflections</title>
-    <desc lang="en">Qari Fatih Seferagic menjelaskan kita tidak nampak Allah tetapi Allah hadir dekat dengan kita.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20190826135800 +0800" stop="20190826140000 +0800" channel="TV Alhijrah">
-    <title lang="en">2 MINIT USTAZ</title>
-    <desc lang="en">Kapsul takzirah ringkas oleh ustaz dan ustazah.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826140000 +0800" stop="20190826150000 +0800" channel="TV Alhijrah">
-    <title lang="en">TABUH MERDEKA</title>
-    <desc lang="en">Sebuah drama kemerdekaan yang mengetengahkan erti kemerdekaan kepada masyarakat dan golongan remaja kini.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20190826150000 +0800" stop="20190826153000 +0800" channel="TV Alhijrah">
-    <title lang="en">ASSALAM BIZ</title>
-    <desc lang="en">Program bual bicara bisnes yang menampilkan produk-produk dari klien, profil individu yang berjaya dan juga projek-projek CSR yang dijalankan.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826153000 +0800" stop="20190826160000 +0800" channel="TV Alhijrah">
-    <title lang="en">Home Shopping</title>
-    <desc lang="en">Program bual bicara bisnes yang menampilkan produk-produk dari klien, profil individu yang berjaya dan juga projek-projek CSR yang dijalankan.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.12.</episode-num>
-  </programme>
-  <programme start="20190826160000 +0800" stop="20190826163000 +0800" channel="TV Alhijrah">
-    <title lang="en">Dgn Basikal Aku Menjelajah</title>
-    <desc lang="en">Dalam episod pertama ini, Zahariz kembali hidup di jalanan menyambung pengembaraan berbasikal solonya. Kali ini, beliau mengambil sebuah kapal terbang dari Kuala Lumpur untuk ke Ulaanbaatar.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.2.</episode-num>
-  </programme>
-  <programme start="20190826163000 +0800" stop="20190826164000 +0800" channel="TV Alhijrah">
-    <title lang="en">Interaksi Bersama Al Quran</title>
-    <desc lang="en">Interaksi bersama Al Quran merupakan sebuah kapsul yang menerangkan maksud ayat al quran yang dibaca.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.4.</episode-num>
-  </programme>
-  <programme start="20190826164000 +0800" stop="20190826170000 +0800" channel="TV Alhijrah">
-    <title lang="en">PANGGILAN AGUNG ASAR</title>
-    <desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826170000 +0800" stop="20190826180000 +0800" channel="TV Alhijrah">
-    <title lang="en">Aku Ada Wali</title>
-    <desc lang="en">Syumaila bertelekung di bilik sambil muhasabah diri. Muhasabah tindakannya petang tadi. Dia mengadu kepada Allah setiap khilaf diri. Itulah peribadinya, setiap hari mengadu kepada Allah.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.8.</episode-num>
-  </programme>
-  <programme start="20190826180000 +0800" stop="20190826190000 +0800" channel="TV Alhijrah">
-    <title lang="en">CINTA ILMU WANITA</title>
-    <desc lang="en">Bersama Ustazah Isfadiah Mohd Dasuki membicarakan mengenai Fiqh Wanita menggunakan buku Fatwa Kontemporari Karya Dr, Yusuf Al-Qardawi.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.4.</episode-num>
-  </programme>
-  <programme start="20190826190000 +0800" stop="20190826190200 +0800" channel="TV Alhijrah">
-    <title lang="en">2 MINIT USTAZ</title>
-    <desc lang="en">Kapsul takzirah ringkas oleh ustaz dan ustazah.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826190200 +0800" stop="20190826192500 +0800" channel="TV Alhijrah">
-    <title lang="en">PANGGILAN AGUNG MAGHRIB</title>
-    <desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826192500 +0800" stop="20190826193000 +0800" channel="TV Alhijrah">
-    <title lang="en">Bayan Linnas</title>
-    <desc lang="en">Kapsul pendek yang padat dengan ilmu, pencerahan dan penerangan oleh Mufti Wilayah Persekutuan, Sahibus Samahah Dato' Seri Dr. Haji Zulkifli Mohamad Al-Bakri.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.19.</episode-num>
-  </programme>
-  <programme start="20190826193000 +0800" stop="20190826200000 +0800" channel="TV Alhijrah">
-    <title lang="en">Mimbar Musim 4</title>
-    <desc lang="en">Memaparkan tazkirah yang disampaikan oleh penceramah terkenal tanah air.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20190826200000 +0800" stop="20190826203000 +0800" channel="TV Alhijrah">
-    <title lang="en">Berita Alhijrah (L)</title>
-    <desc lang="en">Menampilkan Sharifah Aleya sebagai hos tetamu jemputan yang akan membicarakan kisah inspirasi, kerjaya, keluarga dan sebagainya.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826203000 +0800" stop="20190826204500 +0800" channel="TV Alhijrah">
-    <title lang="en">Panggilan Agung Isyak</title>
-    <desc lang="en">Berita Utama Tv-Alhijrah terbahagi kepada beberapa segmen iaitu Berita Utama Harian, Berita Luar Negara, Laporan Khas, sukan, ramalan cuaca, saham and ekonomi.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826204500 +0800" stop="20190826210000 +0800" channel="TV Alhijrah">
-    <title lang="en">Jom Jalan Tripfez</title>
-    <desc lang="en">Jom Jalan bersama Tripfez di Vietnam untuk melihat keindahan dan berkongsi pengalaman ketika berada di sana.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.6.</episode-num>
-  </programme>
-  <programme start="20190826210000 +0800" stop="20190826213000 +0800" channel="TV Alhijrah">
-    <title lang="en">Taman Syurga Habib Ali</title>
-    <desc lang="en">30 Minit bersama Ustaz Kazim Elias adalah sebuah program yang dirakam di Pusat Pengajian Al Barakah sebuah pusat pengajian yang dikendalikan Ustaz Kazim sendiri.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20190826213000 +0800" stop="20190826220000 +0800" channel="TV Alhijrah">
-    <title lang="en">Al Quran &amp; Sains</title>
-    <desc lang="en">Dokumentari yang menumpukan perbahasaan mengenai fakta di dalam al-Quran dan penemuan Sains dizaman moden ini.Berperanan sebagai satu wacana dakwah yang membuktikan AlQuran rujukan yang tertinggi.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.10.</episode-num>
-  </programme>
-  <programme start="20190826220000 +0800" stop="20190826230000 +0800" channel="TV Alhijrah">
-    <title lang="en">Sila Duduk Jangan Lari (Live)</title>
-    <desc lang="en">Sila Duduk Jangan Lari merupakan program debat secara santai yang akan membawa panel-panel terbaik untuk anda semua.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20190826230000 +0800" stop="20190826233000 +0800" channel="TV Alhijrah">
-    <title lang="en">Mimbar Musim</title>
-    <desc lang="en">Memaparkan tazkirah yang disampaikan oleh penceramah terkenal tanah air.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20190826233000 +0800" stop="20190827000000 +0800" channel="TV Alhijrah">
-    <title lang="en">Reflections</title>
-    <desc lang="en">Qari Fatih Seferagic menjelaskan kita tidak nampak Allah tetapi Allah hadir dekat dengan kita.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Biography</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
   </programme>
   <programme start="20190827003000 +0800" stop="20190827010000 +0800" channel="TV Alhijrah">
     <title lang="en">MELODI IMAN</title>
@@ -9812,245 +8886,11 @@
     <category lang="en">Biography</category>
     <episode-num system="xmltv_ns">.2.</episode-num>
   </programme>
-  <programme start="20190826000000 +0800" stop="20190826003000 +0800" channel="BNC">
+  <programme start="20190827000000 +0800" stop="20190827003000 +0800" channel="BNC">
     <title lang="en">The Nation</title>
     <desc lang="en">A daily themed talk show providing information on current issues, medical and health, women, property, performing arts and culture.</desc>
     <category lang="en">News</category>
     <category lang="en">Discussion / Interview / Debate</category>
-  </programme>
-  <programme start="20190826003000 +0800" stop="20190826010000 +0800" channel="BNC">
-    <title lang="en">UPSound</title>
-    <desc lang="en">Program bual bicara yang mengketengahkan isu-isu 'panas' merangkumi pelbagai topik yang berlaku dalam negara. Isu akan dikupas secara terus dan telus bersama panel jemputan pada setiap minggu.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Talk Show</category>
-  </programme>
-  <programme start="20190826010000 +0800" stop="20190826013000 +0800" channel="BNC">
-    <title lang="en">Buletin Bernama</title>
-    <desc lang="en">Laporan terkini berita dari dalam dan luar negara.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826013000 +0800" stop="20190826020000 +0800" channel="BNC">
-    <title lang="en">Bernama News</title>
-    <desc lang="en">English news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics as well as sports and entertainment.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826020000 +0800" stop="20190826030000 +0800" channel="BNC">
-    <title lang="en">Ruang Bicara</title>
-    <desc lang="en">Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Discussion / Interview / Debate</category>
-  </programme>
-  <programme start="20190826030000 +0800" stop="20190826033000 +0800" channel="BNC">
-    <title lang="en">Buletin Bernama</title>
-    <desc lang="en">Laporan terkini berita dari dalam dan luar negara.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826033000 +0800" stop="20190826040000 +0800" channel="BNC">
-    <title lang="en">Bernama News</title>
-    <desc lang="en">English news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics as well as sports and entertainment.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826040000 +0800" stop="20190826043000 +0800" channel="BNC">
-    <title lang="en">1001 Destinasi Malaysiaku</title>
-    <desc lang="en">Program percutian untuk warga Malaysia yang bercadang bercuti dan meluangkan masa santai bersama keluarga dan taulan, di dalam dan luar Malaysia.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Magazine</category>
-  </programme>
-  <programme start="20190826043000 +0800" stop="20190826050000 +0800" channel="BNC">
-    <title lang="en">Famous 2 Famous</title>
-    <desc lang="en">Berkonsepkan \"cook and talk\". Rancangan ini dihoskan oleh Raifanabillah Zulkifli (Peneraju Bernama Radio) dan menampilkan tetamu-tetamu VVIP, atlit kebangsaan dan selebriti popular.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Talk Show</category>
-  </programme>
-  <programme start="20190826050000 +0800" stop="20190826053000 +0800" channel="BNC">
-    <title lang="en">Buletin Bernama</title>
-    <desc lang="en">Laporan terkini berita dari dalam dan luar negara.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826053000 +0800" stop="20190826060000 +0800" channel="BNC">
-    <title lang="en">Bernama News</title>
-    <desc lang="en">English news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics as well as sports and entertainment.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826060000 +0800" stop="20190826070000 +0800" channel="BNC">
-    <title lang="en">Ruang Bicara</title>
-    <desc lang="en">Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Discussion / Interview / Debate</category>
-  </programme>
-  <programme start="20190826070000 +0800" stop="20190826073000 +0800" channel="BNC">
-    <title lang="en">Buletin Bernama</title>
-    <desc lang="en">Laporan terkini berita dari dalam dan luar negara.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826073000 +0800" stop="20190826080000 +0800" channel="BNC">
-    <title lang="en">Bernama News</title>
-    <desc lang="en">English news reporting on current issues and stock market.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826080000 +0800" stop="20190826083000 +0800" channel="BNC">
-    <title lang="en">The Nation</title>
-    <desc lang="en">A daily themed talk show providing information on current issues, medical and health, women, property, performing arts and culture.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Discussion / Interview / Debate</category>
-  </programme>
-  <programme start="20190826083000 +0800" stop="20190826090000 +0800" channel="BNC">
-    <title lang="en">Jurnal Bernama</title>
-    <desc lang="en">Rancangan baru berbentuk majalah-berita, memaparkan kronikal kembara kehidupan dan menyingkap peristiwa unik yang terjadi di Malaysia dan luar negara.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Magazine</category>
-  </programme>
-  <programme start="20190826090000 +0800" stop="20190826110000 +0800" channel="BNC">
-    <title lang="en">Nine11</title>
-    <desc lang="en">Bual bicara yang mengetengahkan isu-isu terkini dan berkonsepkan santai serta informatif. Segmen-segmen yang terkandung ialah Inspirasi Pagi, Tapau Apa?, BNC Shop, Jom Senam!, #Vacay dan #Respon911.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Discussion / Interview / Debate</category>
-  </programme>
-  <programme start="20190826110000 +0800" stop="20190826111500 +0800" channel="BNC">
-    <title lang="en">Buletin Bernama</title>
-    <desc lang="en">Laporan terkini berita dari dalam dan luar negara.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826111500 +0800" stop="20190826113000 +0800" channel="BNC">
-    <title lang="en">Buletin Dunia &amp; Sukan</title>
-    <desc lang="en">Membawakan berita dunia merangkumi perkembangan politik, ekonomi, bencana, dan jenayah. Turut menampilkan aksi-aksi sukan daripada perlawanan dan acara sukan dalam dan luar negara.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826113000 +0800" stop="20190826120000 +0800" channel="BNC">
-    <title lang="en">Salam Dari Jakarta</title>
-    <desc lang="en">Program majalah yang memuatkan pelbagai maklumat terkini mengenai peristiwa-peristiwa yang berlaku di Indonesia pada sepanjang minggu.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Magazine</category>
-  </programme>
-  <programme start="20190826120000 +0800" stop="20190826130000 +0800" channel="BNC">
-    <title lang="en">Bernama Today</title>
-    <desc lang="en">Bringing you the latest in current affairs, lifestyle and entertainment as well as discussions with studio guest.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Discussion / Interview / Debate</category>
-  </programme>
-  <programme start="20190826130000 +0800" stop="20190826133000 +0800" channel="BNC">
-    <title lang="en">Buletin Bernama</title>
-    <desc lang="en">Laporan terkini berita dari dalam dan luar negara.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826133000 +0800" stop="20190826140000 +0800" channel="BNC">
-    <title lang="en">Famous 2 Famous</title>
-    <desc lang="en">Berkonsepkan \"cook and talk\". Rancangan ini dihoskan oleh Raifanabillah Zulkifli (Peneraju Bernama Radio) dan menampilkan tetamu-tetamu VVIP, atlit kebangsaan dan selebriti popular.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Talk Show</category>
-  </programme>
-  <programme start="20190826140000 +0800" stop="20190826150000 +0800" channel="BNC">
-    <title lang="en">Nine11</title>
-    <desc lang="en">Bual bicara yang mengetengahkan isu-isu terkini dan berkonsepkan santai serta informatif. Segmen-segmen yang terkandung ialah Inspirasi Pagi, Tapau Apa?, BNC Shop, Jom Senam!, #Vacay dan #Respon911.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Discussion / Interview / Debate</category>
-  </programme>
-  <programme start="20190826150000 +0800" stop="20190826153000 +0800" channel="BNC">
-    <title lang="en">Buletin Bernama</title>
-    <desc lang="en">Laporan terkini berita dari dalam dan luar negara.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826153000 +0800" stop="20190826160000 +0800" channel="BNC">
-    <title lang="en">The Nation</title>
-    <desc lang="en">A daily themed talk show providing information on current issues, medical and health, women, property, performing arts and culture.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Discussion / Interview / Debate</category>
-  </programme>
-  <programme start="20190826160000 +0800" stop="20190826163000 +0800" channel="BNC">
-    <title lang="en">Bernama News</title>
-    <desc lang="en">English news reporting on current issues and stock market.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826163000 +0800" stop="20190826170000 +0800" channel="BNC">
-    <title lang="en">Koleksi Tapau Apa</title>
-    <desc lang="en">Program ini, memberi idea kepada penonton tentang destinasi makanan dan apa juadah yang menyelerakan dan apa yang boleh didapati di sana.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Magazine</category>
-  </programme>
-  <programme start="20190826170000 +0800" stop="20190826180000 +0800" channel="BNC">
-    <title lang="en">Ruang Bicara</title>
-    <desc lang="en">Kemalangan Industri: Pencegahan dan Kesedaran - Bersama Mohamad Khalil Ishak, Presiden Pertubuhan Pembela Mangsa Kemalangan Industri (PPMKI) &amp; Ibun Muhammad Harith Ibad Zaini, Mangsa Kemalangan Industri.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Discussion / Interview / Debate</category>
-  </programme>
-  <programme start="20190826180000 +0800" stop="20190826183000 +0800" channel="BNC">
-    <title lang="en">Bernama News</title>
-    <desc lang="en">English news reporting on current issues and stock market.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826183000 +0800" stop="20190826190000 +0800" channel="BNC">
-    <title lang="en">BNC Mandarin News</title>
-    <desc lang="en">A news bulletin specially tailored for the Chinese community, providing daily news coverage on various topics involving politics, economics, culture and education.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826190000 +0800" stop="20190826193000 +0800" channel="BNC">
-    <title lang="en">Tamil News</title>
-    <desc lang="en">Tamil news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics, as well as sports and entertainment.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826193000 +0800" stop="20190826200000 +0800" channel="BNC">
-    <title lang="en">Nine11</title>
-    <desc lang="en">Bual bicara yang mengetengahkan isu-isu terkini dan berkonsepkan santai serta informatif. Segmen-segmen yang terkandung ialah Inspirasi Pagi, Tapau Apa?, BNC Shop, Jom Senam!, #Vacay dan #Respon911.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Discussion / Interview / Debate</category>
-  </programme>
-  <programme start="20190826200000 +0800" stop="20190826203000 +0800" channel="BNC">
-    <title lang="en">Buletin Bernama</title>
-    <desc lang="en">Laporan terkini berita dari dalam dan luar negara.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826203000 +0800" stop="20190826210000 +0800" channel="BNC">
-    <title lang="en">Nadi Ekuiti</title>
-    <desc lang="en">Program mingguan mengenai pasaran saham, ulasan pasaran saham tempatan dan faktor global yang mempengaruhi. Juga, mengenai pelaburan hingga strategi serta aspek teknikal pelaburan.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Business</category>
-  </programme>
-  <programme start="20190826210000 +0800" stop="20190826220000 +0800" channel="BNC">
-    <title lang="en">Ruang Bicara</title>
-    <desc lang="en">Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Discussion / Interview / Debate</category>
-  </programme>
-  <programme start="20190826220000 +0800" stop="20190826223000 +0800" channel="BNC">
-    <title lang="en">Bernama News</title>
-    <desc lang="en">English news reporting on current issues and stock market.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826223000 +0800" stop="20190826230000 +0800" channel="BNC">
-    <title lang="en">BNC Mandarin News</title>
-    <desc lang="en">A news bulletin specially tailored for the Chinese community, providing daily news coverage on various topics involving politics, economics, culture and education.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826230000 +0800" stop="20190826233000 +0800" channel="BNC">
-    <title lang="en">Buletin Bernama</title>
-    <desc lang="en">A daily themed talk show providing information on current issues, medical and health, women, property, performing arts and culture.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20190826233000 +0800" stop="20190827000000 +0800" channel="BNC">
-    <title lang="en">Tamil News</title>
-    <desc lang="en">Tamil news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics, as well as sports and entertainment.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
   </programme>
   <programme start="20190827003000 +0800" stop="20190827010000 +0800" channel="BNC">
     <title lang="en">Buatan Malaysia Untuk Malaysia</title>
@@ -10216,7 +9056,7 @@
   </programme>
   <programme start="20190827170000 +0800" stop="20190827180000 +0800" channel="BNC">
     <title lang="en">Ruang Bicara</title>
-    <desc lang="en">Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
+    <desc lang="en">Sayangi Malaysiaku: Malaysia Bersih - Bersama Datuk Dr. Aminuddin Hassim, Presiden Perbadanan Putrajaya.</desc>
     <category lang="en">News</category>
     <category lang="en">Discussion / Interview / Debate</category>
   </programme>
@@ -11469,6 +10309,66 @@
     <category lang="en">Current Affairs / General</category>
   </programme>
   <programme start="20190901230000 +0800" stop="20190901233000 +0800" channel="BNC">
+    <title lang="en">Buletin Bernama</title>
+    <desc lang="en">Laporan terkini berita dari dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20190901233000 +0800" stop="20190902000000 +0800" channel="BNC">
+    <title lang="en">Tamil News</title>
+    <desc lang="en">Tamil news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics, as well as sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20190902003000 +0800" stop="20190902010000 +0800" channel="BNC">
+    <title lang="en">UPSound</title>
+    <desc lang="en">Program bual bicara yang mengketengahkan isu-isu 'panas' merangkumi pelbagai topik yang berlaku dalam negara. Isu akan dikupas secara terus dan telus bersama panel jemputan pada setiap minggu.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20190902010000 +0800" stop="20190902013000 +0800" channel="BNC">
+    <title lang="en">Buletin Bernama</title>
+    <desc lang="en">Laporan terkini berita dari dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20190902013000 +0800" stop="20190902020000 +0800" channel="BNC">
+    <title lang="en">Bernama News</title>
+    <desc lang="en">English news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics as well as sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20190902020000 +0800" stop="20190902030000 +0800" channel="BNC">
+    <title lang="en">Ruang Bicara</title>
+    <desc lang="en">Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+  </programme>
+  <programme start="20190902030000 +0800" stop="20190902033000 +0800" channel="BNC">
+    <title lang="en">Buletin Bernama</title>
+    <desc lang="en">Laporan terkini berita dari dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20190902033000 +0800" stop="20190902040000 +0800" channel="BNC">
+    <title lang="en">Bernama News</title>
+    <desc lang="en">English news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics as well as sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20190902040000 +0800" stop="20190902043000 +0800" channel="BNC">
+    <title lang="en">1001 Destinasi Malaysiaku</title>
+    <desc lang="en">Program percutian untuk warga Malaysia yang bercadang bercuti dan meluangkan masa santai bersama keluarga dan taulan, di dalam dan luar Malaysia.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+  </programme>
+  <programme start="20190902043000 +0800" stop="20190902050000 +0800" channel="BNC">
+    <title lang="en">Famous 2 Famous</title>
+    <desc lang="en">Berkonsepkan \"cook and talk\". Rancangan ini dihoskan oleh Raifanabillah Zulkifli (Peneraju Bernama Radio) dan menampilkan tetamu-tetamu VVIP, atlit kebangsaan dan selebriti popular.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20190902050000 +0800" stop="20190902053000 +0800" channel="BNC">
     <title lang="en">Buletin Bernama</title>
     <desc lang="en">Laporan terkini berita dari dalam dan luar negara.</desc>
     <category lang="en">News</category>
