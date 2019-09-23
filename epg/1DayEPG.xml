@@ -5,15 +5,6 @@
     <icon src="https://archive.org/download/RedBullTVLogo/Red-Bull-TV-Logo.png" />
     <url>http://www.redbull.tv</url>
   </channel>
-  <programme start="20190923132800 +0000" stop="20190923135800 +0000" channel="RedBull TV">
-    <title lang="en">Beneath the Surface</title>
-    <sub-title lang="en">Chasing a secret slab</sub-title>
-    <desc lang="en">Big wave surfer Andrew Cotton rolls the dice on his season by choosing to explore a wave with huge potential. Big wave surfer Andrew Cotton risks his whole season on an unexplored piece of the Atlantic that could hold the biggest wave to ever be ridden. He travels to the middle of the ocean looking for the next big swell, but the ocean offers no guarantees.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
   <programme start="20190923155300 +0000" stop="20190923160900 +0000" channel="RedBull TV">
     <title lang="en">Revel in the Chaos</title>
     <sub-title lang="en">The best freestyle MTB riding ever</sub-title>
@@ -186,7 +177,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190924004400 +0000" stop="20190923132800 +0000" channel="RedBull TV">
+  <programme start="20190924004400 +0000" stop="20190924010000 +0000" channel="RedBull TV">
     <title lang="en">Revel in the Chaos</title>
     <sub-title lang="en">The best freestyle MTB riding ever</sub-title>
     <desc lang="en">Revel in the Chaos follows Brandon Semenuk as he pushes himself beyond our view of possible. Brandon Semenuk brings a revolution in mountain biking. Revel in the Chaos follows the Canadian as he pushes himself beyond what's possible. It’s not an exaggeration to say this movie features the best freestyle riding ever done on a mountain bike.</desc>
@@ -195,10 +186,10 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190923132800 +0000" stop="20190923135800 +0000" channel="RedBull TV">
-    <title lang="en">Beneath the Surface</title>
-    <sub-title lang="en">Chasing a secret slab</sub-title>
-    <desc lang="en">Big wave surfer Andrew Cotton rolls the dice on his season by choosing to explore a wave with huge potential. Big wave surfer Andrew Cotton risks his whole season on an unexplored piece of the Atlantic that could hold the biggest wave to ever be ridden. He travels to the middle of the ocean looking for the next big swell, but the ocean offers no guarantees.</desc>
+  <programme start="20190924010000 +0000" stop="20190923155300 +0000" channel="RedBull TV">
+    <title lang="en">Through My Eyes</title>
+    <sub-title lang="en">Aaron Chase's point of view</sub-title>
+    <desc lang="en">Pro mountain biker Aaron Chase captures a four-day trip to Mexico with his own POV camera. When adventure calls, pro mountain biker Aaron Chase always answers. When he gets the chance to go to Mexico to ride volcanoes, pyramids and jungles, there's no holding him back. Aaron captures the entire trip from his own POV camera.</desc>
     <category lang="en">Sports</category>
     <rating system="US">
       <value>NR</value>
@@ -380,6 +371,15 @@
     <title lang="en">Revel in the Chaos</title>
     <sub-title lang="en">The best freestyle MTB riding ever</sub-title>
     <desc lang="en">Revel in the Chaos follows Brandon Semenuk as he pushes himself beyond our view of possible. Brandon Semenuk brings a revolution in mountain biking. Revel in the Chaos follows the Canadian as he pushes himself beyond what's possible. It’s not an exaggeration to say this movie features the best freestyle riding ever done on a mountain bike.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190924010000 +0000" stop="20190924012200 +0000" channel="RedBull TV">
+    <title lang="en">Through My Eyes</title>
+    <sub-title lang="en">Aaron Chase's point of view</sub-title>
+    <desc lang="en">Pro mountain biker Aaron Chase captures a four-day trip to Mexico with his own POV camera. When adventure calls, pro mountain biker Aaron Chase always answers. When he gets the chance to go to Mexico to ride volcanoes, pyramids and jungles, there's no holding him back. Aaron captures the entire trip from his own POV camera.</desc>
     <category lang="en">Sports</category>
     <rating system="US">
       <value>NR</value>
