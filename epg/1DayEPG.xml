@@ -5,65 +5,7 @@
     <icon src="https://archive.org/download/RedBullTVLogo/Red-Bull-TV-Logo.png" />
     <url>http://www.redbull.tv</url>
   </channel>
-  <programme start="20190923155300 +0000" stop="20190923160900 +0000" channel="RedBull TV">
-    <title lang="en">Revel in the Chaos</title>
-    <sub-title lang="en">The best freestyle MTB riding ever</sub-title>
-    <desc lang="en">Revel in the Chaos follows Brandon Semenuk as he pushes himself beyond our view of possible. Brandon Semenuk brings a revolution in mountain biking. Revel in the Chaos follows the Canadian as he pushes himself beyond what's possible. It’s not an exaggeration to say this movie features the best freestyle riding ever done on a mountain bike.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190923160900 +0000" stop="20190923163100 +0000" channel="RedBull TV">
-    <title lang="en">Through My Eyes</title>
-    <sub-title lang="en">Aaron Chase's point of view</sub-title>
-    <desc lang="en">Pro mountain biker Aaron Chase captures a four-day trip to Mexico with his own POV camera. When adventure calls, pro mountain biker Aaron Chase always answers. When he gets the chance to go to Mexico to ride volcanoes, pyramids and jungles, there's no holding him back. Aaron captures the entire trip from his own POV camera.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190923163100 +0000" stop="20190923164700 +0000" channel="RedBull TV">
-    <title lang="en">Lifting the Lid</title>
-    <sub-title lang="en">MacAskill's Imaginate</sub-title>
-    <desc lang="en">Go behind the scenes on the super secret shoot of Danny MacAskill's Imaginate nearly two years in the making. Danny finally reveals the wild ride he's been dreaming up. He invites cameras to the set of Imaginate and explains the inspiration behind the unique concept, sharing just how complex and difficult it was to shoot the film, but well worth the effort.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190923164700 +0000" stop="20190923171400 +0000" channel="RedBull TV">
-    <title lang="en">Passion &amp; Genius</title>
-    <sub-title lang="en">Electric Shorts</sub-title>
-    <desc lang="en">Film director Asif Kapadia presents a trio of short films that celebrate extraordinary people. Director Asif Kapadia introduces three short films that encounter revolutionary human subjects. A mix of documentary and narrative drama, these films all couple a focus on remarkable individuals with sharp visual storytelling.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190923171400 +0000" stop="20190923180800 +0000" channel="RedBull TV">
-    <title lang="en">The Wild Ones</title>
-    <sub-title lang="en">Visions of Greatness</sub-title>
-    <desc lang="en">Experience the madness of creativity with Jane's Addiction frontman Perry Farrell and photographer Mick Rock. All truly great creativity has an element of madness. Jane's Addiction frontman Perry Farrell's and rock and roll photographer Mick Rock's lives embody those moments where loss and pain bring just enough madness to create genre-defining work.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190923180800 +0000" stop="20190923183000 +0000" channel="RedBull TV">
-    <title lang="en">The Sensei: Part II</title>
-    <sub-title lang="en">Reel Rock</sub-title>
-    <desc lang="en">Daniel Woods proves himself. Now he and his sensei, Yuji Hirayama, are off to the untapped peaks of Borneo. After Daniel Woods proves himself to Yuji Hirayama, the pair travel to the island of Borneo to establish new routes on Mount Kinabalu. The harsh conditions 13,000ft above sea level test both student and master, but they are determined to prevail.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190923183000 +0000" stop="20190923185500 +0000" channel="RedBull TV">
+  <programme start="20190924143800 +0000" stop="20190924150300 +0000" channel="RedBull TV">
     <title lang="en">Human Dart</title>
     <sub-title lang="en">Ultimate Rush</sub-title>
     <desc lang="en">A skydiver goes high and long to set the world record for the farthest absolute distance flown in a wingsuit. Skydiver Andy Stumpf loves a challenge, so when he has the opportunity to break four world records in one shot, he jumps at the chance. But what he wants above all else is to break the record for the farthest absolute distance flown in a wingsuit.</desc>
@@ -73,7 +15,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190923185500 +0000" stop="20190923194300 +0000" channel="RedBull TV">
+  <programme start="20190924150300 +0000" stop="20190924155100 +0000" channel="RedBull TV">
     <title lang="en">Mojave test pilot</title>
     <sub-title lang="en">Breaking the Day</sub-title>
     <desc lang="en">Test pilot Elliot Seguin must decide if he should build and fly an experimental plane as an expectant father. Test pilot Elliot Seguin has always dreamed of building and flying his own experimental aircraft. His Quickie design is on the verge of completion, but when Elliot finds out he's going to be a father, he must decide if the risk is worth the reward.</desc>
@@ -83,306 +25,179 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190923194300 +0000" stop="20190923203600 +0000" channel="RedBull TV">
-    <title lang="en">Onbashira</title>
-    <sub-title lang="en">Archaic Festivals</sub-title>
-    <desc lang="en">An ancient celebration that brings renewed spiritual protection to Shinto temples is also a way of life. This religious festival has been celebrated for 1,200 years, making it the oldest in Japan. Trees weighing as much as 9,000kg are brought from the mountains of Suwa to Shinto temples in a two-month celebration of unity, but it's not without danger.</desc>
+  <programme start="20190924155100 +0000" stop="20190924161900 +0000" channel="RedBull TV">
+    <title lang="en">ABC of... Formula One</title>
+    <sub-title lang="en">ABC of..</sub-title>
+    <desc lang="en">Get a crash course in F1 racing, with lessons in the terminology, history, heroes and drama of the sport. Find out everything you need to know about the international motorsport of Formula One racing with facts and figures, as well as lessons in the terminology, disciplines, history, heroes, and drama of the sport.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E3</episode-num>
+    <episode-num system="onscreen">S1 E8</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190923203600 +0000" stop="20190923204600 +0000" channel="RedBull TV">
-    <title lang="en">Turn Off Your Brain and Ride</title>
-    <sub-title lang="en">On Track</sub-title>
-    <desc lang="en">Take a look at how to find your flow, that focused state all riders strive for. Curits Keene explores that focused state all riders strive for – a feeling that everything's come together and you're riding faster than you've ever done before. Whether you call it 'flow' or 'being in the zone', here's how to find it.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S4 E5</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190923204600 +0000" stop="20190923210200 +0000" channel="RedBull TV">
-    <title lang="en">The Cool Kid</title>
-    <sub-title lang="en">Diggin' in the Carts</sub-title>
-    <desc lang="en">Nintendo and Sega squared off against each other in the '90s, both attempting to corner the video game market. While the race to claim market share between Sega and Nintendo was a tight one, the Sega system had access to an FM synth, which introduced new sound possibilities. With it, Yuzo Koshiro produced the masterful Streets of Rage soundtrack.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190923210200 +0000" stop="20190923222700 +0000" channel="RedBull TV">
-    <title lang="en">Against the Odds</title>
-    <sub-title lang="en">The gaming Cinderella story - EXCLUSIVE RELEASE ON AUGUST 7TH 3PM UTC</sub-title>
-    <desc lang="en">This is the journey of five Dota players and a coach, who, just two months before, had never played together. In 2018 Team OG were at rock-bottom, hit by painful departures and scrapping in qualifiers for Dota 2's T18. Against the Odds is the fairytale of this broken team's shot at Gaming’s biggest prize.</desc>
+  <programme start="20190924161900 +0000" stop="20190924164600 +0000" channel="RedBull TV">
+    <title lang="en">One Track Back</title>
+    <sub-title lang="en">The Matthias Walkner documentary</sub-title>
+    <desc lang="en">Follow Matthias Walkner through a journey of rehab and redemption as he overcomes injury and returns to form. Matthias Walkner, the daredevil in the world of rally raid biking, made the impossible possible: after a heavy crash at the 2016 Dakar Rally, sidelining his career, he gets crowned Dakar Rally champion only two years later.</desc>
     <category lang="en">Sports</category>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190923222700 +0000" stop="20190923224700 +0000" channel="RedBull TV">
-    <title lang="en">Music's Future</title>
-    <sub-title lang="en">Liquid Science</sub-title>
-    <desc lang="en">The legendary GZA, founder of Wu-Tang Clan, explores the future of music technology. Host GZA investigates the future of musical instrument technology at mi.mu and the Berklee College of Music, and freestyles with the future of music at Georgia Tech, United States.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190923224700 +0000" stop="20190923230900 +0000" channel="RedBull TV">
-    <title lang="en">Escape. Create.</title>
-    <sub-title lang="en">Building the hardest downhill trail</sub-title>
-    <desc lang="en">Dan Atherton designs intense BMX trails for himself and his sibling, brother Gee and sister Rachel. Something of a creative genius, mountain biker Dan Atherton designs intense, difficult trails for himself and his brother Gee, and sister Rachel. Watch as they perform amazing tricks on Dan's highly technical courses.</desc>
+  <programme start="20190924164600 +0000" stop="20190924165100 +0000" channel="RedBull TV">
+    <title lang="en">Mad Mike's drifting Lamborghini NIMBUL races KAMAZ to Goodwood</title>
+    <sub-title lang="en">Goodwood Festival of Speed 2019</sub-title>
+    <desc lang="en">'Mad' Mike and Eduard Nikolaev tear up the Goodwood estate in the race to make it the Festival of Speed. The Goodwood Festival of Speed is here, and in the race to arrive at the annual ball in style and bag the last parking space 'Mad' Mike Whiddett and Eduard Nikolaev cause country estate havoc.</desc>
     <category lang="en">Sports</category>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190923230900 +0000" stop="20190923231200 +0000" channel="RedBull TV">
-    <title lang="en">Kriss Kyle's Kaleidoscope</title>
-    <sub-title lang="en">See things differently</sub-title>
-    <desc lang="en">Kriss Kyle performs a number of world-first tricks in an ever-changing environment designed to deceive. Kriss Kyle is widely regarded as one of the most creative BMX riders of his generation, and Kaleidoscope is his most ambitious project to date. See Kriss perform a number of world-first tricks in an ever-changing environment.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190923231200 +0000" stop="20190923233900 +0000" channel="RedBull TV">
-    <title lang="en">Kriss Kyle's Kaleidoscope</title>
-    <sub-title lang="en">See things differently</sub-title>
-    <desc lang="en">Kriss Kyle performs a number of world-first tricks in an ever-changing environment designed to deceive. Kriss Kyle is widely regarded as one of the most creative BMX riders of his generation, and Kaleidoscope is his most ambitious project to date. See Kriss perform a number of world-first tricks in an ever-changing environment.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190923233900 +0000" stop="20190923234400 +0000" channel="RedBull TV">
-    <title lang="en">Wee Day Out</title>
-    <sub-title lang="en">Danny MacAskill in Scotland</sub-title>
-    <desc lang="en">Danny MacAskill tears around rural Scotland, setting out to capture the simple fun of a ride in the country. A relaxing day out in the Scottish countryside means something different for Danny MacAskill than it does for most people. With his signature trial riding style, Danny makes his way over hay bales, through forests and all along the rolling hills.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190923234400 +0000" stop="20190924004400 +0000" channel="RedBull TV">
-    <title lang="en">Moto 9</title>
-    <sub-title lang="en">The world's best places for riding</sub-title>
-    <desc lang="en">Journey to the world's most incredible riding locations with riders who are worthy of such venues. Journey to the world's most incredible riding locations with riders who are worthy of such venues in Moto 9, the latest of the world's most progressive moto video franchise.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190924004400 +0000" stop="20190924010000 +0000" channel="RedBull TV">
-    <title lang="en">Revel in the Chaos</title>
-    <sub-title lang="en">The best freestyle MTB riding ever</sub-title>
-    <desc lang="en">Revel in the Chaos follows Brandon Semenuk as he pushes himself beyond our view of possible. Brandon Semenuk brings a revolution in mountain biking. Revel in the Chaos follows the Canadian as he pushes himself beyond what's possible. It’s not an exaggeration to say this movie features the best freestyle riding ever done on a mountain bike.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190924010000 +0000" stop="20190923155300 +0000" channel="RedBull TV">
-    <title lang="en">Through My Eyes</title>
-    <sub-title lang="en">Aaron Chase's point of view</sub-title>
-    <desc lang="en">Pro mountain biker Aaron Chase captures a four-day trip to Mexico with his own POV camera. When adventure calls, pro mountain biker Aaron Chase always answers. When he gets the chance to go to Mexico to ride volcanoes, pyramids and jungles, there's no holding him back. Aaron captures the entire trip from his own POV camera.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190923155300 +0000" stop="20190923160900 +0000" channel="RedBull TV">
-    <title lang="en">Revel in the Chaos</title>
-    <sub-title lang="en">The best freestyle MTB riding ever</sub-title>
-    <desc lang="en">Revel in the Chaos follows Brandon Semenuk as he pushes himself beyond our view of possible. Brandon Semenuk brings a revolution in mountain biking. Revel in the Chaos follows the Canadian as he pushes himself beyond what's possible. It’s not an exaggeration to say this movie features the best freestyle riding ever done on a mountain bike.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190923160900 +0000" stop="20190923163100 +0000" channel="RedBull TV">
-    <title lang="en">Through My Eyes</title>
-    <sub-title lang="en">Aaron Chase's point of view</sub-title>
-    <desc lang="en">Pro mountain biker Aaron Chase captures a four-day trip to Mexico with his own POV camera. When adventure calls, pro mountain biker Aaron Chase always answers. When he gets the chance to go to Mexico to ride volcanoes, pyramids and jungles, there's no holding him back. Aaron captures the entire trip from his own POV camera.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190923163100 +0000" stop="20190923164700 +0000" channel="RedBull TV">
-    <title lang="en">Lifting the Lid</title>
-    <sub-title lang="en">MacAskill's Imaginate</sub-title>
-    <desc lang="en">Go behind the scenes on the super secret shoot of Danny MacAskill's Imaginate nearly two years in the making. Danny finally reveals the wild ride he's been dreaming up. He invites cameras to the set of Imaginate and explains the inspiration behind the unique concept, sharing just how complex and difficult it was to shoot the film, but well worth the effort.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190923164700 +0000" stop="20190923171400 +0000" channel="RedBull TV">
-    <title lang="en">Passion &amp; Genius</title>
-    <sub-title lang="en">Electric Shorts</sub-title>
-    <desc lang="en">Film director Asif Kapadia presents a trio of short films that celebrate extraordinary people. Director Asif Kapadia introduces three short films that encounter revolutionary human subjects. A mix of documentary and narrative drama, these films all couple a focus on remarkable individuals with sharp visual storytelling.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190923171400 +0000" stop="20190923180800 +0000" channel="RedBull TV">
-    <title lang="en">The Wild Ones</title>
-    <sub-title lang="en">Visions of Greatness</sub-title>
-    <desc lang="en">Experience the madness of creativity with Jane's Addiction frontman Perry Farrell and photographer Mick Rock. All truly great creativity has an element of madness. Jane's Addiction frontman Perry Farrell's and rock and roll photographer Mick Rock's lives embody those moments where loss and pain bring just enough madness to create genre-defining work.</desc>
+  <programme start="20190924165100 +0000" stop="20190924171600 +0000" channel="RedBull TV">
+    <title lang="en">Cowboy Boots</title>
+    <sub-title lang="en">Social Fabric</sub-title>
+    <desc lang="en">An American style that now spans the globe, Kyle Ng digs his heels in to learn about the cowboy boot. Saddle up and join Kyle Ng as he travels the world to learn how the cowboy boot made its way off the prairie. He visits Texas, United States to see where it all began, chills with cowboys in Rome, Italy, and rocks out with Kenyan heavy metal cowboys.</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S1 E6</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190923180800 +0000" stop="20190923183000 +0000" channel="RedBull TV">
-    <title lang="en">The Sensei: Part II</title>
-    <sub-title lang="en">Reel Rock</sub-title>
-    <desc lang="en">Daniel Woods proves himself. Now he and his sensei, Yuji Hirayama, are off to the untapped peaks of Borneo. After Daniel Woods proves himself to Yuji Hirayama, the pair travel to the island of Borneo to establish new routes on Mount Kinabalu. The harsh conditions 13,000ft above sea level test both student and master, but they are determined to prevail.</desc>
+  <programme start="20190924171600 +0000" stop="20190924172400 +0000" channel="RedBull TV">
+    <title lang="en">King of the Mountain</title>
+    <sub-title lang="en">Life Behind Bars</sub-title>
+    <desc lang="en">Brandon Semenuk and the crew arrive in France to compete at the muddy Châtel Mountain Style FMB event. Brandon Semenuk and the crew go to France to compete at the Châtel Mountain Style freeride mountain bike event. Despite a plague of injuries and muddy conditions, Brandon takes on the gnarly course before having fun on the world’s longest zip line.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190924172400 +0000" stop="20190924173600 +0000" channel="RedBull TV">
+    <title lang="en">Les 2 Alpes Bike Park</title>
+    <sub-title lang="en">Life Behind Bars</sub-title>
+    <desc lang="en">During a competition-filled month, Brandon Semenuk goes to France for a Crankworx event at Les 2 Alpes. In the midst of a competition-filled month, Brandon Semenuk travels to France for a Crankworx event at Les 2 Alpes. Due to unforeseen weather conditions, he has one chance to nail a perfect run if he wants to make it to the top of the podium.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190924173600 +0000" stop="20190924174600 +0000" channel="RedBull TV">
+    <title lang="en">Bearclaw Invitational</title>
+    <sub-title lang="en">Life Behind Bars</sub-title>
+    <desc lang="en">Brandon Semenuk looks to stay undefeated on the year at a slopestyle event on Vancouver Island, Canada. Brandon Semenuk looks to stay undefeated on the year at Bearclaw Invitational, a slopestyle event on Vancouver Island, BC, Canada. Then, to avoid burnout from the gruelling schedule, he gets off his bike to take a supercharged go-kart for a spin.</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S1 E9</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190923183000 +0000" stop="20190923185500 +0000" channel="RedBull TV">
-    <title lang="en">Human Dart</title>
-    <sub-title lang="en">Ultimate Rush</sub-title>
-    <desc lang="en">A skydiver goes high and long to set the world record for the farthest absolute distance flown in a wingsuit. Skydiver Andy Stumpf loves a challenge, so when he has the opportunity to break four world records in one shot, he jumps at the chance. But what he wants above all else is to break the record for the farthest absolute distance flown in a wingsuit.</desc>
+  <programme start="20190924174600 +0000" stop="20190924181200 +0000" channel="RedBull TV">
+    <title lang="en">Florence</title>
+    <sub-title lang="en">The Road Trick</sub-title>
+    <desc lang="en">Adam Trent is off to Florence, Italy, to see authentic Italian culture in the birthplace of the Renaissance. After experiencing the lifestyle of the rich and famous in Monaco, Adam Trent is off to Florence, Italy, to immerse himself in authentic Italian culture. The connections he makes with his magic unlock secrets of the city known only to the locals.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S5 E5</episode-num>
+    <episode-num system="onscreen">S1 E6</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190923185500 +0000" stop="20190923194300 +0000" channel="RedBull TV">
-    <title lang="en">Mojave test pilot</title>
-    <sub-title lang="en">Breaking the Day</sub-title>
-    <desc lang="en">Test pilot Elliot Seguin must decide if he should build and fly an experimental plane as an expectant father. Test pilot Elliot Seguin has always dreamed of building and flying his own experimental aircraft. His Quickie design is on the verge of completion, but when Elliot finds out he's going to be a father, he must decide if the risk is worth the reward.</desc>
+  <programme start="20190924181200 +0000" stop="20190924183900 +0000" channel="RedBull TV">
+    <title lang="en">Blast Off</title>
+    <sub-title lang="en">Motorkite Dreaming</sub-title>
+    <desc lang="en">Aiden Glasby and Daryl Clarke embark on an adventure across Australia with modest microlight equipment. Aiden Glasby and Daryl Clarke embark on an ambitious adventure across Australia with a pair of modest microlight aircrafts. Accompanied by their fiancées, Lexi and Elsie, and a local guide, Bart, they fly to their first stop: Wardang Island.</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>NR</value>
+      <value>UR</value>
     </rating>
   </programme>
-  <programme start="20190923194300 +0000" stop="20190923203600 +0000" channel="RedBull TV">
-    <title lang="en">Onbashira</title>
-    <sub-title lang="en">Archaic Festivals</sub-title>
-    <desc lang="en">An ancient celebration that brings renewed spiritual protection to Shinto temples is also a way of life. This religious festival has been celebrated for 1,200 years, making it the oldest in Japan. Trees weighing as much as 9,000kg are brought from the mountains of Suwa to Shinto temples in a two-month celebration of unity, but it's not without danger.</desc>
+  <programme start="20190924183900 +0000" stop="20190924193500 +0000" channel="RedBull TV">
+    <title lang="en">Locked In</title>
+    <sub-title lang="en">First descent of the Beriman Gorge</sub-title>
+    <desc lang="en">Ben Stookesberry and a group of kayakers attempt a first descent of the Beriman River in Papua New Guinea. Ben Stookesberry and a group of professional kayakers journey to the remote jungles of Papua New Guinea to attempt a first descent of the Beriman River, a daunting 40km run lined with sheer limestone walls and no way out but to ride to the ocean.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190923203600 +0000" stop="20190923204600 +0000" channel="RedBull TV">
-    <title lang="en">Turn Off Your Brain and Ride</title>
-    <sub-title lang="en">On Track</sub-title>
-    <desc lang="en">Take a look at how to find your flow, that focused state all riders strive for. Curits Keene explores that focused state all riders strive for – a feeling that everything's come together and you're riding faster than you've ever done before. Whether you call it 'flow' or 'being in the zone', here's how to find it.</desc>
+  <programme start="20190924193500 +0000" stop="20190924194900 +0000" channel="RedBull TV">
+    <title lang="en">Iron to the Core</title>
+    <sub-title lang="en">The Sebastian Kienle Story</sub-title>
+    <desc lang="en">Long-distance triathlete Sebastian Kienle gives an inside look at what it takes to be an IRONMAN athlete. Decorated long-distance triathlete Sebastian Kienle gives an inside look at what it takes to be an IRONMAN athlete. From preparation to race day, it's a life spent enduring gruelling trials, but every small success makes the arduous journey worth it.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S4 E5</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190923204600 +0000" stop="20190923210200 +0000" channel="RedBull TV">
-    <title lang="en">The Cool Kid</title>
-    <sub-title lang="en">Diggin' in the Carts</sub-title>
-    <desc lang="en">Nintendo and Sega squared off against each other in the '90s, both attempting to corner the video game market. While the race to claim market share between Sega and Nintendo was a tight one, the Sega system had access to an FM synth, which introduced new sound possibilities. With it, Yuzo Koshiro produced the masterful Streets of Rage soundtrack.</desc>
+  <programme start="20190924194900 +0000" stop="20190924195300 +0000" channel="RedBull TV">
+    <title lang="en">AWOLNATION – Kill Your Heroes</title>
+    <sub-title lang="en">Official music video from Red Bull Records</sub-title>
+    <desc lang="en">A group of kids are inspired to outrageous shenanigans by a group of bizarro-world Mister Rogers lookalikes. From their album Megalithic Symphony, AWOLNATION dresses up as a group of foul-mouthed, bizarro-world Mister Rogers lookalikes called The Milkmen and inspires a group of '60s children to rock-and-roll shenanigans.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190924195300 +0000" stop="20190924201800 +0000" channel="RedBull TV">
+    <title lang="en">B-Boys on the Road</title>
+    <sub-title lang="en">Break'n Reality</sub-title>
+    <desc lang="en">Break'n Reality S1E2. Roxrite attends a BC One All-Stars workshop and makes a big decision about his immediate future. Lilou travels from France to visit his extended family in Algeria. Neguin heads home to Brazil but still struggles with his brother's death last year.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190924201800 +0000" stop="20190924204400 +0000" channel="RedBull TV">
+    <title lang="en">Viking Velocity</title>
+    <sub-title lang="en">Ultimate Rush</sub-title>
+    <desc lang="en">Downhill racer Erik Lundberg has a gravity-fuelled dream to break the world skateboard speed record. To break the current world speed record on a skateboard, downhill racer Erik Lundberg will have to go faster than 129.95kph (80.7mph). It's a feat that will make him rethink his motivations, his equipment and his commitment to his goal.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190924204400 +0000" stop="20190924204700 +0000" channel="RedBull TV">
+    <title lang="en">Freerunning in India</title>
+    <sub-title lang="en">Travel Story</sub-title>
+    <desc lang="en">Ryan visits India for the first time and has some fun learning a new skill — Bollywood dancing. Ryan visits India for the first time and has some fun learning a new skill — Bollywood dancing. After mingling with the locals and jumping from city rooftops, Ryan does some parkour in front of the breathtaking Taj Mahal.</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190923210200 +0000" stop="20190923222700 +0000" channel="RedBull TV">
-    <title lang="en">Against the Odds</title>
-    <sub-title lang="en">The gaming Cinderella story - EXCLUSIVE RELEASE ON AUGUST 7TH 3PM UTC</sub-title>
-    <desc lang="en">This is the journey of five Dota players and a coach, who, just two months before, had never played together. In 2018 Team OG were at rock-bottom, hit by painful departures and scrapping in qualifiers for Dota 2's T18. Against the Odds is the fairytale of this broken team's shot at Gaming’s biggest prize.</desc>
+  <programme start="20190924204700 +0000" stop="20190924210800 +0000" channel="RedBull TV">
+    <title lang="en">Surfing at J-Bay 2019</title>
+    <sub-title lang="en">No Contest</sub-title>
+    <desc lang="en">At J-Bay, South Africa, a selection of visiting and local pros feast on several days' worth of flawless walls. As winter set in at J-Bay, in South Africa, a selection of visiting and local pros feasted on several days' worth of flawless walls at the world's best right-hander.</desc>
     <category lang="en">Sports</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190923222700 +0000" stop="20190923224700 +0000" channel="RedBull TV">
-    <title lang="en">Music's Future</title>
-    <sub-title lang="en">Liquid Science</sub-title>
-    <desc lang="en">The legendary GZA, founder of Wu-Tang Clan, explores the future of music technology. Host GZA investigates the future of musical instrument technology at mi.mu and the Berklee College of Music, and freestyles with the future of music at Georgia Tech, United States.</desc>
+  <programme start="20190924210800 +0000" stop="20190924211700 +0000" channel="RedBull TV">
+    <title lang="en">Heading Down Under</title>
+    <sub-title lang="en">Who is JOB</sub-title>
+    <desc lang="en">Jamie O'Brien and the surf crew kick off the show's final season with the madness that only they can deliver. Jamie O'Brien and the whole crew kick off the show's final season with the madness that only they can deliver. Heading from Hawaii to Australia, the guys take a motorhome all over the coast.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
+    <episode-num system="onscreen">S8 E1</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190923224700 +0000" stop="20190923230900 +0000" channel="RedBull TV">
-    <title lang="en">Escape. Create.</title>
-    <sub-title lang="en">Building the hardest downhill trail</sub-title>
-    <desc lang="en">Dan Atherton designs intense BMX trails for himself and his sibling, brother Gee and sister Rachel. Something of a creative genius, mountain biker Dan Atherton designs intense, difficult trails for himself and his brother Gee, and sister Rachel. Watch as they perform amazing tricks on Dan's highly technical courses.</desc>
+  <programme start="20190924211700 +0000" stop="20190924212500 +0000" channel="RedBull TV">
+    <title lang="en">Kayaks, barrels and powder mountain</title>
+    <sub-title lang="en">Who is JOB</sub-title>
+    <desc lang="en">Jamie O’Brien and Poopies get up bright and early to go river surfing. Jamie O’Brien and Poopies get up bright and early to start river surfing. Then Poopies gets a serious dose of powder mountain before he and the crew go chasing barrels on kayaks.</desc>
     <category lang="en">Sports</category>
+    <episode-num system="onscreen">S7 E1</episode-num>
     <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190923230900 +0000" stop="20190923231200 +0000" channel="RedBull TV">
-    <title lang="en">Kriss Kyle's Kaleidoscope</title>
-    <sub-title lang="en">See things differently</sub-title>
-    <desc lang="en">Kriss Kyle performs a number of world-first tricks in an ever-changing environment designed to deceive. Kriss Kyle is widely regarded as one of the most creative BMX riders of his generation, and Kaleidoscope is his most ambitious project to date. See Kriss perform a number of world-first tricks in an ever-changing environment.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190923231200 +0000" stop="20190923233900 +0000" channel="RedBull TV">
-    <title lang="en">Kriss Kyle's Kaleidoscope</title>
-    <sub-title lang="en">See things differently</sub-title>
-    <desc lang="en">Kriss Kyle performs a number of world-first tricks in an ever-changing environment designed to deceive. Kriss Kyle is widely regarded as one of the most creative BMX riders of his generation, and Kaleidoscope is his most ambitious project to date. See Kriss perform a number of world-first tricks in an ever-changing environment.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190923233900 +0000" stop="20190923234400 +0000" channel="RedBull TV">
-    <title lang="en">Wee Day Out</title>
-    <sub-title lang="en">Danny MacAskill in Scotland</sub-title>
-    <desc lang="en">Danny MacAskill tears around rural Scotland, setting out to capture the simple fun of a ride in the country. A relaxing day out in the Scottish countryside means something different for Danny MacAskill than it does for most people. With his signature trial riding style, Danny makes his way over hay bales, through forests and all along the rolling hills.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190923234400 +0000" stop="20190924004400 +0000" channel="RedBull TV">
-    <title lang="en">Moto 9</title>
-    <sub-title lang="en">The world's best places for riding</sub-title>
-    <desc lang="en">Journey to the world's most incredible riding locations with riders who are worthy of such venues. Journey to the world's most incredible riding locations with riders who are worthy of such venues in Moto 9, the latest of the world's most progressive moto video franchise.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190924004400 +0000" stop="20190924010000 +0000" channel="RedBull TV">
-    <title lang="en">Revel in the Chaos</title>
-    <sub-title lang="en">The best freestyle MTB riding ever</sub-title>
-    <desc lang="en">Revel in the Chaos follows Brandon Semenuk as he pushes himself beyond our view of possible. Brandon Semenuk brings a revolution in mountain biking. Revel in the Chaos follows the Canadian as he pushes himself beyond what's possible. It’s not an exaggeration to say this movie features the best freestyle riding ever done on a mountain bike.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190924010000 +0000" stop="20190924012200 +0000" channel="RedBull TV">
-    <title lang="en">Through My Eyes</title>
-    <sub-title lang="en">Aaron Chase's point of view</sub-title>
-    <desc lang="en">Pro mountain biker Aaron Chase captures a four-day trip to Mexico with his own POV camera. When adventure calls, pro mountain biker Aaron Chase always answers. When he gets the chance to go to Mexico to ride volcanoes, pyramids and jungles, there's no holding him back. Aaron captures the entire trip from his own POV camera.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
+      <value>UR</value>
     </rating>
   </programme>
 </tv>
