@@ -5,27 +5,65 @@
     <icon src="https://archive.org/download/RedBullTVLogo/Red-Bull-TV-Logo.png" />
     <url>http://www.redbull.tv</url>
   </channel>
-  <programme start="20190924143800 +0000" stop="20190924150300 +0000" channel="RedBull TV">
-    <title lang="en">Human Dart</title>
-    <sub-title lang="en">Ultimate Rush</sub-title>
-    <desc lang="en">A skydiver goes high and long to set the world record for the farthest absolute distance flown in a wingsuit. Skydiver Andy Stumpf loves a challenge, so when he has the opportunity to break four world records in one shot, he jumps at the chance. But what he wants above all else is to break the record for the farthest absolute distance flown in a wingsuit.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S5 E5</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190924150300 +0000" stop="20190924155100 +0000" channel="RedBull TV">
-    <title lang="en">Mojave test pilot</title>
-    <sub-title lang="en">Breaking the Day</sub-title>
-    <desc lang="en">Test pilot Elliot Seguin must decide if he should build and fly an experimental plane as an expectant father. Test pilot Elliot Seguin has always dreamed of building and flying his own experimental aircraft. His Quickie design is on the verge of completion, but when Elliot finds out he's going to be a father, he must decide if the risk is worth the reward.</desc>
+  <programme start="20190926152900 +0000" stop="20190926154400 +0000" channel="RedBull TV">
+    <title lang="en">Red Bull Music Studio Sessions: Kelly Rowland</title>
+    <sub-title lang="en">Red Bull Music Studios Sessions</sub-title>
+    <desc lang="en">Kelly Rowland and producers collaborate to share an artistic journey of music writing and recording. Go behind the scenes of a creative musical journey as a team of songwriters and producers write and record three tracks with superstar singer and artist Kelly Rowland at Red Bull Studios Los Angeles.</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190924155100 +0000" stop="20190924161900 +0000" channel="RedBull TV">
+  <programme start="20190926154400 +0000" stop="20190926163000 +0000" channel="RedBull TV">
+    <title lang="en">King of the Peak</title>
+    <sub-title lang="en">Driving the historic Pikes Peak course</sub-title>
+    <desc lang="en">Two drivers attempt to break the world record time at the Pikes Peak International Hill Climb, Colorado, USA. The Pikes Peak International Hill Climb, Colorado, USA – a 19.99km (12.4 mile), 156-turn monster of a track – has been pushing drivers to the limit since 1916. In 2013 Rhys Millen and Sébastien Loeb tried to set a record time at this historic race.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190926171400 +0000" stop="20190926173000 +0000" channel="RedBull TV">
+    <title lang="en">Rob Meets Sam Sunderland</title>
+    <sub-title lang="en">Rob Meets</sub-title>
+    <desc lang="en">Rob Warner meets 2017 Dakar Rally winner Sam Sunderland as he hones his motorcycle skills for the 2019 event. Rob Warner heads to France to meet with 2017 Dakar Rally winner Sam Sunderland to see how the British motorcycle rider’s preparations are going for the 2019 edition of the event.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190926173000 +0000" stop="20190926190200 +0000" channel="RedBull TV">
+    <title lang="en">Game Loading</title>
+    <sub-title lang="en">Rise of the indies</sub-title>
+    <desc lang="en">Disrupting the big-budget games industry, indie developers have forever impacted the world of video games. Explore the world of indie game developers – their craft, their games, their dreams and the way that these small teams of artists and programmers have forever changed not only video game culture, but the world at large.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190926190200 +0000" stop="20190926191200 +0000" channel="RedBull TV">
+    <title lang="en">Rebound</title>
+    <sub-title lang="en">Cultivation</sub-title>
+    <desc lang="en">With a major tournament on the horizon, can Leffen recover from a disappointing EGLX showing in Canada? After a disappointing seventh place finish at the EGLX tournament, Leffen must rediscover the mindset that once made him a Melee winner. The first step: lots of practice with top competition to prepare for the upcoming GOML 2016 tournament.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190926191200 +0000" stop="20190926192600 +0000" channel="RedBull TV">
+    <title lang="en">Reclaim</title>
+    <sub-title lang="en">Cultivation</sub-title>
+    <desc lang="en">Leffen finds himself in Winners Semis at GOML 2016 against one of the best players in Melee history: Armada. Leffen finds himself in Winners Semis at GOML 2016 but is up against one of the most dominant players in Melee history: Armada. Can Leffen rediscover the elite form needed to win and reclaim his place among the gods of Melee?</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190926192600 +0000" stop="20190926195400 +0000" channel="RedBull TV">
     <title lang="en">ABC of... Formula One</title>
     <sub-title lang="en">ABC of..</sub-title>
     <desc lang="en">Get a crash course in F1 racing, with lessons in the terminology, history, heroes and drama of the sport. Find out everything you need to know about the international motorsport of Formula One racing with facts and figures, as well as lessons in the terminology, disciplines, history, heroes, and drama of the sport.</desc>
@@ -35,7 +73,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190924161900 +0000" stop="20190924164600 +0000" channel="RedBull TV">
+  <programme start="20190926195400 +0000" stop="20190926202200 +0000" channel="RedBull TV">
     <title lang="en">One Track Back</title>
     <sub-title lang="en">The Matthias Walkner documentary</sub-title>
     <desc lang="en">Follow Matthias Walkner through a journey of rehab and redemption as he overcomes injury and returns to form. Matthias Walkner, the daredevil in the world of rally raid biking, made the impossible possible: after a heavy crash at the 2016 Dakar Rally, sidelining his career, he gets crowned Dakar Rally champion only two years later.</desc>
@@ -44,7 +82,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190924164600 +0000" stop="20190924165100 +0000" channel="RedBull TV">
+  <programme start="20190926202200 +0000" stop="20190926202700 +0000" channel="RedBull TV">
     <title lang="en">Mad Mike's drifting Lamborghini NIMBUL races KAMAZ to Goodwood</title>
     <sub-title lang="en">Goodwood Festival of Speed 2019</sub-title>
     <desc lang="en">'Mad' Mike and Eduard Nikolaev tear up the Goodwood estate in the race to make it the Festival of Speed. The Goodwood Festival of Speed is here, and in the race to arrive at the annual ball in style and bag the last parking space 'Mad' Mike Whiddett and Eduard Nikolaev cause country estate havoc.</desc>
@@ -53,7 +91,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190924165100 +0000" stop="20190924171600 +0000" channel="RedBull TV">
+  <programme start="20190926202700 +0000" stop="20190926205200 +0000" channel="RedBull TV">
     <title lang="en">Cowboy Boots</title>
     <sub-title lang="en">Social Fabric</sub-title>
     <desc lang="en">An American style that now spans the globe, Kyle Ng digs his heels in to learn about the cowboy boot. Saddle up and join Kyle Ng as he travels the world to learn how the cowboy boot made its way off the prairie. He visits Texas, United States to see where it all began, chills with cowboys in Rome, Italy, and rocks out with Kenyan heavy metal cowboys.</desc>
@@ -63,7 +101,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190924171600 +0000" stop="20190924172400 +0000" channel="RedBull TV">
+  <programme start="20190926205200 +0000" stop="20190926210000 +0000" channel="RedBull TV">
     <title lang="en">King of the Mountain</title>
     <sub-title lang="en">Life Behind Bars</sub-title>
     <desc lang="en">Brandon Semenuk and the crew arrive in France to compete at the muddy Châtel Mountain Style FMB event. Brandon Semenuk and the crew go to France to compete at the Châtel Mountain Style freeride mountain bike event. Despite a plague of injuries and muddy conditions, Brandon takes on the gnarly course before having fun on the world’s longest zip line.</desc>
@@ -73,7 +111,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190924172400 +0000" stop="20190924173600 +0000" channel="RedBull TV">
+  <programme start="20190926210000 +0000" stop="20190926211200 +0000" channel="RedBull TV">
     <title lang="en">Les 2 Alpes Bike Park</title>
     <sub-title lang="en">Life Behind Bars</sub-title>
     <desc lang="en">During a competition-filled month, Brandon Semenuk goes to France for a Crankworx event at Les 2 Alpes. In the midst of a competition-filled month, Brandon Semenuk travels to France for a Crankworx event at Les 2 Alpes. Due to unforeseen weather conditions, he has one chance to nail a perfect run if he wants to make it to the top of the podium.</desc>
@@ -83,7 +121,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190924173600 +0000" stop="20190924174600 +0000" channel="RedBull TV">
+  <programme start="20190926211200 +0000" stop="20190926212200 +0000" channel="RedBull TV">
     <title lang="en">Bearclaw Invitational</title>
     <sub-title lang="en">Life Behind Bars</sub-title>
     <desc lang="en">Brandon Semenuk looks to stay undefeated on the year at a slopestyle event on Vancouver Island, Canada. Brandon Semenuk looks to stay undefeated on the year at Bearclaw Invitational, a slopestyle event on Vancouver Island, BC, Canada. Then, to avoid burnout from the gruelling schedule, he gets off his bike to take a supercharged go-kart for a spin.</desc>
@@ -93,7 +131,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190924174600 +0000" stop="20190924181200 +0000" channel="RedBull TV">
+  <programme start="20190926212200 +0000" stop="20190926214700 +0000" channel="RedBull TV">
     <title lang="en">Florence</title>
     <sub-title lang="en">The Road Trick</sub-title>
     <desc lang="en">Adam Trent is off to Florence, Italy, to see authentic Italian culture in the birthplace of the Renaissance. After experiencing the lifestyle of the rich and famous in Monaco, Adam Trent is off to Florence, Italy, to immerse himself in authentic Italian culture. The connections he makes with his magic unlock secrets of the city known only to the locals.</desc>
@@ -103,7 +141,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190924181200 +0000" stop="20190924183900 +0000" channel="RedBull TV">
+  <programme start="20190926214700 +0000" stop="20190926221400 +0000" channel="RedBull TV">
     <title lang="en">Blast Off</title>
     <sub-title lang="en">Motorkite Dreaming</sub-title>
     <desc lang="en">Aiden Glasby and Daryl Clarke embark on an adventure across Australia with modest microlight equipment. Aiden Glasby and Daryl Clarke embark on an ambitious adventure across Australia with a pair of modest microlight aircrafts. Accompanied by their fiancées, Lexi and Elsie, and a local guide, Bart, they fly to their first stop: Wardang Island.</desc>
@@ -113,7 +151,7 @@
       <value>UR</value>
     </rating>
   </programme>
-  <programme start="20190924183900 +0000" stop="20190924193500 +0000" channel="RedBull TV">
+  <programme start="20190926221400 +0000" stop="20190926231000 +0000" channel="RedBull TV">
     <title lang="en">Locked In</title>
     <sub-title lang="en">First descent of the Beriman Gorge</sub-title>
     <desc lang="en">Ben Stookesberry and a group of kayakers attempt a first descent of the Beriman River in Papua New Guinea. Ben Stookesberry and a group of professional kayakers journey to the remote jungles of Papua New Guinea to attempt a first descent of the Beriman River, a daunting 40km run lined with sheer limestone walls and no way out but to ride to the ocean.</desc>
@@ -122,7 +160,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190924193500 +0000" stop="20190924194900 +0000" channel="RedBull TV">
+  <programme start="20190926231000 +0000" stop="20190926232500 +0000" channel="RedBull TV">
     <title lang="en">Iron to the Core</title>
     <sub-title lang="en">The Sebastian Kienle Story</sub-title>
     <desc lang="en">Long-distance triathlete Sebastian Kienle gives an inside look at what it takes to be an IRONMAN athlete. Decorated long-distance triathlete Sebastian Kienle gives an inside look at what it takes to be an IRONMAN athlete. From preparation to race day, it's a life spent enduring gruelling trials, but every small success makes the arduous journey worth it.</desc>
@@ -131,73 +169,224 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190924194900 +0000" stop="20190924195300 +0000" channel="RedBull TV">
-    <title lang="en">AWOLNATION – Kill Your Heroes</title>
-    <sub-title lang="en">Official music video from Red Bull Records</sub-title>
-    <desc lang="en">A group of kids are inspired to outrageous shenanigans by a group of bizarro-world Mister Rogers lookalikes. From their album Megalithic Symphony, AWOLNATION dresses up as a group of foul-mouthed, bizarro-world Mister Rogers lookalikes called The Milkmen and inspires a group of '60s children to rock-and-roll shenanigans.</desc>
+  <programme start="20190926232500 +0000" stop="20190926234000 +0000" channel="RedBull TV">
+    <title lang="en">Revel in the Chaos</title>
+    <sub-title lang="en">The best freestyle MTB riding ever</sub-title>
+    <desc lang="en">Revel in the Chaos follows Brandon Semenuk as he pushes himself beyond our view of possible. Brandon Semenuk brings a revolution in mountain biking. Revel in the Chaos follows the Canadian as he pushes himself beyond what's possible. It’s not an exaggeration to say this movie features the best freestyle riding ever done on a mountain bike.</desc>
     <category lang="en">Sports</category>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190924195300 +0000" stop="20190924201800 +0000" channel="RedBull TV">
-    <title lang="en">B-Boys on the Road</title>
-    <sub-title lang="en">Break'n Reality</sub-title>
-    <desc lang="en">Break'n Reality S1E2. Roxrite attends a BC One All-Stars workshop and makes a big decision about his immediate future. Lilou travels from France to visit his extended family in Algeria. Neguin heads home to Brazil but still struggles with his brother's death last year.</desc>
+  <programme start="20190926234000 +0000" stop="20190927000200 +0000" channel="RedBull TV">
+    <title lang="en">Through My Eyes</title>
+    <sub-title lang="en">Aaron Chase's point of view</sub-title>
+    <desc lang="en">Pro mountain biker Aaron Chase captures a four-day trip to Mexico with his own POV camera. When adventure calls, pro mountain biker Aaron Chase always answers. When he gets the chance to go to Mexico to ride volcanoes, pyramids and jungles, there's no holding him back. Aaron captures the entire trip from his own POV camera.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190924201800 +0000" stop="20190924204400 +0000" channel="RedBull TV">
-    <title lang="en">Viking Velocity</title>
-    <sub-title lang="en">Ultimate Rush</sub-title>
-    <desc lang="en">Downhill racer Erik Lundberg has a gravity-fuelled dream to break the world skateboard speed record. To break the current world speed record on a skateboard, downhill racer Erik Lundberg will have to go faster than 129.95kph (80.7mph). It's a feat that will make him rethink his motivations, his equipment and his commitment to his goal.</desc>
+  <programme start="20190927000200 +0000" stop="20190926152900 +0000" channel="RedBull TV">
+    <title lang="en">Lifting the Lid</title>
+    <sub-title lang="en">MacAskill's Imaginate</sub-title>
+    <desc lang="en">Go behind the scenes on the super secret shoot of Danny MacAskill's Imaginate nearly two years in the making. Danny finally reveals the wild ride he's been dreaming up. He invites cameras to the set of Imaginate and explains the inspiration behind the unique concept, sharing just how complex and difficult it was to shoot the film, but well worth the effort.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S5 E1</episode-num>
+    <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190924204400 +0000" stop="20190924204700 +0000" channel="RedBull TV">
-    <title lang="en">Freerunning in India</title>
-    <sub-title lang="en">Travel Story</sub-title>
-    <desc lang="en">Ryan visits India for the first time and has some fun learning a new skill — Bollywood dancing. Ryan visits India for the first time and has some fun learning a new skill — Bollywood dancing. After mingling with the locals and jumping from city rooftops, Ryan does some parkour in front of the breathtaking Taj Mahal.</desc>
+  <programme start="20190926152900 +0000" stop="20190926154400 +0000" channel="RedBull TV">
+    <title lang="en">Red Bull Music Studio Sessions: Kelly Rowland</title>
+    <sub-title lang="en">Red Bull Music Studios Sessions</sub-title>
+    <desc lang="en">Kelly Rowland and producers collaborate to share an artistic journey of music writing and recording. Go behind the scenes of a creative musical journey as a team of songwriters and producers write and record three tracks with superstar singer and artist Kelly Rowland at Red Bull Studios Los Angeles.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E4</episode-num>
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190924204700 +0000" stop="20190924210800 +0000" channel="RedBull TV">
-    <title lang="en">Surfing at J-Bay 2019</title>
-    <sub-title lang="en">No Contest</sub-title>
-    <desc lang="en">At J-Bay, South Africa, a selection of visiting and local pros feast on several days' worth of flawless walls. As winter set in at J-Bay, in South Africa, a selection of visiting and local pros feasted on several days' worth of flawless walls at the world's best right-hander.</desc>
+  <programme start="20190926154400 +0000" stop="20190926163000 +0000" channel="RedBull TV">
+    <title lang="en">King of the Peak</title>
+    <sub-title lang="en">Driving the historic Pikes Peak course</sub-title>
+    <desc lang="en">Two drivers attempt to break the world record time at the Pikes Peak International Hill Climb, Colorado, USA. The Pikes Peak International Hill Climb, Colorado, USA – a 19.99km (12.4 mile), 156-turn monster of a track – has been pushing drivers to the limit since 1916. In 2013 Rhys Millen and Sébastien Loeb tried to set a record time at this historic race.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190926171400 +0000" stop="20190926173000 +0000" channel="RedBull TV">
+    <title lang="en">Rob Meets Sam Sunderland</title>
+    <sub-title lang="en">Rob Meets</sub-title>
+    <desc lang="en">Rob Warner meets 2017 Dakar Rally winner Sam Sunderland as he hones his motorcycle skills for the 2019 event. Rob Warner heads to France to meet with 2017 Dakar Rally winner Sam Sunderland to see how the British motorcycle rider’s preparations are going for the 2019 edition of the event.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190926173000 +0000" stop="20190926190200 +0000" channel="RedBull TV">
+    <title lang="en">Game Loading</title>
+    <sub-title lang="en">Rise of the indies</sub-title>
+    <desc lang="en">Disrupting the big-budget games industry, indie developers have forever impacted the world of video games. Explore the world of indie game developers – their craft, their games, their dreams and the way that these small teams of artists and programmers have forever changed not only video game culture, but the world at large.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190926190200 +0000" stop="20190926191200 +0000" channel="RedBull TV">
+    <title lang="en">Rebound</title>
+    <sub-title lang="en">Cultivation</sub-title>
+    <desc lang="en">With a major tournament on the horizon, can Leffen recover from a disappointing EGLX showing in Canada? After a disappointing seventh place finish at the EGLX tournament, Leffen must rediscover the mindset that once made him a Melee winner. The first step: lots of practice with top competition to prepare for the upcoming GOML 2016 tournament.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190926191200 +0000" stop="20190926192600 +0000" channel="RedBull TV">
+    <title lang="en">Reclaim</title>
+    <sub-title lang="en">Cultivation</sub-title>
+    <desc lang="en">Leffen finds himself in Winners Semis at GOML 2016 against one of the best players in Melee history: Armada. Leffen finds himself in Winners Semis at GOML 2016 but is up against one of the most dominant players in Melee history: Armada. Can Leffen rediscover the elite form needed to win and reclaim his place among the gods of Melee?</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S2 E6</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190924210800 +0000" stop="20190924211700 +0000" channel="RedBull TV">
-    <title lang="en">Heading Down Under</title>
-    <sub-title lang="en">Who is JOB</sub-title>
-    <desc lang="en">Jamie O'Brien and the surf crew kick off the show's final season with the madness that only they can deliver. Jamie O'Brien and the whole crew kick off the show's final season with the madness that only they can deliver. Heading from Hawaii to Australia, the guys take a motorhome all over the coast.</desc>
+  <programme start="20190926192600 +0000" stop="20190926195400 +0000" channel="RedBull TV">
+    <title lang="en">ABC of... Formula One</title>
+    <sub-title lang="en">ABC of..</sub-title>
+    <desc lang="en">Get a crash course in F1 racing, with lessons in the terminology, history, heroes and drama of the sport. Find out everything you need to know about the international motorsport of Formula One racing with facts and figures, as well as lessons in the terminology, disciplines, history, heroes, and drama of the sport.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S8 E1</episode-num>
+    <episode-num system="onscreen">S1 E8</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190924211700 +0000" stop="20190924212500 +0000" channel="RedBull TV">
-    <title lang="en">Kayaks, barrels and powder mountain</title>
-    <sub-title lang="en">Who is JOB</sub-title>
-    <desc lang="en">Jamie O’Brien and Poopies get up bright and early to go river surfing. Jamie O’Brien and Poopies get up bright and early to start river surfing. Then Poopies gets a serious dose of powder mountain before he and the crew go chasing barrels on kayaks.</desc>
+  <programme start="20190926195400 +0000" stop="20190926202200 +0000" channel="RedBull TV">
+    <title lang="en">One Track Back</title>
+    <sub-title lang="en">The Matthias Walkner documentary</sub-title>
+    <desc lang="en">Follow Matthias Walkner through a journey of rehab and redemption as he overcomes injury and returns to form. Matthias Walkner, the daredevil in the world of rally raid biking, made the impossible possible: after a heavy crash at the 2016 Dakar Rally, sidelining his career, he gets crowned Dakar Rally champion only two years later.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S7 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190926202200 +0000" stop="20190926202700 +0000" channel="RedBull TV">
+    <title lang="en">Mad Mike's drifting Lamborghini NIMBUL races KAMAZ to Goodwood</title>
+    <sub-title lang="en">Goodwood Festival of Speed 2019</sub-title>
+    <desc lang="en">'Mad' Mike and Eduard Nikolaev tear up the Goodwood estate in the race to make it the Festival of Speed. The Goodwood Festival of Speed is here, and in the race to arrive at the annual ball in style and bag the last parking space 'Mad' Mike Whiddett and Eduard Nikolaev cause country estate havoc.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190926202700 +0000" stop="20190926205200 +0000" channel="RedBull TV">
+    <title lang="en">Cowboy Boots</title>
+    <sub-title lang="en">Social Fabric</sub-title>
+    <desc lang="en">An American style that now spans the globe, Kyle Ng digs his heels in to learn about the cowboy boot. Saddle up and join Kyle Ng as he travels the world to learn how the cowboy boot made its way off the prairie. He visits Texas, United States to see where it all began, chills with cowboys in Rome, Italy, and rocks out with Kenyan heavy metal cowboys.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190926205200 +0000" stop="20190926210000 +0000" channel="RedBull TV">
+    <title lang="en">King of the Mountain</title>
+    <sub-title lang="en">Life Behind Bars</sub-title>
+    <desc lang="en">Brandon Semenuk and the crew arrive in France to compete at the muddy Châtel Mountain Style FMB event. Brandon Semenuk and the crew go to France to compete at the Châtel Mountain Style freeride mountain bike event. Despite a plague of injuries and muddy conditions, Brandon takes on the gnarly course before having fun on the world’s longest zip line.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190926210000 +0000" stop="20190926211200 +0000" channel="RedBull TV">
+    <title lang="en">Les 2 Alpes Bike Park</title>
+    <sub-title lang="en">Life Behind Bars</sub-title>
+    <desc lang="en">During a competition-filled month, Brandon Semenuk goes to France for a Crankworx event at Les 2 Alpes. In the midst of a competition-filled month, Brandon Semenuk travels to France for a Crankworx event at Les 2 Alpes. Due to unforeseen weather conditions, he has one chance to nail a perfect run if he wants to make it to the top of the podium.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190926211200 +0000" stop="20190926212200 +0000" channel="RedBull TV">
+    <title lang="en">Bearclaw Invitational</title>
+    <sub-title lang="en">Life Behind Bars</sub-title>
+    <desc lang="en">Brandon Semenuk looks to stay undefeated on the year at a slopestyle event on Vancouver Island, Canada. Brandon Semenuk looks to stay undefeated on the year at Bearclaw Invitational, a slopestyle event on Vancouver Island, BC, Canada. Then, to avoid burnout from the gruelling schedule, he gets off his bike to take a supercharged go-kart for a spin.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190926212200 +0000" stop="20190926214700 +0000" channel="RedBull TV">
+    <title lang="en">Florence</title>
+    <sub-title lang="en">The Road Trick</sub-title>
+    <desc lang="en">Adam Trent is off to Florence, Italy, to see authentic Italian culture in the birthplace of the Renaissance. After experiencing the lifestyle of the rich and famous in Monaco, Adam Trent is off to Florence, Italy, to immerse himself in authentic Italian culture. The connections he makes with his magic unlock secrets of the city known only to the locals.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190926214700 +0000" stop="20190926221400 +0000" channel="RedBull TV">
+    <title lang="en">Blast Off</title>
+    <sub-title lang="en">Motorkite Dreaming</sub-title>
+    <desc lang="en">Aiden Glasby and Daryl Clarke embark on an adventure across Australia with modest microlight equipment. Aiden Glasby and Daryl Clarke embark on an ambitious adventure across Australia with a pair of modest microlight aircrafts. Accompanied by their fiancées, Lexi and Elsie, and a local guide, Bart, they fly to their first stop: Wardang Island.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>UR</value>
+    </rating>
+  </programme>
+  <programme start="20190926221400 +0000" stop="20190926231000 +0000" channel="RedBull TV">
+    <title lang="en">Locked In</title>
+    <sub-title lang="en">First descent of the Beriman Gorge</sub-title>
+    <desc lang="en">Ben Stookesberry and a group of kayakers attempt a first descent of the Beriman River in Papua New Guinea. Ben Stookesberry and a group of professional kayakers journey to the remote jungles of Papua New Guinea to attempt a first descent of the Beriman River, a daunting 40km run lined with sheer limestone walls and no way out but to ride to the ocean.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190926231000 +0000" stop="20190926232500 +0000" channel="RedBull TV">
+    <title lang="en">Iron to the Core</title>
+    <sub-title lang="en">The Sebastian Kienle Story</sub-title>
+    <desc lang="en">Long-distance triathlete Sebastian Kienle gives an inside look at what it takes to be an IRONMAN athlete. Decorated long-distance triathlete Sebastian Kienle gives an inside look at what it takes to be an IRONMAN athlete. From preparation to race day, it's a life spent enduring gruelling trials, but every small success makes the arduous journey worth it.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190926232500 +0000" stop="20190926234000 +0000" channel="RedBull TV">
+    <title lang="en">Revel in the Chaos</title>
+    <sub-title lang="en">The best freestyle MTB riding ever</sub-title>
+    <desc lang="en">Revel in the Chaos follows Brandon Semenuk as he pushes himself beyond our view of possible. Brandon Semenuk brings a revolution in mountain biking. Revel in the Chaos follows the Canadian as he pushes himself beyond what's possible. It’s not an exaggeration to say this movie features the best freestyle riding ever done on a mountain bike.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190926234000 +0000" stop="20190927000200 +0000" channel="RedBull TV">
+    <title lang="en">Through My Eyes</title>
+    <sub-title lang="en">Aaron Chase's point of view</sub-title>
+    <desc lang="en">Pro mountain biker Aaron Chase captures a four-day trip to Mexico with his own POV camera. When adventure calls, pro mountain biker Aaron Chase always answers. When he gets the chance to go to Mexico to ride volcanoes, pyramids and jungles, there's no holding him back. Aaron captures the entire trip from his own POV camera.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190927000200 +0000" stop="20190927001800 +0000" channel="RedBull TV">
+    <title lang="en">Lifting the Lid</title>
+    <sub-title lang="en">MacAskill's Imaginate</sub-title>
+    <desc lang="en">Go behind the scenes on the super secret shoot of Danny MacAskill's Imaginate nearly two years in the making. Danny finally reveals the wild ride he's been dreaming up. He invites cameras to the set of Imaginate and explains the inspiration behind the unique concept, sharing just how complex and difficult it was to shoot the film, but well worth the effort.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="US">
+      <value>NR</value>
     </rating>
   </programme>
 </tv>
