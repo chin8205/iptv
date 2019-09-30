@@ -5,113 +5,7 @@
     <icon src="https://archive.org/download/RedBullTVLogo/Red-Bull-TV-Logo.png" />
     <url>http://www.redbull.tv</url>
   </channel>
-  <programme start="20190929144600 +0000" stop="20190929154000 +0000" channel="RedBull TV">
-    <title lang="en">Wingmen</title>
-    <sub-title lang="en">Friendship forged in flight</sub-title>
-    <desc lang="en">Three elite BASE jumpers face the unknown on a global journey to find the best wingsuit and BASE jump spots. Three of the world's best wingsuit flyers set out on a global journey in search of perfect spots for proximity flying and BASE jumps. From Brazil to China, the trio face some of the most thrilling and challenging flights of their lives.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190929154000 +0000" stop="20190929155100 +0000" channel="RedBull TV">
-    <title lang="en">Turn up in Tahiti</title>
-    <sub-title lang="en">Who is JOB</sub-title>
-    <desc lang="en">The whole crew take off from Maui and head to Teahupo'o, Tahiti, where they immediately hit the waves. The whole crew take off from Maui and head to Teahupo'o, Tahiti, where they immediately hit the waves despite the rain. Then it's time for another round of Poopies riding his way down a mountainside.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S7 E7</episode-num>
-    <rating system="US">
-      <value>UR</value>
-    </rating>
-  </programme>
-  <programme start="20190929155100 +0000" stop="20190929160300 +0000" channel="RedBull TV">
-    <title lang="en">Rising swell and womp life</title>
-    <sub-title lang="en">Who is JOB</sub-title>
-    <desc lang="en">It's a new season for Wompers and as the guys find a way to modify their Wompers, will it mean fewer wipeouts? Jamie O'Brien and the crew play a game of risk surfing, kayaking and tubing off rocks on Hawaii's North Shore. It's a new season for Wompers and as the guys find a way to modify their own Wompers, will it mean fewer wipeouts?</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S7 E2</episode-num>
-    <rating system="US">
-      <value>UR</value>
-    </rating>
-  </programme>
-  <programme start="20190929160300 +0000" stop="20190929161300 +0000" channel="RedBull TV">
-    <title lang="en">A Day at the Office</title>
-    <sub-title lang="en">Sheckler Sessions</sub-title>
-    <desc lang="en">The skate sculpture at the Red Bull office is being retired, so Ryan and the gang give it a proper send-off. Red Bull naturally has an office that could double as a skate park, so when they are retiring their giant in-office ramp, Ryan and friends come by to skate it one last time. The guys also spend time reliving their favorite moments from the year.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S4 E10</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190929161300 +0000" stop="20190929162400 +0000" channel="RedBull TV">
-    <title lang="en">Lincoln Skatepark</title>
-    <sub-title lang="en">Official Skatepark Review</sub-title>
-    <desc lang="en">Joey Brezinski reviews Lincoln Skatepark in Los Angeles to see what it has to offer. Joey Brezinski reviews Lincoln Skatepark in Los Angeles to see what it has to offer. Although it's not his favourite park, Brezinski and 'Rip' still manage to do some shredding.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190929162400 +0000" stop="20190929162900 +0000" channel="RedBull TV">
-    <title lang="en">Chengdu, China</title>
-    <sub-title lang="en">The Way to Everest</sub-title>
-    <desc lang="en">The crew assembles in Chengdu, China, and starts the trip off right with some killer sessions and good times. Despite crazy traffic and enthusiastic security guards, the first stop of the journey in Chengdu, China, has good times and good skating aplenty. After exploring the city, shredding everything they can, it's off to Lhasa, the capital of Tibet.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190929162900 +0000" stop="20190929163500 +0000" channel="RedBull TV">
-    <title lang="en">Lhasa, Tibet</title>
-    <sub-title lang="en">The Way to Everest</sub-title>
-    <desc lang="en">Lhasa, Tibet, provides some killer spots for the skateboarders to skate while they acclimate to the altitude. At 3,600 metres above sea level, Lhasa, Tibet, is the first experience with high-altitudes for the team of skateboarders. Between the city's welcoming locals and marble architecture, there's no shortage of killer sessions, just shortness of breath.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190929163500 +0000" stop="20190929164500 +0000" channel="RedBull TV">
-    <title lang="en">The Road to Base Camp</title>
-    <sub-title lang="en">The Way to Everest</sub-title>
-    <desc lang="en">On the road to Mount Everest Base Camp, the crew stops to skate in some spots with breathtaking backdrops. The road to Mount Everest is lined with monasteries, villages, towns, with loads of breathtaking backdrops. Everyone has a blast skating their way to Everest Base Camp, except Madars Apse, who was grounded in Lhasa, Tibet, after a heavy slam.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190929164500 +0000" stop="20190929165000 +0000" channel="RedBull TV">
-    <title lang="en">Top action from Queensland</title>
-    <sub-title lang="en">Red Bull Skate of Origin 2019</sub-title>
-    <desc lang="en">Watch the wild adventures going down in Queensland, Australia, for Red Bull Skate of Origin 2019. Watch the wild adventures going down in Queensland, Australia, featuring Jackson Pilz, Jake Duncombe, Jesse Noonan and more for Red Bull Skate of Origin 2019.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190929165000 +0000" stop="20190929171900 +0000" channel="RedBull TV">
-    <title lang="en">ABC of... Hard Enduro</title>
-    <sub-title lang="en">ABC of..</sub-title>
-    <desc lang="en">Take a down-and-dirty crash course in all things Hard Enduro, motocross's toughest discipline. Hard Enduro is motocross's toughest discipline and demands a special type of madness to compete in it. From learning the lingo to discovering more about the pro riders, take a crash course in an event where just finishing is victory in itself.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190929171900 +0000" stop="20190929184900 +0000" channel="RedBull TV">
-    <title lang="en">On Any Sunday: The Next Chapter</title>
-    <desc lang="en">Motorcycles and Those Who Ride. The Brown family continue their tradition of documentary filmmaking. On Any Sunday: The Next Chapter captures the passion for motorcycle riding first portrayed in the original film in 1971 and continues today.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20190929184900 +0000" stop="20190929194300 +0000" channel="RedBull TV">
+  <programme start="20190930151000 +0000" stop="20190930160400 +0000" channel="RedBull TV">
     <title lang="en">Fiesta de la Tradición</title>
     <sub-title lang="en">Archaic Festivals</sub-title>
     <desc lang="en">In the Argentinian equivalent of a rodeo, horsemen, or gauchos, compete in the annual festival. Once a year, gauchos from all over the country gather in Argentina to show off their equestrian skills in a week-long festival dating back to 1939. The Gaucho Games are the main attraction at the Jineteada, the Argentine version of a rodeo.</desc>
@@ -121,7 +15,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190929194300 +0000" stop="20190929194700 +0000" channel="RedBull TV">
+  <programme start="20190930160400 +0000" stop="20190930160800 +0000" channel="RedBull TV">
     <title lang="en">Colours of the rhythm</title>
     <sub-title lang="en">Red Bull Dance Your Style 2019</sub-title>
     <desc lang="en">Helped by colourful lighting, two stylistically different dancers interpret the same music in their own way. Two stylistically different dancers interpret the same music in their own personal way. With the addition of colourful lighting, their moves create visual art that expresses the rhythm of the music.</desc>
@@ -130,7 +24,120 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190929194700 +0000" stop="20190929195600 +0000" channel="RedBull TV">
+  <programme start="20190930160800 +0000" stop="20190930170300 +0000" channel="RedBull TV">
+    <title lang="en">The Driven</title>
+    <sub-title lang="en">Visions of Greatness</sub-title>
+    <desc lang="en">At the pinnacle of performance, natural ability only goes so far. Drive separates the good from the great. The elite performers in any field share a common thread of unstoppable work ethic. Olympic gold medallist sprinter Michael Johnson and America's Cup-winning skipper Jimmy Spithill tell their stories of success through a drive to continually improve.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190930170300 +0000" stop="20190930174800 +0000" channel="RedBull TV">
+    <title lang="en">Semenuk's Rad Company</title>
+    <sub-title lang="en">All Killer, No Filler</sub-title>
+    <desc lang="en">Brandon Semenuk and an elite group of pros raise the bar on freeride mountain bike insanity. Brandon Semenuk captures some of the highest level freeride mountain biking ever attempted in this cinematic party. He picks his favourite riders to show off their insane skills on some of the best natural and man-made terrain on earth.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190930174800 +0000" stop="20190930185900 +0000" channel="RedBull TV">
+    <title lang="en">Etnies: Chapters</title>
+    <sub-title lang="en">Finding the world's best BMX spots</sub-title>
+    <desc lang="en">Enjoy groundbreaking riding captured in the most desirable BMX spots in the world. This team endured countless injuries and dedicated endless hours in search of the most desirable BMX spots in the world to bring you groundbreaking riding captured through the unique perspective of filmmakers Will Stroud and Mike Manzoori.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190930185900 +0000" stop="20190930193000 +0000" channel="RedBull TV">
+    <title lang="en">Age of Ondra part 2</title>
+    <sub-title lang="en">Reel Rock</sub-title>
+    <desc lang="en">Adam Ondra challenges himself to flash a 9A+, which means he only gets one ascent to make it to the top. Adam Ondra has learned to focus on climbing better technically, as well as building strength. Ondra challenges himself to flash a 9A+, which means he only gets one ascent to make it to the top.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190930193000 +0000" stop="20190930202200 +0000" channel="RedBull TV">
+    <title lang="en">The Unifiers</title>
+    <sub-title lang="en">Visions of Greatness</sub-title>
+    <desc lang="en">Artists like Wyclef Jean and Paul van Dyk may have grown up isolated, but now seek to bring people together. Despite growing up on different sides of the globe, Paul van Dyk and Wyclef Jean shared the experience of an early life filled with strife and isolation. But these great artists channelled that into an unquenchable desire to bring people together.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190930202200 +0000" stop="20190930205300 +0000" channel="RedBull TV">
+    <title lang="en">The Blue Armada</title>
+    <sub-title lang="en">Featuring Kamaz Master</sub-title>
+    <desc lang="en">An award-winning Russian motorsports team show their unique way of working and preparing for the Dakar Rally. The most famous and award-winning motorsports team in Russia use their unique way of working together to prepare for off-road racing's most prestigious event, the Dakar Rally.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190930205300 +0000" stop="20190930212600 +0000" channel="RedBull TV">
+    <title lang="en">The Silent Samurai</title>
+    <sub-title lang="en">A look back at Dani Pedrosa's career</sub-title>
+    <desc lang="en">Take a look at the key moments that made Dani Pedrosa one of the most talented riders of his generation. Enjoy a look back at Dani Pedrosa’s motorcycling career as seen through the eyes of his coach, friend and former MotoGP star Sete Gibernau. Relive the key moments that made him one of the most talented riders of his generation.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190930212600 +0000" stop="20190930221900 +0000" channel="RedBull TV">
+    <title lang="en">Rich + Tone: PolyRhythmic</title>
+    <sub-title lang="en">The Talauega Brothers</sub-title>
+    <desc lang="en">Choreography team Rich + Tone take it back to their roots as they talk about their career in the dance world. Brothers Richmond and Anthony Talauega have been behind some of pop music's most explosive dance performances. Their inspiration for dancing comes from their heritage and upbringing, which they revisit as they craft a major routine for Chris Brown.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>UR</value>
+    </rating>
+  </programme>
+  <programme start="20190930221900 +0000" stop="20190930224400 +0000" channel="RedBull TV">
+    <title lang="en">What Lies Ahead</title>
+    <sub-title lang="en">Break'n Reality</sub-title>
+    <desc lang="en">The b-boys consider their futures. Roxrite judges a competition. Neguin visits friends. Lilou makes a choice. The b-boys get honest with themselves while setting their future goals. Roxrite judges a BC One qualifier. Neguin takes his nephew to an open b-boy practice session. After some soul-searching, Lilou opts to go for a third world championship.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190930224400 +0000" stop="20190930232400 +0000" channel="RedBull TV">
+    <title lang="en">The Learning Curve</title>
+    <sub-title lang="en">Drew Bezanson: From BMX to MTB</sub-title>
+    <desc lang="en">Drew Bezanson tries to make the transition from freestyle BMX to the world of slopestyle mountain biking. To be a master of two sports is a feat many have tried but few have accomplished. Drew Bezanson is one of the top BMX riders in the world, but now he wants to enter the world of slopestyle mountain biking and compete at Red Bull Joyride.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190930232400 +0000" stop="20191001001800 +0000" channel="RedBull TV">
+    <title lang="en">Wingmen</title>
+    <sub-title lang="en">Friendship forged in flight</sub-title>
+    <desc lang="en">Three elite BASE jumpers face the unknown on a global journey to find the best wingsuit and BASE jump spots. Three of the world's best wingsuit flyers set out on a global journey in search of perfect spots for proximity flying and BASE jumps. From Brazil to China, the trio face some of the most thrilling and challenging flights of their lives.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191001001800 +0000" stop="20191001002900 +0000" channel="RedBull TV">
+    <title lang="en">Turn up in Tahiti</title>
+    <sub-title lang="en">Who is JOB</sub-title>
+    <desc lang="en">The whole crew take off from Maui and head to Teahupo'o, Tahiti, where they immediately hit the waves. The whole crew take off from Maui and head to Teahupo'o, Tahiti, where they immediately hit the waves despite the rain. Then it's time for another round of Poopies riding his way down a mountainside.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S7 E7</episode-num>
+    <rating system="US">
+      <value>UR</value>
+    </rating>
+  </programme>
+  <programme start="20191001002900 +0000" stop="20191001003800 +0000" channel="RedBull TV">
     <title lang="en">Peter Conroy</title>
     <sub-title lang="en">This and Nothing Else</sub-title>
     <desc lang="en">Peter Conroy is a firefighter who runs into danger on a daily basis to feed his passion for chasing huge surf. Peter Conroy works in Dublin as a firefighter, and after bills are paid, he has about €50 for the month — which he puts towards surfing. Conroy's deep passion for chasing big waves at one of Ireland's scariest slabs is nothing short of inspiring.</desc>
@@ -140,7 +147,7 @@
       <value>UR</value>
     </rating>
   </programme>
-  <programme start="20190929195600 +0000" stop="20190929200800 +0000" channel="RedBull TV">
+  <programme start="20191001003800 +0000" stop="20191001005100 +0000" channel="RedBull TV">
     <title lang="en">Barry Mottershead</title>
     <sub-title lang="en">This and Nothing Else</sub-title>
     <desc lang="en">A self-employed South African relocates to Ireland to pursue his dream of surfing giant waves in the Atlantic. Barry Mottershead, a South African who now lives in Ireland, works as a kayak tour guide to make ends meet. But his passion lies in surfing the massive slabs at Mullaghmore. He is a man who charts his own course and does what it takes to surf.</desc>
@@ -150,7 +157,7 @@
       <value>UR</value>
     </rating>
   </programme>
-  <programme start="20190929200800 +0000" stop="20190929201800 +0000" channel="RedBull TV">
+  <programme start="20191001005100 +0000" stop="20191001010100 +0000" channel="RedBull TV">
     <title lang="en">Andrew Cotton</title>
     <sub-title lang="en">This and Nothing Else</sub-title>
     <desc lang="en">A family man works as a lifeguard full-time to be in the physical and financial shape to surf giant waves. Andrew Cotton is a lifeguard, a family man, and a Billabong XXL Award contender. He saves lives for a career as a lifeguard, builds homes with his bare hands as a necessity, and surfs the biggest waves he can find for fun.</desc>
@@ -160,7 +167,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190929201800 +0000" stop="20190929203300 +0000" channel="RedBull TV">
+  <programme start="20191001010100 +0000" stop="20191001011500 +0000" channel="RedBull TV">
     <title lang="en">Hugo Vau</title>
     <sub-title lang="en">This and Nothing Else</sub-title>
     <desc lang="en">Being in the sea keeps this fisherman connected to his passion for surfing and lets him live the way he wants. Hugo Vau's life revolves around the ocean. He is a fisherman by trade, and for fun he surfs mountain-sized waves around the world. Being in the sea keeps him connected to his passion, makes him more confident, and lets him live the way he wants.</desc>
@@ -170,7 +177,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190929203300 +0000" stop="20190929204300 +0000" channel="RedBull TV">
+  <programme start="20191001011500 +0000" stop="20191001012600 +0000" channel="RedBull TV">
     <title lang="en">The kayak king</title>
     <sub-title lang="en">Who is JOB</sub-title>
     <desc lang="en">The crew finds an epic sand hill for Poopies to ride the kayak down in Maui. The crew is still on Maui hitting some killer waves on boards and kayaks then they find an epic sand hill for Poopies to ride the kayak down.</desc>
@@ -180,7 +187,7 @@
       <value>UR</value>
     </rating>
   </programme>
-  <programme start="20190929204300 +0000" stop="20190929204700 +0000" channel="RedBull TV">
+  <programme start="20191001012600 +0000" stop="20190930151000 +0000" channel="RedBull TV">
     <title lang="en">Last call for Mr Paul</title>
     <sub-title lang="en">Jason Paul freeruns an airport</sub-title>
     <desc lang="en">A lot of people run through an airport when they’re late for their flight. Pro freerunner Jason Paul just does it a little differently. A lot of people run through an airport when they’re late for their flight. Pro freerunner Jason Paul just does it a little differently, and along the way he sees parts of the airport most passengers never do.</desc>
@@ -189,10 +196,192 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20190929204700 +0000" stop="20190929205000 +0000" channel="RedBull TV">
-    <title lang="en">Jason Paul's arcade run</title>
-    <sub-title lang="en">Freerunning in 8-bit</sub-title>
-    <desc lang="en">Freerunner Jason Paul takes his skills to the next level as he soars over pyramids and fights evil ninjas. Jason Paul and Team Farang come together to turn freerunning into an ‘80s arcade game. Soaring over pyramids, fighting ninjas, and thwarting the final boss, Jason takes his skills to the next level.</desc>
+  <programme start="20190930151000 +0000" stop="20190930160400 +0000" channel="RedBull TV">
+    <title lang="en">Fiesta de la Tradición</title>
+    <sub-title lang="en">Archaic Festivals</sub-title>
+    <desc lang="en">In the Argentinian equivalent of a rodeo, horsemen, or gauchos, compete in the annual festival. Once a year, gauchos from all over the country gather in Argentina to show off their equestrian skills in a week-long festival dating back to 1939. The Gaucho Games are the main attraction at the Jineteada, the Argentine version of a rodeo.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190930160400 +0000" stop="20190930160800 +0000" channel="RedBull TV">
+    <title lang="en">Colours of the rhythm</title>
+    <sub-title lang="en">Red Bull Dance Your Style 2019</sub-title>
+    <desc lang="en">Helped by colourful lighting, two stylistically different dancers interpret the same music in their own way. Two stylistically different dancers interpret the same music in their own personal way. With the addition of colourful lighting, their moves create visual art that expresses the rhythm of the music.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190930160800 +0000" stop="20190930170300 +0000" channel="RedBull TV">
+    <title lang="en">The Driven</title>
+    <sub-title lang="en">Visions of Greatness</sub-title>
+    <desc lang="en">At the pinnacle of performance, natural ability only goes so far. Drive separates the good from the great. The elite performers in any field share a common thread of unstoppable work ethic. Olympic gold medallist sprinter Michael Johnson and America's Cup-winning skipper Jimmy Spithill tell their stories of success through a drive to continually improve.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190930170300 +0000" stop="20190930174800 +0000" channel="RedBull TV">
+    <title lang="en">Semenuk's Rad Company</title>
+    <sub-title lang="en">All Killer, No Filler</sub-title>
+    <desc lang="en">Brandon Semenuk and an elite group of pros raise the bar on freeride mountain bike insanity. Brandon Semenuk captures some of the highest level freeride mountain biking ever attempted in this cinematic party. He picks his favourite riders to show off their insane skills on some of the best natural and man-made terrain on earth.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190930174800 +0000" stop="20190930185900 +0000" channel="RedBull TV">
+    <title lang="en">Etnies: Chapters</title>
+    <sub-title lang="en">Finding the world's best BMX spots</sub-title>
+    <desc lang="en">Enjoy groundbreaking riding captured in the most desirable BMX spots in the world. This team endured countless injuries and dedicated endless hours in search of the most desirable BMX spots in the world to bring you groundbreaking riding captured through the unique perspective of filmmakers Will Stroud and Mike Manzoori.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190930185900 +0000" stop="20190930193000 +0000" channel="RedBull TV">
+    <title lang="en">Age of Ondra part 2</title>
+    <sub-title lang="en">Reel Rock</sub-title>
+    <desc lang="en">Adam Ondra challenges himself to flash a 9A+, which means he only gets one ascent to make it to the top. Adam Ondra has learned to focus on climbing better technically, as well as building strength. Ondra challenges himself to flash a 9A+, which means he only gets one ascent to make it to the top.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190930193000 +0000" stop="20190930202200 +0000" channel="RedBull TV">
+    <title lang="en">The Unifiers</title>
+    <sub-title lang="en">Visions of Greatness</sub-title>
+    <desc lang="en">Artists like Wyclef Jean and Paul van Dyk may have grown up isolated, but now seek to bring people together. Despite growing up on different sides of the globe, Paul van Dyk and Wyclef Jean shared the experience of an early life filled with strife and isolation. But these great artists channelled that into an unquenchable desire to bring people together.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190930202200 +0000" stop="20190930205300 +0000" channel="RedBull TV">
+    <title lang="en">The Blue Armada</title>
+    <sub-title lang="en">Featuring Kamaz Master</sub-title>
+    <desc lang="en">An award-winning Russian motorsports team show their unique way of working and preparing for the Dakar Rally. The most famous and award-winning motorsports team in Russia use their unique way of working together to prepare for off-road racing's most prestigious event, the Dakar Rally.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190930205300 +0000" stop="20190930212600 +0000" channel="RedBull TV">
+    <title lang="en">The Silent Samurai</title>
+    <sub-title lang="en">A look back at Dani Pedrosa's career</sub-title>
+    <desc lang="en">Take a look at the key moments that made Dani Pedrosa one of the most talented riders of his generation. Enjoy a look back at Dani Pedrosa’s motorcycling career as seen through the eyes of his coach, friend and former MotoGP star Sete Gibernau. Relive the key moments that made him one of the most talented riders of his generation.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190930212600 +0000" stop="20190930221900 +0000" channel="RedBull TV">
+    <title lang="en">Rich + Tone: PolyRhythmic</title>
+    <sub-title lang="en">The Talauega Brothers</sub-title>
+    <desc lang="en">Choreography team Rich + Tone take it back to their roots as they talk about their career in the dance world. Brothers Richmond and Anthony Talauega have been behind some of pop music's most explosive dance performances. Their inspiration for dancing comes from their heritage and upbringing, which they revisit as they craft a major routine for Chris Brown.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>UR</value>
+    </rating>
+  </programme>
+  <programme start="20190930221900 +0000" stop="20190930224400 +0000" channel="RedBull TV">
+    <title lang="en">What Lies Ahead</title>
+    <sub-title lang="en">Break'n Reality</sub-title>
+    <desc lang="en">The b-boys consider their futures. Roxrite judges a competition. Neguin visits friends. Lilou makes a choice. The b-boys get honest with themselves while setting their future goals. Roxrite judges a BC One qualifier. Neguin takes his nephew to an open b-boy practice session. After some soul-searching, Lilou opts to go for a third world championship.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190930224400 +0000" stop="20190930232400 +0000" channel="RedBull TV">
+    <title lang="en">The Learning Curve</title>
+    <sub-title lang="en">Drew Bezanson: From BMX to MTB</sub-title>
+    <desc lang="en">Drew Bezanson tries to make the transition from freestyle BMX to the world of slopestyle mountain biking. To be a master of two sports is a feat many have tried but few have accomplished. Drew Bezanson is one of the top BMX riders in the world, but now he wants to enter the world of slopestyle mountain biking and compete at Red Bull Joyride.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20190930232400 +0000" stop="20191001001800 +0000" channel="RedBull TV">
+    <title lang="en">Wingmen</title>
+    <sub-title lang="en">Friendship forged in flight</sub-title>
+    <desc lang="en">Three elite BASE jumpers face the unknown on a global journey to find the best wingsuit and BASE jump spots. Three of the world's best wingsuit flyers set out on a global journey in search of perfect spots for proximity flying and BASE jumps. From Brazil to China, the trio face some of the most thrilling and challenging flights of their lives.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191001001800 +0000" stop="20191001002900 +0000" channel="RedBull TV">
+    <title lang="en">Turn up in Tahiti</title>
+    <sub-title lang="en">Who is JOB</sub-title>
+    <desc lang="en">The whole crew take off from Maui and head to Teahupo'o, Tahiti, where they immediately hit the waves. The whole crew take off from Maui and head to Teahupo'o, Tahiti, where they immediately hit the waves despite the rain. Then it's time for another round of Poopies riding his way down a mountainside.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S7 E7</episode-num>
+    <rating system="US">
+      <value>UR</value>
+    </rating>
+  </programme>
+  <programme start="20191001002900 +0000" stop="20191001003800 +0000" channel="RedBull TV">
+    <title lang="en">Peter Conroy</title>
+    <sub-title lang="en">This and Nothing Else</sub-title>
+    <desc lang="en">Peter Conroy is a firefighter who runs into danger on a daily basis to feed his passion for chasing huge surf. Peter Conroy works in Dublin as a firefighter, and after bills are paid, he has about €50 for the month — which he puts towards surfing. Conroy's deep passion for chasing big waves at one of Ireland's scariest slabs is nothing short of inspiring.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>UR</value>
+    </rating>
+  </programme>
+  <programme start="20191001003800 +0000" stop="20191001005100 +0000" channel="RedBull TV">
+    <title lang="en">Barry Mottershead</title>
+    <sub-title lang="en">This and Nothing Else</sub-title>
+    <desc lang="en">A self-employed South African relocates to Ireland to pursue his dream of surfing giant waves in the Atlantic. Barry Mottershead, a South African who now lives in Ireland, works as a kayak tour guide to make ends meet. But his passion lies in surfing the massive slabs at Mullaghmore. He is a man who charts his own course and does what it takes to surf.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>UR</value>
+    </rating>
+  </programme>
+  <programme start="20191001005100 +0000" stop="20191001010100 +0000" channel="RedBull TV">
+    <title lang="en">Andrew Cotton</title>
+    <sub-title lang="en">This and Nothing Else</sub-title>
+    <desc lang="en">A family man works as a lifeguard full-time to be in the physical and financial shape to surf giant waves. Andrew Cotton is a lifeguard, a family man, and a Billabong XXL Award contender. He saves lives for a career as a lifeguard, builds homes with his bare hands as a necessity, and surfs the biggest waves he can find for fun.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191001010100 +0000" stop="20191001011500 +0000" channel="RedBull TV">
+    <title lang="en">Hugo Vau</title>
+    <sub-title lang="en">This and Nothing Else</sub-title>
+    <desc lang="en">Being in the sea keeps this fisherman connected to his passion for surfing and lets him live the way he wants. Hugo Vau's life revolves around the ocean. He is a fisherman by trade, and for fun he surfs mountain-sized waves around the world. Being in the sea keeps him connected to his passion, makes him more confident, and lets him live the way he wants.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191001011500 +0000" stop="20191001012600 +0000" channel="RedBull TV">
+    <title lang="en">The kayak king</title>
+    <sub-title lang="en">Who is JOB</sub-title>
+    <desc lang="en">The crew finds an epic sand hill for Poopies to ride the kayak down in Maui. The crew is still on Maui hitting some killer waves on boards and kayaks then they find an epic sand hill for Poopies to ride the kayak down.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S7 E6</episode-num>
+    <rating system="US">
+      <value>UR</value>
+    </rating>
+  </programme>
+  <programme start="20191001012600 +0000" stop="20191001012900 +0000" channel="RedBull TV">
+    <title lang="en">Last call for Mr Paul</title>
+    <sub-title lang="en">Jason Paul freeruns an airport</sub-title>
+    <desc lang="en">A lot of people run through an airport when they’re late for their flight. Pro freerunner Jason Paul just does it a little differently. A lot of people run through an airport when they’re late for their flight. Pro freerunner Jason Paul just does it a little differently, and along the way he sees parts of the airport most passengers never do.</desc>
     <category lang="en">Sports</category>
     <rating system="US">
       <value>NR</value>
