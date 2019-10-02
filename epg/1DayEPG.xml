@@ -5,17 +5,7 @@
     <icon src="https://archive.org/download/RedBullTVLogo/Red-Bull-TV-Logo.png" />
     <url>http://www.redbull.tv</url>
   </channel>
-  <programme start="20191001150400 +0000" stop="20191001155500 +0000" channel="RedBull TV">
-    <title lang="en">The Unifiers</title>
-    <sub-title lang="en">Visions of Greatness</sub-title>
-    <desc lang="en">Artists like Wyclef Jean and Paul van Dyk may have grown up isolated, but now seek to bring people together. Despite growing up on different sides of the globe, Paul van Dyk and Wyclef Jean shared the experience of an early life filled with strife and isolation. But these great artists channelled that into an unquenchable desire to bring people together.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191001155500 +0000" stop="20191001162200 +0000" channel="RedBull TV">
+  <programme start="20191002004100 +0000" stop="20191002010900 +0000" channel="RedBull TV">
     <title lang="en">ABC of... Cliff diving</title>
     <sub-title lang="en">ABC of..</sub-title>
     <desc lang="en">Get to know the art of falling as the top divers give an inside look at cliff diving. Get to know the art of falling as the top divers give an inside look at cliff diving. Jumping from almost three times the olympic height these divers find a way to look past fear and take a leap.</desc>
@@ -25,7 +15,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191001162200 +0000" stop="20191001165000 +0000" channel="RedBull TV">
+  <programme start="20191002010900 +0000" stop="20191002013600 +0000" channel="RedBull TV">
     <title lang="en">Rainbow Dive</title>
     <sub-title lang="en">Rhiannan Iffland's journey of discovery</sub-title>
     <desc lang="en">Rhiannan Iffland journeys to the Australian Outback and uncovers more than she expected. World champion cliff diver Rhiannan Iffland  journeys to the Australian Outback to rediscover her sense of self and love for diving and in the process uncovers a whole lot more than she bargained for.</desc>
@@ -34,7 +24,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191001165000 +0000" stop="20191001170400 +0000" channel="RedBull TV">
+  <programme start="20191002013600 +0000" stop="20191002015100 +0000" channel="RedBull TV">
     <title lang="en">Jeffreys Bay</title>
     <sub-title lang="en">Beyond the Lines</sub-title>
     <desc lang="en">Kanoa Igarashi goes behind the scenes at the WSL Men's Championship Tour at Jeffreys Bay, South Africa. Join Kanoa Igarashi as the Japanese surfer goes behind the scenes at the sixth stop of the WSL Men's Championship Tour at Jeffreys Bay, South Africa.</desc>
@@ -44,7 +34,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191001170400 +0000" stop="20191001175700 +0000" channel="RedBull TV">
+  <programme start="20191002015100 +0000" stop="20191002024300 +0000" channel="RedBull TV">
     <title lang="en">Sébastien Loeb: Off Roads</title>
     <sub-title lang="en">The WRC's best take on the Dakar</sub-title>
     <desc lang="en">Sébastien Loeb and co-driver Daniel Elena made WRC history. In 2016 they took on a new challenge: Dakar. Sébastien Loeb and his co-driver, Daniel Elena, made history racing in the WRC, winning a record nine world titles together. In 2016 they raced together once again and took on a new challenge: the famous Dakar off-road race.</desc>
@@ -53,7 +43,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191001175700 +0000" stop="20191001180600 +0000" channel="RedBull TV">
+  <programme start="20191002024300 +0000" stop="20191002025200 +0000" channel="RedBull TV">
     <title lang="en">The Hansen Brothers goes Höljes</title>
     <sub-title lang="en">The Hansen Brothers</sub-title>
     <desc lang="en">Ever wondered what made Kevin and Timmy Hansen into who they are today? Find out what drives these brothers. Ever wondered what made Kevin and Timmy Hansen into who they are today, and what spurs them on to excel within their sport? Find out what drives these driftbrothers to thrive.</desc>
@@ -63,7 +53,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191001180600 +0000" stop="20191001183600 +0000" channel="RedBull TV">
+  <programme start="20191002025200 +0000" stop="20191002032300 +0000" channel="RedBull TV">
     <title lang="en">Road to 55</title>
     <sub-title lang="en">The Drive to Become a Formula One Racer</sub-title>
     <desc lang="en">Experience the 2014 Formula One racing season with Carlos Sainz as he strives to become a top driver. Experience the 2014 Formula One racing season with Carlos Sainz as he strives to become a top driver. Meet the team behind his success and feel his highs and lows.</desc>
@@ -72,7 +62,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191001183600 +0000" stop="20191001184400 +0000" channel="RedBull TV">
+  <programme start="20191002032300 +0000" stop="20191002033100 +0000" channel="RedBull TV">
     <title lang="en">A Door in the Sky</title>
     <sub-title lang="en">The Soul Flyers</sub-title>
     <desc lang="en">Get to know the Soul Flyers and see what went into making a ground-breaking BASE jump happen. Get to know the Soul Flyers, Fred Fugen and Vince Reffet, who make history by BASE jumping from a mountain then flying right through an aircraft's door. See what went into making this ground-breaking jump happen.</desc>
@@ -81,7 +71,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191001184400 +0000" stop="20191001184600 +0000" channel="RedBull TV">
+  <programme start="20191002033100 +0000" stop="20191002033400 +0000" channel="RedBull TV">
     <title lang="en">The Soul Flyers</title>
     <sub-title lang="en">A Door in the Sky: Extra</sub-title>
     <desc lang="en">In a world first, the Soul Flyers wingsuit pilots BASE jump off a mountain and land in a mid-air aeroplane. Above the Alps, the Soul Flyers, Fred Fugen and Vince Reffet, make history by BASE jumping from a mountain, catching a Pilatus plane in their wingsuits, then flying right through the aircraft's door – a world first!</desc>
@@ -90,7 +80,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191001184600 +0000" stop="20191001191100 +0000" channel="RedBull TV">
+  <programme start="20191002033400 +0000" stop="20191002035900 +0000" channel="RedBull TV">
     <title lang="en">The Leather Jacket</title>
     <sub-title lang="en">Social Fabric</sub-title>
     <desc lang="en">A bit of cowhide that never fails to stand out, the leather jacket is a style icon the world over. Made for bomber pilots, adopted the world over, the leather jacket is a true style icon. Kyle Ng gets punk in Tokyo, Japan, races around Brooklyn, New York, United States, and meets the father of the over-the-top 'championship jacket'.</desc>
@@ -100,7 +90,17 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191001191100 +0000" stop="20191001194100 +0000" channel="RedBull TV">
+  <programme start="20191002035900 +0000" stop="20191002043100 +0000" channel="RedBull TV">
+    <title lang="en">Age of Ondra part 2</title>
+    <sub-title lang="en">Reel Rock</sub-title>
+    <desc lang="en">Adam Ondra challenges himself to flash a 9A+, which means he only gets one ascent to make it to the top. Adam Ondra has learned to focus on climbing better technically, as well as building strength. Ondra challenges himself to flash a 9A+, which means he only gets one ascent to make it to the top.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191002043100 +0000" stop="20191002050000 +0000" channel="RedBull TV">
     <title lang="en">Budapest</title>
     <sub-title lang="en">The Road Trick</sub-title>
     <desc lang="en">Magician Adam Trent discovers that Budapest, Hungary, has a light and dark side. Can his tricks work in both? The first stop of magician Adam Trent's European journey is the party city of Budapest, Hungary. Adam wants to see the things that the tourists don't, but walking on the dark side has its risks. Can Adam's magic get him out of a dangerous situation?</desc>
@@ -110,88 +110,87 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191001194100 +0000" stop="20191001195300 +0000" channel="RedBull TV">
-    <title lang="en">Rising swell and womp life</title>
-    <sub-title lang="en">Who is JOB</sub-title>
-    <desc lang="en">It's a new season for Wompers and as the guys find a way to modify their Wompers, will it mean fewer wipeouts? Jamie O'Brien and the crew play a game of risk surfing, kayaking and tubing off rocks on Hawaii's North Shore. It's a new season for Wompers and as the guys find a way to modify their own Wompers, will it mean fewer wipeouts?</desc>
+  <programme start="20191002050000 +0000" stop="20191002055300 +0000" channel="RedBull TV">
+    <title lang="en">Rich + Tone: PolyRhythmic</title>
+    <sub-title lang="en">The Talauega Brothers</sub-title>
+    <desc lang="en">Choreography team Rich + Tone take it back to their roots as they talk about their career in the dance world. Brothers Richmond and Anthony Talauega have been behind some of pop music's most explosive dance performances. Their inspiration for dancing comes from their heritage and upbringing, which they revisit as they craft a major routine for Chris Brown.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S7 E2</episode-num>
     <rating system="US">
       <value>UR</value>
     </rating>
   </programme>
-  <programme start="20191001195300 +0000" stop="20191001200200 +0000" channel="RedBull TV">
-    <title lang="en">A Day at the Office</title>
-    <sub-title lang="en">Sheckler Sessions</sub-title>
-    <desc lang="en">The skate sculpture at the Red Bull office is being retired, so Ryan and the gang give it a proper send-off. Red Bull naturally has an office that could double as a skate park, so when they are retiring their giant in-office ramp, Ryan and friends come by to skate it one last time. The guys also spend time reliving their favorite moments from the year.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S4 E10</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191001200200 +0000" stop="20191001201400 +0000" channel="RedBull TV">
-    <title lang="en">Lincoln Skatepark</title>
-    <sub-title lang="en">Official Skatepark Review</sub-title>
-    <desc lang="en">Joey Brezinski reviews Lincoln Skatepark in Los Angeles to see what it has to offer. Joey Brezinski reviews Lincoln Skatepark in Los Angeles to see what it has to offer. Although it's not his favourite park, Brezinski and 'Rip' still manage to do some shredding.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191001201400 +0000" stop="20191001201900 +0000" channel="RedBull TV">
-    <title lang="en">Chengdu, China</title>
-    <sub-title lang="en">The Way to Everest</sub-title>
-    <desc lang="en">The crew assembles in Chengdu, China, and starts the trip off right with some killer sessions and good times. Despite crazy traffic and enthusiastic security guards, the first stop of the journey in Chengdu, China, has good times and good skating aplenty. After exploring the city, shredding everything they can, it's off to Lhasa, the capital of Tibet.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191001201900 +0000" stop="20191001202500 +0000" channel="RedBull TV">
-    <title lang="en">Lhasa, Tibet</title>
-    <sub-title lang="en">The Way to Everest</sub-title>
-    <desc lang="en">Lhasa, Tibet, provides some killer spots for the skateboarders to skate while they acclimate to the altitude. At 3,600 metres above sea level, Lhasa, Tibet, is the first experience with high-altitudes for the team of skateboarders. Between the city's welcoming locals and marble architecture, there's no shortage of killer sessions, just shortness of breath.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191001202500 +0000" stop="20191001203500 +0000" channel="RedBull TV">
-    <title lang="en">The Road to Base Camp</title>
-    <sub-title lang="en">The Way to Everest</sub-title>
-    <desc lang="en">On the road to Mount Everest Base Camp, the crew stops to skate in some spots with breathtaking backdrops. The road to Mount Everest is lined with monasteries, villages, towns, with loads of breathtaking backdrops. Everyone has a blast skating their way to Everest Base Camp, except Madars Apse, who was grounded in Lhasa, Tibet, after a heavy slam.</desc>
+  <programme start="20191002055300 +0000" stop="20191002061700 +0000" channel="RedBull TV">
+    <title lang="en">What Lies Ahead</title>
+    <sub-title lang="en">Break'n Reality</sub-title>
+    <desc lang="en">The b-boys consider their futures. Roxrite judges a competition. Neguin visits friends. Lilou makes a choice. The b-boys get honest with themselves while setting their future goals. Roxrite judges a BC One qualifier. Neguin takes his nephew to an open b-boy practice session. After some soul-searching, Lilou opts to go for a third world championship.</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191001203500 +0000" stop="20191001204000 +0000" channel="RedBull TV">
-    <title lang="en">Top action from Queensland</title>
-    <sub-title lang="en">Red Bull Skate of Origin 2019</sub-title>
-    <desc lang="en">Watch the wild adventures going down in Queensland, Australia, for Red Bull Skate of Origin 2019. Watch the wild adventures going down in Queensland, Australia, featuring Jackson Pilz, Jake Duncombe, Jesse Noonan and more for Red Bull Skate of Origin 2019.</desc>
+  <programme start="20191002061700 +0000" stop="20191002065800 +0000" channel="RedBull TV">
+    <title lang="en">The Learning Curve</title>
+    <sub-title lang="en">Drew Bezanson: From BMX to MTB</sub-title>
+    <desc lang="en">Drew Bezanson tries to make the transition from freestyle BMX to the world of slopestyle mountain biking. To be a master of two sports is a feat many have tried but few have accomplished. Drew Bezanson is one of the top BMX riders in the world, but now he wants to enter the world of slopestyle mountain biking and compete at Red Bull Joyride.</desc>
     <category lang="en">Sports</category>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191001204000 +0000" stop="20191001210800 +0000" channel="RedBull TV">
-    <title lang="en">ABC of... Hard Enduro</title>
-    <sub-title lang="en">ABC of..</sub-title>
-    <desc lang="en">Take a down-and-dirty crash course in all things Hard Enduro, motocross's toughest discipline. Hard Enduro is motocross's toughest discipline and demands a special type of madness to compete in it. From learning the lingo to discovering more about the pro riders, take a crash course in an event where just finishing is victory in itself.</desc>
+  <programme start="20191002065800 +0000" stop="20191002075100 +0000" channel="RedBull TV">
+    <title lang="en">Wingmen</title>
+    <sub-title lang="en">Friendship forged in flight</sub-title>
+    <desc lang="en">Three elite BASE jumpers face the unknown on a global journey to find the best wingsuit and BASE jump spots. Three of the world's best wingsuit flyers set out on a global journey in search of perfect spots for proximity flying and BASE jumps. From Brazil to China, the trio face some of the most thrilling and challenging flights of their lives.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191001210800 +0000" stop="20191001223900 +0000" channel="RedBull TV">
-    <title lang="en">On Any Sunday: The Next Chapter</title>
-    <desc lang="en">Motorcycles and Those Who Ride. The Brown family continue their tradition of documentary filmmaking. On Any Sunday: The Next Chapter captures the passion for motorcycle riding first portrayed in the original film in 1971 and continues today.</desc>
+  <programme start="20191002075100 +0000" stop="20191002080400 +0000" channel="RedBull TV">
+    <title lang="en">Turn up in Tahiti</title>
+    <sub-title lang="en">Who is JOB</sub-title>
+    <desc lang="en">The whole crew take off from Maui and head to Teahupo'o, Tahiti, where they immediately hit the waves. The whole crew take off from Maui and head to Teahupo'o, Tahiti, where they immediately hit the waves despite the rain. Then it's time for another round of Poopies riding his way down a mountainside.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S7 E7</episode-num>
+    <rating system="US">
+      <value>UR</value>
+    </rating>
+  </programme>
+  <programme start="20191002080400 +0000" stop="20191002081100 +0000" channel="RedBull TV">
+    <title lang="en">Crankworx Whistler</title>
+    <sub-title lang="en">Life Behind Bars</sub-title>
+    <desc lang="en">Brandon Semenuk is among the world’s top slopestyle FMB riders at Whistler, Canada for a Crankworx event. The world’s top slopestyle mountain bike riders descend on Whistler, BC, Canada for the biggest Crankworx event of the year. As Brandon Semenuk prepares for the contest, his friend – known as Intern – enjoys the nightlife that Whistler has to offer.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191002081100 +0000" stop="20191002082400 +0000" channel="RedBull TV">
+    <title lang="en">Joyride Jitters</title>
+    <sub-title lang="en">Life Behind Bars</sub-title>
+    <desc lang="en">Brandon Semenuk gives it his all at Red Bull Joyride, the crown jewel of Crankworx Whistler. Brandon Semenuk gives it his all at Red Bull Joyride, the crown jewel of Crankworx Whistler. He battles tough competition and the pressure of being a hometown hero as he attempts to put together a winning run.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191002082400 +0000" stop="20191002083500 +0000" channel="RedBull TV">
+    <title lang="en">Sand and Ferns</title>
+    <sub-title lang="en">Life Behind Bars</sub-title>
+    <desc lang="en">After Crankworx, Brandon Semenuk heads down to Oregon, USA for downhill bike riding and dune-buggy racing. After the Crankworx event, Brandon Semenuk heads down to Oregon, USA to relax with some friends. He starts with a downhill trail bike riding session in the woods before hitting the coast for some dune-buggy racing on sand dunes.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191002083500 +0000" stop="20191002085700 +0000" channel="RedBull TV">
+    <title lang="en">Hulhumalé Skatepark</title>
+    <sub-title lang="en">Building a skatepark in the Maldives</sub-title>
+    <desc lang="en">This skatepark in the Maldives was built in 2018 – here's the story of how a dream became a reality. Follow the story of how a skatepark was built in the Maldives and the 51 volunteers who worked day and night for a month to make it happen. See how the project unfolded from initial idea to completion.</desc>
     <category lang="en">Sports</category>
     <rating system="US">
       <value>NR</value>
