@@ -5,74 +5,106 @@
     <icon src="https://archive.org/download/RedBullTVLogo/Red-Bull-TV-Logo.png" />
     <url>http://www.redbull.tv</url>
   </channel>
-  <programme start="20191003151700 +0000" stop="20191003160900 +0000" channel="RedBull TV">
-    <title lang="en">Open the Doors: Hellfest</title>
-    <sub-title lang="en">Creativity, madness and heavy metal</sub-title>
-    <desc lang="en">Go to ground zero of the colossal effort to put together Europe's go-to festival for extreme music. Every year, Hellfest raises its black flag on the coast of France and brings screaming hordes of music fans to experience three days of insanity. Witness the colossal effort and the army of crew required to build Europe's go-to fest for metal.</desc>
+  <programme start="20191004155500 +0000" stop="20191004162100 +0000" channel="RedBull TV">
+    <title lang="en">Not Bad</title>
+    <sub-title lang="en">30 days of mountain bike tomfoolery</sub-title>
+    <desc lang="en">An FMB dream team chronicles a 30-day saga of mountain bike shredding and tomfoolery in New Zealand. The best riders in the game travel to New Zealand for 30 days of epic mountain bike tomfoolery. The dream team going out to go big is Brett Rheeder, Brandon Semenuk, Brook Macdonald, Cam McCaul, Andrew Shandro, Ryan Howard and René Wildhaber.</desc>
     <category lang="en">Sports</category>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191003160900 +0000" stop="20191003170400 +0000" channel="RedBull TV">
-    <title lang="en">Footwork and Fugues</title>
-    <sub-title lang="en">Breaking classical barriers</sub-title>
-    <desc lang="en">When a dance group and an opera director get together to make music and dance the result is magical. A spellbinding fusion of Bach and breakdancing is born when dance group Flying Steps collaborates with accomplished opera director Christoph Hagel. As they hone their artistic vision, they open up about their day-to-day struggles.</desc>
+  <programme start="20191004162100 +0000" stop="20191004164900 +0000" channel="RedBull TV">
+    <title lang="en">Not2Bad</title>
+    <desc lang="en">More epic tomfoolery in Spain. Anthill Films's sequel to Not Bad is a second dose of epic freestyle mountain biking and tomfoolery in the Spanish countryside. Featuring the talents of Brett Rheeder, Cam McCaul, Brandon Semenuk, Ryan 'R-Dog' Howard, Casey Brown and more.</desc>
     <category lang="en">Sports</category>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191003170400 +0000" stop="20191003170800 +0000" channel="RedBull TV">
-    <title lang="en">Colours of the rhythm</title>
-    <sub-title lang="en">Red Bull Dance Your Style 2019</sub-title>
-    <desc lang="en">Helped by colourful lighting, two stylistically different dancers interpret the same music in their own way. Two stylistically different dancers interpret the same music in their own personal way. With the addition of colourful lighting, their moves create visual art that expresses the rhythm of the music.</desc>
+  <programme start="20191004164900 +0000" stop="20191004165200 +0000" channel="RedBull TV">
+    <title lang="en">Exploring Harbin, China</title>
+    <sub-title lang="en">Jason Paul freerunning on ice</sub-title>
+    <desc lang="en">Jason explores the Chinese city of Harbin, and discovers its Russian influences and friendly people. Jason Paul explores the city of Harbin, China, which reveals its Russian influences and friendly people. Paul and a local freerunning crew explore some local spots, including a very climbable iron structure.</desc>
     <category lang="en">Sports</category>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191003170800 +0000" stop="20191003173500 +0000" channel="RedBull TV">
-    <title lang="en">Rob Meets Levi Sherwood</title>
-    <sub-title lang="en">Rob Meets</sub-title>
-    <desc lang="en">Rob Warner travels to Palmerston North, New Zealand, to meet with freestyle motocross rider Levi Sherwood. Rob Warner travels to Palmerston North, New Zealand, to meet with freestyle motocross rider Levi Sherwood. The two talk about how Sherwood got to where he is at a young age and where he's headed.</desc>
+  <programme start="20191004165200 +0000" stop="20191004165400 +0000" channel="RedBull TV">
+    <title lang="en">Freerunning Illusions</title>
+    <sub-title lang="en">Jason Paul and Pasha Petkuns</sub-title>
+    <desc lang="en">Jason Paul and Pasha Petkuns play mind tricks as they defy gravity with their freerunning illusions. Life as a freerunner means the whole world is your playground... or is it just one big illusion? Jason Paul and Pasha Petkuns play mind tricks as they defy gravity, slide down bananas, and twist your brains with their freerunning illusions.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S3 E10</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191003173500 +0000" stop="20191003175000 +0000" channel="RedBull TV">
-    <title lang="en">Close to home</title>
-    <sub-title lang="en">Red Bull Driftbrothers</sub-title>
-    <desc lang="en">Elias and Johannes Hountondji feel the pressure as they race in their home country of Germany. It's time for Elias and Johannes Hountondji to race in their home country of Germany, where friends and family will be there to cheer them on. But having so many spectators raises the pressure.</desc>
+  <programme start="20191004165400 +0000" stop="20191004181600 +0000" channel="RedBull TV">
+    <title lang="en">Nervous Laughter</title>
+    <desc lang="en">An inside look at the El Niño big wave season 2016. In the 1990s a group of friends on Maui's north shore started to explore ways to ride one of the most fearsome waves on the planet, Jaws. We chronicle how the 'Strapped Crew' shattered the ceiling of what big-wave surfers thought was possible.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191003175000 +0000" stop="20191003181800 +0000" channel="RedBull TV">
-    <title lang="en">ABC... of MotoGP™</title>
-    <sub-title lang="en">ABC of..</sub-title>
-    <desc lang="en">From understanding the rules to learning the jargon, find out what makes this motorsport so thrilling. MotoGP™ is the premier class of motorbike racing. Get the lowdown on what makes this sport so thrilling. From understanding the rules to learning the jargon, here’s a crash course to get you up to speed on the basics of this elite motor sport.</desc>
+  <programme start="20191004181600 +0000" stop="20191004192300 +0000" channel="RedBull TV">
+    <title lang="en">Ride: United</title>
+    <desc lang="en">A World of Competitive Moto Riding. The biggest stars of every discipline, from off-road enduro riders, to FMX stars, to MX racers, celebrate the community and camaraderie of the competitive moto world. The differences in style don't matter – they're all bound by the passion to ride.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E15</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191003181800 +0000" stop="20191003184000 +0000" channel="RedBull TV">
-    <title lang="en">Choose Your Own Adventure</title>
-    <sub-title lang="en">Way Past Midnight</sub-title>
-    <desc lang="en">Discover a party experience where every turn leads to a new and surreal part of an unforgettable night. More of an event than a party, Choose Your Own Adventure is all about letting go and living life as it unfolds. Go down the rabbit hole during a surreal night filled with food, music, and art, where the only certainty is an unforgettable experience.</desc>
+  <programme start="20191004192300 +0000" stop="20191004201100 +0000" channel="RedBull TV">
+    <title lang="en">Teams with Dreams</title>
+    <sub-title lang="en">Driving Dirty</sub-title>
+    <desc lang="en">Meet five teams preparing for the Baja 1000 and learn what motivates each to enter off-roading's crown jewel. A pro racer, a hometown hero, a husband-and-wife team, a pair of sisters, and a total novice – meet five diverse teams preparing for the Baja 1000. They all have different motivations but only one goal: to try to win off-road racing's crown jewel.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E9</episode-num>
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191003184000 +0000" stop="20191003190300 +0000" channel="RedBull TV">
+  <programme start="20191004201100 +0000" stop="20191004205900 +0000" channel="RedBull TV">
+    <title lang="en">Teams with Dreams</title>
+    <sub-title lang="en">Driving Dirty</sub-title>
+    <desc lang="en">Meet five teams preparing for the Baja 1000 and learn what motivates each to enter off-roading's crown jewel. A pro racer, a hometown hero, a husband-and-wife team, a pair of sisters, and a total novice – meet five diverse teams preparing for the Baja 1000. They all have different motivations but only one goal: to try to win off-road racing's crown jewel.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191004205900 +0000" stop="20191004212900 +0000" channel="RedBull TV">
+    <title lang="en">Friday highlights – Great Britain</title>
+    <sub-title lang="en">FIA World Rally Championship</sub-title>
+    <desc lang="en">Watch the best of the action from Friday's stages in Great Britain and find out who’s in the lead. Watch the best of the action from Friday's stages in Great Britain and find out who’s leading heading into the weekend.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191004212900 +0000" stop="20191004220000 +0000" channel="RedBull TV">
+    <title lang="en">Kilimanjaro: Mountain of Greatness</title>
+    <sub-title lang="en">Mountain biking to the top</sub-title>
+    <desc lang="en">Facing intense altitude challenges and health risks this team set out to conquer Tanzania's Mount Kilimanjaro. Hans Rey, Danny MacAskill and Gerhard Czerner head out on the mountain bike journey of a lifetime. Facing intense altitude challenges and health risks, this team attempt to conquer Mount Kilimanjaro on two wheels.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191004220000 +0000" stop="20191004220800 +0000" channel="RedBull TV">
+    <title lang="en">Crankworx Whistler</title>
+    <sub-title lang="en">Life Behind Bars</sub-title>
+    <desc lang="en">Brandon Semenuk is among the world’s top slopestyle FMB riders at Whistler, Canada for a Crankworx event. The world’s top slopestyle mountain bike riders descend on Whistler, BC, Canada for the biggest Crankworx event of the year. As Brandon Semenuk prepares for the contest, his friend – known as Intern – enjoys the nightlife that Whistler has to offer.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191004220800 +0000" stop="20191004223100 +0000" channel="RedBull TV">
     <title lang="en">Global Warming</title>
     <sub-title lang="en">Liquid Science</sub-title>
     <desc lang="en">GZA, the show's host, travels the United States to explore how scientists are trying to solve global warming. Host GZA’s journey to discover how we might out-think global warming takes him from a Harvard RoboBee lab, to an underground park in New York, to the world’s largest hurricane simulator at the University of Miami.</desc>
@@ -82,309 +114,84 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191003190300 +0000" stop="20191003192300 +0000" channel="RedBull TV">
-    <title lang="en">Transportation</title>
-    <sub-title lang="en">Liquid Science</sub-title>
-    <desc lang="en">GZA, founder of Wu-Tang Clan hip-hop band, investigates the future of transportation. To understand the future of transportation, host GZA looks at self-driving cars, pays a visit to the inventor of a personalised solar-powered rapid transit system, and rides a magnetic hover board.</desc>
+  <programme start="20191004223100 +0000" stop="20191004223800 +0000" channel="RedBull TV">
+    <title lang="en">Shane Desmond</title>
+    <sub-title lang="en">This and Nothing Else</sub-title>
+    <desc lang="en">Shane Desmond works two jobs to support himself, his family, and his relentless passion for surfing big waves. Bartender, manager, father, husband, big wave surfer. Shane Desmond wears a lot of hats, but it's all in the pursuit of creating a balanced life. He works hard for his family, but he plays hard too, chasing the big surf.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E6</episode-num>
+    <episode-num system="onscreen">S2 E2</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191003192300 +0000" stop="20191003201200 +0000" channel="RedBull TV">
-    <title lang="en">Aconcagua: A New Chance</title>
-    <sub-title lang="en">Dare to dream</sub-title>
-    <desc lang="en">Runner Fernanda Maciel aims to be the first woman to climb up and down a 6,961m mountain in a day. Follow ultra-marathoner Fernanda Maciel as she travels to Argentina and attempts to become the first woman to climb up and down one of the highest mountains on the planet, the Aconcagua, in one day.</desc>
+  <programme start="20191004223800 +0000" stop="20191004224600 +0000" channel="RedBull TV">
+    <title lang="en">Tyler Fox</title>
+    <sub-title lang="en">This and Nothing Else</sub-title>
+    <desc lang="en">Tyler Fox drops in and commits fully to his life, whether it's starting his own business or surfing big waves. As an entrepreneur, Tyler Fox faces the uncertainty of being his own boss every day. But as a big wave surfer who loves dropping in during huge swells in California, USA, he's used to total commitment in a wildly uncertain environment.</desc>
     <category lang="en">Sports</category>
+    <episode-num system="onscreen">S2 E3</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191003201200 +0000" stop="20191003204000 +0000" channel="RedBull TV">
-    <title lang="en">ABC of... Cliff diving</title>
-    <sub-title lang="en">ABC of..</sub-title>
-    <desc lang="en">Get to know the art of falling as the top divers give an inside look at cliff diving. Get to know the art of falling as the top divers give an inside look at cliff diving. Jumping from almost three times the olympic height these divers find a way to look past fear and take a leap.</desc>
+  <programme start="20191004224600 +0000" stop="20191004225200 +0000" channel="RedBull TV">
+    <title lang="en">Ryan Seelbach</title>
+    <sub-title lang="en">This and Nothing Else</sub-title>
+    <desc lang="en">Most people choose to be a big wave surfer or have a desk job, but Ryan Seelbach has found a way to do both. As an environmental consultant, Ryan Seelbach has to spend most of his days stuck behind a desk. But while most people would resign themselves to that life alone, Ryan has found a way to balance his work with getting the rush of surfing giant waves.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E18</episode-num>
+    <episode-num system="onscreen">S2 E4</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191003204000 +0000" stop="20191003210700 +0000" channel="RedBull TV">
-    <title lang="en">Rainbow Dive</title>
-    <sub-title lang="en">Rhiannan Iffland's journey of discovery</sub-title>
-    <desc lang="en">Rhiannan Iffland journeys to the Australian Outback and uncovers more than she expected. World champion cliff diver Rhiannan Iffland  journeys to the Australian Outback to rediscover her sense of self and love for diving and in the process uncovers a whole lot more than she bargained for.</desc>
+  <programme start="20191004225200 +0000" stop="20191004225800 +0000" channel="RedBull TV">
+    <title lang="en">No time for rest</title>
+    <sub-title lang="en">Chasing the Dream</sub-title>
+    <desc lang="en">In Spain, champion cliff diver Jonathan Paredes works on a new dive battles with his fears. Having reached the pinnacle of his sport in 2017 when he won the world championship, cliff diver Jonathan Paredes still has obstacles to overcome. In Spain, he works on a new dive battles with his fears.</desc>
     <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191003210700 +0000" stop="20191003212200 +0000" channel="RedBull TV">
-    <title lang="en">Jeffreys Bay</title>
-    <sub-title lang="en">Beyond the Lines</sub-title>
-    <desc lang="en">Kanoa Igarashi goes behind the scenes at the WSL Men's Championship Tour at Jeffreys Bay, South Africa. Join Kanoa Igarashi as the Japanese surfer goes behind the scenes at the sixth stop of the WSL Men's Championship Tour at Jeffreys Bay, South Africa.</desc>
+  <programme start="20191004225800 +0000" stop="20191004230400 +0000" channel="RedBull TV">
+    <title lang="en">Learning from a legend</title>
+    <sub-title lang="en">Chasing the Dream</sub-title>
+    <desc lang="en">Jonathan Paredes turns to high-diving legend Orlando Duque to help him through the rest of the season. It's halfway through the Red Bull Cliff Diving 2018 season and, to help him draw inspiration for the remaining competitions as he looks to defend his world title, Jonathan Paredes turns to high-diving legend and good friend Orlando Duque.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
+    <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191003212200 +0000" stop="20191003221400 +0000" channel="RedBull TV">
-    <title lang="en">Sébastien Loeb: Off Roads</title>
-    <sub-title lang="en">The WRC's best take on the Dakar</sub-title>
-    <desc lang="en">Sébastien Loeb and co-driver Daniel Elena made WRC history. In 2016 they took on a new challenge: Dakar. Sébastien Loeb and his co-driver, Daniel Elena, made history racing in the WRC, winning a record nine world titles together. In 2016 they raced together once again and took on a new challenge: the famous Dakar off-road race.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003221400 +0000" stop="20191003222300 +0000" channel="RedBull TV">
-    <title lang="en">The Hansen Brothers goes Höljes</title>
-    <sub-title lang="en">The Hansen Brothers</sub-title>
-    <desc lang="en">Ever wondered what made Kevin and Timmy Hansen into who they are today? Find out what drives these brothers. Ever wondered what made Kevin and Timmy Hansen into who they are today, and what spurs them on to excel within their sport? Find out what drives these driftbrothers to thrive.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003222300 +0000" stop="20191003225300 +0000" channel="RedBull TV">
-    <title lang="en">Road to 55</title>
-    <sub-title lang="en">The Drive to Become a Formula One Racer</sub-title>
-    <desc lang="en">Experience the 2014 Formula One racing season with Carlos Sainz as he strives to become a top driver. Experience the 2014 Formula One racing season with Carlos Sainz as he strives to become a top driver. Meet the team behind his success and feel his highs and lows.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003225300 +0000" stop="20191003230200 +0000" channel="RedBull TV">
-    <title lang="en">A Door in the Sky</title>
-    <sub-title lang="en">The Soul Flyers</sub-title>
-    <desc lang="en">Get to know the Soul Flyers and see what went into making a ground-breaking BASE jump happen. Get to know the Soul Flyers, Fred Fugen and Vince Reffet, who make history by BASE jumping from a mountain then flying right through an aircraft's door. See what went into making this ground-breaking jump happen.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003230200 +0000" stop="20191003230600 +0000" channel="RedBull TV">
-    <title lang="en">The Soul Flyers</title>
-    <sub-title lang="en">A Door in the Sky: Extra</sub-title>
-    <desc lang="en">In a world first, the Soul Flyers wingsuit pilots BASE jump off a mountain and land in a mid-air aeroplane. Above the Alps, the Soul Flyers, Fred Fugen and Vince Reffet, make history by BASE jumping from a mountain, catching a Pilatus plane in their wingsuits, then flying right through the aircraft's door – a world first!</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003230600 +0000" stop="20191003233000 +0000" channel="RedBull TV">
-    <title lang="en">The Leather Jacket</title>
-    <sub-title lang="en">Social Fabric</sub-title>
-    <desc lang="en">A bit of cowhide that never fails to stand out, the leather jacket is a style icon the world over. Made for bomber pilots, adopted the world over, the leather jacket is a true style icon. Kyle Ng gets punk in Tokyo, Japan, races around Brooklyn, New York, United States, and meets the father of the over-the-top 'championship jacket'.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003233000 +0000" stop="20191003151700 +0000" channel="RedBull TV">
-    <title lang="en">Budapest</title>
-    <sub-title lang="en">The Road Trick</sub-title>
-    <desc lang="en">Magician Adam Trent discovers that Budapest, Hungary, has a light and dark side. Can his tricks work in both? The first stop of magician Adam Trent's European journey is the party city of Budapest, Hungary. Adam wants to see the things that the tourists don't, but walking on the dark side has its risks. Can Adam's magic get him out of a dangerous situation?</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003151700 +0000" stop="20191003160900 +0000" channel="RedBull TV">
-    <title lang="en">Open the Doors: Hellfest</title>
-    <sub-title lang="en">Creativity, madness and heavy metal</sub-title>
-    <desc lang="en">Go to ground zero of the colossal effort to put together Europe's go-to festival for extreme music. Every year, Hellfest raises its black flag on the coast of France and brings screaming hordes of music fans to experience three days of insanity. Witness the colossal effort and the army of crew required to build Europe's go-to fest for metal.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003160900 +0000" stop="20191003170400 +0000" channel="RedBull TV">
-    <title lang="en">Footwork and Fugues</title>
-    <sub-title lang="en">Breaking classical barriers</sub-title>
-    <desc lang="en">When a dance group and an opera director get together to make music and dance the result is magical. A spellbinding fusion of Bach and breakdancing is born when dance group Flying Steps collaborates with accomplished opera director Christoph Hagel. As they hone their artistic vision, they open up about their day-to-day struggles.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003170400 +0000" stop="20191003170800 +0000" channel="RedBull TV">
-    <title lang="en">Colours of the rhythm</title>
-    <sub-title lang="en">Red Bull Dance Your Style 2019</sub-title>
-    <desc lang="en">Helped by colourful lighting, two stylistically different dancers interpret the same music in their own way. Two stylistically different dancers interpret the same music in their own personal way. With the addition of colourful lighting, their moves create visual art that expresses the rhythm of the music.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003170800 +0000" stop="20191003173500 +0000" channel="RedBull TV">
-    <title lang="en">Rob Meets Levi Sherwood</title>
-    <sub-title lang="en">Rob Meets</sub-title>
-    <desc lang="en">Rob Warner travels to Palmerston North, New Zealand, to meet with freestyle motocross rider Levi Sherwood. Rob Warner travels to Palmerston North, New Zealand, to meet with freestyle motocross rider Levi Sherwood. The two talk about how Sherwood got to where he is at a young age and where he's headed.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S3 E10</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003173500 +0000" stop="20191003175000 +0000" channel="RedBull TV">
-    <title lang="en">Close to home</title>
-    <sub-title lang="en">Red Bull Driftbrothers</sub-title>
-    <desc lang="en">Elias and Johannes Hountondji feel the pressure as they race in their home country of Germany. It's time for Elias and Johannes Hountondji to race in their home country of Germany, where friends and family will be there to cheer them on. But having so many spectators raises the pressure.</desc>
+  <programme start="20191004230400 +0000" stop="20191004231100 +0000" channel="RedBull TV">
+    <title lang="en">Never surrender</title>
+    <sub-title lang="en">Chasing the Dream</sub-title>
+    <desc lang="en">Jonathan Paredes keeps his hopes high at finals even as he faces shoulder pain leading into the competition. This demanding season is coming to an end at the final stop of Red Bull Cliff Diving World Series in Italy. Jonathan Paredes keeps his hopes high even as he faces shoulder pain leading into the competition.</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191003175000 +0000" stop="20191003181800 +0000" channel="RedBull TV">
-    <title lang="en">ABC... of MotoGP™</title>
-    <sub-title lang="en">ABC of..</sub-title>
-    <desc lang="en">From understanding the rules to learning the jargon, find out what makes this motorsport so thrilling. MotoGP™ is the premier class of motorbike racing. Get the lowdown on what makes this sport so thrilling. From understanding the rules to learning the jargon, here’s a crash course to get you up to speed on the basics of this elite motor sport.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003181800 +0000" stop="20191003184000 +0000" channel="RedBull TV">
-    <title lang="en">Choose Your Own Adventure</title>
-    <sub-title lang="en">Way Past Midnight</sub-title>
-    <desc lang="en">Discover a party experience where every turn leads to a new and surreal part of an unforgettable night. More of an event than a party, Choose Your Own Adventure is all about letting go and living life as it unfolds. Go down the rabbit hole during a surreal night filled with food, music, and art, where the only certainty is an unforgettable experience.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003184000 +0000" stop="20191003190300 +0000" channel="RedBull TV">
-    <title lang="en">Global Warming</title>
-    <sub-title lang="en">Liquid Science</sub-title>
-    <desc lang="en">GZA, the show's host, travels the United States to explore how scientists are trying to solve global warming. Host GZA’s journey to discover how we might out-think global warming takes him from a Harvard RoboBee lab, to an underground park in New York, to the world’s largest hurricane simulator at the University of Miami.</desc>
+  <programme start="20191004231100 +0000" stop="20191004231900 +0000" channel="RedBull TV">
+    <title lang="en">Step into the limelight</title>
+    <sub-title lang="en">Max Verstappen: The Next Generation</sub-title>
+    <desc lang="en">Following his success in the karting world, Max faces his first F1 test in the Netherlands. After dominating in karting, Max stunned the racing world by becoming the youngest F1 driver in history. As he steps into the limelight, he faces his first test in a show car run in Rotterdam, the Netherlands, with thousands watching.</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>NR</value>
+      <value>UR</value>
     </rating>
   </programme>
-  <programme start="20191003190300 +0000" stop="20191003192300 +0000" channel="RedBull TV">
-    <title lang="en">Transportation</title>
-    <sub-title lang="en">Liquid Science</sub-title>
-    <desc lang="en">GZA, founder of Wu-Tang Clan hip-hop band, investigates the future of transportation. To understand the future of transportation, host GZA looks at self-driving cars, pays a visit to the inventor of a personalised solar-powered rapid transit system, and rides a magnetic hover board.</desc>
+  <programme start="20191004231900 +0000" stop="20191004232700 +0000" channel="RedBull TV">
+    <title lang="en">Team-mates and new cars</title>
+    <sub-title lang="en">Max Verstappen: The Next Generation</sub-title>
+    <desc lang="en">Max's F1 dream is getting ever closer as he meets his team-mates and tests his car. Just weeks away from making history, Max meets his new Scuderia Toro Rosso team-mates, including fellow rookie driver Carlos Sainz. Then, at the Misano World Circuit in Italy, Max finally tests his own F1 car.</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S1 E6</episode-num>
     <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003192300 +0000" stop="20191003201200 +0000" channel="RedBull TV">
-    <title lang="en">Aconcagua: A New Chance</title>
-    <sub-title lang="en">Dare to dream</sub-title>
-    <desc lang="en">Runner Fernanda Maciel aims to be the first woman to climb up and down a 6,961m mountain in a day. Follow ultra-marathoner Fernanda Maciel as she travels to Argentina and attempts to become the first woman to climb up and down one of the highest mountains on the planet, the Aconcagua, in one day.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003201200 +0000" stop="20191003204000 +0000" channel="RedBull TV">
-    <title lang="en">ABC of... Cliff diving</title>
-    <sub-title lang="en">ABC of..</sub-title>
-    <desc lang="en">Get to know the art of falling as the top divers give an inside look at cliff diving. Get to know the art of falling as the top divers give an inside look at cliff diving. Jumping from almost three times the olympic height these divers find a way to look past fear and take a leap.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003204000 +0000" stop="20191003210700 +0000" channel="RedBull TV">
-    <title lang="en">Rainbow Dive</title>
-    <sub-title lang="en">Rhiannan Iffland's journey of discovery</sub-title>
-    <desc lang="en">Rhiannan Iffland journeys to the Australian Outback and uncovers more than she expected. World champion cliff diver Rhiannan Iffland  journeys to the Australian Outback to rediscover her sense of self and love for diving and in the process uncovers a whole lot more than she bargained for.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003210700 +0000" stop="20191003212200 +0000" channel="RedBull TV">
-    <title lang="en">Jeffreys Bay</title>
-    <sub-title lang="en">Beyond the Lines</sub-title>
-    <desc lang="en">Kanoa Igarashi goes behind the scenes at the WSL Men's Championship Tour at Jeffreys Bay, South Africa. Join Kanoa Igarashi as the Japanese surfer goes behind the scenes at the sixth stop of the WSL Men's Championship Tour at Jeffreys Bay, South Africa.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003212200 +0000" stop="20191003221400 +0000" channel="RedBull TV">
-    <title lang="en">Sébastien Loeb: Off Roads</title>
-    <sub-title lang="en">The WRC's best take on the Dakar</sub-title>
-    <desc lang="en">Sébastien Loeb and co-driver Daniel Elena made WRC history. In 2016 they took on a new challenge: Dakar. Sébastien Loeb and his co-driver, Daniel Elena, made history racing in the WRC, winning a record nine world titles together. In 2016 they raced together once again and took on a new challenge: the famous Dakar off-road race.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003221400 +0000" stop="20191003222300 +0000" channel="RedBull TV">
-    <title lang="en">The Hansen Brothers goes Höljes</title>
-    <sub-title lang="en">The Hansen Brothers</sub-title>
-    <desc lang="en">Ever wondered what made Kevin and Timmy Hansen into who they are today? Find out what drives these brothers. Ever wondered what made Kevin and Timmy Hansen into who they are today, and what spurs them on to excel within their sport? Find out what drives these driftbrothers to thrive.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003222300 +0000" stop="20191003225300 +0000" channel="RedBull TV">
-    <title lang="en">Road to 55</title>
-    <sub-title lang="en">The Drive to Become a Formula One Racer</sub-title>
-    <desc lang="en">Experience the 2014 Formula One racing season with Carlos Sainz as he strives to become a top driver. Experience the 2014 Formula One racing season with Carlos Sainz as he strives to become a top driver. Meet the team behind his success and feel his highs and lows.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003225300 +0000" stop="20191003230200 +0000" channel="RedBull TV">
-    <title lang="en">A Door in the Sky</title>
-    <sub-title lang="en">The Soul Flyers</sub-title>
-    <desc lang="en">Get to know the Soul Flyers and see what went into making a ground-breaking BASE jump happen. Get to know the Soul Flyers, Fred Fugen and Vince Reffet, who make history by BASE jumping from a mountain then flying right through an aircraft's door. See what went into making this ground-breaking jump happen.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003230200 +0000" stop="20191003230600 +0000" channel="RedBull TV">
-    <title lang="en">The Soul Flyers</title>
-    <sub-title lang="en">A Door in the Sky: Extra</sub-title>
-    <desc lang="en">In a world first, the Soul Flyers wingsuit pilots BASE jump off a mountain and land in a mid-air aeroplane. Above the Alps, the Soul Flyers, Fred Fugen and Vince Reffet, make history by BASE jumping from a mountain, catching a Pilatus plane in their wingsuits, then flying right through the aircraft's door – a world first!</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003230600 +0000" stop="20191003233000 +0000" channel="RedBull TV">
-    <title lang="en">The Leather Jacket</title>
-    <sub-title lang="en">Social Fabric</sub-title>
-    <desc lang="en">A bit of cowhide that never fails to stand out, the leather jacket is a style icon the world over. Made for bomber pilots, adopted the world over, the leather jacket is a true style icon. Kyle Ng gets punk in Tokyo, Japan, races around Brooklyn, New York, United States, and meets the father of the over-the-top 'championship jacket'.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191003233000 +0000" stop="20191004000000 +0000" channel="RedBull TV">
-    <title lang="en">Budapest</title>
-    <sub-title lang="en">The Road Trick</sub-title>
-    <desc lang="en">Magician Adam Trent discovers that Budapest, Hungary, has a light and dark side. Can his tricks work in both? The first stop of magician Adam Trent's European journey is the party city of Budapest, Hungary. Adam wants to see the things that the tourists don't, but walking on the dark side has its risks. Can Adam's magic get him out of a dangerous situation?</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>NR</value>
+      <value>UR</value>
     </rating>
   </programme>
 </tv>
