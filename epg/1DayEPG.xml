@@ -5,349 +5,6 @@
     <icon src="https://archive.org/download/RedBullTVLogo/Red-Bull-TV-Logo.png" />
     <url>http://www.redbull.tv</url>
   </channel>
-  <programme start="20191006144500 +0000" stop="20191006155100 +0000" channel="RedBull TV">
-    <title lang="en">Etnies: Album\t</title>
-    <sub-title lang="en">Touring five continents for skate spots</sub-title>
-    <desc lang="en">A passionate tribe of skateboarders search cities on five continents in a quest to find new skate spots. An eclectic tribe of skateboarders scour city streets across five continents in a quest to find new skate spots. This film by Etnies is an album of moments from the years that went into the project.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006155100 +0000" stop="20191006164700 +0000" channel="RedBull TV">
-    <title lang="en">VMax: No Straight Line</title>
-    <sub-title lang="en">Beating the mountain bike speed record, again</sub-title>
-    <desc lang="en">Max Stöckl's quest to be the fastest man on a mountain bike takes him from Austria to the mountains of Chile. Markus 'Max' Stöckl has been setting speed downhill mountain bike records for over 20 years. Now, in his endless desire to go faster, he attempts to break his own World Record of 164.95kph on a desolate peak in Chile's Atacama Desert.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006164700 +0000" stop="20191006165200 +0000" channel="RedBull TV">
-    <title lang="en">Wee Day Out</title>
-    <sub-title lang="en">Danny MacAskill in Scotland</sub-title>
-    <desc lang="en">Danny MacAskill tears around rural Scotland, setting out to capture the simple fun of a ride in the country. A relaxing day out in the Scottish countryside means something different for Danny MacAskill than it does for most people. With his signature trial riding style, Danny makes his way over hay bales, through forests and all along the rolling hills.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006165200 +0000" stop="20191006174800 +0000" channel="RedBull TV">
-    <title lang="en">The Flare</title>
-    <sub-title lang="en">Finding their own place in skateboarding</sub-title>
-    <desc lang="en">Take a whimsical look at the life of skateboarding with a group of young men just trying to not fit in. A jock, an outcast, a rebel and a princess: this modern-day Breakfast Club tell their story a little differently. Take a whimsical look at the life of skateboarding with a group of young men just trying to not fit in.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006174800 +0000" stop="20191006181400 +0000" channel="RedBull TV">
-    <title lang="en">Pororoca</title>
-    <sub-title lang="en">Surfing the Amazon</sub-title>
-    <desc lang="en">A group of surfers travel to a remote part of the Amazon in an attempt to ride a destructive tidal wave. On every new and full moon, an enormous tidal wave occurs along the lower Amazon. It's a tempting target for surfers despite the many dangers involved, and it offers few who brave it the longest continuous rides of their lives.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006181400 +0000" stop="20191006184100 +0000" channel="RedBull TV">
-    <title lang="en">ABC of... Surfing</title>
-    <sub-title lang="en">ABC of..</sub-title>
-    <desc lang="en">Discover some facts and figures of surfing, from its origins to the spectacular adrenaline-fuelled present. Learn some facts and figures of surfing, from its origins to the spectacular adrenaline-fuelled present that so many can’t live without. Surfing is a way of life for those who are hooked on it, and once you watch this you might be hooked too.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006184100 +0000" stop="20191006193300 +0000" channel="RedBull TV">
-    <title lang="en">Gotad Ad Kiangan</title>
-    <sub-title lang="en">Archaic Festivals</sub-title>
-    <desc lang="en">The ancestral heritage of the Ifugao of the Philippines is preserved in their Gotad Ad Kiangan festival. Being between the ancient and the modern, the Ifugao people of the Philippines continue their Gotad Ad Kiangan festival to preserve their fading heritage. It's a celebration of singing, dancing, and racing that culminates in a wrestling tournament.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006193300 +0000" stop="20191006193600 +0000" channel="RedBull TV">
-    <title lang="en">Exploring Harbin, China</title>
-    <sub-title lang="en">Jason Paul freerunning on ice</sub-title>
-    <desc lang="en">Jason explores the Chinese city of Harbin, and discovers its Russian influences and friendly people. Jason Paul explores the city of Harbin, China, which reveals its Russian influences and friendly people. Paul and a local freerunning crew explore some local spots, including a very climbable iron structure.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006193600 +0000" stop="20191006193800 +0000" channel="RedBull TV">
-    <title lang="en">Freerunning Illusions</title>
-    <sub-title lang="en">Jason Paul and Pasha Petkuns</sub-title>
-    <desc lang="en">Jason Paul and Pasha Petkuns play mind tricks as they defy gravity with their freerunning illusions. Life as a freerunner means the whole world is your playground... or is it just one big illusion? Jason Paul and Pasha Petkuns play mind tricks as they defy gravity, slide down bananas, and twist your brains with their freerunning illusions.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006193800 +0000" stop="20191006210000 +0000" channel="RedBull TV">
-    <title lang="en">Nervous Laughter</title>
-    <desc lang="en">An inside look at the El Niño big wave season 2016. In the 1990s a group of friends on Maui's north shore started to explore ways to ride one of the most fearsome waves on the planet, Jaws. We chronicle how the 'Strapped Crew' shattered the ceiling of what big-wave surfers thought was possible.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006210000 +0000" stop="20191006220000 +0000" channel="RedBull TV">
-    <title lang="en">Sunday highlights – Great Britain</title>
-    <sub-title lang="en">FIA World Rally Championship</sub-title>
-    <desc lang="en">Mike Chen and Red Bull TV expert Matt Wilson guide you through all the action at Wales Rally GB. Mike Chen and Red Bull TV expert Matt Wilson guide you through all the action across the weekend at Wales Rally GB – join them behind the scenes and for all news from the stages.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006220000 +0000" stop="20191006230700 +0000" channel="RedBull TV">
-    <title lang="en">Ride: United</title>
-    <desc lang="en">A World of Competitive Moto Riding. The biggest stars of every discipline, from off-road enduro riders, to FMX stars, to MX racers, celebrate the community and camaraderie of the competitive moto world. The differences in style don't matter – they're all bound by the passion to ride.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006230700 +0000" stop="20191006233800 +0000" channel="RedBull TV">
-    <title lang="en">Kilimanjaro: Mountain of Greatness</title>
-    <sub-title lang="en">Mountain biking to the top</sub-title>
-    <desc lang="en">Facing intense altitude challenges and health risks this team set out to conquer Tanzania's Mount Kilimanjaro. Hans Rey, Danny MacAskill and Gerhard Czerner head out on the mountain bike journey of a lifetime. Facing intense altitude challenges and health risks, this team attempt to conquer Mount Kilimanjaro on two wheels.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006233800 +0000" stop="20191007003300 +0000" channel="RedBull TV">
-    <title lang="en">Footwork and Fugues</title>
-    <sub-title lang="en">Breaking classical barriers</sub-title>
-    <desc lang="en">When a dance group and an opera director get together to make music and dance the result is magical. A spellbinding fusion of Bach and breakdancing is born when dance group Flying Steps collaborates with accomplished opera director Christoph Hagel. As they hone their artistic vision, they open up about their day-to-day struggles.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007003300 +0000" stop="20191007003700 +0000" channel="RedBull TV">
-    <title lang="en">Colours of the rhythm</title>
-    <sub-title lang="en">Red Bull Dance Your Style 2019</sub-title>
-    <desc lang="en">Helped by colourful lighting, two stylistically different dancers interpret the same music in their own way. Two stylistically different dancers interpret the same music in their own personal way. With the addition of colourful lighting, their moves create visual art that expresses the rhythm of the music.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007003700 +0000" stop="20191007013300 +0000" channel="RedBull TV">
-    <title lang="en">VMax: No Straight Line</title>
-    <sub-title lang="en">Beating the mountain bike speed record, again</sub-title>
-    <desc lang="en">Max Stöckl's quest to be the fastest man on a mountain bike takes him from Austria to the mountains of Chile. Markus 'Max' Stöckl has been setting speed downhill mountain bike records for over 20 years. Now, in his endless desire to go faster, he attempts to break his own World Record of 164.95kph on a desolate peak in Chile's Atacama Desert.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007013300 +0000" stop="20191007013800 +0000" channel="RedBull TV">
-    <title lang="en">Wee Day Out</title>
-    <sub-title lang="en">Danny MacAskill in Scotland</sub-title>
-    <desc lang="en">Danny MacAskill tears around rural Scotland, setting out to capture the simple fun of a ride in the country. A relaxing day out in the Scottish countryside means something different for Danny MacAskill than it does for most people. With his signature trial riding style, Danny makes his way over hay bales, through forests and all along the rolling hills.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007013800 +0000" stop="20191007023500 +0000" channel="RedBull TV">
-    <title lang="en">The Flare</title>
-    <sub-title lang="en">Finding their own place in skateboarding</sub-title>
-    <desc lang="en">Take a whimsical look at the life of skateboarding with a group of young men just trying to not fit in. A jock, an outcast, a rebel and a princess: this modern-day Breakfast Club tell their story a little differently. Take a whimsical look at the life of skateboarding with a group of young men just trying to not fit in.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007023500 +0000" stop="20191007030100 +0000" channel="RedBull TV">
-    <title lang="en">Pororoca</title>
-    <sub-title lang="en">Surfing the Amazon</sub-title>
-    <desc lang="en">A group of surfers travel to a remote part of the Amazon in an attempt to ride a destructive tidal wave. On every new and full moon, an enormous tidal wave occurs along the lower Amazon. It's a tempting target for surfers despite the many dangers involved, and it offers few who brave it the longest continuous rides of their lives.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007030100 +0000" stop="20191006144500 +0000" channel="RedBull TV">
-    <title lang="en">ABC of... Surfing</title>
-    <sub-title lang="en">ABC of..</sub-title>
-    <desc lang="en">Discover some facts and figures of surfing, from its origins to the spectacular adrenaline-fuelled present. Learn some facts and figures of surfing, from its origins to the spectacular adrenaline-fuelled present that so many can’t live without. Surfing is a way of life for those who are hooked on it, and once you watch this you might be hooked too.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006144500 +0000" stop="20191006155100 +0000" channel="RedBull TV">
-    <title lang="en">Etnies: Album\t</title>
-    <sub-title lang="en">Touring five continents for skate spots</sub-title>
-    <desc lang="en">A passionate tribe of skateboarders search cities on five continents in a quest to find new skate spots. An eclectic tribe of skateboarders scour city streets across five continents in a quest to find new skate spots. This film by Etnies is an album of moments from the years that went into the project.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006155100 +0000" stop="20191006164700 +0000" channel="RedBull TV">
-    <title lang="en">VMax: No Straight Line</title>
-    <sub-title lang="en">Beating the mountain bike speed record, again</sub-title>
-    <desc lang="en">Max Stöckl's quest to be the fastest man on a mountain bike takes him from Austria to the mountains of Chile. Markus 'Max' Stöckl has been setting speed downhill mountain bike records for over 20 years. Now, in his endless desire to go faster, he attempts to break his own World Record of 164.95kph on a desolate peak in Chile's Atacama Desert.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006164700 +0000" stop="20191006165200 +0000" channel="RedBull TV">
-    <title lang="en">Wee Day Out</title>
-    <sub-title lang="en">Danny MacAskill in Scotland</sub-title>
-    <desc lang="en">Danny MacAskill tears around rural Scotland, setting out to capture the simple fun of a ride in the country. A relaxing day out in the Scottish countryside means something different for Danny MacAskill than it does for most people. With his signature trial riding style, Danny makes his way over hay bales, through forests and all along the rolling hills.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006165200 +0000" stop="20191006174800 +0000" channel="RedBull TV">
-    <title lang="en">The Flare</title>
-    <sub-title lang="en">Finding their own place in skateboarding</sub-title>
-    <desc lang="en">Take a whimsical look at the life of skateboarding with a group of young men just trying to not fit in. A jock, an outcast, a rebel and a princess: this modern-day Breakfast Club tell their story a little differently. Take a whimsical look at the life of skateboarding with a group of young men just trying to not fit in.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006174800 +0000" stop="20191006181400 +0000" channel="RedBull TV">
-    <title lang="en">Pororoca</title>
-    <sub-title lang="en">Surfing the Amazon</sub-title>
-    <desc lang="en">A group of surfers travel to a remote part of the Amazon in an attempt to ride a destructive tidal wave. On every new and full moon, an enormous tidal wave occurs along the lower Amazon. It's a tempting target for surfers despite the many dangers involved, and it offers few who brave it the longest continuous rides of their lives.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006181400 +0000" stop="20191006184100 +0000" channel="RedBull TV">
-    <title lang="en">ABC of... Surfing</title>
-    <sub-title lang="en">ABC of..</sub-title>
-    <desc lang="en">Discover some facts and figures of surfing, from its origins to the spectacular adrenaline-fuelled present. Learn some facts and figures of surfing, from its origins to the spectacular adrenaline-fuelled present that so many can’t live without. Surfing is a way of life for those who are hooked on it, and once you watch this you might be hooked too.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006184100 +0000" stop="20191006193300 +0000" channel="RedBull TV">
-    <title lang="en">Gotad Ad Kiangan</title>
-    <sub-title lang="en">Archaic Festivals</sub-title>
-    <desc lang="en">The ancestral heritage of the Ifugao of the Philippines is preserved in their Gotad Ad Kiangan festival. Being between the ancient and the modern, the Ifugao people of the Philippines continue their Gotad Ad Kiangan festival to preserve their fading heritage. It's a celebration of singing, dancing, and racing that culminates in a wrestling tournament.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006193300 +0000" stop="20191006193600 +0000" channel="RedBull TV">
-    <title lang="en">Exploring Harbin, China</title>
-    <sub-title lang="en">Jason Paul freerunning on ice</sub-title>
-    <desc lang="en">Jason explores the Chinese city of Harbin, and discovers its Russian influences and friendly people. Jason Paul explores the city of Harbin, China, which reveals its Russian influences and friendly people. Paul and a local freerunning crew explore some local spots, including a very climbable iron structure.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006193600 +0000" stop="20191006193800 +0000" channel="RedBull TV">
-    <title lang="en">Freerunning Illusions</title>
-    <sub-title lang="en">Jason Paul and Pasha Petkuns</sub-title>
-    <desc lang="en">Jason Paul and Pasha Petkuns play mind tricks as they defy gravity with their freerunning illusions. Life as a freerunner means the whole world is your playground... or is it just one big illusion? Jason Paul and Pasha Petkuns play mind tricks as they defy gravity, slide down bananas, and twist your brains with their freerunning illusions.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006193800 +0000" stop="20191006210000 +0000" channel="RedBull TV">
-    <title lang="en">Nervous Laughter</title>
-    <desc lang="en">An inside look at the El Niño big wave season 2016. In the 1990s a group of friends on Maui's north shore started to explore ways to ride one of the most fearsome waves on the planet, Jaws. We chronicle how the 'Strapped Crew' shattered the ceiling of what big-wave surfers thought was possible.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006210000 +0000" stop="20191006220000 +0000" channel="RedBull TV">
-    <title lang="en">Sunday highlights – Great Britain</title>
-    <sub-title lang="en">FIA World Rally Championship</sub-title>
-    <desc lang="en">Mike Chen and Red Bull TV expert Matt Wilson guide you through all the action at Wales Rally GB. Mike Chen and Red Bull TV expert Matt Wilson guide you through all the action across the weekend at Wales Rally GB – join them behind the scenes and for all news from the stages.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006220000 +0000" stop="20191006230700 +0000" channel="RedBull TV">
-    <title lang="en">Ride: United</title>
-    <desc lang="en">A World of Competitive Moto Riding. The biggest stars of every discipline, from off-road enduro riders, to FMX stars, to MX racers, celebrate the community and camaraderie of the competitive moto world. The differences in style don't matter – they're all bound by the passion to ride.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006230700 +0000" stop="20191006233800 +0000" channel="RedBull TV">
-    <title lang="en">Kilimanjaro: Mountain of Greatness</title>
-    <sub-title lang="en">Mountain biking to the top</sub-title>
-    <desc lang="en">Facing intense altitude challenges and health risks this team set out to conquer Tanzania's Mount Kilimanjaro. Hans Rey, Danny MacAskill and Gerhard Czerner head out on the mountain bike journey of a lifetime. Facing intense altitude challenges and health risks, this team attempt to conquer Mount Kilimanjaro on two wheels.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191006233800 +0000" stop="20191007003300 +0000" channel="RedBull TV">
-    <title lang="en">Footwork and Fugues</title>
-    <sub-title lang="en">Breaking classical barriers</sub-title>
-    <desc lang="en">When a dance group and an opera director get together to make music and dance the result is magical. A spellbinding fusion of Bach and breakdancing is born when dance group Flying Steps collaborates with accomplished opera director Christoph Hagel. As they hone their artistic vision, they open up about their day-to-day struggles.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007003300 +0000" stop="20191007003700 +0000" channel="RedBull TV">
-    <title lang="en">Colours of the rhythm</title>
-    <sub-title lang="en">Red Bull Dance Your Style 2019</sub-title>
-    <desc lang="en">Helped by colourful lighting, two stylistically different dancers interpret the same music in their own way. Two stylistically different dancers interpret the same music in their own personal way. With the addition of colourful lighting, their moves create visual art that expresses the rhythm of the music.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007003700 +0000" stop="20191007013300 +0000" channel="RedBull TV">
-    <title lang="en">VMax: No Straight Line</title>
-    <sub-title lang="en">Beating the mountain bike speed record, again</sub-title>
-    <desc lang="en">Max Stöckl's quest to be the fastest man on a mountain bike takes him from Austria to the mountains of Chile. Markus 'Max' Stöckl has been setting speed downhill mountain bike records for over 20 years. Now, in his endless desire to go faster, he attempts to break his own World Record of 164.95kph on a desolate peak in Chile's Atacama Desert.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007013300 +0000" stop="20191007013800 +0000" channel="RedBull TV">
-    <title lang="en">Wee Day Out</title>
-    <sub-title lang="en">Danny MacAskill in Scotland</sub-title>
-    <desc lang="en">Danny MacAskill tears around rural Scotland, setting out to capture the simple fun of a ride in the country. A relaxing day out in the Scottish countryside means something different for Danny MacAskill than it does for most people. With his signature trial riding style, Danny makes his way over hay bales, through forests and all along the rolling hills.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007013800 +0000" stop="20191007023500 +0000" channel="RedBull TV">
-    <title lang="en">The Flare</title>
-    <sub-title lang="en">Finding their own place in skateboarding</sub-title>
-    <desc lang="en">Take a whimsical look at the life of skateboarding with a group of young men just trying to not fit in. A jock, an outcast, a rebel and a princess: this modern-day Breakfast Club tell their story a little differently. Take a whimsical look at the life of skateboarding with a group of young men just trying to not fit in.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
   <programme start="20191007023500 +0000" stop="20191007030100 +0000" channel="RedBull TV">
     <title lang="en">Pororoca</title>
     <sub-title lang="en">Surfing the Amazon</sub-title>
@@ -363,6 +20,183 @@
     <desc lang="en">Discover some facts and figures of surfing, from its origins to the spectacular adrenaline-fuelled present. Learn some facts and figures of surfing, from its origins to the spectacular adrenaline-fuelled present that so many can’t live without. Surfing is a way of life for those who are hooked on it, and once you watch this you might be hooked too.</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191007032900 +0000" stop="20191007035300 +0000" channel="RedBull TV">
+    <title lang="en">The Training Heats Up</title>
+    <sub-title lang="en">Break'n Reality</sub-title>
+    <desc lang="en">The b-boys train for the upoming BC One in Moscow. Lilou receives bad news and makes a strategic choice. When he discovers he can't compete in the BC One in Moscow, Lilou helps a fellow b-boy in order to beat his rival Neguin. In Sao Paulo, Neguin trains with his friend Andre. Roxrite gets an offer to compete in Moscow for the only title he's never won.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191007035300 +0000" stop="20191007044500 +0000" channel="RedBull TV">
+    <title lang="en">Gotad Ad Kiangan</title>
+    <sub-title lang="en">Archaic Festivals</sub-title>
+    <desc lang="en">The ancestral heritage of the Ifugao of the Philippines is preserved in their Gotad Ad Kiangan festival. Being between the ancient and the modern, the Ifugao people of the Philippines continue their Gotad Ad Kiangan festival to preserve their fading heritage. It's a celebration of singing, dancing, and racing that culminates in a wrestling tournament.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191007044500 +0000" stop="20191007050000 +0000" channel="RedBull TV">
+    <title lang="en">The rise of VGM</title>
+    <sub-title lang="en">Diggin' in the Carts</sub-title>
+    <desc lang="en">Explore the origins of Japanese video game music and its influence on modern-day musicians. From humble beginnings to worldwide recognition, Japanese video game music has inspired a generation. Meet Junko Ozawa, developer of the 'Namco sound', and iconic Nintendo composer Hirokazu Tanaka.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191007050000 +0000" stop="20191007052600 +0000" channel="RedBull TV">
+    <title lang="en">Rob Meets Levi Sherwood</title>
+    <sub-title lang="en">Rob Meets</sub-title>
+    <desc lang="en">Rob Warner travels to Palmerston North, New Zealand, to meet with freestyle motocross rider Levi Sherwood. Rob Warner travels to Palmerston North, New Zealand, to meet with freestyle motocross rider Levi Sherwood. The two talk about how Sherwood got to where he is at a young age and where he's headed.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S3 E10</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191007052600 +0000" stop="20191007054100 +0000" channel="RedBull TV">
+    <title lang="en">Close to home</title>
+    <sub-title lang="en">Red Bull Driftbrothers</sub-title>
+    <desc lang="en">Elias and Johannes Hountondji feel the pressure as they race in their home country of Germany. It's time for Elias and Johannes Hountondji to race in their home country of Germany, where friends and family will be there to cheer them on. But having so many spectators raises the pressure.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191007054100 +0000" stop="20191007060900 +0000" channel="RedBull TV">
+    <title lang="en">ABC... of MotoGP™</title>
+    <sub-title lang="en">ABC of..</sub-title>
+    <desc lang="en">From understanding the rules to learning the jargon, find out what makes this motorsport so thrilling. MotoGP™ is the premier class of motorbike racing. Get the lowdown on what makes this sport so thrilling. From understanding the rules to learning the jargon, here’s a crash course to get you up to speed on the basics of this elite motor sport.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191007060900 +0000" stop="20191007063100 +0000" channel="RedBull TV">
+    <title lang="en">Choose Your Own Adventure</title>
+    <sub-title lang="en">Way Past Midnight</sub-title>
+    <desc lang="en">Discover a party experience where every turn leads to a new and surreal part of an unforgettable night. More of an event than a party, Choose Your Own Adventure is all about letting go and living life as it unfolds. Go down the rabbit hole during a surreal night filled with food, music, and art, where the only certainty is an unforgettable experience.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191007063100 +0000" stop="20191007065400 +0000" channel="RedBull TV">
+    <title lang="en">Global Warming</title>
+    <sub-title lang="en">Liquid Science</sub-title>
+    <desc lang="en">GZA, the show's host, travels the United States to explore how scientists are trying to solve global warming. Host GZA’s journey to discover how we might out-think global warming takes him from a Harvard RoboBee lab, to an underground park in New York, to the world’s largest hurricane simulator at the University of Miami.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191007065400 +0000" stop="20191007071400 +0000" channel="RedBull TV">
+    <title lang="en">Transportation</title>
+    <sub-title lang="en">Liquid Science</sub-title>
+    <desc lang="en">GZA, founder of Wu-Tang Clan hip-hop band, investigates the future of transportation. To understand the future of transportation, host GZA looks at self-driving cars, pays a visit to the inventor of a personalised solar-powered rapid transit system, and rides a magnetic hover board.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191007071400 +0000" stop="20191007080200 +0000" channel="RedBull TV">
+    <title lang="en">Aconcagua: A New Chance</title>
+    <sub-title lang="en">Dare to dream</sub-title>
+    <desc lang="en">Runner Fernanda Maciel aims to be the first woman to climb up and down a 6,961m mountain in a day. Follow ultra-marathoner Fernanda Maciel as she travels to Argentina and attempts to become the first woman to climb up and down one of the highest mountains on the planet, the Aconcagua, in one day.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191007083000 +0000" stop="20191007083600 +0000" channel="RedBull TV">
+    <title lang="en">Welcome aboard</title>
+    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
+    <desc lang="en">The skateboarding crew check out the cruise ship and rip around some historic streets of Italy and Greece. The first leg of the Skate Cruise sets off from Rome and travels to Savona and Mykonos. With just hours to spend at each port, the sessions are fast paced and fully improvisational. There's no time to relax when you're a skateboarding tourist.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191007083600 +0000" stop="20191007084300 +0000" channel="RedBull TV">
+    <title lang="en">Turkish delights</title>
+    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
+    <desc lang="en">With more time to explore and great spots to skate, Turkey’s Izmir and Istanbul are the trip’s best stops yet. Turkey provides the trip’s best sessions so far, with more time to explore. Izmir offers some proper transition skating at the local park, and two days in Istanbul give the crew a chance to look for bigger street spots.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191007084300 +0000" stop="20191007084900 +0000" channel="RedBull TV">
+    <title lang="en">To infinity and beyond</title>
+    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
+    <desc lang="en">The final leg sees the crew in Bulgaria and Greece. On the water, the ship’s deck is a skate spot with a view. On the last leg of the cruise, the skateboarding crew lands in Bulgaria to the warmest (albeit wettest) reception of the tour. Then it’s back to Greece, where the boys go to work on Athens’ marble with some eye-catching tricks.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191007084900 +0000" stop="20191007090300 +0000" channel="RedBull TV">
+    <title lang="en">Red Bull Music Studio Sessions: Kelly Rowland</title>
+    <sub-title lang="en">Red Bull Music Studios Sessions</sub-title>
+    <desc lang="en">Kelly Rowland and producers collaborate to share an artistic journey of music writing and recording. Go behind the scenes of a creative musical journey as a team of songwriters and producers write and record three tracks with superstar singer and artist Kelly Rowland at Red Bull Studios Los Angeles.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191007090300 +0000" stop="20191007093600 +0000" channel="RedBull TV">
+    <title lang="en">Frozen Mind</title>
+    <sub-title lang="en">Riding Chamonix</sub-title>
+    <desc lang="en">Pro snowboarder Victor De Le Rue has travelled the world, but his favourite place is Chamonix, France. Victor De Le Rue, a professional snowboarder from the Pyrenees, has ridden all over the world, but one particular place on Earth inspires him more than anywhere else: Chamonix, France.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191007093600 +0000" stop="20191007110100 +0000" channel="RedBull TV">
+    <title lang="en">Against the Odds</title>
+    <sub-title lang="en">The gaming Cinderella story - EXCLUSIVE RELEASE ON AUGUST 7TH 3PM UTC</sub-title>
+    <desc lang="en">This is the journey of five Dota players and a coach, who, just two months before, had never played together. In 2018 Team OG were at rock-bottom, hit by painful departures and scrapping in qualifiers for Dota 2's T18. Against the Odds is the fairytale of this broken team's shot at Gaming’s biggest prize.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191007110100 +0000" stop="20191007111600 +0000" channel="RedBull TV">
+    <title lang="en">Naming pasta and track turns in Italy</title>
+    <sub-title lang="en">MotoGP™: Inside Pass</sub-title>
+    <desc lang="en">Vanessa Guerra arrives in Italy's beautiful Tuscany and asks riders to describe the Mugello circuit. Vanessa Guerra arrives in Italy's beautiful Tuscany and asks riders to describe the Mugello circuit. Then it's time for pasta games, vlog takeovers and a ride around the track.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191007111600 +0000" stop="20191007120800 +0000" channel="RedBull TV">
+    <title lang="en">The Explorers</title>
+    <sub-title lang="en">Visions of Greatness</sub-title>
+    <desc lang="en">Two determined innovators push their limits, risking all, in order to realise their dreams, are profiled. Pushing the limits of possibility challenges people who are willing to go beyond the visible horizon, no matter the risks. Documentary film-maker Jimmy Chin and XPRIZE creator Peter Diamandis are explorers who are always looking for a new frontier.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
