@@ -5,75 +5,7 @@
     <icon src="https://archive.org/download/RedBullTVLogo/Red-Bull-TV-Logo.png" />
     <url>http://www.redbull.tv</url>
   </channel>
-  <programme start="20191007163300 +0000" stop="20191007163800 +0000" channel="RedBull TV">
-    <title lang="en">Welcome aboard</title>
-    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
-    <desc lang="en">The skateboarding crew check out the cruise ship and rip around some historic streets of Italy and Greece. The first leg of the Skate Cruise sets off from Rome and travels to Savona and Mykonos. With just hours to spend at each port, the sessions are fast paced and fully improvisational. There's no time to relax when you're a skateboarding tourist.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007163800 +0000" stop="20191007164500 +0000" channel="RedBull TV">
-    <title lang="en">Turkish delights</title>
-    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
-    <desc lang="en">With more time to explore and great spots to skate, Turkey’s Izmir and Istanbul are the trip’s best stops yet. Turkey provides the trip’s best sessions so far, with more time to explore. Izmir offers some proper transition skating at the local park, and two days in Istanbul give the crew a chance to look for bigger street spots.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007164500 +0000" stop="20191007165200 +0000" channel="RedBull TV">
-    <title lang="en">To infinity and beyond</title>
-    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
-    <desc lang="en">The final leg sees the crew in Bulgaria and Greece. On the water, the ship’s deck is a skate spot with a view. On the last leg of the cruise, the skateboarding crew lands in Bulgaria to the warmest (albeit wettest) reception of the tour. Then it’s back to Greece, where the boys go to work on Athens’ marble with some eye-catching tricks.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007165200 +0000" stop="20191007170600 +0000" channel="RedBull TV">
-    <title lang="en">Red Bull Music Studio Sessions: Kelly Rowland</title>
-    <sub-title lang="en">Red Bull Music Studios Sessions</sub-title>
-    <desc lang="en">Kelly Rowland and producers collaborate to share an artistic journey of music writing and recording. Go behind the scenes of a creative musical journey as a team of songwriters and producers write and record three tracks with superstar singer and artist Kelly Rowland at Red Bull Studios Los Angeles.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007170600 +0000" stop="20191007173900 +0000" channel="RedBull TV">
-    <title lang="en">Frozen Mind</title>
-    <sub-title lang="en">Riding Chamonix</sub-title>
-    <desc lang="en">Pro snowboarder Victor De Le Rue has travelled the world, but his favourite place is Chamonix, France. Victor De Le Rue, a professional snowboarder from the Pyrenees, has ridden all over the world, but one particular place on Earth inspires him more than anywhere else: Chamonix, France.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007173900 +0000" stop="20191007190300 +0000" channel="RedBull TV">
-    <title lang="en">Against the Odds</title>
-    <sub-title lang="en">The gaming Cinderella story - EXCLUSIVE RELEASE ON AUGUST 7TH 3PM UTC</sub-title>
-    <desc lang="en">This is the journey of five Dota players and a coach, who, just two months before, had never played together. In 2018 Team OG were at rock-bottom, hit by painful departures and scrapping in qualifiers for Dota 2's T18. Against the Odds is the fairytale of this broken team's shot at Gaming’s biggest prize.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007190300 +0000" stop="20191007191800 +0000" channel="RedBull TV">
-    <title lang="en">Naming pasta and track turns in Italy</title>
-    <sub-title lang="en">MotoGP™: Inside Pass</sub-title>
-    <desc lang="en">Vanessa Guerra arrives in Italy's beautiful Tuscany and asks riders to describe the Mugello circuit. Vanessa Guerra arrives in Italy's beautiful Tuscany and asks riders to describe the Mugello circuit. Then it's time for pasta games, vlog takeovers and a ride around the track.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007191800 +0000" stop="20191007201000 +0000" channel="RedBull TV">
+  <programme start="20191008151800 +0000" stop="20191008161000 +0000" channel="RedBull TV">
     <title lang="en">The Explorers</title>
     <sub-title lang="en">Visions of Greatness</sub-title>
     <desc lang="en">Two determined innovators push their limits, risking all, in order to realise their dreams, are profiled. Pushing the limits of possibility challenges people who are willing to go beyond the visible horizon, no matter the risks. Documentary film-maker Jimmy Chin and XPRIZE creator Peter Diamandis are explorers who are always looking for a new frontier.</desc>
@@ -83,7 +15,161 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191007201000 +0000" stop="20191007203500 +0000" channel="RedBull TV">
+  <programme start="20191008161000 +0000" stop="20191008163900 +0000" channel="RedBull TV">
+    <title lang="en">Budapest</title>
+    <sub-title lang="en">The Road Trick</sub-title>
+    <desc lang="en">Magician Adam Trent discovers that Budapest, Hungary, has a light and dark side. Can his tricks work in both? The first stop of magician Adam Trent's European journey is the party city of Budapest, Hungary. Adam wants to see the things that the tourists don't, but walking on the dark side has its risks. Can Adam's magic get him out of a dangerous situation?</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008163900 +0000" stop="20191008170600 +0000" channel="RedBull TV">
+    <title lang="en">Amazon High Tide</title>
+    <sub-title lang="en">In search of the waves</sub-title>
+    <desc lang="en">Ramón Navarro is a surfer brave enough to cross the Amazon jungle and find a secret wave spot. Big wave surfer Ramón Navarro is determined enough to cross the remote Amazon jungle in Brazil in search of a secret wave spot.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008170600 +0000" stop="20191008175900 +0000" channel="RedBull TV">
+    <title lang="en">Gully Life</title>
+    <sub-title lang="en">The Story of Divine</sub-title>
+    <desc lang="en">A look at how a young rapper from Mumbai became one of the most sought-after musicians in India. The first-ever documentary on his life, Gully Life: The Story of Divine takes a look at how a young rapper from Mumbai became one of the most sought-after musicians in India, and a global superstar.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008175900 +0000" stop="20191008181500 +0000" channel="RedBull TV">
+    <title lang="en">Taking Shape</title>
+    <sub-title lang="en">MacAskill's Imaginate</sub-title>
+    <desc lang="en">Danny MacAskill starts a perfomance programme with his rehab trainer, first in the gym, then on his bike. As he recovers from major back surgery, cyclist Danny MacAskill films a TV documentary about action sports athletes with one of his heroes, Guy Martin. Then work of rehab begins as he starts to plan his moves for the film project.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>UR</value>
+    </rating>
+  </programme>
+  <programme start="20191008185200 +0000" stop="20191008192000 +0000" channel="RedBull TV">
+    <title lang="en">Atari</title>
+    <sub-title lang="en">The Ripple Effect</sub-title>
+    <desc lang="en">Nolan Bushnell changes global entertainment with his invention of an electronic, monochrome square ball. Nolan Bushnell, a businessman with carnival barker charm and a touch for electronics, changes global entertainment with his creation of the video game Pong. He not only revolutionises how people play games, but becomes the father of Silicon Valley.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008192000 +0000" stop="20191008194700 +0000" channel="RedBull TV">
+    <title lang="en">Plaid</title>
+    <sub-title lang="en">Social Fabric</sub-title>
+    <desc lang="en">A pattern to unite the world, Kyle Ng travels from the United States to Scotland and Kenya looking for plaid. A pattern to unite the world, Kyle Ng dives into plaid's history. He visits Scotland, UK to see how tartan is part of a family's DNA, hangs with a low rider club in California, USA, and sees how the fabric is a part of tribal identity in Africa.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008194700 +0000" stop="20191008195300 +0000" channel="RedBull TV">
+    <title lang="en">Prepping for Panama</title>
+    <sub-title lang="en">Wakecation: Panama</sub-title>
+    <desc lang="en">Parks Bonifay rounds up some friends for an epic wakeboarding adventure in Panama they’ll never forget. Parks Bonifay rounds up some friends for an epic wakeboarding adventure in Panama they’ll never forget. Before heading off to the airport, Brian Grubb and Steel Lafferty join Parks for one last wakeskating session.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008195300 +0000" stop="20191008200200 +0000" channel="RedBull TV">
+    <title lang="en">The Seaplane Escapade</title>
+    <sub-title lang="en">Wakecation: Panama</sub-title>
+    <desc lang="en">After arriving in Nitro City, Panama, Parks Bonifray and crew go wakeboarding with a seaplane. After landing in Panama, Parks Bonifay, Brian Grubb, and Steel Lafferty prepare for a wakeboarding session with a seaplane. Later, Brian and pro wakeboarder Collin Harrington skydive from a seaplane – hanging from the pontoons on the way up.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008200200 +0000" stop="20191008201400 +0000" channel="RedBull TV">
+    <title lang="en">Rob Meets Julien Absalon</title>
+    <sub-title lang="en">Rob Meets</sub-title>
+    <desc lang="en">Rob Warner gets personal with the king of cross-country mountain biking, Julien Absalon. With five World Championships, two Olympic golds, and seven overall wins on the World Tour, Julien Absalon is the king of cross-country mountain biking. Rob Warner travels to France to hear from the man himself about preparing for his final season.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008201400 +0000" stop="20191008211000 +0000" channel="RedBull TV">
+    <title lang="en">VMax: No Straight Line</title>
+    <sub-title lang="en">Beating the mountain bike speed record, again</sub-title>
+    <desc lang="en">Max Stöckl's quest to be the fastest man on a mountain bike takes him from Austria to the mountains of Chile. Markus 'Max' Stöckl has been setting speed downhill mountain bike records for over 20 years. Now, in his endless desire to go faster, he attempts to break his own World Record of 164.95kph on a desolate peak in Chile's Atacama Desert.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008211000 +0000" stop="20191008211400 +0000" channel="RedBull TV">
+    <title lang="en">Wee Day Out</title>
+    <sub-title lang="en">Danny MacAskill in Scotland</sub-title>
+    <desc lang="en">Danny MacAskill tears around rural Scotland, setting out to capture the simple fun of a ride in the country. A relaxing day out in the Scottish countryside means something different for Danny MacAskill than it does for most people. With his signature trial riding style, Danny makes his way over hay bales, through forests and all along the rolling hills.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008211400 +0000" stop="20191008221100 +0000" channel="RedBull TV">
+    <title lang="en">The Flare</title>
+    <sub-title lang="en">Finding their own place in skateboarding</sub-title>
+    <desc lang="en">Take a whimsical look at the life of skateboarding with a group of young men just trying to not fit in. A jock, an outcast, a rebel and a princess: this modern-day Breakfast Club tell their story a little differently. Take a whimsical look at the life of skateboarding with a group of young men just trying to not fit in.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008221100 +0000" stop="20191008223700 +0000" channel="RedBull TV">
+    <title lang="en">Pororoca</title>
+    <sub-title lang="en">Surfing the Amazon</sub-title>
+    <desc lang="en">A group of surfers travel to a remote part of the Amazon in an attempt to ride a destructive tidal wave. On every new and full moon, an enormous tidal wave occurs along the lower Amazon. It's a tempting target for surfers despite the many dangers involved, and it offers few who brave it the longest continuous rides of their lives.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008223700 +0000" stop="20191008230500 +0000" channel="RedBull TV">
+    <title lang="en">ABC of... Surfing</title>
+    <sub-title lang="en">ABC of..</sub-title>
+    <desc lang="en">Discover some facts and figures of surfing, from its origins to the spectacular adrenaline-fuelled present. Learn some facts and figures of surfing, from its origins to the spectacular adrenaline-fuelled present that so many can’t live without. Surfing is a way of life for those who are hooked on it, and once you watch this you might be hooked too.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008230500 +0000" stop="20191008235700 +0000" channel="RedBull TV">
+    <title lang="en">Gotad Ad Kiangan</title>
+    <sub-title lang="en">Archaic Festivals</sub-title>
+    <desc lang="en">The ancestral heritage of the Ifugao of the Philippines is preserved in their Gotad Ad Kiangan festival. Being between the ancient and the modern, the Ifugao people of the Philippines continue their Gotad Ad Kiangan festival to preserve their fading heritage. It's a celebration of singing, dancing, and racing that culminates in a wrestling tournament.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008235700 +0000" stop="20191009001100 +0000" channel="RedBull TV">
+    <title lang="en">The rise of VGM</title>
+    <sub-title lang="en">Diggin' in the Carts</sub-title>
+    <desc lang="en">Explore the origins of Japanese video game music and its influence on modern-day musicians. From humble beginnings to worldwide recognition, Japanese video game music has inspired a generation. Meet Junko Ozawa, developer of the 'Namco sound', and iconic Nintendo composer Hirokazu Tanaka.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191009001100 +0000" stop="20191009003600 +0000" channel="RedBull TV">
     <title lang="en">The Training Heats Up</title>
     <sub-title lang="en">Break'n Reality</sub-title>
     <desc lang="en">The b-boys train for the upoming BC One in Moscow. Lilou receives bad news and makes a strategic choice. When he discovers he can't compete in the BC One in Moscow, Lilou helps a fellow b-boy in order to beat his rival Neguin. In Sao Paulo, Neguin trains with his friend Andre. Roxrite gets an offer to compete in Moscow for the only title he's never won.</desc>
@@ -93,7 +179,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191007203500 +0000" stop="20191007210700 +0000" channel="RedBull TV">
+  <programme start="20191009003600 +0000" stop="20191009010900 +0000" channel="RedBull TV">
     <title lang="en">Lessons from the Edge</title>
     <sub-title lang="en">Running the Great Himalaya Trail</sub-title>
     <desc lang="en">Ultra-runners Ryan Sandes and Ryno Griesel set out to run the Great Himalaya Trail in the fastest known time. South African ultra-runners, Ryan Sandes and Ryno Griesel set out on the adventure of a lifetime: to run the Great Himalaya Trail in the fastest known time – a total of 1,406km in 28 days.</desc>
@@ -102,169 +188,17 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191007210700 +0000" stop="20191007212200 +0000" channel="RedBull TV">
-    <title lang="en">Naming pasta and track turns in Italy</title>
-    <sub-title lang="en">MotoGP™: Inside Pass</sub-title>
-    <desc lang="en">Vanessa Guerra arrives in Italy's beautiful Tuscany and asks riders to describe the Mugello circuit. Vanessa Guerra arrives in Italy's beautiful Tuscany and asks riders to describe the Mugello circuit. Then it's time for pasta games, vlog takeovers and a ride around the track.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007212200 +0000" stop="20191007224800 +0000" channel="RedBull TV">
-    <title lang="en">The Greasy Hands Preachers</title>
-    <sub-title lang="en">Two-wheeled salvation</sub-title>
-    <desc lang="en">Abandoning the path of a so-called normal life, a diverse group of souls prefer to build motorcycles. A diverse group of souls are united in their rejection of a traditional life. Instead, they've found their own path to enlightenment in their garages, a sense of purpose and a connection to a global family born of building and riding motorcycles.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007224800 +0000" stop="20191007225400 +0000" channel="RedBull TV">
-    <title lang="en">From the shadows</title>
-    <sub-title lang="en">Made in..</sub-title>
-    <desc lang="en">Unravel the mystery of the epic and forgotten wave known as Ghost Trees. By the mid-2000s, the big wave known as Ghost Trees was one of the most sought-after waves in the world, but now it’s largely unknown. Unravel the mystery of this epic and forgotten wave.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S5 E1</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007225400 +0000" stop="20191007235900 +0000" channel="RedBull TV">
-    <title lang="en">Etnies: Album\t</title>
-    <sub-title lang="en">Touring five continents for skate spots</sub-title>
-    <desc lang="en">A passionate tribe of skateboarders search cities on five continents in a quest to find new skate spots. An eclectic tribe of skateboarders scour city streets across five continents in a quest to find new skate spots. This film by Etnies is an album of moments from the years that went into the project.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007235900 +0000" stop="20191008002500 +0000" channel="RedBull TV">
-    <title lang="en">Not Bad</title>
-    <sub-title lang="en">30 days of mountain bike tomfoolery</sub-title>
-    <desc lang="en">An FMB dream team chronicles a 30-day saga of mountain bike shredding and tomfoolery in New Zealand. The best riders in the game travel to New Zealand for 30 days of epic mountain bike tomfoolery. The dream team going out to go big is Brett Rheeder, Brandon Semenuk, Brook Macdonald, Cam McCaul, Andrew Shandro, Ryan Howard and René Wildhaber.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191008002500 +0000" stop="20191008005300 +0000" channel="RedBull TV">
-    <title lang="en">Not2Bad</title>
-    <desc lang="en">More epic tomfoolery in Spain. Anthill Films's sequel to Not Bad is a second dose of epic freestyle mountain biking and tomfoolery in the Spanish countryside. Featuring the talents of Brett Rheeder, Cam McCaul, Brandon Semenuk, Ryan 'R-Dog' Howard, Casey Brown and more.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191008005300 +0000" stop="20191008005500 +0000" channel="RedBull TV">
-    <title lang="en">Freerunning Illusions</title>
-    <sub-title lang="en">Jason Paul and Pasha Petkuns</sub-title>
-    <desc lang="en">Jason Paul and Pasha Petkuns play mind tricks as they defy gravity with their freerunning illusions. Life as a freerunner means the whole world is your playground... or is it just one big illusion? Jason Paul and Pasha Petkuns play mind tricks as they defy gravity, slide down bananas, and twist your brains with their freerunning illusions.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191008012300 +0000" stop="20191008012800 +0000" channel="RedBull TV">
-    <title lang="en">Welcome aboard</title>
-    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
-    <desc lang="en">The skateboarding crew check out the cruise ship and rip around some historic streets of Italy and Greece. The first leg of the Skate Cruise sets off from Rome and travels to Savona and Mykonos. With just hours to spend at each port, the sessions are fast paced and fully improvisational. There's no time to relax when you're a skateboarding tourist.</desc>
+  <programme start="20191009010900 +0000" stop="20191008151800 +0000" channel="RedBull TV">
+    <title lang="en">Budapest</title>
+    <sub-title lang="en">The Road Trick</sub-title>
+    <desc lang="en">Magician Adam Trent discovers that Budapest, Hungary, has a light and dark side. Can his tricks work in both? The first stop of magician Adam Trent's European journey is the party city of Budapest, Hungary. Adam wants to see the things that the tourists don't, but walking on the dark side has its risks. Can Adam's magic get him out of a dangerous situation?</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191008012800 +0000" stop="20191008013500 +0000" channel="RedBull TV">
-    <title lang="en">Turkish delights</title>
-    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
-    <desc lang="en">With more time to explore and great spots to skate, Turkey’s Izmir and Istanbul are the trip’s best stops yet. Turkey provides the trip’s best sessions so far, with more time to explore. Izmir offers some proper transition skating at the local park, and two days in Istanbul give the crew a chance to look for bigger street spots.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191008013500 +0000" stop="20191007163300 +0000" channel="RedBull TV">
-    <title lang="en">To infinity and beyond</title>
-    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
-    <desc lang="en">The final leg sees the crew in Bulgaria and Greece. On the water, the ship’s deck is a skate spot with a view. On the last leg of the cruise, the skateboarding crew lands in Bulgaria to the warmest (albeit wettest) reception of the tour. Then it’s back to Greece, where the boys go to work on Athens’ marble with some eye-catching tricks.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007163300 +0000" stop="20191007163800 +0000" channel="RedBull TV">
-    <title lang="en">Welcome aboard</title>
-    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
-    <desc lang="en">The skateboarding crew check out the cruise ship and rip around some historic streets of Italy and Greece. The first leg of the Skate Cruise sets off from Rome and travels to Savona and Mykonos. With just hours to spend at each port, the sessions are fast paced and fully improvisational. There's no time to relax when you're a skateboarding tourist.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007163800 +0000" stop="20191007164500 +0000" channel="RedBull TV">
-    <title lang="en">Turkish delights</title>
-    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
-    <desc lang="en">With more time to explore and great spots to skate, Turkey’s Izmir and Istanbul are the trip’s best stops yet. Turkey provides the trip’s best sessions so far, with more time to explore. Izmir offers some proper transition skating at the local park, and two days in Istanbul give the crew a chance to look for bigger street spots.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007164500 +0000" stop="20191007165200 +0000" channel="RedBull TV">
-    <title lang="en">To infinity and beyond</title>
-    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
-    <desc lang="en">The final leg sees the crew in Bulgaria and Greece. On the water, the ship’s deck is a skate spot with a view. On the last leg of the cruise, the skateboarding crew lands in Bulgaria to the warmest (albeit wettest) reception of the tour. Then it’s back to Greece, where the boys go to work on Athens’ marble with some eye-catching tricks.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007165200 +0000" stop="20191007170600 +0000" channel="RedBull TV">
-    <title lang="en">Red Bull Music Studio Sessions: Kelly Rowland</title>
-    <sub-title lang="en">Red Bull Music Studios Sessions</sub-title>
-    <desc lang="en">Kelly Rowland and producers collaborate to share an artistic journey of music writing and recording. Go behind the scenes of a creative musical journey as a team of songwriters and producers write and record three tracks with superstar singer and artist Kelly Rowland at Red Bull Studios Los Angeles.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007170600 +0000" stop="20191007173900 +0000" channel="RedBull TV">
-    <title lang="en">Frozen Mind</title>
-    <sub-title lang="en">Riding Chamonix</sub-title>
-    <desc lang="en">Pro snowboarder Victor De Le Rue has travelled the world, but his favourite place is Chamonix, France. Victor De Le Rue, a professional snowboarder from the Pyrenees, has ridden all over the world, but one particular place on Earth inspires him more than anywhere else: Chamonix, France.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007173900 +0000" stop="20191007190300 +0000" channel="RedBull TV">
-    <title lang="en">Against the Odds</title>
-    <sub-title lang="en">The gaming Cinderella story - EXCLUSIVE RELEASE ON AUGUST 7TH 3PM UTC</sub-title>
-    <desc lang="en">This is the journey of five Dota players and a coach, who, just two months before, had never played together. In 2018 Team OG were at rock-bottom, hit by painful departures and scrapping in qualifiers for Dota 2's T18. Against the Odds is the fairytale of this broken team's shot at Gaming’s biggest prize.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007190300 +0000" stop="20191007191800 +0000" channel="RedBull TV">
-    <title lang="en">Naming pasta and track turns in Italy</title>
-    <sub-title lang="en">MotoGP™: Inside Pass</sub-title>
-    <desc lang="en">Vanessa Guerra arrives in Italy's beautiful Tuscany and asks riders to describe the Mugello circuit. Vanessa Guerra arrives in Italy's beautiful Tuscany and asks riders to describe the Mugello circuit. Then it's time for pasta games, vlog takeovers and a ride around the track.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007191800 +0000" stop="20191007201000 +0000" channel="RedBull TV">
+  <programme start="20191008151800 +0000" stop="20191008161000 +0000" channel="RedBull TV">
     <title lang="en">The Explorers</title>
     <sub-title lang="en">Visions of Greatness</sub-title>
     <desc lang="en">Two determined innovators push their limits, risking all, in order to realise their dreams, are profiled. Pushing the limits of possibility challenges people who are willing to go beyond the visible horizon, no matter the risks. Documentary film-maker Jimmy Chin and XPRIZE creator Peter Diamandis are explorers who are always looking for a new frontier.</desc>
@@ -274,7 +208,161 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191007201000 +0000" stop="20191007203500 +0000" channel="RedBull TV">
+  <programme start="20191008161000 +0000" stop="20191008163900 +0000" channel="RedBull TV">
+    <title lang="en">Budapest</title>
+    <sub-title lang="en">The Road Trick</sub-title>
+    <desc lang="en">Magician Adam Trent discovers that Budapest, Hungary, has a light and dark side. Can his tricks work in both? The first stop of magician Adam Trent's European journey is the party city of Budapest, Hungary. Adam wants to see the things that the tourists don't, but walking on the dark side has its risks. Can Adam's magic get him out of a dangerous situation?</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008163900 +0000" stop="20191008170600 +0000" channel="RedBull TV">
+    <title lang="en">Amazon High Tide</title>
+    <sub-title lang="en">In search of the waves</sub-title>
+    <desc lang="en">Ramón Navarro is a surfer brave enough to cross the Amazon jungle and find a secret wave spot. Big wave surfer Ramón Navarro is determined enough to cross the remote Amazon jungle in Brazil in search of a secret wave spot.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008170600 +0000" stop="20191008175900 +0000" channel="RedBull TV">
+    <title lang="en">Gully Life</title>
+    <sub-title lang="en">The Story of Divine</sub-title>
+    <desc lang="en">A look at how a young rapper from Mumbai became one of the most sought-after musicians in India. The first-ever documentary on his life, Gully Life: The Story of Divine takes a look at how a young rapper from Mumbai became one of the most sought-after musicians in India, and a global superstar.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008175900 +0000" stop="20191008181500 +0000" channel="RedBull TV">
+    <title lang="en">Taking Shape</title>
+    <sub-title lang="en">MacAskill's Imaginate</sub-title>
+    <desc lang="en">Danny MacAskill starts a perfomance programme with his rehab trainer, first in the gym, then on his bike. As he recovers from major back surgery, cyclist Danny MacAskill films a TV documentary about action sports athletes with one of his heroes, Guy Martin. Then work of rehab begins as he starts to plan his moves for the film project.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>UR</value>
+    </rating>
+  </programme>
+  <programme start="20191008185200 +0000" stop="20191008192000 +0000" channel="RedBull TV">
+    <title lang="en">Atari</title>
+    <sub-title lang="en">The Ripple Effect</sub-title>
+    <desc lang="en">Nolan Bushnell changes global entertainment with his invention of an electronic, monochrome square ball. Nolan Bushnell, a businessman with carnival barker charm and a touch for electronics, changes global entertainment with his creation of the video game Pong. He not only revolutionises how people play games, but becomes the father of Silicon Valley.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008192000 +0000" stop="20191008194700 +0000" channel="RedBull TV">
+    <title lang="en">Plaid</title>
+    <sub-title lang="en">Social Fabric</sub-title>
+    <desc lang="en">A pattern to unite the world, Kyle Ng travels from the United States to Scotland and Kenya looking for plaid. A pattern to unite the world, Kyle Ng dives into plaid's history. He visits Scotland, UK to see how tartan is part of a family's DNA, hangs with a low rider club in California, USA, and sees how the fabric is a part of tribal identity in Africa.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008194700 +0000" stop="20191008195300 +0000" channel="RedBull TV">
+    <title lang="en">Prepping for Panama</title>
+    <sub-title lang="en">Wakecation: Panama</sub-title>
+    <desc lang="en">Parks Bonifay rounds up some friends for an epic wakeboarding adventure in Panama they’ll never forget. Parks Bonifay rounds up some friends for an epic wakeboarding adventure in Panama they’ll never forget. Before heading off to the airport, Brian Grubb and Steel Lafferty join Parks for one last wakeskating session.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008195300 +0000" stop="20191008200200 +0000" channel="RedBull TV">
+    <title lang="en">The Seaplane Escapade</title>
+    <sub-title lang="en">Wakecation: Panama</sub-title>
+    <desc lang="en">After arriving in Nitro City, Panama, Parks Bonifray and crew go wakeboarding with a seaplane. After landing in Panama, Parks Bonifay, Brian Grubb, and Steel Lafferty prepare for a wakeboarding session with a seaplane. Later, Brian and pro wakeboarder Collin Harrington skydive from a seaplane – hanging from the pontoons on the way up.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008200200 +0000" stop="20191008201400 +0000" channel="RedBull TV">
+    <title lang="en">Rob Meets Julien Absalon</title>
+    <sub-title lang="en">Rob Meets</sub-title>
+    <desc lang="en">Rob Warner gets personal with the king of cross-country mountain biking, Julien Absalon. With five World Championships, two Olympic golds, and seven overall wins on the World Tour, Julien Absalon is the king of cross-country mountain biking. Rob Warner travels to France to hear from the man himself about preparing for his final season.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008201400 +0000" stop="20191008211000 +0000" channel="RedBull TV">
+    <title lang="en">VMax: No Straight Line</title>
+    <sub-title lang="en">Beating the mountain bike speed record, again</sub-title>
+    <desc lang="en">Max Stöckl's quest to be the fastest man on a mountain bike takes him from Austria to the mountains of Chile. Markus 'Max' Stöckl has been setting speed downhill mountain bike records for over 20 years. Now, in his endless desire to go faster, he attempts to break his own World Record of 164.95kph on a desolate peak in Chile's Atacama Desert.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008211000 +0000" stop="20191008211400 +0000" channel="RedBull TV">
+    <title lang="en">Wee Day Out</title>
+    <sub-title lang="en">Danny MacAskill in Scotland</sub-title>
+    <desc lang="en">Danny MacAskill tears around rural Scotland, setting out to capture the simple fun of a ride in the country. A relaxing day out in the Scottish countryside means something different for Danny MacAskill than it does for most people. With his signature trial riding style, Danny makes his way over hay bales, through forests and all along the rolling hills.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008211400 +0000" stop="20191008221100 +0000" channel="RedBull TV">
+    <title lang="en">The Flare</title>
+    <sub-title lang="en">Finding their own place in skateboarding</sub-title>
+    <desc lang="en">Take a whimsical look at the life of skateboarding with a group of young men just trying to not fit in. A jock, an outcast, a rebel and a princess: this modern-day Breakfast Club tell their story a little differently. Take a whimsical look at the life of skateboarding with a group of young men just trying to not fit in.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008221100 +0000" stop="20191008223700 +0000" channel="RedBull TV">
+    <title lang="en">Pororoca</title>
+    <sub-title lang="en">Surfing the Amazon</sub-title>
+    <desc lang="en">A group of surfers travel to a remote part of the Amazon in an attempt to ride a destructive tidal wave. On every new and full moon, an enormous tidal wave occurs along the lower Amazon. It's a tempting target for surfers despite the many dangers involved, and it offers few who brave it the longest continuous rides of their lives.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008223700 +0000" stop="20191008230500 +0000" channel="RedBull TV">
+    <title lang="en">ABC of... Surfing</title>
+    <sub-title lang="en">ABC of..</sub-title>
+    <desc lang="en">Discover some facts and figures of surfing, from its origins to the spectacular adrenaline-fuelled present. Learn some facts and figures of surfing, from its origins to the spectacular adrenaline-fuelled present that so many can’t live without. Surfing is a way of life for those who are hooked on it, and once you watch this you might be hooked too.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008230500 +0000" stop="20191008235700 +0000" channel="RedBull TV">
+    <title lang="en">Gotad Ad Kiangan</title>
+    <sub-title lang="en">Archaic Festivals</sub-title>
+    <desc lang="en">The ancestral heritage of the Ifugao of the Philippines is preserved in their Gotad Ad Kiangan festival. Being between the ancient and the modern, the Ifugao people of the Philippines continue their Gotad Ad Kiangan festival to preserve their fading heritage. It's a celebration of singing, dancing, and racing that culminates in a wrestling tournament.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191008235700 +0000" stop="20191009001100 +0000" channel="RedBull TV">
+    <title lang="en">The rise of VGM</title>
+    <sub-title lang="en">Diggin' in the Carts</sub-title>
+    <desc lang="en">Explore the origins of Japanese video game music and its influence on modern-day musicians. From humble beginnings to worldwide recognition, Japanese video game music has inspired a generation. Meet Junko Ozawa, developer of the 'Namco sound', and iconic Nintendo composer Hirokazu Tanaka.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191009001100 +0000" stop="20191009003600 +0000" channel="RedBull TV">
     <title lang="en">The Training Heats Up</title>
     <sub-title lang="en">Break'n Reality</sub-title>
     <desc lang="en">The b-boys train for the upoming BC One in Moscow. Lilou receives bad news and makes a strategic choice. When he discovers he can't compete in the BC One in Moscow, Lilou helps a fellow b-boy in order to beat his rival Neguin. In Sao Paulo, Neguin trains with his friend Andre. Roxrite gets an offer to compete in Moscow for the only title he's never won.</desc>
@@ -284,7 +372,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191007203500 +0000" stop="20191007210700 +0000" channel="RedBull TV">
+  <programme start="20191009003600 +0000" stop="20191009010900 +0000" channel="RedBull TV">
     <title lang="en">Lessons from the Edge</title>
     <sub-title lang="en">Running the Great Himalaya Trail</sub-title>
     <desc lang="en">Ultra-runners Ryan Sandes and Ryno Griesel set out to run the Great Himalaya Trail in the fastest known time. South African ultra-runners, Ryan Sandes and Ryno Griesel set out on the adventure of a lifetime: to run the Great Himalaya Trail in the fastest known time – a total of 1,406km in 28 days.</desc>
@@ -293,96 +381,12 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191007210700 +0000" stop="20191007212200 +0000" channel="RedBull TV">
-    <title lang="en">Naming pasta and track turns in Italy</title>
-    <sub-title lang="en">MotoGP™: Inside Pass</sub-title>
-    <desc lang="en">Vanessa Guerra arrives in Italy's beautiful Tuscany and asks riders to describe the Mugello circuit. Vanessa Guerra arrives in Italy's beautiful Tuscany and asks riders to describe the Mugello circuit. Then it's time for pasta games, vlog takeovers and a ride around the track.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007212200 +0000" stop="20191007224800 +0000" channel="RedBull TV">
-    <title lang="en">The Greasy Hands Preachers</title>
-    <sub-title lang="en">Two-wheeled salvation</sub-title>
-    <desc lang="en">Abandoning the path of a so-called normal life, a diverse group of souls prefer to build motorcycles. A diverse group of souls are united in their rejection of a traditional life. Instead, they've found their own path to enlightenment in their garages, a sense of purpose and a connection to a global family born of building and riding motorcycles.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007224800 +0000" stop="20191007225400 +0000" channel="RedBull TV">
-    <title lang="en">From the shadows</title>
-    <sub-title lang="en">Made in..</sub-title>
-    <desc lang="en">Unravel the mystery of the epic and forgotten wave known as Ghost Trees. By the mid-2000s, the big wave known as Ghost Trees was one of the most sought-after waves in the world, but now it’s largely unknown. Unravel the mystery of this epic and forgotten wave.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S5 E1</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007225400 +0000" stop="20191007235900 +0000" channel="RedBull TV">
-    <title lang="en">Etnies: Album\t</title>
-    <sub-title lang="en">Touring five continents for skate spots</sub-title>
-    <desc lang="en">A passionate tribe of skateboarders search cities on five continents in a quest to find new skate spots. An eclectic tribe of skateboarders scour city streets across five continents in a quest to find new skate spots. This film by Etnies is an album of moments from the years that went into the project.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191007235900 +0000" stop="20191008002500 +0000" channel="RedBull TV">
-    <title lang="en">Not Bad</title>
-    <sub-title lang="en">30 days of mountain bike tomfoolery</sub-title>
-    <desc lang="en">An FMB dream team chronicles a 30-day saga of mountain bike shredding and tomfoolery in New Zealand. The best riders in the game travel to New Zealand for 30 days of epic mountain bike tomfoolery. The dream team going out to go big is Brett Rheeder, Brandon Semenuk, Brook Macdonald, Cam McCaul, Andrew Shandro, Ryan Howard and René Wildhaber.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191008002500 +0000" stop="20191008005300 +0000" channel="RedBull TV">
-    <title lang="en">Not2Bad</title>
-    <desc lang="en">More epic tomfoolery in Spain. Anthill Films's sequel to Not Bad is a second dose of epic freestyle mountain biking and tomfoolery in the Spanish countryside. Featuring the talents of Brett Rheeder, Cam McCaul, Brandon Semenuk, Ryan 'R-Dog' Howard, Casey Brown and more.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191008005300 +0000" stop="20191008005500 +0000" channel="RedBull TV">
-    <title lang="en">Freerunning Illusions</title>
-    <sub-title lang="en">Jason Paul and Pasha Petkuns</sub-title>
-    <desc lang="en">Jason Paul and Pasha Petkuns play mind tricks as they defy gravity with their freerunning illusions. Life as a freerunner means the whole world is your playground... or is it just one big illusion? Jason Paul and Pasha Petkuns play mind tricks as they defy gravity, slide down bananas, and twist your brains with their freerunning illusions.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191008012300 +0000" stop="20191008012800 +0000" channel="RedBull TV">
-    <title lang="en">Welcome aboard</title>
-    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
-    <desc lang="en">The skateboarding crew check out the cruise ship and rip around some historic streets of Italy and Greece. The first leg of the Skate Cruise sets off from Rome and travels to Savona and Mykonos. With just hours to spend at each port, the sessions are fast paced and fully improvisational. There's no time to relax when you're a skateboarding tourist.</desc>
+  <programme start="20191009010900 +0000" stop="20191009013800 +0000" channel="RedBull TV">
+    <title lang="en">Budapest</title>
+    <sub-title lang="en">The Road Trick</sub-title>
+    <desc lang="en">Magician Adam Trent discovers that Budapest, Hungary, has a light and dark side. Can his tricks work in both? The first stop of magician Adam Trent's European journey is the party city of Budapest, Hungary. Adam wants to see the things that the tourists don't, but walking on the dark side has its risks. Can Adam's magic get him out of a dangerous situation?</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191008012800 +0000" stop="20191008013500 +0000" channel="RedBull TV">
-    <title lang="en">Turkish delights</title>
-    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
-    <desc lang="en">With more time to explore and great spots to skate, Turkey’s Izmir and Istanbul are the trip’s best stops yet. Turkey provides the trip’s best sessions so far, with more time to explore. Izmir offers some proper transition skating at the local park, and two days in Istanbul give the crew a chance to look for bigger street spots.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191008013500 +0000" stop="20191008014200 +0000" channel="RedBull TV">
-    <title lang="en">To infinity and beyond</title>
-    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
-    <desc lang="en">The final leg sees the crew in Bulgaria and Greece. On the water, the ship’s deck is a skate spot with a view. On the last leg of the cruise, the skateboarding crew lands in Bulgaria to the warmest (albeit wettest) reception of the tour. Then it’s back to Greece, where the boys go to work on Athens’ marble with some eye-catching tricks.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
