@@ -5,152 +5,7 @@
     <icon src="https://archive.org/download/RedBullTVLogo/Red-Bull-TV-Logo.png" />
     <url>http://www.redbull.tv</url>
   </channel>
-  <programme start="20191009150400 +0000" stop="20191009153100 +0000" channel="RedBull TV">
-    <title lang="en">Plaid</title>
-    <sub-title lang="en">Social Fabric</sub-title>
-    <desc lang="en">A pattern to unite the world, Kyle Ng travels from the United States to Scotland and Kenya looking for plaid. A pattern to unite the world, Kyle Ng dives into plaid's history. He visits Scotland, UK to see how tartan is part of a family's DNA, hangs with a low rider club in California, USA, and sees how the fabric is a part of tribal identity in Africa.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191009153100 +0000" stop="20191009153700 +0000" channel="RedBull TV">
-    <title lang="en">Prepping for Panama</title>
-    <sub-title lang="en">Wakecation: Panama</sub-title>
-    <desc lang="en">Parks Bonifay rounds up some friends for an epic wakeboarding adventure in Panama they’ll never forget. Parks Bonifay rounds up some friends for an epic wakeboarding adventure in Panama they’ll never forget. Before heading off to the airport, Brian Grubb and Steel Lafferty join Parks for one last wakeskating session.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191009153700 +0000" stop="20191009154600 +0000" channel="RedBull TV">
-    <title lang="en">The Seaplane Escapade</title>
-    <sub-title lang="en">Wakecation: Panama</sub-title>
-    <desc lang="en">After arriving in Nitro City, Panama, Parks Bonifray and crew go wakeboarding with a seaplane. After landing in Panama, Parks Bonifay, Brian Grubb, and Steel Lafferty prepare for a wakeboarding session with a seaplane. Later, Brian and pro wakeboarder Collin Harrington skydive from a seaplane – hanging from the pontoons on the way up.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191009154600 +0000" stop="20191009155800 +0000" channel="RedBull TV">
-    <title lang="en">Rob Meets Julien Absalon</title>
-    <sub-title lang="en">Rob Meets</sub-title>
-    <desc lang="en">Rob Warner gets personal with the king of cross-country mountain biking, Julien Absalon. With five World Championships, two Olympic golds, and seven overall wins on the World Tour, Julien Absalon is the king of cross-country mountain biking. Rob Warner travels to France to hear from the man himself about preparing for his final season.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191009155800 +0000" stop="20191009160200 +0000" channel="RedBull TV">
-    <title lang="en">Justen Allport</title>
-    <sub-title lang="en">This and Nothing Else</sub-title>
-    <desc lang="en">Justen Allport is a firefighter, but his passion for the big waves burns eternal. Justen Allport is used to danger. Being a firefighter would provide most with their fill of adrenaline, but to Justen it’s a means to an end. He’s been riding big waves since childhood, and now he charges the giant slabs of Cape Fear, Australia.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191009160200 +0000" stop="20191009160600 +0000" channel="RedBull TV">
-    <title lang="en">Evan Faulks</title>
-    <sub-title lang="en">This and Nothing Else</sub-title>
-    <desc lang="en">Evan Faulks builds homes for a living, but his life’s foundation is his family and big wave surfing. Evan Faulks spends his day building and renovating homes. Through this, he’s able to support his family, improve his community of Maroubra, Australia, and spend his free time chasing the giant swells of nearby Cape Fear.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191009160600 +0000" stop="20191009160900 +0000" channel="RedBull TV">
-    <title lang="en">Jack Kingsley</title>
-    <sub-title lang="en">This and Nothing Else</sub-title>
-    <desc lang="en">He holds down three different jobs to give him the freedom to go surf when the waves are huge. Jack Kingsley is a man who gets out of his comfort zone. That has landed him in a wide variety of jobs: carpet layer, ju-jitsu teacher, stunt man. It was this drive to try new things that tempted him to surf the huge waves of Australia’s Cape Fear.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191009160900 +0000" stop="20191009163700 +0000" channel="RedBull TV">
-    <title lang="en">Exploring Madagascar</title>
-    <sub-title lang="en">Surfing uncharted territory</sub-title>
-    <desc lang="en">Slade Prestwich, Frank Solomon and Grant 'Twiggy' Baker embark on an epic surf adventure to Madagascar. Slade Prestwich, Frank Solomon and Grant 'Twiggy' Baker embark on an epic adventure to the previously unsurfed island of Madagascar. They chart new territory, searching for new waves to ride and meeting with local villagers.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191009163700 +0000" stop="20191009165300 +0000" channel="RedBull TV">
-    <title lang="en">Hanging Spear</title>
-    <sub-title lang="en">Headwaters of the Hudson</sub-title>
-    <desc lang="en">World class whitewater kayakers Steve Fisher and Pat Keller explore the Hanging Spear Gorge. Join world class whitewater kayakers Steve Fisher and Pat Keller as they explore the Hanging Spear Gorge of the Opalescent River, the highest source of the Hudson and the deepest part of New York State’s High Peaks wilderness.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191009165300 +0000" stop="20191009165600 +0000" channel="RedBull TV">
-    <title lang="en">On the Roots of Cleopatra</title>
-    <sub-title lang="en">Brian Grubb wakeskates in Turkey</sub-title>
-    <desc lang="en">Wakeskater Brian Grubb sessions at the pristine Cleopatra's Pool at the ruins of Hierapolis in Turkey. Always searching for unique places to wakeskate, Brian Grubb sessions at the pristine Cleopatra's Pool, a mineral-rich bath in the ruins of the ancient city of Hierapolis near modern day Denizli, Turkey.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191009165600 +0000" stop="20191009170500 +0000" channel="RedBull TV">
-    <title lang="en">Epecuén</title>
-    <sub-title lang="en">A venture into the ruins</sub-title>
-    <desc lang="en">Danny MacAskill explores the lost Argentinian town that has been submerged for most of the past 25 years. Tragedy struck the town of Epecuén 25 years ago when rains flooded the streets. Now, Danny MacAskill hops on his trials bike to explore the lost Argentinian town, which has been submerged for the majority of time since.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191009170500 +0000" stop="20191009172600 +0000" channel="RedBull TV">
-    <title lang="en">Escape. Create.</title>
-    <sub-title lang="en">Building the hardest downhill trail</sub-title>
-    <desc lang="en">Dan Atherton designs intense BMX trails for himself and his sibling, brother Gee and sister Rachel. Something of a creative genius, mountain biker Dan Atherton designs intense, difficult trails for himself and his brother Gee, and sister Rachel. Watch as they perform amazing tricks on Dan's highly technical courses.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191009172600 +0000" stop="20191009181400 +0000" channel="RedBull TV">
-    <title lang="en">People and Machines</title>
-    <sub-title lang="en">Driving Dirty</sub-title>
-    <desc lang="en">With 20 days left until race day, the teams face unique challenges while getting ready for the starting line. With time running out, each of the teams face unique challenges while getting ready for race day. Whether it's diagnosing a mechanical problem, getting used to a new partner, or even completing the racecar, everyone is under the gun.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191009181400 +0000" stop="20191009182300 +0000" channel="RedBull TV">
-    <title lang="en">Training and certification</title>
-    <sub-title lang="en">Max Verstappen: The Next Generation</sub-title>
-    <desc lang="en">After meeting his new team in Italy, Max gets behind the wheel to earn his F1 super licence. Team principal Franz Tost shows Max around the Scuderia Toro Rosso factory in Italy, to meet the team that will work on his car. After some simulator work, Max gets behind the wheel at the Adria International Raceway to earn his F1 super licence.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>UR</value>
-    </rating>
-  </programme>
-  <programme start="20191009182300 +0000" stop="20191009191100 +0000" channel="RedBull TV">
-    <title lang="en">Free diver</title>
-    <sub-title lang="en">Breaking the Day</sub-title>
-    <desc lang="en">Freediving saved Stig Pryds's life. Now he's preparing to put his life on the line for his deepest dive yet. At his life's lowest point, Stig Pryds discovered freediving, and it changed everything. Now in the sport's biggest competition, Vertical Blue, he is preparing to attempt his deepest dive yet, but failure could cost him his life.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191009191100 +0000" stop="20191009195200 +0000" channel="RedBull TV">
+  <programme start="20191010150600 +0000" stop="20191010154700 +0000" channel="RedBull TV">
     <title lang="en">High Tension</title>
     <sub-title lang="en">Reel Rock</sub-title>
     <desc lang="en">A violent altercation on Mount Everest uncovers some deep-seated tensions between climbers and Sherpas. While attempting a cutting edge new route on Mount Everest, Ueli Steck and Simone Moro are attacked by a crowd of angry Sherpas at Camp 2. The altercation exposes a deep-seated tension between climbers and Sherpas on the most crowded peak on Earth.</desc>
@@ -160,7 +15,153 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191009202000 +0000" stop="20191009202600 +0000" channel="RedBull TV">
+  <programme start="20191010154700 +0000" stop="20191010161500 +0000" channel="RedBull TV">
+    <title lang="en">ABC of... Parkour</title>
+    <sub-title lang="en">ABC of..</sub-title>
+    <desc lang="en">Learn the language, moves and magic of the artistry of running and jumping over natural and urban terrain. Parkour, the sport that involves running, jumping and climbing over and through natural and urban terrain, pushes the body to the limit. It’s unpredictable and made great by the artistry of its athletes. Learn about its language, moves and magic.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010163700 +0000" stop="20191010164900 +0000" channel="RedBull TV">
+    <title lang="en">Continental Drift</title>
+    <sub-title lang="en">On Track</sub-title>
+    <desc lang="en">The Enduro World Series arrives in Australia. Curtis Keene and the team do their best to prepare for race day. After a disappointing race in Rotorua, New Zealand, Curtis Keene and  Jared Graves arrive in Tasmania, Australia to spend a week preparing. But despite their best efforts, unforeseen developments leave them adjusting strategies at the last minute.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010164900 +0000" stop="20191010171100 +0000" channel="RedBull TV">
+    <title lang="en">Living Forever</title>
+    <sub-title lang="en">Liquid Science</sub-title>
+    <desc lang="en">American rapper GZA is on a quest to understand the age-old human desire to live forever. In his quest to understand the human desire to live forever, American rapper GZA finds out how bodies are stored in Arizona, visits a California lab studying the immortal hydra, and goes to Vermont’s transhumanist Terasem Foundation.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010171100 +0000" stop="20191010183600 +0000" channel="RedBull TV">
+    <title lang="en">Séan Garnier vs The World</title>
+    <sub-title lang="en">From the streets to the stage to the top</sub-title>
+    <desc lang="en">Freestyle football has been Séan Garnier’s ticket to the world, but success never comes without sacrifice. From the streets to the pinnacle of freestyle success, Séan’s Garnier’s prodigal journey has been one of self-discovery through football.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010183600 +0000" stop="20191010193300 +0000" channel="RedBull TV">
+    <title lang="en">Asia Rising</title>
+    <sub-title lang="en">The next generation of hip-hop</sub-title>
+    <desc lang="en">Seen through the eyes of a diverse group, we take a look at the fast-paced success of Asian hip-hop. With the help of record label 88rising, we look at six different artists from six different backgrounds, all within Asia, as they share their thoughts on the recent rise of hip-hop in the region.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010193300 +0000" stop="20191010194300 +0000" channel="RedBull TV">
+    <title lang="en">Mountain Biking Will Ruin Your Life</title>
+    <sub-title lang="en">On Track</sub-title>
+    <desc lang="en">Mountain biking can be addicting, and for both pros and amateurs there’s no better fix than Whistler, Canada. For those who can't break into the pro ranks, travelling with the Enduro World Series as a photographer might be the next best thing. And for mountain bikers of all sorts, there’s no better place to go than Whistler, Canada.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010194300 +0000" stop="20191010201200 +0000" channel="RedBull TV">
+    <title lang="en">Budapest</title>
+    <sub-title lang="en">The Road Trick</sub-title>
+    <desc lang="en">Magician Adam Trent discovers that Budapest, Hungary, has a light and dark side. Can his tricks work in both? The first stop of magician Adam Trent's European journey is the party city of Budapest, Hungary. Adam wants to see the things that the tourists don't, but walking on the dark side has its risks. Can Adam's magic get him out of a dangerous situation?</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010201200 +0000" stop="20191010204000 +0000" channel="RedBull TV">
+    <title lang="en">Amazon High Tide</title>
+    <sub-title lang="en">In search of the waves</sub-title>
+    <desc lang="en">Ramón Navarro is a surfer brave enough to cross the Amazon jungle and find a secret wave spot. Big wave surfer Ramón Navarro is determined enough to cross the remote Amazon jungle in Brazil in search of a secret wave spot.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010204000 +0000" stop="20191010213300 +0000" channel="RedBull TV">
+    <title lang="en">Gully Life</title>
+    <sub-title lang="en">The Story of Divine</sub-title>
+    <desc lang="en">A look at how a young rapper from Mumbai became one of the most sought-after musicians in India. The first-ever documentary on his life, Gully Life: The Story of Divine takes a look at how a young rapper from Mumbai became one of the most sought-after musicians in India, and a global superstar.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010213300 +0000" stop="20191010214800 +0000" channel="RedBull TV">
+    <title lang="en">Taking Shape</title>
+    <sub-title lang="en">MacAskill's Imaginate</sub-title>
+    <desc lang="en">Danny MacAskill starts a perfomance programme with his rehab trainer, first in the gym, then on his bike. As he recovers from major back surgery, cyclist Danny MacAskill films a TV documentary about action sports athletes with one of his heroes, Guy Martin. Then work of rehab begins as he starts to plan his moves for the film project.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>UR</value>
+    </rating>
+  </programme>
+  <programme start="20191010222700 +0000" stop="20191010225400 +0000" channel="RedBull TV">
+    <title lang="en">Atari</title>
+    <sub-title lang="en">The Ripple Effect</sub-title>
+    <desc lang="en">Nolan Bushnell changes global entertainment with his invention of an electronic, monochrome square ball. Nolan Bushnell, a businessman with carnival barker charm and a touch for electronics, changes global entertainment with his creation of the video game Pong. He not only revolutionises how people play games, but becomes the father of Silicon Valley.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010225400 +0000" stop="20191010232100 +0000" channel="RedBull TV">
+    <title lang="en">Plaid</title>
+    <sub-title lang="en">Social Fabric</sub-title>
+    <desc lang="en">A pattern to unite the world, Kyle Ng travels from the United States to Scotland and Kenya looking for plaid. A pattern to unite the world, Kyle Ng dives into plaid's history. He visits Scotland, UK to see how tartan is part of a family's DNA, hangs with a low rider club in California, USA, and sees how the fabric is a part of tribal identity in Africa.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010232100 +0000" stop="20191010232700 +0000" channel="RedBull TV">
+    <title lang="en">Prepping for Panama</title>
+    <sub-title lang="en">Wakecation: Panama</sub-title>
+    <desc lang="en">Parks Bonifay rounds up some friends for an epic wakeboarding adventure in Panama they’ll never forget. Parks Bonifay rounds up some friends for an epic wakeboarding adventure in Panama they’ll never forget. Before heading off to the airport, Brian Grubb and Steel Lafferty join Parks for one last wakeskating session.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010232700 +0000" stop="20191010233600 +0000" channel="RedBull TV">
+    <title lang="en">The Seaplane Escapade</title>
+    <sub-title lang="en">Wakecation: Panama</sub-title>
+    <desc lang="en">After arriving in Nitro City, Panama, Parks Bonifray and crew go wakeboarding with a seaplane. After landing in Panama, Parks Bonifay, Brian Grubb, and Steel Lafferty prepare for a wakeboarding session with a seaplane. Later, Brian and pro wakeboarder Collin Harrington skydive from a seaplane – hanging from the pontoons on the way up.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010233600 +0000" stop="20191010234800 +0000" channel="RedBull TV">
+    <title lang="en">Rob Meets Julien Absalon</title>
+    <sub-title lang="en">Rob Meets</sub-title>
+    <desc lang="en">Rob Warner gets personal with the king of cross-country mountain biking, Julien Absalon. With five World Championships, two Olympic golds, and seven overall wins on the World Tour, Julien Absalon is the king of cross-country mountain biking. Rob Warner travels to France to hear from the man himself about preparing for his final season.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191011001500 +0000" stop="20191011002100 +0000" channel="RedBull TV">
     <title lang="en">Welcome aboard</title>
     <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
     <desc lang="en">The skateboarding crew check out the cruise ship and rip around some historic streets of Italy and Greece. The first leg of the Skate Cruise sets off from Rome and travels to Savona and Mykonos. With just hours to spend at each port, the sessions are fast paced and fully improvisational. There's no time to relax when you're a skateboarding tourist.</desc>
@@ -170,7 +171,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191009202600 +0000" stop="20191009203300 +0000" channel="RedBull TV">
+  <programme start="20191011002100 +0000" stop="20191011002800 +0000" channel="RedBull TV">
     <title lang="en">Turkish delights</title>
     <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
     <desc lang="en">With more time to explore and great spots to skate, Turkey’s Izmir and Istanbul are the trip’s best stops yet. Turkey provides the trip’s best sessions so far, with more time to explore. Izmir offers some proper transition skating at the local park, and two days in Istanbul give the crew a chance to look for bigger street spots.</desc>
@@ -180,7 +181,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191009203300 +0000" stop="20191009203900 +0000" channel="RedBull TV">
+  <programme start="20191011002800 +0000" stop="20191011003400 +0000" channel="RedBull TV">
     <title lang="en">To infinity and beyond</title>
     <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
     <desc lang="en">The final leg sees the crew in Bulgaria and Greece. On the water, the ship’s deck is a skate spot with a view. On the last leg of the cruise, the skateboarding crew lands in Bulgaria to the warmest (albeit wettest) reception of the tour. Then it’s back to Greece, where the boys go to work on Athens’ marble with some eye-catching tricks.</desc>
@@ -190,7 +191,203 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191009203900 +0000" stop="20191009205300 +0000" channel="RedBull TV">
+  <programme start="20191011003400 +0000" stop="20191010150600 +0000" channel="RedBull TV">
+    <title lang="en">Red Bull Music Studio Sessions: Kelly Rowland</title>
+    <sub-title lang="en">Red Bull Music Studios Sessions</sub-title>
+    <desc lang="en">Kelly Rowland and producers collaborate to share an artistic journey of music writing and recording. Go behind the scenes of a creative musical journey as a team of songwriters and producers write and record three tracks with superstar singer and artist Kelly Rowland at Red Bull Studios Los Angeles.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010150600 +0000" stop="20191010154700 +0000" channel="RedBull TV">
+    <title lang="en">High Tension</title>
+    <sub-title lang="en">Reel Rock</sub-title>
+    <desc lang="en">A violent altercation on Mount Everest uncovers some deep-seated tensions between climbers and Sherpas. While attempting a cutting edge new route on Mount Everest, Ueli Steck and Simone Moro are attacked by a crowd of angry Sherpas at Camp 2. The altercation exposes a deep-seated tension between climbers and Sherpas on the most crowded peak on Earth.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010154700 +0000" stop="20191010161500 +0000" channel="RedBull TV">
+    <title lang="en">ABC of... Parkour</title>
+    <sub-title lang="en">ABC of..</sub-title>
+    <desc lang="en">Learn the language, moves and magic of the artistry of running and jumping over natural and urban terrain. Parkour, the sport that involves running, jumping and climbing over and through natural and urban terrain, pushes the body to the limit. It’s unpredictable and made great by the artistry of its athletes. Learn about its language, moves and magic.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010163700 +0000" stop="20191010164900 +0000" channel="RedBull TV">
+    <title lang="en">Continental Drift</title>
+    <sub-title lang="en">On Track</sub-title>
+    <desc lang="en">The Enduro World Series arrives in Australia. Curtis Keene and the team do their best to prepare for race day. After a disappointing race in Rotorua, New Zealand, Curtis Keene and  Jared Graves arrive in Tasmania, Australia to spend a week preparing. But despite their best efforts, unforeseen developments leave them adjusting strategies at the last minute.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010164900 +0000" stop="20191010171100 +0000" channel="RedBull TV">
+    <title lang="en">Living Forever</title>
+    <sub-title lang="en">Liquid Science</sub-title>
+    <desc lang="en">American rapper GZA is on a quest to understand the age-old human desire to live forever. In his quest to understand the human desire to live forever, American rapper GZA finds out how bodies are stored in Arizona, visits a California lab studying the immortal hydra, and goes to Vermont’s transhumanist Terasem Foundation.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010171100 +0000" stop="20191010183600 +0000" channel="RedBull TV">
+    <title lang="en">Séan Garnier vs The World</title>
+    <sub-title lang="en">From the streets to the stage to the top</sub-title>
+    <desc lang="en">Freestyle football has been Séan Garnier’s ticket to the world, but success never comes without sacrifice. From the streets to the pinnacle of freestyle success, Séan’s Garnier’s prodigal journey has been one of self-discovery through football.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010183600 +0000" stop="20191010193300 +0000" channel="RedBull TV">
+    <title lang="en">Asia Rising</title>
+    <sub-title lang="en">The next generation of hip-hop</sub-title>
+    <desc lang="en">Seen through the eyes of a diverse group, we take a look at the fast-paced success of Asian hip-hop. With the help of record label 88rising, we look at six different artists from six different backgrounds, all within Asia, as they share their thoughts on the recent rise of hip-hop in the region.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010193300 +0000" stop="20191010194300 +0000" channel="RedBull TV">
+    <title lang="en">Mountain Biking Will Ruin Your Life</title>
+    <sub-title lang="en">On Track</sub-title>
+    <desc lang="en">Mountain biking can be addicting, and for both pros and amateurs there’s no better fix than Whistler, Canada. For those who can't break into the pro ranks, travelling with the Enduro World Series as a photographer might be the next best thing. And for mountain bikers of all sorts, there’s no better place to go than Whistler, Canada.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010194300 +0000" stop="20191010201200 +0000" channel="RedBull TV">
+    <title lang="en">Budapest</title>
+    <sub-title lang="en">The Road Trick</sub-title>
+    <desc lang="en">Magician Adam Trent discovers that Budapest, Hungary, has a light and dark side. Can his tricks work in both? The first stop of magician Adam Trent's European journey is the party city of Budapest, Hungary. Adam wants to see the things that the tourists don't, but walking on the dark side has its risks. Can Adam's magic get him out of a dangerous situation?</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010201200 +0000" stop="20191010204000 +0000" channel="RedBull TV">
+    <title lang="en">Amazon High Tide</title>
+    <sub-title lang="en">In search of the waves</sub-title>
+    <desc lang="en">Ramón Navarro is a surfer brave enough to cross the Amazon jungle and find a secret wave spot. Big wave surfer Ramón Navarro is determined enough to cross the remote Amazon jungle in Brazil in search of a secret wave spot.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010204000 +0000" stop="20191010213300 +0000" channel="RedBull TV">
+    <title lang="en">Gully Life</title>
+    <sub-title lang="en">The Story of Divine</sub-title>
+    <desc lang="en">A look at how a young rapper from Mumbai became one of the most sought-after musicians in India. The first-ever documentary on his life, Gully Life: The Story of Divine takes a look at how a young rapper from Mumbai became one of the most sought-after musicians in India, and a global superstar.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010213300 +0000" stop="20191010214800 +0000" channel="RedBull TV">
+    <title lang="en">Taking Shape</title>
+    <sub-title lang="en">MacAskill's Imaginate</sub-title>
+    <desc lang="en">Danny MacAskill starts a perfomance programme with his rehab trainer, first in the gym, then on his bike. As he recovers from major back surgery, cyclist Danny MacAskill films a TV documentary about action sports athletes with one of his heroes, Guy Martin. Then work of rehab begins as he starts to plan his moves for the film project.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>UR</value>
+    </rating>
+  </programme>
+  <programme start="20191010222700 +0000" stop="20191010225400 +0000" channel="RedBull TV">
+    <title lang="en">Atari</title>
+    <sub-title lang="en">The Ripple Effect</sub-title>
+    <desc lang="en">Nolan Bushnell changes global entertainment with his invention of an electronic, monochrome square ball. Nolan Bushnell, a businessman with carnival barker charm and a touch for electronics, changes global entertainment with his creation of the video game Pong. He not only revolutionises how people play games, but becomes the father of Silicon Valley.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010225400 +0000" stop="20191010232100 +0000" channel="RedBull TV">
+    <title lang="en">Plaid</title>
+    <sub-title lang="en">Social Fabric</sub-title>
+    <desc lang="en">A pattern to unite the world, Kyle Ng travels from the United States to Scotland and Kenya looking for plaid. A pattern to unite the world, Kyle Ng dives into plaid's history. He visits Scotland, UK to see how tartan is part of a family's DNA, hangs with a low rider club in California, USA, and sees how the fabric is a part of tribal identity in Africa.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010232100 +0000" stop="20191010232700 +0000" channel="RedBull TV">
+    <title lang="en">Prepping for Panama</title>
+    <sub-title lang="en">Wakecation: Panama</sub-title>
+    <desc lang="en">Parks Bonifay rounds up some friends for an epic wakeboarding adventure in Panama they’ll never forget. Parks Bonifay rounds up some friends for an epic wakeboarding adventure in Panama they’ll never forget. Before heading off to the airport, Brian Grubb and Steel Lafferty join Parks for one last wakeskating session.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010232700 +0000" stop="20191010233600 +0000" channel="RedBull TV">
+    <title lang="en">The Seaplane Escapade</title>
+    <sub-title lang="en">Wakecation: Panama</sub-title>
+    <desc lang="en">After arriving in Nitro City, Panama, Parks Bonifray and crew go wakeboarding with a seaplane. After landing in Panama, Parks Bonifay, Brian Grubb, and Steel Lafferty prepare for a wakeboarding session with a seaplane. Later, Brian and pro wakeboarder Collin Harrington skydive from a seaplane – hanging from the pontoons on the way up.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191010233600 +0000" stop="20191010234800 +0000" channel="RedBull TV">
+    <title lang="en">Rob Meets Julien Absalon</title>
+    <sub-title lang="en">Rob Meets</sub-title>
+    <desc lang="en">Rob Warner gets personal with the king of cross-country mountain biking, Julien Absalon. With five World Championships, two Olympic golds, and seven overall wins on the World Tour, Julien Absalon is the king of cross-country mountain biking. Rob Warner travels to France to hear from the man himself about preparing for his final season.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191011001500 +0000" stop="20191011002100 +0000" channel="RedBull TV">
+    <title lang="en">Welcome aboard</title>
+    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
+    <desc lang="en">The skateboarding crew check out the cruise ship and rip around some historic streets of Italy and Greece. The first leg of the Skate Cruise sets off from Rome and travels to Savona and Mykonos. With just hours to spend at each port, the sessions are fast paced and fully improvisational. There's no time to relax when you're a skateboarding tourist.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191011002100 +0000" stop="20191011002800 +0000" channel="RedBull TV">
+    <title lang="en">Turkish delights</title>
+    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
+    <desc lang="en">With more time to explore and great spots to skate, Turkey’s Izmir and Istanbul are the trip’s best stops yet. Turkey provides the trip’s best sessions so far, with more time to explore. Izmir offers some proper transition skating at the local park, and two days in Istanbul give the crew a chance to look for bigger street spots.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191011002800 +0000" stop="20191011003400 +0000" channel="RedBull TV">
+    <title lang="en">To infinity and beyond</title>
+    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
+    <desc lang="en">The final leg sees the crew in Bulgaria and Greece. On the water, the ship’s deck is a skate spot with a view. On the last leg of the cruise, the skateboarding crew lands in Bulgaria to the warmest (albeit wettest) reception of the tour. Then it’s back to Greece, where the boys go to work on Athens’ marble with some eye-catching tricks.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191011003400 +0000" stop="20191011004800 +0000" channel="RedBull TV">
     <title lang="en">Red Bull Music Studio Sessions: Kelly Rowland</title>
     <sub-title lang="en">Red Bull Music Studios Sessions</sub-title>
     <desc lang="en">Kelly Rowland and producers collaborate to share an artistic journey of music writing and recording. Go behind the scenes of a creative musical journey as a team of songwriters and producers write and record three tracks with superstar singer and artist Kelly Rowland at Red Bull Studios Los Angeles.</desc>
