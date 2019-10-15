@@ -5,7 +5,176 @@
     <icon src="https://archive.org/download/RedBullTVLogo/Red-Bull-TV-Logo.png" />
     <url>http://www.redbull.tv</url>
   </channel>
-  <programme start="20191014151700 +0000" stop="20191014154300 +0000" channel="RedBull TV">
+  <programme start="20191015150100 +0000" stop="20191015155700 +0000" channel="RedBull TV">
+    <title lang="en">Surfers' Blood</title>
+    <desc lang="en">A film by Patrick Trefz. Renowned surf photographer and filmmaker Patrick Trefz explores the essence of the sport he loves by profiling those who inspire him. From Basque Country, Spain, to Silicon Valley, USA, these unique people are united by a deep connection to the sea.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015155700 +0000" stop="20191015162200 +0000" channel="RedBull TV">
+    <title lang="en">Amsterdam to Barcelona</title>
+    <sub-title lang="en">The Road Trick</sub-title>
+    <desc lang="en">After a layover in the Netherlands, Adam Trent heads to Spain to experience Catalan passion and tradition. To celebrate his birthday, Adam Trent spends a day in the Netherlands before jetting to Spain. Once in Catalonia, he takes part in two ancient rituals: being a part of a giant human pyramid, and playing with fire during San Juan Festival.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015162200 +0000" stop="20191015165000 +0000" channel="RedBull TV">
+    <title lang="en">ABC of... Mountain Biking</title>
+    <sub-title lang="en">ABC of..</sub-title>
+    <desc lang="en">Get a crash course in mountain biking, with lessons in the terminology, history, and heroes of the sport. Rob Warner gives a master class in all things mountain biking with lessons in the terminology, disciplines, history, and heroes of the sport. This is required knowledge for anyone looking to test their mettle in the world of MTB.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015165000 +0000" stop="20191015174400 +0000" channel="RedBull TV">
+    <title lang="en">VMax: No Straight Line</title>
+    <sub-title lang="en">Beating the mountain bike speed record, again</sub-title>
+    <desc lang="en">Max Stöckl's quest to be the fastest man on a mountain bike takes him from Austria to the mountains of Chile. Markus 'Max' Stöckl has been setting speed downhill mountain bike records for over 20 years. Now, in his endless desire to go faster, he attempts to break his own World Record of 164.95kph on a desolate peak in Chile's Atacama Desert.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015174400 +0000" stop="20191015180000 +0000" channel="RedBull TV">
+    <title lang="en">Perfect Space</title>
+    <sub-title lang="en">MacAskill's Imaginate</sub-title>
+    <desc lang="en">Cyclist Danny MacAskill carries the Olympic Torch in Glasgow, Scotland, and searches for a film location. It's a once-in-a-lifetime honour for Danny MacAskill as he rides the Olympic Torch through the packed streets of Glasgow, Scotland. Work of his film project goes on with the search for a location yielding a surprisingly perfect space.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015180000 +0000" stop="20191015180500 +0000" channel="RedBull TV">
+    <title lang="en">Dropping in on Dubai</title>
+    <sub-title lang="en">Kriss Kyle rides his BMX off a helicopter</sub-title>
+    <desc lang="en">Watch Kriss Kyle jump from a helicopter onto the roof of Burj Al Arab in Dubai – on his BMX bike. Despite a fear of heights Kriss Kyle jumps from a helicopter onto the roof of Burj Al Arab Jumeirah hotel in Dubai on his BMX bike. He then roams around as if it's a BMX playground made just for him.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015181600 +0000" stop="20191015182400 +0000" channel="RedBull TV">
+    <title lang="en">Madden Lake Mayhem</title>
+    <sub-title lang="en">Wakecation: Panama</sub-title>
+    <desc lang="en">Parks Bonifay and crew head to Madden Lake for a glassy wake session in the middle of the Panamanian jungle. Parks Bonifay and crew head to Madden Lake for a glassy wake session in the middle of the Panamanian jungle. The remote sanctuary hosts some of the most pristine conditions of the trip, making way for an epic boat shredding session.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015182400 +0000" stop="20191015183500 +0000" channel="RedBull TV">
+    <title lang="en">Towing-In the Perfect Bay</title>
+    <sub-title lang="en">Wakecation: Panama</sub-title>
+    <desc lang="en">On the last day of the trip, the guys head to Portobelo and explore the historic ruins of the Caribbean coast. On the last leg of the trip, the guys head to Portobelo and explore the historic ruins of the Caribbean coast. After spending a day scouting some tow-in surfing locations, the crew finds the perfect bay to session out their vacation.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015183500 +0000" stop="20191015194000 +0000" channel="RedBull TV">
+    <title lang="en">Etnies: Album\t</title>
+    <sub-title lang="en">Touring five continents for skate spots</sub-title>
+    <desc lang="en">A passionate tribe of skateboarders search cities on five continents in a quest to find new skate spots. An eclectic tribe of skateboarders scour city streets across five continents in a quest to find new skate spots. This film by Etnies is an album of moments from the years that went into the project.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015194000 +0000" stop="20191015194900 +0000" channel="RedBull TV">
+    <title lang="en">Top action from Victoria</title>
+    <sub-title lang="en">Red Bull Skate of Origin 2019</sub-title>
+    <desc lang="en">Watch the wild adventures going down in Victoria, Australia, for Red Bull Skate of Origin 2019. Watch the wild adventures going down in Victoria, Australia, featuring Jack Kirk, Callum Paul, Ricky Glaser and more for Red Bull Skate of Origin 2019.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015194900 +0000" stop="20191015201700 +0000" channel="RedBull TV">
+    <title lang="en">Tim Don</title>
+    <desc lang="en">The Man with the Halo. While cycling in Kona, Hawaii as part of his final prep for IRONMAN, Tim Don was hit by a truck. Scans showed Tim had broken his neck. It was the end of Tim’s hopes of competing at the World Championship, but thankfully it was not the end of Tim.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015201700 +0000" stop="20191015203200 +0000" channel="RedBull TV">
+    <title lang="en">Cooking at the Catalan Grand Prix</title>
+    <sub-title lang="en">MotoGP™: Inside Pass</sub-title>
+    <desc lang="en">Host Vanessa Guerra is in Barcelona for Catalan GP, chatting with drivers on the track and in the kitchen. In Barcelona for the Catalan GP Vanessa Guerra challenges Pol Espargaró and Johann Zarco to a cooking challenge, then heads to the track to chat with drivers, and Marc Márquez show us his new livery.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015203200 +0000" stop="20191015205700 +0000" channel="RedBull TV">
+    <title lang="en">NYC Freestyle</title>
+    <sub-title lang="en">Way Past Midnight</sub-title>
+    <desc lang="en">Music, art, and community: the elements of hip-hop culture come together on a 'freestyled' night in New York. Baxter and Amber are a couple in New York City out on the town without a plan. They freestyle their way through a night filled with all the elements of the hip-hop scene — music, art, and community — and show the upside of being up for anything.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015205700 +0000" stop="20191015210900 +0000" channel="RedBull TV">
+    <title lang="en">BMX Nigeria</title>
+    <sub-title lang="en">A ray of light and radness</sub-title>
+    <desc lang="en">This is the inspiring story of two pioneers from the nascent BMX scene in Lagos, Nigeria. This is the inspiring story of two pioneers from the nascent BMX scene in Lagos, Nigeria. Get to know how they got their start in riding and find out how the small crew have forged a whole new frontier in BMX.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015210900 +0000" stop="20191015215500 +0000" channel="RedBull TV">
+    <title lang="en">Kings of Content</title>
+    <sub-title lang="en">Meet the superstars of viral video</sub-title>
+    <desc lang="en">Go inside the world of video creation and meet the content mavericks set to become the next viral sensation. Meet the stars of online content and discover what it takes to create a global viral sensation. From funny animals to far-out stunts, fashion vlogs to gaming shows, these are the creators who’ve taken over everyone’s feed.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015215500 +0000" stop="20191015224800 +0000" channel="RedBull TV">
+    <title lang="en">Tapati Rapa Nui</title>
+    <sub-title lang="en">Archaic Festivals</sub-title>
+    <desc lang="en">Descendants of Easter Island's native tribes hold an ancient competition of strength, endurance, and bravery. Each year descendants of the ancient Easter Island native tribes continue the proud tradition of the Tapati Rapa Nui, a competition of strength, endurance, and bravery. Winning garners only pride, but the dangers in the challenges are very real.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015224800 +0000" stop="20191015230300 +0000" channel="RedBull TV">
+    <title lang="en">The Outer Reaches of 8-Bit</title>
+    <sub-title lang="en">Diggin' in the Carts</sub-title>
+    <desc lang="en">Discover how Konami and Sunsoft's bold musical choices pushed Japanese video game music forward. Thanks to advanced technologies during Japan's 'Bubble Era', companies like Konami and Sunsoft were able to push video game music to the next level by creating thicker sounds and creatively combining different musical genres.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015230300 +0000" stop="20191015233000 +0000" channel="RedBull TV">
+    <title lang="en">Sharing the Sky</title>
+    <sub-title lang="en">Andy Hediger's fight for flight</sub-title>
+    <desc lang="en">Multi-discipline pilot Andy Hediger was born to fly, but a near-fatal crash almost clipped his wings forever. Multi-discipline aerobatic pilot and Red Bull Aerobatic Team member Andy Hediger was born to fly. But a near-fatal crash means that even walking again may be a miracle. Now Andy must fight his way back to health if he hopes to return to the sky.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015233000 +0000" stop="20191015235600 +0000" channel="RedBull TV">
     <title lang="en">Jorge Prado: Feet in the Dirt</title>
     <sub-title lang="en">The rise of a motocross prodigy</sub-title>
     <desc lang="en">Get to know the story behind young Spanish motocross rider Jorge Prado. Get to know the story behind young Spanish motocross prodigy Jorge Prado. The 2018 MX2 world champion has been on a bike since the age of three and hopes to rise to the very top of the sport with the Red Bull KTM Factory Racing team.</desc>
@@ -14,7 +183,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191014154300 +0000" stop="20191014155500 +0000" channel="RedBull TV">
+  <programme start="20191015235600 +0000" stop="20191015150100 +0000" channel="RedBull TV">
     <title lang="en">Test driving before Goodwood</title>
     <sub-title lang="en">Drift Lamborghini</sub-title>
     <desc lang="en">'Mad' Mike Whiddett's Lamborghini Huracán is ready for its big reveal at the Goodwood Festival of Speed. 'Mad' Mike Whiddett's Lamborghini Huracán is finally ready for its big reveal at the Goodwood Festival of Speed, but first he's got to make sure it doesn't get flattened by Kamaz's huge Dakar truck.</desc>
@@ -24,35 +193,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191014155500 +0000" stop="20191014162900 +0000" channel="RedBull TV">
-    <title lang="en">Method Movie 3</title>
-    <desc lang="en">True to the core. Storied snowboard publication Method Magazine returns with the final film of the Method Movie triad, a globetrotting collection of insane snowboarding and good times that, once again, stays a bit weirder than the rest.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191014162900 +0000" stop="20191014164500 +0000" channel="RedBull TV">
-    <title lang="en">Cooking at the Catalan Grand Prix</title>
-    <sub-title lang="en">MotoGP™: Inside Pass</sub-title>
-    <desc lang="en">Host Vanessa Guerra is in Barcelona for Catalan GP, chatting with drivers on the track and in the kitchen. In Barcelona for the Catalan GP Vanessa Guerra challenges Pol Espargaró and Johann Zarco to a cooking challenge, then heads to the track to chat with drivers, and Marc Márquez show us his new livery.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191014180100 +0000" stop="20191014185700 +0000" channel="RedBull TV">
-    <title lang="en">The Resilient</title>
-    <sub-title lang="en">Visions of Greatness</sub-title>
-    <desc lang="en">The chasing of a dream is fraught with failure, but those who achieve greatness approach failure differently. Those who can weather the many defeats on the road to success are the ones who ultimately achieve their dreams. Craig Venter, the man who mapped the human genome, and skateboard pioneer Stacy Peralta show how they persisted in the face of failure.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191014185700 +0000" stop="20191014195300 +0000" channel="RedBull TV">
+  <programme start="20191015150100 +0000" stop="20191015155700 +0000" channel="RedBull TV">
     <title lang="en">Surfers' Blood</title>
     <desc lang="en">A film by Patrick Trefz. Renowned surf photographer and filmmaker Patrick Trefz explores the essence of the sport he loves by profiling those who inspire him. From Basque Country, Spain, to Silicon Valley, USA, these unique people are united by a deep connection to the sea.</desc>
     <category lang="en">Sports</category>
@@ -60,139 +201,168 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191014195300 +0000" stop="20191014201800 +0000" channel="RedBull TV">
-    <title lang="en">Arriving in Moscow</title>
-    <sub-title lang="en">Break'n Reality</sub-title>
-    <desc lang="en">The b-boys arrive in Moscow for the BC One finals. After exploring the city, they meet Rakaa, the event emcee. The b-boys arrive in Moscow and immediately take off for a photo shoot. After exploring the city, all three are greeted by Rakaa, the event emcee who announces the battles. Now there's nothing left to do but wait for the competition to begin.</desc>
+  <programme start="20191015155700 +0000" stop="20191015162200 +0000" channel="RedBull TV">
+    <title lang="en">Amsterdam to Barcelona</title>
+    <sub-title lang="en">The Road Trick</sub-title>
+    <desc lang="en">After a layover in the Netherlands, Adam Trent heads to Spain to experience Catalan passion and tradition. To celebrate his birthday, Adam Trent spends a day in the Netherlands before jetting to Spain. Once in Catalonia, he takes part in two ancient rituals: being a part of a giant human pyramid, and playing with fire during San Juan Festival.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
+    <episode-num system="onscreen">S1 E9</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191014201800 +0000" stop="20191014203200 +0000" channel="RedBull TV">
-    <title lang="en">Barefoot skiing</title>
-    <sub-title lang="en">Who is JOB</sub-title>
-    <desc lang="en">Jamie O'Brien and the crew are still in Waco, Texas, trying out some new water sports. Jamie O'Brien and the crew are still in Waco, Texas, catching barrels at the new wave pool then hit the cable park and take on some jumps with wompers, skis and more. Then they try their hands–or feet–at barefoot skiing.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S7 E4</episode-num>
-    <rating system="US">
-      <value>UR</value>
-    </rating>
-  </programme>
-  <programme start="20191014203200 +0000" stop="20191014205200 +0000" channel="RedBull TV">
-    <title lang="en">King Lines: Part I</title>
-    <sub-title lang="en">Reel Rock</sub-title>
-    <desc lang="en">Champion climber Chris Sharma starts a quest to make first ascents of the greatest unclimbed walls on Earth. Chris Sharma, the world’s strongest climber, embarks on a quest to make first ascents of Earth's greatest unclimbed walls. On his journey, he finds a massive arch rising out of the Mediterranean Sea that could be the most difficult ascent ever.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191014205200 +0000" stop="20191014223100 +0000" channel="RedBull TV">
-    <title lang="en">Roraima</title>
-    <sub-title lang="en">The climb of a lifetime</sub-title>
-    <desc lang="en">A trio of climbers launch an expedition to Mount Roraima, a South American peak shrouded in legend. Climbing partners Kurt Albert and Holger Heuber don't know what they're in for when they join competitive climbing superstar Stefan Glowacz for an expedition to Mount Roraima, a steep-walled South American peak shrouded in both rainforest and legend.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191014223100 +0000" stop="20191014235400 +0000" channel="RedBull TV">
-    <title lang="en">The Signal Hill Speed Run</title>
-    <sub-title lang="en">The world’s first skateboard race</sub-title>
-    <desc lang="en">The contest that established downhill skateboarding was a festival of speed, partying and danger. A ridiculously steep hill in California was the stage for downhill skateboarding's first contest and it quickly became the epicentre of the absurd new sport. The Signal Hill Speed Run was a festival of innovation, speed and danger.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191014235400 +0000" stop="20191015000600 +0000" channel="RedBull TV">
-    <title lang="en">Seabase 1910</title>
-    <sub-title lang="en">Riding the Pyrenees on a fixed-gear bike</sub-title>
-    <desc lang="en">Patrick Seabase recreates the gruelling first mountain stage of the 1910 Tour de France on a fixed-gear bike. Recreating the gruelling first mountain stage of the 1910 Tour de France, Patrick Seabase strives for the seemingly impossible: in a single day, he aims to ride five summits, 309km and 7,611m altitude on a fixed-gear bike with no brakes.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191015000600 +0000" stop="20191015005900 +0000" channel="RedBull TV">
-    <title lang="en">The Battle of Cape Fear</title>
-    <sub-title lang="en">A surfing documentary</sub-title>
-    <desc lang="en">The world's elite big wave surfers gather to tackle the fierce waves at the daunting Cape Fear event. The world's elite big wave surfers gather to tackle the slabs at Red Bull Cape Fear in Australia, a potentially lethal break. Behind-the-scenes footage reveals just how complicated it is to coordinate a groundbreaking surf competition.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191015005900 +0000" stop="20191015013500 +0000" channel="RedBull TV">
-    <title lang="en">Method Movie 3</title>
-    <desc lang="en">True to the core. Storied snowboard publication Method Magazine returns with the final film of the Method Movie triad, a globetrotting collection of insane snowboarding and good times that, once again, stays a bit weirder than the rest.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191015013500 +0000" stop="20191015014900 +0000" channel="RedBull TV">
-    <title lang="en">Cooking at the Catalan Grand Prix</title>
-    <sub-title lang="en">MotoGP™: Inside Pass</sub-title>
-    <desc lang="en">Host Vanessa Guerra is in Barcelona for Catalan GP, chatting with drivers on the track and in the kitchen. In Barcelona for the Catalan GP Vanessa Guerra challenges Pol Espargaró and Johann Zarco to a cooking challenge, then heads to the track to chat with drivers, and Marc Márquez show us his new livery.</desc>
+  <programme start="20191015162200 +0000" stop="20191015165000 +0000" channel="RedBull TV">
+    <title lang="en">ABC of... Mountain Biking</title>
+    <sub-title lang="en">ABC of..</sub-title>
+    <desc lang="en">Get a crash course in mountain biking, with lessons in the terminology, history, and heroes of the sport. Rob Warner gives a master class in all things mountain biking with lessons in the terminology, disciplines, history, and heroes of the sport. This is required knowledge for anyone looking to test their mettle in the world of MTB.</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S1 E7</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191015030700 +0000" stop="20191015040200 +0000" channel="RedBull TV">
-    <title lang="en">The Resilient</title>
-    <sub-title lang="en">Visions of Greatness</sub-title>
-    <desc lang="en">The chasing of a dream is fraught with failure, but those who achieve greatness approach failure differently. Those who can weather the many defeats on the road to success are the ones who ultimately achieve their dreams. Craig Venter, the man who mapped the human genome, and skateboard pioneer Stacy Peralta show how they persisted in the face of failure.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191015040200 +0000" stop="20191015045900 +0000" channel="RedBull TV">
-    <title lang="en">Surfers' Blood</title>
-    <desc lang="en">A film by Patrick Trefz. Renowned surf photographer and filmmaker Patrick Trefz explores the essence of the sport he loves by profiling those who inspire him. From Basque Country, Spain, to Silicon Valley, USA, these unique people are united by a deep connection to the sea.</desc>
+  <programme start="20191015165000 +0000" stop="20191015174400 +0000" channel="RedBull TV">
+    <title lang="en">VMax: No Straight Line</title>
+    <sub-title lang="en">Beating the mountain bike speed record, again</sub-title>
+    <desc lang="en">Max Stöckl's quest to be the fastest man on a mountain bike takes him from Austria to the mountains of Chile. Markus 'Max' Stöckl has been setting speed downhill mountain bike records for over 20 years. Now, in his endless desire to go faster, he attempts to break his own World Record of 164.95kph on a desolate peak in Chile's Atacama Desert.</desc>
     <category lang="en">Sports</category>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191015045900 +0000" stop="20191015051200 +0000" channel="RedBull TV">
-    <title lang="en">Airbag experiment in Spain</title>
-    <sub-title lang="en">MotoGP™: Inside Pass</sub-title>
-    <desc lang="en">Vanessa Guerra enjoys fun and games behind the scenes in Jerez, Spain, ahead of the Spanish Grand Prix. Vanessa Guerra is in Jerez, Spain to chat with the riders and crews. She discovers what it feels like to deploy a rider's airbag in just 40 milliseconds, as does her special guest, Andrea Dovizioso.</desc>
+  <programme start="20191015174400 +0000" stop="20191015180000 +0000" channel="RedBull TV">
+    <title lang="en">Perfect Space</title>
+    <sub-title lang="en">MacAskill's Imaginate</sub-title>
+    <desc lang="en">Cyclist Danny MacAskill carries the Olympic Torch in Glasgow, Scotland, and searches for a film location. It's a once-in-a-lifetime honour for Danny MacAskill as he rides the Olympic Torch through the packed streets of Glasgow, Scotland. Work of his film project goes on with the search for a location yielding a surprisingly perfect space.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015180000 +0000" stop="20191015180500 +0000" channel="RedBull TV">
+    <title lang="en">Dropping in on Dubai</title>
+    <sub-title lang="en">Kriss Kyle rides his BMX off a helicopter</sub-title>
+    <desc lang="en">Watch Kriss Kyle jump from a helicopter onto the roof of Burj Al Arab in Dubai – on his BMX bike. Despite a fear of heights Kriss Kyle jumps from a helicopter onto the roof of Burj Al Arab Jumeirah hotel in Dubai on his BMX bike. He then roams around as if it's a BMX playground made just for him.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015181600 +0000" stop="20191015182400 +0000" channel="RedBull TV">
+    <title lang="en">Madden Lake Mayhem</title>
+    <sub-title lang="en">Wakecation: Panama</sub-title>
+    <desc lang="en">Parks Bonifay and crew head to Madden Lake for a glassy wake session in the middle of the Panamanian jungle. Parks Bonifay and crew head to Madden Lake for a glassy wake session in the middle of the Panamanian jungle. The remote sanctuary hosts some of the most pristine conditions of the trip, making way for an epic boat shredding session.</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191015051200 +0000" stop="20191015053700 +0000" channel="RedBull TV">
-    <title lang="en">Paris</title>
-    <sub-title lang="en">The Road Trick</sub-title>
-    <desc lang="en">Magician Adam Trent gets a new perspective on a trip to the French capital, taking his magic with him. As a regular visitor to Paris, France, Adam Trent is after a new perspective on this trip. With the help of some locals who sometimes skirt the line of legality, he gets his wish with some rooftop parkour and a journey to the depths of the catacombs.</desc>
+  <programme start="20191015182400 +0000" stop="20191015183500 +0000" channel="RedBull TV">
+    <title lang="en">Towing-In the Perfect Bay</title>
+    <sub-title lang="en">Wakecation: Panama</sub-title>
+    <desc lang="en">On the last day of the trip, the guys head to Portobelo and explore the historic ruins of the Caribbean coast. On the last leg of the trip, the guys head to Portobelo and explore the historic ruins of the Caribbean coast. After spending a day scouting some tow-in surfing locations, the crew finds the perfect bay to session out their vacation.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E8</episode-num>
+    <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191015053700 +0000" stop="20191014151700 +0000" channel="RedBull TV">
-    <title lang="en">The End of an Era</title>
-    <sub-title lang="en">Diggin' in the Carts</sub-title>
-    <desc lang="en">The arrival of 32-bit systems marked the end of the chiptune era, but opened up new limitless possibilities. The arrival of 32-bit systems removed musical limitations and allowed composers to express exactly what they wanted. While this ended the chiptune era, people around the world recognise the importance and contribution of Japanese 8-bit music.</desc>
+  <programme start="20191015183500 +0000" stop="20191015194000 +0000" channel="RedBull TV">
+    <title lang="en">Etnies: Album\t</title>
+    <sub-title lang="en">Touring five continents for skate spots</sub-title>
+    <desc lang="en">A passionate tribe of skateboarders search cities on five continents in a quest to find new skate spots. An eclectic tribe of skateboarders scour city streets across five continents in a quest to find new skate spots. This film by Etnies is an album of moments from the years that went into the project.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015194000 +0000" stop="20191015194900 +0000" channel="RedBull TV">
+    <title lang="en">Top action from Victoria</title>
+    <sub-title lang="en">Red Bull Skate of Origin 2019</sub-title>
+    <desc lang="en">Watch the wild adventures going down in Victoria, Australia, for Red Bull Skate of Origin 2019. Watch the wild adventures going down in Victoria, Australia, featuring Jack Kirk, Callum Paul, Ricky Glaser and more for Red Bull Skate of Origin 2019.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015194900 +0000" stop="20191015201700 +0000" channel="RedBull TV">
+    <title lang="en">Tim Don</title>
+    <desc lang="en">The Man with the Halo. While cycling in Kona, Hawaii as part of his final prep for IRONMAN, Tim Don was hit by a truck. Scans showed Tim had broken his neck. It was the end of Tim’s hopes of competing at the World Championship, but thankfully it was not the end of Tim.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015201700 +0000" stop="20191015203200 +0000" channel="RedBull TV">
+    <title lang="en">Cooking at the Catalan Grand Prix</title>
+    <sub-title lang="en">MotoGP™: Inside Pass</sub-title>
+    <desc lang="en">Host Vanessa Guerra is in Barcelona for Catalan GP, chatting with drivers on the track and in the kitchen. In Barcelona for the Catalan GP Vanessa Guerra challenges Pol Espargaró and Johann Zarco to a cooking challenge, then heads to the track to chat with drivers, and Marc Márquez show us his new livery.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015203200 +0000" stop="20191015205700 +0000" channel="RedBull TV">
+    <title lang="en">NYC Freestyle</title>
+    <sub-title lang="en">Way Past Midnight</sub-title>
+    <desc lang="en">Music, art, and community: the elements of hip-hop culture come together on a 'freestyled' night in New York. Baxter and Amber are a couple in New York City out on the town without a plan. They freestyle their way through a night filled with all the elements of the hip-hop scene — music, art, and community — and show the upside of being up for anything.</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S1 E6</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191014151700 +0000" stop="20191014154300 +0000" channel="RedBull TV">
+  <programme start="20191015205700 +0000" stop="20191015210900 +0000" channel="RedBull TV">
+    <title lang="en">BMX Nigeria</title>
+    <sub-title lang="en">A ray of light and radness</sub-title>
+    <desc lang="en">This is the inspiring story of two pioneers from the nascent BMX scene in Lagos, Nigeria. This is the inspiring story of two pioneers from the nascent BMX scene in Lagos, Nigeria. Get to know how they got their start in riding and find out how the small crew have forged a whole new frontier in BMX.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015210900 +0000" stop="20191015215500 +0000" channel="RedBull TV">
+    <title lang="en">Kings of Content</title>
+    <sub-title lang="en">Meet the superstars of viral video</sub-title>
+    <desc lang="en">Go inside the world of video creation and meet the content mavericks set to become the next viral sensation. Meet the stars of online content and discover what it takes to create a global viral sensation. From funny animals to far-out stunts, fashion vlogs to gaming shows, these are the creators who’ve taken over everyone’s feed.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015215500 +0000" stop="20191015224800 +0000" channel="RedBull TV">
+    <title lang="en">Tapati Rapa Nui</title>
+    <sub-title lang="en">Archaic Festivals</sub-title>
+    <desc lang="en">Descendants of Easter Island's native tribes hold an ancient competition of strength, endurance, and bravery. Each year descendants of the ancient Easter Island native tribes continue the proud tradition of the Tapati Rapa Nui, a competition of strength, endurance, and bravery. Winning garners only pride, but the dangers in the challenges are very real.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015224800 +0000" stop="20191015230300 +0000" channel="RedBull TV">
+    <title lang="en">The Outer Reaches of 8-Bit</title>
+    <sub-title lang="en">Diggin' in the Carts</sub-title>
+    <desc lang="en">Discover how Konami and Sunsoft's bold musical choices pushed Japanese video game music forward. Thanks to advanced technologies during Japan's 'Bubble Era', companies like Konami and Sunsoft were able to push video game music to the next level by creating thicker sounds and creatively combining different musical genres.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015230300 +0000" stop="20191015233000 +0000" channel="RedBull TV">
+    <title lang="en">Sharing the Sky</title>
+    <sub-title lang="en">Andy Hediger's fight for flight</sub-title>
+    <desc lang="en">Multi-discipline pilot Andy Hediger was born to fly, but a near-fatal crash almost clipped his wings forever. Multi-discipline aerobatic pilot and Red Bull Aerobatic Team member Andy Hediger was born to fly. But a near-fatal crash means that even walking again may be a miracle. Now Andy must fight his way back to health if he hopes to return to the sky.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191015233000 +0000" stop="20191015235600 +0000" channel="RedBull TV">
     <title lang="en">Jorge Prado: Feet in the Dirt</title>
     <sub-title lang="en">The rise of a motocross prodigy</sub-title>
     <desc lang="en">Get to know the story behind young Spanish motocross rider Jorge Prado. Get to know the story behind young Spanish motocross prodigy Jorge Prado. The 2018 MX2 world champion has been on a bike since the age of three and hopes to rise to the very top of the sport with the Red Bull KTM Factory Racing team.</desc>
@@ -201,180 +371,12 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191014154300 +0000" stop="20191014155500 +0000" channel="RedBull TV">
+  <programme start="20191015235600 +0000" stop="20191016000800 +0000" channel="RedBull TV">
     <title lang="en">Test driving before Goodwood</title>
     <sub-title lang="en">Drift Lamborghini</sub-title>
     <desc lang="en">'Mad' Mike Whiddett's Lamborghini Huracán is ready for its big reveal at the Goodwood Festival of Speed. 'Mad' Mike Whiddett's Lamborghini Huracán is finally ready for its big reveal at the Goodwood Festival of Speed, but first he's got to make sure it doesn't get flattened by Kamaz's huge Dakar truck.</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191014155500 +0000" stop="20191014162900 +0000" channel="RedBull TV">
-    <title lang="en">Method Movie 3</title>
-    <desc lang="en">True to the core. Storied snowboard publication Method Magazine returns with the final film of the Method Movie triad, a globetrotting collection of insane snowboarding and good times that, once again, stays a bit weirder than the rest.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191014162900 +0000" stop="20191014164500 +0000" channel="RedBull TV">
-    <title lang="en">Cooking at the Catalan Grand Prix</title>
-    <sub-title lang="en">MotoGP™: Inside Pass</sub-title>
-    <desc lang="en">Host Vanessa Guerra is in Barcelona for Catalan GP, chatting with drivers on the track and in the kitchen. In Barcelona for the Catalan GP Vanessa Guerra challenges Pol Espargaró and Johann Zarco to a cooking challenge, then heads to the track to chat with drivers, and Marc Márquez show us his new livery.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191014180100 +0000" stop="20191014185700 +0000" channel="RedBull TV">
-    <title lang="en">The Resilient</title>
-    <sub-title lang="en">Visions of Greatness</sub-title>
-    <desc lang="en">The chasing of a dream is fraught with failure, but those who achieve greatness approach failure differently. Those who can weather the many defeats on the road to success are the ones who ultimately achieve their dreams. Craig Venter, the man who mapped the human genome, and skateboard pioneer Stacy Peralta show how they persisted in the face of failure.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191014185700 +0000" stop="20191014195300 +0000" channel="RedBull TV">
-    <title lang="en">Surfers' Blood</title>
-    <desc lang="en">A film by Patrick Trefz. Renowned surf photographer and filmmaker Patrick Trefz explores the essence of the sport he loves by profiling those who inspire him. From Basque Country, Spain, to Silicon Valley, USA, these unique people are united by a deep connection to the sea.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191014195300 +0000" stop="20191014201800 +0000" channel="RedBull TV">
-    <title lang="en">Arriving in Moscow</title>
-    <sub-title lang="en">Break'n Reality</sub-title>
-    <desc lang="en">The b-boys arrive in Moscow for the BC One finals. After exploring the city, they meet Rakaa, the event emcee. The b-boys arrive in Moscow and immediately take off for a photo shoot. After exploring the city, all three are greeted by Rakaa, the event emcee who announces the battles. Now there's nothing left to do but wait for the competition to begin.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191014201800 +0000" stop="20191014203200 +0000" channel="RedBull TV">
-    <title lang="en">Barefoot skiing</title>
-    <sub-title lang="en">Who is JOB</sub-title>
-    <desc lang="en">Jamie O'Brien and the crew are still in Waco, Texas, trying out some new water sports. Jamie O'Brien and the crew are still in Waco, Texas, catching barrels at the new wave pool then hit the cable park and take on some jumps with wompers, skis and more. Then they try their hands–or feet–at barefoot skiing.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S7 E4</episode-num>
-    <rating system="US">
-      <value>UR</value>
-    </rating>
-  </programme>
-  <programme start="20191014203200 +0000" stop="20191014205200 +0000" channel="RedBull TV">
-    <title lang="en">King Lines: Part I</title>
-    <sub-title lang="en">Reel Rock</sub-title>
-    <desc lang="en">Champion climber Chris Sharma starts a quest to make first ascents of the greatest unclimbed walls on Earth. Chris Sharma, the world’s strongest climber, embarks on a quest to make first ascents of Earth's greatest unclimbed walls. On his journey, he finds a massive arch rising out of the Mediterranean Sea that could be the most difficult ascent ever.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191014205200 +0000" stop="20191014223100 +0000" channel="RedBull TV">
-    <title lang="en">Roraima</title>
-    <sub-title lang="en">The climb of a lifetime</sub-title>
-    <desc lang="en">A trio of climbers launch an expedition to Mount Roraima, a South American peak shrouded in legend. Climbing partners Kurt Albert and Holger Heuber don't know what they're in for when they join competitive climbing superstar Stefan Glowacz for an expedition to Mount Roraima, a steep-walled South American peak shrouded in both rainforest and legend.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191014223100 +0000" stop="20191014235400 +0000" channel="RedBull TV">
-    <title lang="en">The Signal Hill Speed Run</title>
-    <sub-title lang="en">The world’s first skateboard race</sub-title>
-    <desc lang="en">The contest that established downhill skateboarding was a festival of speed, partying and danger. A ridiculously steep hill in California was the stage for downhill skateboarding's first contest and it quickly became the epicentre of the absurd new sport. The Signal Hill Speed Run was a festival of innovation, speed and danger.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191014235400 +0000" stop="20191015000600 +0000" channel="RedBull TV">
-    <title lang="en">Seabase 1910</title>
-    <sub-title lang="en">Riding the Pyrenees on a fixed-gear bike</sub-title>
-    <desc lang="en">Patrick Seabase recreates the gruelling first mountain stage of the 1910 Tour de France on a fixed-gear bike. Recreating the gruelling first mountain stage of the 1910 Tour de France, Patrick Seabase strives for the seemingly impossible: in a single day, he aims to ride five summits, 309km and 7,611m altitude on a fixed-gear bike with no brakes.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191015000600 +0000" stop="20191015005900 +0000" channel="RedBull TV">
-    <title lang="en">The Battle of Cape Fear</title>
-    <sub-title lang="en">A surfing documentary</sub-title>
-    <desc lang="en">The world's elite big wave surfers gather to tackle the fierce waves at the daunting Cape Fear event. The world's elite big wave surfers gather to tackle the slabs at Red Bull Cape Fear in Australia, a potentially lethal break. Behind-the-scenes footage reveals just how complicated it is to coordinate a groundbreaking surf competition.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191015005900 +0000" stop="20191015013500 +0000" channel="RedBull TV">
-    <title lang="en">Method Movie 3</title>
-    <desc lang="en">True to the core. Storied snowboard publication Method Magazine returns with the final film of the Method Movie triad, a globetrotting collection of insane snowboarding and good times that, once again, stays a bit weirder than the rest.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191015013500 +0000" stop="20191015014900 +0000" channel="RedBull TV">
-    <title lang="en">Cooking at the Catalan Grand Prix</title>
-    <sub-title lang="en">MotoGP™: Inside Pass</sub-title>
-    <desc lang="en">Host Vanessa Guerra is in Barcelona for Catalan GP, chatting with drivers on the track and in the kitchen. In Barcelona for the Catalan GP Vanessa Guerra challenges Pol Espargaró and Johann Zarco to a cooking challenge, then heads to the track to chat with drivers, and Marc Márquez show us his new livery.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191015030700 +0000" stop="20191015040200 +0000" channel="RedBull TV">
-    <title lang="en">The Resilient</title>
-    <sub-title lang="en">Visions of Greatness</sub-title>
-    <desc lang="en">The chasing of a dream is fraught with failure, but those who achieve greatness approach failure differently. Those who can weather the many defeats on the road to success are the ones who ultimately achieve their dreams. Craig Venter, the man who mapped the human genome, and skateboard pioneer Stacy Peralta show how they persisted in the face of failure.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191015040200 +0000" stop="20191015045900 +0000" channel="RedBull TV">
-    <title lang="en">Surfers' Blood</title>
-    <desc lang="en">A film by Patrick Trefz. Renowned surf photographer and filmmaker Patrick Trefz explores the essence of the sport he loves by profiling those who inspire him. From Basque Country, Spain, to Silicon Valley, USA, these unique people are united by a deep connection to the sea.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191015045900 +0000" stop="20191015051200 +0000" channel="RedBull TV">
-    <title lang="en">Airbag experiment in Spain</title>
-    <sub-title lang="en">MotoGP™: Inside Pass</sub-title>
-    <desc lang="en">Vanessa Guerra enjoys fun and games behind the scenes in Jerez, Spain, ahead of the Spanish Grand Prix. Vanessa Guerra is in Jerez, Spain to chat with the riders and crews. She discovers what it feels like to deploy a rider's airbag in just 40 milliseconds, as does her special guest, Andrea Dovizioso.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191015051200 +0000" stop="20191015053700 +0000" channel="RedBull TV">
-    <title lang="en">Paris</title>
-    <sub-title lang="en">The Road Trick</sub-title>
-    <desc lang="en">Magician Adam Trent gets a new perspective on a trip to the French capital, taking his magic with him. As a regular visitor to Paris, France, Adam Trent is after a new perspective on this trip. With the help of some locals who sometimes skirt the line of legality, he gets his wish with some rooftop parkour and a journey to the depths of the catacombs.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191015053700 +0000" stop="20191015055200 +0000" channel="RedBull TV">
-    <title lang="en">The End of an Era</title>
-    <sub-title lang="en">Diggin' in the Carts</sub-title>
-    <desc lang="en">The arrival of 32-bit systems marked the end of the chiptune era, but opened up new limitless possibilities. The arrival of 32-bit systems removed musical limitations and allowed composers to express exactly what they wanted. While this ended the chiptune era, people around the world recognise the importance and contribution of Japanese 8-bit music.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E6</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
