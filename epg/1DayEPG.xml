@@ -5,34 +5,6 @@
     <icon src="https://archive.org/download/RedBullTVLogo/Red-Bull-TV-Logo.png" />
     <url>http://www.redbull.tv</url>
   </channel>
-  <programme start="20191016144400 +0000" stop="20191016155000 +0000" channel="RedBull TV">
-    <title lang="en">Etnies: Album\t</title>
-    <sub-title lang="en">Touring five continents for skate spots</sub-title>
-    <desc lang="en">A passionate tribe of skateboarders search cities on five continents in a quest to find new skate spots. An eclectic tribe of skateboarders scour city streets across five continents in a quest to find new skate spots. This film by Etnies is an album of moments from the years that went into the project.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191016155000 +0000" stop="20191016155900 +0000" channel="RedBull TV">
-    <title lang="en">Top action from Victoria</title>
-    <sub-title lang="en">Red Bull Skate of Origin 2019</sub-title>
-    <desc lang="en">Watch the wild adventures going down in Victoria, Australia, for Red Bull Skate of Origin 2019. Watch the wild adventures going down in Victoria, Australia, featuring Jack Kirk, Callum Paul, Ricky Glaser and more for Red Bull Skate of Origin 2019.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191016155900 +0000" stop="20191016161400 +0000" channel="RedBull TV">
-    <title lang="en">Cooking at the Catalan Grand Prix</title>
-    <sub-title lang="en">MotoGP™: Inside Pass</sub-title>
-    <desc lang="en">Host Vanessa Guerra is in Barcelona for Catalan GP, chatting with drivers on the track and in the kitchen. In Barcelona for the Catalan GP Vanessa Guerra challenges Pol Espargaró and Johann Zarco to a cooking challenge, then heads to the track to chat with drivers, and Marc Márquez show us his new livery.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
   <programme start="20191016161400 +0000" stop="20191016163000 +0000" channel="RedBull TV">
     <title lang="en">Maja Kuczyńska</title>
     <sub-title lang="en">Out of Frame</sub-title>
@@ -185,7 +157,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191017003800 +0000" stop="20191016144400 +0000" channel="RedBull TV">
+  <programme start="20191017003800 +0000" stop="20191017010200 +0000" channel="RedBull TV">
     <title lang="en">NYC Freestyle</title>
     <sub-title lang="en">Way Past Midnight</sub-title>
     <desc lang="en">Music, art, and community: the elements of hip-hop culture come together on a 'freestyled' night in New York. Baxter and Amber are a couple in New York City out on the town without a plan. They freestyle their way through a night filled with all the elements of the hip-hop scene — music, art, and community — and show the upside of being up for anything.</desc>
@@ -195,28 +167,29 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191016144400 +0000" stop="20191016155000 +0000" channel="RedBull TV">
-    <title lang="en">Etnies: Album\t</title>
-    <sub-title lang="en">Touring five continents for skate spots</sub-title>
-    <desc lang="en">A passionate tribe of skateboarders search cities on five continents in a quest to find new skate spots. An eclectic tribe of skateboarders scour city streets across five continents in a quest to find new skate spots. This film by Etnies is an album of moments from the years that went into the project.</desc>
+  <programme start="20191017010200 +0000" stop="20191017011400 +0000" channel="RedBull TV">
+    <title lang="en">BMX Nigeria</title>
+    <sub-title lang="en">A ray of light and radness</sub-title>
+    <desc lang="en">This is the inspiring story of two pioneers from the nascent BMX scene in Lagos, Nigeria. This is the inspiring story of two pioneers from the nascent BMX scene in Lagos, Nigeria. Get to know how they got their start in riding and find out how the small crew have forged a whole new frontier in BMX.</desc>
     <category lang="en">Sports</category>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191016155000 +0000" stop="20191016155900 +0000" channel="RedBull TV">
-    <title lang="en">Top action from Victoria</title>
-    <sub-title lang="en">Red Bull Skate of Origin 2019</sub-title>
-    <desc lang="en">Watch the wild adventures going down in Victoria, Australia, for Red Bull Skate of Origin 2019. Watch the wild adventures going down in Victoria, Australia, featuring Jack Kirk, Callum Paul, Ricky Glaser and more for Red Bull Skate of Origin 2019.</desc>
+  <programme start="20191017011400 +0000" stop="20191017013000 +0000" channel="RedBull TV">
+    <title lang="en">Maja Kuczyńska</title>
+    <sub-title lang="en">Out of Frame</sub-title>
+    <desc lang="en">Seventeen-year-old Maja Kuczyńska is already more comfortable in the air than many career skydivers. Seventeen-year-old Maja Kuczyńska is already more comfortable dancing through the air than many longtime skydivers, but the first-ever Junior Indoor Skydiving World Champion has never actually jumped out of an aeroplane.</desc>
     <category lang="en">Sports</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191016155900 +0000" stop="20191016161400 +0000" channel="RedBull TV">
-    <title lang="en">Cooking at the Catalan Grand Prix</title>
-    <sub-title lang="en">MotoGP™: Inside Pass</sub-title>
-    <desc lang="en">Host Vanessa Guerra is in Barcelona for Catalan GP, chatting with drivers on the track and in the kitchen. In Barcelona for the Catalan GP Vanessa Guerra challenges Pol Espargaró and Johann Zarco to a cooking challenge, then heads to the track to chat with drivers, and Marc Márquez show us his new livery.</desc>
+  <programme start="20191017013000 +0000" stop="20191016161400 +0000" channel="RedBull TV">
+    <title lang="en">Girl in the Boys Club</title>
+    <sub-title lang="en">Miles Above</sub-title>
+    <desc lang="en">Amy Chmelecki shows what it takes to be the first – and only – female member of the Red Bull Air Force. As the first and only female member of the Red Bull Air Force, Amy Chmelecki brings unparalleled skill and a fierce competitive streak to every dimension of the sport. Here, she looks back on her path from novice to pro.</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S1 E7</episode-num>
     <rating system="US">
@@ -381,6 +354,35 @@
     <desc lang="en">Music, art, and community: the elements of hip-hop culture come together on a 'freestyled' night in New York. Baxter and Amber are a couple in New York City out on the town without a plan. They freestyle their way through a night filled with all the elements of the hip-hop scene — music, art, and community — and show the upside of being up for anything.</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191017010200 +0000" stop="20191017011400 +0000" channel="RedBull TV">
+    <title lang="en">BMX Nigeria</title>
+    <sub-title lang="en">A ray of light and radness</sub-title>
+    <desc lang="en">This is the inspiring story of two pioneers from the nascent BMX scene in Lagos, Nigeria. This is the inspiring story of two pioneers from the nascent BMX scene in Lagos, Nigeria. Get to know how they got their start in riding and find out how the small crew have forged a whole new frontier in BMX.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191017011400 +0000" stop="20191017013000 +0000" channel="RedBull TV">
+    <title lang="en">Maja Kuczyńska</title>
+    <sub-title lang="en">Out of Frame</sub-title>
+    <desc lang="en">Seventeen-year-old Maja Kuczyńska is already more comfortable in the air than many career skydivers. Seventeen-year-old Maja Kuczyńska is already more comfortable dancing through the air than many longtime skydivers, but the first-ever Junior Indoor Skydiving World Champion has never actually jumped out of an aeroplane.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191017013000 +0000" stop="20191017013800 +0000" channel="RedBull TV">
+    <title lang="en">Girl in the Boys Club</title>
+    <sub-title lang="en">Miles Above</sub-title>
+    <desc lang="en">Amy Chmelecki shows what it takes to be the first – and only – female member of the Red Bull Air Force. As the first and only female member of the Red Bull Air Force, Amy Chmelecki brings unparalleled skill and a fierce competitive streak to every dimension of the sport. Here, she looks back on her path from novice to pro.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
