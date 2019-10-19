@@ -5,46 +5,6 @@
     <icon src="https://archive.org/download/RedBullTVLogo/Red-Bull-TV-Logo.png" />
     <url>http://www.redbull.tv</url>
   </channel>
-  <programme start="20191019155400 +0000" stop="20191019160100 +0000" channel="RedBull TV">
-    <title lang="en">Turkish delights</title>
-    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
-    <desc lang="en">With more time to explore and great spots to skate, Turkey’s Izmir and Istanbul are the trip’s best stops yet. Turkey provides the trip’s best sessions so far, with more time to explore. Izmir offers some proper transition skating at the local park, and two days in Istanbul give the crew a chance to look for bigger street spots.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191019160100 +0000" stop="20191019160800 +0000" channel="RedBull TV">
-    <title lang="en">To infinity and beyond</title>
-    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
-    <desc lang="en">The final leg sees the crew in Bulgaria and Greece. On the water, the ship’s deck is a skate spot with a view. On the last leg of the cruise, the skateboarding crew lands in Bulgaria to the warmest (albeit wettest) reception of the tour. Then it’s back to Greece, where the boys go to work on Athens’ marble with some eye-catching tricks.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191019160800 +0000" stop="20191019162300 +0000" channel="RedBull TV">
-    <title lang="en">Cooking at the Catalan Grand Prix</title>
-    <sub-title lang="en">MotoGP™: Inside Pass</sub-title>
-    <desc lang="en">Host Vanessa Guerra is in Barcelona for Catalan GP, chatting with drivers on the track and in the kitchen. In Barcelona for the Catalan GP Vanessa Guerra challenges Pol Espargaró and Johann Zarco to a cooking challenge, then heads to the track to chat with drivers, and Marc Márquez show us his new livery.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191019162300 +0000" stop="20191019164800 +0000" channel="RedBull TV">
-    <title lang="en">B-Boys on the Road</title>
-    <sub-title lang="en">Break'n Reality</sub-title>
-    <desc lang="en">Break'n Reality S1E2. Roxrite attends a BC One All-Stars workshop and makes a big decision about his immediate future. Lilou travels from France to visit his extended family in Algeria. Neguin heads home to Brazil but still struggles with his brother's death last year.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
   <programme start="20191019164800 +0000" stop="20191019171300 +0000" channel="RedBull TV">
     <title lang="en">Viking Velocity</title>
     <sub-title lang="en">Ultimate Rush</sub-title>
@@ -191,7 +151,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191019232700 +0000" stop="20191019155400 +0000" channel="RedBull TV">
+  <programme start="20191019232700 +0000" stop="20191020001600 +0000" channel="RedBull TV">
     <title lang="en">The making of Wibmer’s Law</title>
     <sub-title lang="en">Wibmer's Law</sub-title>
     <desc lang="en">See how Fabio Wibmer and his crew film sequences that should end in a crash but turn into outstanding tricks. Unlike Murphy's Law, Fabio Wibmer's Law says: if it's possible for something to go wrong, it won’t go wrong. See how he and a film crew made Wibmer's Law a reality.</desc>
@@ -200,42 +160,42 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191019155400 +0000" stop="20191019160100 +0000" channel="RedBull TV">
-    <title lang="en">Turkish delights</title>
-    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
-    <desc lang="en">With more time to explore and great spots to skate, Turkey’s Izmir and Istanbul are the trip’s best stops yet. Turkey provides the trip’s best sessions so far, with more time to explore. Izmir offers some proper transition skating at the local park, and two days in Istanbul give the crew a chance to look for bigger street spots.</desc>
+  <programme start="20191020001600 +0000" stop="20191020003200 +0000" channel="RedBull TV">
+    <title lang="en">Maja Kuczyńska</title>
+    <sub-title lang="en">Out of Frame</sub-title>
+    <desc lang="en">Seventeen-year-old Maja Kuczyńska is already more comfortable in the air than many career skydivers. Seventeen-year-old Maja Kuczyńska is already more comfortable dancing through the air than many longtime skydivers, but the first-ever Junior Indoor Skydiving World Champion has never actually jumped out of an aeroplane.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
+    <episode-num system="onscreen">S2 E1</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191019160100 +0000" stop="20191019160800 +0000" channel="RedBull TV">
-    <title lang="en">To infinity and beyond</title>
-    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
-    <desc lang="en">The final leg sees the crew in Bulgaria and Greece. On the water, the ship’s deck is a skate spot with a view. On the last leg of the cruise, the skateboarding crew lands in Bulgaria to the warmest (albeit wettest) reception of the tour. Then it’s back to Greece, where the boys go to work on Athens’ marble with some eye-catching tricks.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191019160800 +0000" stop="20191019162300 +0000" channel="RedBull TV">
-    <title lang="en">Cooking at the Catalan Grand Prix</title>
-    <sub-title lang="en">MotoGP™: Inside Pass</sub-title>
-    <desc lang="en">Host Vanessa Guerra is in Barcelona for Catalan GP, chatting with drivers on the track and in the kitchen. In Barcelona for the Catalan GP Vanessa Guerra challenges Pol Espargaró and Johann Zarco to a cooking challenge, then heads to the track to chat with drivers, and Marc Márquez show us his new livery.</desc>
+  <programme start="20191020003200 +0000" stop="20191020004000 +0000" channel="RedBull TV">
+    <title lang="en">Girl in the Boys Club</title>
+    <sub-title lang="en">Miles Above</sub-title>
+    <desc lang="en">Amy Chmelecki shows what it takes to be the first – and only – female member of the Red Bull Air Force. As the first and only female member of the Red Bull Air Force, Amy Chmelecki brings unparalleled skill and a fierce competitive streak to every dimension of the sport. Here, she looks back on her path from novice to pro.</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S1 E7</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191019162300 +0000" stop="20191019164800 +0000" channel="RedBull TV">
-    <title lang="en">B-Boys on the Road</title>
-    <sub-title lang="en">Break'n Reality</sub-title>
-    <desc lang="en">Break'n Reality S1E2. Roxrite attends a BC One All-Stars workshop and makes a big decision about his immediate future. Lilou travels from France to visit his extended family in Algeria. Neguin heads home to Brazil but still struggles with his brother's death last year.</desc>
+  <programme start="20191020004000 +0000" stop="20191020004800 +0000" channel="RedBull TV">
+    <title lang="en">To Modify on the Fly</title>
+    <sub-title lang="en">Miles Above</sub-title>
+    <desc lang="en">In Las Vegas, the skydivers show the meticulous planning and last-second decisions that go into a demo jump. The Red Bull Air Force provides a behind-the-scenes look at the meticulous planning and last-second decision-making that goes into a set of demo jumps at some of Las Vegas’ most iconic landmarks.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191020004800 +0000" stop="20191019164800 +0000" channel="RedBull TV">
+    <title lang="en">Ice Revolution</title>
+    <sub-title lang="en">Reel Rock</sub-title>
+    <desc lang="en">A pair of veteran ice climbers find the ultimate challenge in a massive cave in British Columbia, Canada. Canadian Will Gadd and Brit Tim Emmett discover a whole new universe of ice climbing at Helmcken Falls, Canada, where a 500ft waterfall sprays the underside of a gargantuan cave with fantastical, barely climbable ice formations.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
@@ -391,6 +351,46 @@
     <sub-title lang="en">Wibmer's Law</sub-title>
     <desc lang="en">See how Fabio Wibmer and his crew film sequences that should end in a crash but turn into outstanding tricks. Unlike Murphy's Law, Fabio Wibmer's Law says: if it's possible for something to go wrong, it won’t go wrong. See how he and a film crew made Wibmer's Law a reality.</desc>
     <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191020001600 +0000" stop="20191020003200 +0000" channel="RedBull TV">
+    <title lang="en">Maja Kuczyńska</title>
+    <sub-title lang="en">Out of Frame</sub-title>
+    <desc lang="en">Seventeen-year-old Maja Kuczyńska is already more comfortable in the air than many career skydivers. Seventeen-year-old Maja Kuczyńska is already more comfortable dancing through the air than many longtime skydivers, but the first-ever Junior Indoor Skydiving World Champion has never actually jumped out of an aeroplane.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191020003200 +0000" stop="20191020004000 +0000" channel="RedBull TV">
+    <title lang="en">Girl in the Boys Club</title>
+    <sub-title lang="en">Miles Above</sub-title>
+    <desc lang="en">Amy Chmelecki shows what it takes to be the first – and only – female member of the Red Bull Air Force. As the first and only female member of the Red Bull Air Force, Amy Chmelecki brings unparalleled skill and a fierce competitive streak to every dimension of the sport. Here, she looks back on her path from novice to pro.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191020004000 +0000" stop="20191020004800 +0000" channel="RedBull TV">
+    <title lang="en">To Modify on the Fly</title>
+    <sub-title lang="en">Miles Above</sub-title>
+    <desc lang="en">In Las Vegas, the skydivers show the meticulous planning and last-second decisions that go into a demo jump. The Red Bull Air Force provides a behind-the-scenes look at the meticulous planning and last-second decision-making that goes into a set of demo jumps at some of Las Vegas’ most iconic landmarks.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191020004800 +0000" stop="20191020011000 +0000" channel="RedBull TV">
+    <title lang="en">Ice Revolution</title>
+    <sub-title lang="en">Reel Rock</sub-title>
+    <desc lang="en">A pair of veteran ice climbers find the ultimate challenge in a massive cave in British Columbia, Canada. Canadian Will Gadd and Brit Tim Emmett discover a whole new universe of ice climbing at Helmcken Falls, Canada, where a 500ft waterfall sprays the underside of a gargantuan cave with fantastical, barely climbable ice formations.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
