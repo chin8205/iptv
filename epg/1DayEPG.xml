@@ -5,123 +5,132 @@
     <icon src="https://archive.org/download/RedBullTVLogo/Red-Bull-TV-Logo.png" />
     <url>http://www.redbull.tv</url>
   </channel>
-  <programme start="20191016161400 +0000" stop="20191016163000 +0000" channel="RedBull TV">
-    <title lang="en">Maja Kuczyńska</title>
-    <sub-title lang="en">Out of Frame</sub-title>
-    <desc lang="en">Seventeen-year-old Maja Kuczyńska is already more comfortable in the air than many career skydivers. Seventeen-year-old Maja Kuczyńska is already more comfortable dancing through the air than many longtime skydivers, but the first-ever Junior Indoor Skydiving World Champion has never actually jumped out of an aeroplane.</desc>
+  <programme start="20191019034300 +0000" stop="20191019040200 +0000" channel="RedBull TV">
+    <title lang="en">Rob Meets Brook Macdonald</title>
+    <sub-title lang="en">Rob Meets</sub-title>
+    <desc lang="en">Rob Warner travels all the way to New Zealand to meet with Brook Macdonald. Rob Warner travels all the way to New Zealand to meet with Brook Macdonald and the pair enjoy a boat ride. Get a look into Macdonald's home life and what he likes to do in his free time.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S2 E1</episode-num>
+    <episode-num system="onscreen">S3 E5</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191016163000 +0000" stop="20191016163800 +0000" channel="RedBull TV">
-    <title lang="en">Girl in the Boys Club</title>
-    <sub-title lang="en">Miles Above</sub-title>
-    <desc lang="en">Amy Chmelecki shows what it takes to be the first – and only – female member of the Red Bull Air Force. As the first and only female member of the Red Bull Air Force, Amy Chmelecki brings unparalleled skill and a fierce competitive streak to every dimension of the sport. Here, she looks back on her path from novice to pro.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191016163800 +0000" stop="20191016164600 +0000" channel="RedBull TV">
-    <title lang="en">To Modify on the Fly</title>
-    <sub-title lang="en">Miles Above</sub-title>
-    <desc lang="en">In Las Vegas, the skydivers show the meticulous planning and last-second decisions that go into a demo jump. The Red Bull Air Force provides a behind-the-scenes look at the meticulous planning and last-second decision-making that goes into a set of demo jumps at some of Las Vegas’ most iconic landmarks.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191016164600 +0000" stop="20191016170800 +0000" channel="RedBull TV">
-    <title lang="en">Ice Revolution</title>
-    <sub-title lang="en">Reel Rock</sub-title>
-    <desc lang="en">A pair of veteran ice climbers find the ultimate challenge in a massive cave in British Columbia, Canada. Canadian Will Gadd and Brit Tim Emmett discover a whole new universe of ice climbing at Helmcken Falls, Canada, where a 500ft waterfall sprays the underside of a gargantuan cave with fantastical, barely climbable ice formations.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191016170800 +0000" stop="20191016171300 +0000" channel="RedBull TV">
-    <title lang="en">Wee Day Out</title>
-    <sub-title lang="en">Danny MacAskill in Scotland</sub-title>
-    <desc lang="en">Danny MacAskill tears around rural Scotland, setting out to capture the simple fun of a ride in the country. A relaxing day out in the Scottish countryside means something different for Danny MacAskill than it does for most people. With his signature trial riding style, Danny makes his way over hay bales, through forests and all along the rolling hills.</desc>
+  <programme start="20191019040200 +0000" stop="20191019042800 +0000" channel="RedBull TV">
+    <title lang="en">Not Bad</title>
+    <sub-title lang="en">30 days of mountain bike tomfoolery</sub-title>
+    <desc lang="en">An FMB dream team chronicles a 30-day saga of mountain bike shredding and tomfoolery in New Zealand. The best riders in the game travel to New Zealand for 30 days of epic mountain bike tomfoolery. The dream team going out to go big is Brett Rheeder, Brandon Semenuk, Brook Macdonald, Cam McCaul, Andrew Shandro, Ryan Howard and René Wildhaber.</desc>
     <category lang="en">Sports</category>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191016171300 +0000" stop="20191016172500 +0000" channel="RedBull TV">
-    <title lang="en">Wakeboard in Patagonia</title>
-    <sub-title lang="en">Parks Bonifay and crew ride glacial waters</sub-title>
-    <desc lang="en">Four wakeboarders set out to make history in an attempt to ride the glacier-filled waters of Patagonia. No one has ridden the glacier-filled waters of Patagonia on a wakeboard. Parks Bonifay, Adam Errington, Cutun Martin and Tomas Karagozian head to Argentina to attempt the feat, which, if successful, will write a new chapter in wakeboard history.</desc>
+  <programme start="20191019042800 +0000" stop="20191019044000 +0000" channel="RedBull TV">
+    <title lang="en">TJ Rogers</title>
+    <sub-title lang="en">Ride to the Roots</sub-title>
+    <desc lang="en">From foster care to a first-class skateboarder, TJ Rogers heads home to retrace his turbulent formative years. Now a world-travelling skateboarder, TJ Rogers didn't always have it so easy. TJ returns to his hometown of Whitby, Canada, to visit the people and places that shaped his life during his troubled and turbulent formative years.</desc>
     <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191016172500 +0000" stop="20191016182000 +0000" channel="RedBull TV">
-    <title lang="en">The Battle of Cape Fear</title>
-    <sub-title lang="en">A surfing documentary</sub-title>
-    <desc lang="en">The world's elite big wave surfers gather to tackle the fierce waves at the daunting Cape Fear event. The world's elite big wave surfers gather to tackle the slabs at Red Bull Cape Fear in Australia, a potentially lethal break. Behind-the-scenes footage reveals just how complicated it is to coordinate a groundbreaking surf competition.</desc>
+  <programme start="20191019044000 +0000" stop="20191019044600 +0000" channel="RedBull TV">
+    <title lang="en">Welcome aboard</title>
+    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
+    <desc lang="en">The skateboarding crew check out the cruise ship and rip around some historic streets of Italy and Greece. The first leg of the Skate Cruise sets off from Rome and travels to Savona and Mykonos. With just hours to spend at each port, the sessions are fast paced and fully improvisational. There's no time to relax when you're a skateboarding tourist.</desc>
     <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191016182000 +0000" stop="20191016190600 +0000" channel="RedBull TV">
-    <title lang="en">Final Preparations</title>
-    <sub-title lang="en">Driving Dirty</sub-title>
-    <desc lang="en">With just 16 days left until The Baja 1000, the teams go through their numerous final preparations. With the start of the Baja 1000 just 16 days away, the teams go through their numerous final preparations. Race qualification, equipment readiness, sponsorship deals, must all be taken care of, not to mention time for mental preparation.</desc>
+  <programme start="20191019044600 +0000" stop="20191019045300 +0000" channel="RedBull TV">
+    <title lang="en">Turkish delights</title>
+    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
+    <desc lang="en">With more time to explore and great spots to skate, Turkey’s Izmir and Istanbul are the trip’s best stops yet. Turkey provides the trip’s best sessions so far, with more time to explore. Izmir offers some proper transition skating at the local park, and two days in Istanbul give the crew a chance to look for bigger street spots.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191019045300 +0000" stop="20191019045900 +0000" channel="RedBull TV">
+    <title lang="en">To infinity and beyond</title>
+    <sub-title lang="en">The Mediterranean Skateboard Cruise</sub-title>
+    <desc lang="en">The final leg sees the crew in Bulgaria and Greece. On the water, the ship’s deck is a skate spot with a view. On the last leg of the cruise, the skateboarding crew lands in Bulgaria to the warmest (albeit wettest) reception of the tour. Then it’s back to Greece, where the boys go to work on Athens’ marble with some eye-catching tricks.</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191016190600 +0000" stop="20191016191500 +0000" channel="RedBull TV">
-    <title lang="en">Taking care of business</title>
-    <sub-title lang="en">Max Verstappen: The Next Generation</sub-title>
-    <desc lang="en">Before he can move to the next level, Max must finish the last two races of the F3 championship. Before he can move to the next level, Max must finish the last two F3 championship races. Under the gaze of his parents and ever-increasing media attention, Max races with the same team that launched his father to F1 more than 20 years earlier.</desc>
+  <programme start="20191019045900 +0000" stop="20191019055300 +0000" channel="RedBull TV">
+    <title lang="en">VMax: No Straight Line</title>
+    <sub-title lang="en">Beating the mountain bike speed record, again</sub-title>
+    <desc lang="en">Max Stöckl's quest to be the fastest man on a mountain bike takes him from Austria to the mountains of Chile. Markus 'Max' Stöckl has been setting speed downhill mountain bike records for over 20 years. Now, in his endless desire to go faster, he attempts to break his own World Record of 164.95kph on a desolate peak in Chile's Atacama Desert.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191019055300 +0000" stop="20191019060900 +0000" channel="RedBull TV">
+    <title lang="en">Perfect Space</title>
+    <sub-title lang="en">MacAskill's Imaginate</sub-title>
+    <desc lang="en">Cyclist Danny MacAskill carries the Olympic Torch in Glasgow, Scotland, and searches for a film location. It's a once-in-a-lifetime honour for Danny MacAskill as he rides the Olympic Torch through the packed streets of Glasgow, Scotland. Work of his film project goes on with the search for a location yielding a surprisingly perfect space.</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="US">
-      <value>UR</value>
-    </rating>
-  </programme>
-  <programme start="20191016191500 +0000" stop="20191016200000 +0000" channel="RedBull TV">
-    <title lang="en">Mongolian eagle hunter</title>
-    <sub-title lang="en">Breaking the Day</sub-title>
-    <desc lang="en">Sailau is one of the last Mongolian eagle hunters and must try and pass on his skill for it to survive. Sailau is one of the last Mongolian eagle hunters, a proud group of people who spend years bonding with their birds. But at 66 years old, Sailau must pass his knowledge on to the next generation, or this tradition may be lost forever.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191016200000 +0000" stop="20191016201200 +0000" channel="RedBull TV">
-    <title lang="en">Skin in the Game</title>
-    <sub-title lang="en">On Track</sub-title>
-    <desc lang="en">Pro racers are fully committed to competition, but injury and equipment failure can derail anyone's dreams. Psychology, fitness, and technology are the holy trinity of mountain biking. Pros with factory support get a huge advantage in all three categories, but the unpredictable inevitability of injuries and gear failure can wreck even the most blessed.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S4 E3</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191016201200 +0000" stop="20191016204600 +0000" channel="RedBull TV">
-    <title lang="en">Method Movie 3</title>
-    <sub-title lang="en">True to the core</sub-title>
-    <desc lang="en">The final film of the Method Movie trilogy is a visually stunning snowboarding romp in the pow. Storied snowboard publication Method Magazine returns with the final film of the Method Movie triad, a globetrotting collection of insane snowboarding and good times that, once again, stays a bit weirder than the rest.</desc>
+  <programme start="20191019060900 +0000" stop="20191019061400 +0000" channel="RedBull TV">
+    <title lang="en">Dropping in on Dubai</title>
+    <sub-title lang="en">Kriss Kyle rides his BMX off a helicopter</sub-title>
+    <desc lang="en">Watch Kriss Kyle jump from a helicopter onto the roof of Burj Al Arab in Dubai – on his BMX bike. Despite a fear of heights Kriss Kyle jumps from a helicopter onto the roof of Burj Al Arab Jumeirah hotel in Dubai on his BMX bike. He then roams around as if it's a BMX playground made just for him.</desc>
     <category lang="en">Sports</category>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191016204600 +0000" stop="20191016210100 +0000" channel="RedBull TV">
+  <programme start="20191019062400 +0000" stop="20191019063100 +0000" channel="RedBull TV">
+    <title lang="en">Madden Lake Mayhem</title>
+    <sub-title lang="en">Wakecation: Panama</sub-title>
+    <desc lang="en">Parks Bonifay and crew head to Madden Lake for a glassy wake session in the middle of the Panamanian jungle. Parks Bonifay and crew head to Madden Lake for a glassy wake session in the middle of the Panamanian jungle. The remote sanctuary hosts some of the most pristine conditions of the trip, making way for an epic boat shredding session.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191019063100 +0000" stop="20191019064200 +0000" channel="RedBull TV">
+    <title lang="en">Towing-In the Perfect Bay</title>
+    <sub-title lang="en">Wakecation: Panama</sub-title>
+    <desc lang="en">On the last day of the trip, the guys head to Portobelo and explore the historic ruins of the Caribbean coast. On the last leg of the trip, the guys head to Portobelo and explore the historic ruins of the Caribbean coast. After spending a day scouting some tow-in surfing locations, the crew finds the perfect bay to session out their vacation.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191019064200 +0000" stop="20191019074800 +0000" channel="RedBull TV">
+    <title lang="en">Etnies: Album\t</title>
+    <sub-title lang="en">Touring five continents for skate spots</sub-title>
+    <desc lang="en">A passionate tribe of skateboarders search cities on five continents in a quest to find new skate spots. An eclectic tribe of skateboarders scour city streets across five continents in a quest to find new skate spots. This film by Etnies is an album of moments from the years that went into the project.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191019074800 +0000" stop="20191019075700 +0000" channel="RedBull TV">
+    <title lang="en">Top action from Victoria</title>
+    <sub-title lang="en">Red Bull Skate of Origin 2019</sub-title>
+    <desc lang="en">Watch the wild adventures going down in Victoria, Australia, for Red Bull Skate of Origin 2019. Watch the wild adventures going down in Victoria, Australia, featuring Jack Kirk, Callum Paul, Ricky Glaser and more for Red Bull Skate of Origin 2019.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191019075700 +0000" stop="20191019081200 +0000" channel="RedBull TV">
     <title lang="en">Cooking at the Catalan Grand Prix</title>
     <sub-title lang="en">MotoGP™: Inside Pass</sub-title>
     <desc lang="en">Host Vanessa Guerra is in Barcelona for Catalan GP, chatting with drivers on the track and in the kitchen. In Barcelona for the Catalan GP Vanessa Guerra challenges Pol Espargaró and Johann Zarco to a cooking challenge, then heads to the track to chat with drivers, and Marc Márquez show us his new livery.</desc>
@@ -131,258 +140,59 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191016221800 +0000" stop="20191016231300 +0000" channel="RedBull TV">
-    <title lang="en">The Resilient</title>
-    <sub-title lang="en">Visions of Greatness</sub-title>
-    <desc lang="en">The chasing of a dream is fraught with failure, but those who achieve greatness approach failure differently. Those who can weather the many defeats on the road to success are the ones who ultimately achieve their dreams. Craig Venter, the man who mapped the human genome, and skateboard pioneer Stacy Peralta show how they persisted in the face of failure.</desc>
+  <programme start="20191019081200 +0000" stop="20191019083700 +0000" channel="RedBull TV">
+    <title lang="en">B-Boys on the Road</title>
+    <sub-title lang="en">Break'n Reality</sub-title>
+    <desc lang="en">Break'n Reality S1E2. Roxrite attends a BC One All-Stars workshop and makes a big decision about his immediate future. Lilou travels from France to visit his extended family in Algeria. Neguin heads home to Brazil but still struggles with his brother's death last year.</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
+    <episode-num system="onscreen">S1 E2</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191016231300 +0000" stop="20191017001000 +0000" channel="RedBull TV">
-    <title lang="en">Surfers' Blood</title>
-    <desc lang="en">A film by Patrick Trefz. Renowned surf photographer and filmmaker Patrick Trefz explores the essence of the sport he loves by profiling those who inspire him. From Basque Country, Spain, to Silicon Valley, USA, these unique people are united by a deep connection to the sea.</desc>
+  <programme start="20191019083700 +0000" stop="20191019090200 +0000" channel="RedBull TV">
+    <title lang="en">Viking Velocity</title>
+    <sub-title lang="en">Ultimate Rush</sub-title>
+    <desc lang="en">Downhill racer Erik Lundberg has a gravity-fuelled dream to break the world skateboard speed record. To break the current world speed record on a skateboard, downhill racer Erik Lundberg will have to go faster than 129.95kph (80.7mph). It's a feat that will make him rethink his motivations, his equipment and his commitment to his goal.</desc>
     <category lang="en">Sports</category>
+    <episode-num system="onscreen">S5 E1</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191017001000 +0000" stop="20191017003800 +0000" channel="RedBull TV">
-    <title lang="en">Tim Don</title>
-    <desc lang="en">The Man with the Halo. While cycling in Kona, Hawaii as part of his final prep for IRONMAN, Tim Don was hit by a truck. Scans showed Tim had broken his neck. It was the end of Tim’s hopes of competing at the World Championship, but thankfully it was not the end of Tim.</desc>
+  <programme start="20191019090200 +0000" stop="20191019090600 +0000" channel="RedBull TV">
+    <title lang="en">Freerunning in India</title>
+    <sub-title lang="en">Travel Story</sub-title>
+    <desc lang="en">Ryan visits India for the first time and has some fun learning a new skill — Bollywood dancing. Ryan visits India for the first time and has some fun learning a new skill — Bollywood dancing. After mingling with the locals and jumping from city rooftops, Ryan does some parkour in front of the breathtaking Taj Mahal.</desc>
     <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191017003800 +0000" stop="20191017010200 +0000" channel="RedBull TV">
-    <title lang="en">NYC Freestyle</title>
-    <sub-title lang="en">Way Past Midnight</sub-title>
-    <desc lang="en">Music, art, and community: the elements of hip-hop culture come together on a 'freestyled' night in New York. Baxter and Amber are a couple in New York City out on the town without a plan. They freestyle their way through a night filled with all the elements of the hip-hop scene — music, art, and community — and show the upside of being up for anything.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191017010200 +0000" stop="20191017011400 +0000" channel="RedBull TV">
-    <title lang="en">BMX Nigeria</title>
-    <sub-title lang="en">A ray of light and radness</sub-title>
-    <desc lang="en">This is the inspiring story of two pioneers from the nascent BMX scene in Lagos, Nigeria. This is the inspiring story of two pioneers from the nascent BMX scene in Lagos, Nigeria. Get to know how they got their start in riding and find out how the small crew have forged a whole new frontier in BMX.</desc>
+  <programme start="20191019090600 +0000" stop="20191019090900 +0000" channel="RedBull TV">
+    <title lang="en">AWOLNATION – Kill Your Heroes</title>
+    <sub-title lang="en">Official music video from Red Bull Records</sub-title>
+    <desc lang="en">A group of kids are inspired to outrageous shenanigans by a group of bizarro-world Mister Rogers lookalikes. From their album Megalithic Symphony, AWOLNATION dresses up as a group of foul-mouthed, bizarro-world Mister Rogers lookalikes called The Milkmen and inspires a group of '60s children to rock-and-roll shenanigans.</desc>
     <category lang="en">Sports</category>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191017011400 +0000" stop="20191017013000 +0000" channel="RedBull TV">
-    <title lang="en">Maja Kuczyńska</title>
-    <sub-title lang="en">Out of Frame</sub-title>
-    <desc lang="en">Seventeen-year-old Maja Kuczyńska is already more comfortable in the air than many career skydivers. Seventeen-year-old Maja Kuczyńska is already more comfortable dancing through the air than many longtime skydivers, but the first-ever Junior Indoor Skydiving World Champion has never actually jumped out of an aeroplane.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191017013000 +0000" stop="20191016161400 +0000" channel="RedBull TV">
-    <title lang="en">Girl in the Boys Club</title>
-    <sub-title lang="en">Miles Above</sub-title>
-    <desc lang="en">Amy Chmelecki shows what it takes to be the first – and only – female member of the Red Bull Air Force. As the first and only female member of the Red Bull Air Force, Amy Chmelecki brings unparalleled skill and a fierce competitive streak to every dimension of the sport. Here, she looks back on her path from novice to pro.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191016161400 +0000" stop="20191016163000 +0000" channel="RedBull TV">
-    <title lang="en">Maja Kuczyńska</title>
-    <sub-title lang="en">Out of Frame</sub-title>
-    <desc lang="en">Seventeen-year-old Maja Kuczyńska is already more comfortable in the air than many career skydivers. Seventeen-year-old Maja Kuczyńska is already more comfortable dancing through the air than many longtime skydivers, but the first-ever Junior Indoor Skydiving World Champion has never actually jumped out of an aeroplane.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191016163000 +0000" stop="20191016163800 +0000" channel="RedBull TV">
-    <title lang="en">Girl in the Boys Club</title>
-    <sub-title lang="en">Miles Above</sub-title>
-    <desc lang="en">Amy Chmelecki shows what it takes to be the first – and only – female member of the Red Bull Air Force. As the first and only female member of the Red Bull Air Force, Amy Chmelecki brings unparalleled skill and a fierce competitive streak to every dimension of the sport. Here, she looks back on her path from novice to pro.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191016163800 +0000" stop="20191016164600 +0000" channel="RedBull TV">
-    <title lang="en">To Modify on the Fly</title>
-    <sub-title lang="en">Miles Above</sub-title>
-    <desc lang="en">In Las Vegas, the skydivers show the meticulous planning and last-second decisions that go into a demo jump. The Red Bull Air Force provides a behind-the-scenes look at the meticulous planning and last-second decision-making that goes into a set of demo jumps at some of Las Vegas’ most iconic landmarks.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191016164600 +0000" stop="20191016170800 +0000" channel="RedBull TV">
-    <title lang="en">Ice Revolution</title>
-    <sub-title lang="en">Reel Rock</sub-title>
-    <desc lang="en">A pair of veteran ice climbers find the ultimate challenge in a massive cave in British Columbia, Canada. Canadian Will Gadd and Brit Tim Emmett discover a whole new universe of ice climbing at Helmcken Falls, Canada, where a 500ft waterfall sprays the underside of a gargantuan cave with fantastical, barely climbable ice formations.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191016170800 +0000" stop="20191016171300 +0000" channel="RedBull TV">
-    <title lang="en">Wee Day Out</title>
-    <sub-title lang="en">Danny MacAskill in Scotland</sub-title>
-    <desc lang="en">Danny MacAskill tears around rural Scotland, setting out to capture the simple fun of a ride in the country. A relaxing day out in the Scottish countryside means something different for Danny MacAskill than it does for most people. With his signature trial riding style, Danny makes his way over hay bales, through forests and all along the rolling hills.</desc>
+  <programme start="20191019090900 +0000" stop="20191019104800 +0000" channel="RedBull TV">
+    <title lang="en">Roraima</title>
+    <sub-title lang="en">The climb of a lifetime</sub-title>
+    <desc lang="en">A trio of climbers launch an expedition to Mount Roraima, a South American peak shrouded in legend. Climbing partners Kurt Albert and Holger Heuber don't know what they're in for when they join competitive climbing superstar Stefan Glowacz for an expedition to Mount Roraima, a steep-walled South American peak shrouded in both rainforest and legend.</desc>
     <category lang="en">Sports</category>
     <rating system="US">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20191016171300 +0000" stop="20191016172500 +0000" channel="RedBull TV">
-    <title lang="en">Wakeboard in Patagonia</title>
-    <sub-title lang="en">Parks Bonifay and crew ride glacial waters</sub-title>
-    <desc lang="en">Four wakeboarders set out to make history in an attempt to ride the glacier-filled waters of Patagonia. No one has ridden the glacier-filled waters of Patagonia on a wakeboard. Parks Bonifay, Adam Errington, Cutun Martin and Tomas Karagozian head to Argentina to attempt the feat, which, if successful, will write a new chapter in wakeboard history.</desc>
+  <programme start="20191019121500 +0000" stop="20191019124000 +0000" channel="RedBull TV">
+    <title lang="en">Nino: the movie</title>
+    <sub-title lang="en">A mountain biker’s quest for glory</sub-title>
+    <desc lang="en">Follow Nino Schurter's story from his childhood in a remote Swiss mountain village to Olympic victory. Nino Schurter is one of the greatest mountain bikers in history. Follow him from his childhood in a remote Swiss mountain village to his greatest victory at the 2016 Summer Olympics in Rio de Janeiro.</desc>
     <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191016172500 +0000" stop="20191016182000 +0000" channel="RedBull TV">
-    <title lang="en">The Battle of Cape Fear</title>
-    <sub-title lang="en">A surfing documentary</sub-title>
-    <desc lang="en">The world's elite big wave surfers gather to tackle the fierce waves at the daunting Cape Fear event. The world's elite big wave surfers gather to tackle the slabs at Red Bull Cape Fear in Australia, a potentially lethal break. Behind-the-scenes footage reveals just how complicated it is to coordinate a groundbreaking surf competition.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191016182000 +0000" stop="20191016190600 +0000" channel="RedBull TV">
-    <title lang="en">Final Preparations</title>
-    <sub-title lang="en">Driving Dirty</sub-title>
-    <desc lang="en">With just 16 days left until The Baja 1000, the teams go through their numerous final preparations. With the start of the Baja 1000 just 16 days away, the teams go through their numerous final preparations. Race qualification, equipment readiness, sponsorship deals, must all be taken care of, not to mention time for mental preparation.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191016190600 +0000" stop="20191016191500 +0000" channel="RedBull TV">
-    <title lang="en">Taking care of business</title>
-    <sub-title lang="en">Max Verstappen: The Next Generation</sub-title>
-    <desc lang="en">Before he can move to the next level, Max must finish the last two races of the F3 championship. Before he can move to the next level, Max must finish the last two F3 championship races. Under the gaze of his parents and ever-increasing media attention, Max races with the same team that launched his father to F1 more than 20 years earlier.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="US">
-      <value>UR</value>
-    </rating>
-  </programme>
-  <programme start="20191016191500 +0000" stop="20191016200000 +0000" channel="RedBull TV">
-    <title lang="en">Mongolian eagle hunter</title>
-    <sub-title lang="en">Breaking the Day</sub-title>
-    <desc lang="en">Sailau is one of the last Mongolian eagle hunters and must try and pass on his skill for it to survive. Sailau is one of the last Mongolian eagle hunters, a proud group of people who spend years bonding with their birds. But at 66 years old, Sailau must pass his knowledge on to the next generation, or this tradition may be lost forever.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191016200000 +0000" stop="20191016201200 +0000" channel="RedBull TV">
-    <title lang="en">Skin in the Game</title>
-    <sub-title lang="en">On Track</sub-title>
-    <desc lang="en">Pro racers are fully committed to competition, but injury and equipment failure can derail anyone's dreams. Psychology, fitness, and technology are the holy trinity of mountain biking. Pros with factory support get a huge advantage in all three categories, but the unpredictable inevitability of injuries and gear failure can wreck even the most blessed.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S4 E3</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191016201200 +0000" stop="20191016204600 +0000" channel="RedBull TV">
-    <title lang="en">Method Movie 3</title>
-    <sub-title lang="en">True to the core</sub-title>
-    <desc lang="en">The final film of the Method Movie trilogy is a visually stunning snowboarding romp in the pow. Storied snowboard publication Method Magazine returns with the final film of the Method Movie triad, a globetrotting collection of insane snowboarding and good times that, once again, stays a bit weirder than the rest.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191016204600 +0000" stop="20191016210100 +0000" channel="RedBull TV">
-    <title lang="en">Cooking at the Catalan Grand Prix</title>
-    <sub-title lang="en">MotoGP™: Inside Pass</sub-title>
-    <desc lang="en">Host Vanessa Guerra is in Barcelona for Catalan GP, chatting with drivers on the track and in the kitchen. In Barcelona for the Catalan GP Vanessa Guerra challenges Pol Espargaró and Johann Zarco to a cooking challenge, then heads to the track to chat with drivers, and Marc Márquez show us his new livery.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191016221800 +0000" stop="20191016231300 +0000" channel="RedBull TV">
-    <title lang="en">The Resilient</title>
-    <sub-title lang="en">Visions of Greatness</sub-title>
-    <desc lang="en">The chasing of a dream is fraught with failure, but those who achieve greatness approach failure differently. Those who can weather the many defeats on the road to success are the ones who ultimately achieve their dreams. Craig Venter, the man who mapped the human genome, and skateboard pioneer Stacy Peralta show how they persisted in the face of failure.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191016231300 +0000" stop="20191017001000 +0000" channel="RedBull TV">
-    <title lang="en">Surfers' Blood</title>
-    <desc lang="en">A film by Patrick Trefz. Renowned surf photographer and filmmaker Patrick Trefz explores the essence of the sport he loves by profiling those who inspire him. From Basque Country, Spain, to Silicon Valley, USA, these unique people are united by a deep connection to the sea.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191017001000 +0000" stop="20191017003800 +0000" channel="RedBull TV">
-    <title lang="en">Tim Don</title>
-    <desc lang="en">The Man with the Halo. While cycling in Kona, Hawaii as part of his final prep for IRONMAN, Tim Don was hit by a truck. Scans showed Tim had broken his neck. It was the end of Tim’s hopes of competing at the World Championship, but thankfully it was not the end of Tim.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191017003800 +0000" stop="20191017010200 +0000" channel="RedBull TV">
-    <title lang="en">NYC Freestyle</title>
-    <sub-title lang="en">Way Past Midnight</sub-title>
-    <desc lang="en">Music, art, and community: the elements of hip-hop culture come together on a 'freestyled' night in New York. Baxter and Amber are a couple in New York City out on the town without a plan. They freestyle their way through a night filled with all the elements of the hip-hop scene — music, art, and community — and show the upside of being up for anything.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191017010200 +0000" stop="20191017011400 +0000" channel="RedBull TV">
-    <title lang="en">BMX Nigeria</title>
-    <sub-title lang="en">A ray of light and radness</sub-title>
-    <desc lang="en">This is the inspiring story of two pioneers from the nascent BMX scene in Lagos, Nigeria. This is the inspiring story of two pioneers from the nascent BMX scene in Lagos, Nigeria. Get to know how they got their start in riding and find out how the small crew have forged a whole new frontier in BMX.</desc>
-    <category lang="en">Sports</category>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191017011400 +0000" stop="20191017013000 +0000" channel="RedBull TV">
-    <title lang="en">Maja Kuczyńska</title>
-    <sub-title lang="en">Out of Frame</sub-title>
-    <desc lang="en">Seventeen-year-old Maja Kuczyńska is already more comfortable in the air than many career skydivers. Seventeen-year-old Maja Kuczyńska is already more comfortable dancing through the air than many longtime skydivers, but the first-ever Junior Indoor Skydiving World Champion has never actually jumped out of an aeroplane.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20191017013000 +0000" stop="20191017013800 +0000" channel="RedBull TV">
-    <title lang="en">Girl in the Boys Club</title>
-    <sub-title lang="en">Miles Above</sub-title>
-    <desc lang="en">Amy Chmelecki shows what it takes to be the first – and only – female member of the Red Bull Air Force. As the first and only female member of the Red Bull Air Force, Amy Chmelecki brings unparalleled skill and a fierce competitive streak to every dimension of the sport. Here, she looks back on her path from novice to pro.</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S1 E7</episode-num>
     <rating system="US">
       <value>NR</value>
     </rating>
