@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 21/10/2019 15:18:49
+[        ] Job started at 21/10/2019 15:29:32
 [  Debug ] 
 [  Debug ] Running  on: Unix 18.7.0.0
 [  Debug ] Environment: 4.0.30319.42000
@@ -18,7 +18,7 @@
 [  Debug ] Reading config file: my/WebGrab++.config.xml
 [  Info  ] found: my/siteini.user/Malaysia/astro.com.my.ini -- Revision 05
 [  Debug ] xmltv input file - /Users/akmal/Drive/local/iptv/epg/my.xml - found
-[  Debug ] 1599 superfluous shows removed
+[  Debug ] 1848 superfluous shows removed
 [  Info  ] Found existing channel (xmltv_id=TV 1) in the config file
 [  Info  ] Found existing channel (xmltv_id=TV 2) in the config file
 [  Info  ] Found existing channel (xmltv_id=TV 3) in the config file
@@ -68,5 +68,5 @@
 [  Debug ] 1848 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 21/10/2019 15:19:21 done in 31s
+[        ] Job finished at 21/10/2019 15:30:04 done in 32s
 [  Debug ] statistics upload error: The remote server returned an error: (404) Not Found.
