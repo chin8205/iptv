@@ -1,2 +1,5 @@
 *.log.txt
 *.exe
+epgupdater.sh
+sources
+youtube-dl
