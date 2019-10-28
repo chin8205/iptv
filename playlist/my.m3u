@@ -8,16 +8,16 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8|R
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-logo="https://hsytes.github.io/iptv/logos/tv3.png",TV3
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHb3Ql-9Vd9ie4uWKtz4PwKo)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHb3Ql-9Vd9ie4uWKtz4PwKo)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
 #EXTINF:-1 tvg-logo="https://hsytes.github.io/iptv/logos/ntv7.png",NTV7
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfdkt216RS965igtUQmBQqA)/dm/3/x6qp6ou/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfdkt216RS965igtUQmBQqA)/dm/3/x6qp6ou/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
 
 #EXTINF:-1 tvg-logo="https://hsytes.github.io/iptv/logos/8tv.png",8TV
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTptcH-xuYE-mMh1EtthfLQ)/dm/3/x6qud17/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTptcH-xuYE-mMh1EtthfLQ)/dm/3/x6qud17/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
 
 #EXTINF:-1 tvg-logo="https://hsytes.github.io/iptv/logos/tv9.png",TV9
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaIZ6QLnNPcpQX8x0uYl8s8)/dm/3/x6qqja6/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaIZ6QLnNPcpQX8x0uYl8s8)/dm/3/x6qqja6/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
 
 #EXTINF:-1 tvg-logo="https://hsytes.github.io/iptv/logos/okey.png",OKEY
 https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my
@@ -34,7 +34,7 @@ https://rtmonenews.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2096000.
 # Youtube Channels (6 hours token)
 
 #EXTINF:-1 tvg-logo="https://hsytes.github.io/iptv/logos/tvalhijrah.png",TV Alhijrah 
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1572300514/ei/ghK3XaOnF_-n3LUP8o24yAc/ip/202.187.33.174/id/7fdJTlphbCs.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-uphxqvujvh-30a6.googlevideo.com/playlist_type/DVR/initcwndbps/12960/mm/44/mn/sn-uphxqvujvh-30a6/ms/lva/mv/m/mvi/1/pcm2cms/yes/pl/17/dover/11/keepalive/yes/fexp/23842630/mt/1572278847/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_type/sig/ALgxI2wwRQIhAKlflaeBr2JbWF41EKwHLXFCyvqAK3-DLpxWelRzjrdiAiBRMDt5A0mn0K2-UJfE57Qczh18HmrPEj9jaAGi2bwCeg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AHylml4wRQIhAIHMjc6BD5lLVTnnLxb9yaWa1v1L-aMBaxIjQ_bRFUIAAiBkrVSe7CFM_1MMWWH9YLa4HoYNK-EubpvHmTRxAaejTw%3D%3D/playlist/index.m3u8|Referer=https://www.youtube.com
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1572314917/ei/xUq3XZCwFOyT1AauoKvYAQ/ip/202.187.33.174/id/7fdJTlphbCs.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-uphxqvujvh-30a6.googlevideo.com/playlist_type/DVR/initcwndbps/14580/mm/44/mn/sn-uphxqvujvh-30a6/ms/lva/mv/m/mvi/1/pl/17/dover/11/keepalive/yes/fexp/23842630/mt/1572293243/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_type/sig/ALgxI2wwRgIhAIIvtAw9GIuUWg5Rhszh3Vb8nGKBTdl_FhdTPgTO9w9AAiEAu49OsBsvQL_uotmiSwL_Cmob3KmBAo8k7unjZE-3SUk%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRAIgHhSglKNf06Sz8pNMY4qaFCm68_dcIqlhmQsjceKrOCkCIAzv5GzWjbZwjC9V0DVWemxEHh3XSdTTN9671cHtrmJ-/playlist/index.m3u8|Referer=https://www.youtube.com
 
 #EXTINF:-1 tvg-logo="https://hsytes.github.io/iptv/logos/bnma.png",BNC 
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1572300518/ei/hhK3XayOKr_Ez7sPxNOZsA4/ip/202.187.33.174/id/CVccvZyIKTM.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-uphxqvujvh-30az.googlevideo.com/playlist_type/DVR/initcwndbps/13080/mm/44/mn/sn-uphxqvujvh-30az/ms/lva/mv/m/mvi/3/pl/17/dover/11/keepalive/yes/fexp/23842630/beids/9466588/mt/1572278847/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_type/sig/ALgxI2wwRQIhAPC5lKxh1X71TeS4MbsWOMR_iik2OJvJPkXfVdZlDIeKAiAMfkHvMwRgtODVSkehGx_qhiJPRr1_LPlSnmyjyhfabQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRQIhAJvRJziXuVglM090sxLB3KPgx31MglYkHOjow_9AvKWfAiAnVgT8zqGAdfL73qV3xPvxBqJKHVNXzKDkeGpwcvE4Lw%3D%3D/playlist/index.m3u8|Referer=https://www.youtube.com
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1572314922/ei/ykq3Xa2PF-LJz7sPveW7kAs/ip/202.187.33.174/id/CVccvZyIKTM.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-uphxqvujvh-30az.googlevideo.com/playlist_type/DVR/initcwndbps/13040/mm/44/mn/sn-uphxqvujvh-30az/ms/lva/mv/m/mvi/3/pl/17/dover/11/keepalive/yes/fexp/23842630/mt/1572293243/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_type/sig/ALgxI2wwRQIhAJb9mdOFP2qAdcFe7kR381PonK_2V0Nasm-mSVTmkiNwAiAyIJGh7_BrFzuhz_jGSwvZgnlNihCkmkOmmeCzbk7RUg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRAIgNs9cGb0cpLWXYedPvvX3V_sDqPphIV8QiirkkCQJ6goCIHnd64EvsyPHM2BOP_2TriUqAT2qfCNi_b-kE_7BVtK9/playlist/index.m3u8|Referer=https://www.youtube.com
