@@ -24,18 +24,6 @@
     <display-name lang="en">Vasantham</display-name>
     <url>http://www.toggle.sg</url>
   </channel>
-  <programme start="20191030130000 +0800" stop="20191030133000 +0800" channel="Channel 5">
-    <title lang="en">Wheel Of Fortune 36 - EP 6990</title>
-    <desc lang="en">(Encore) Wheel Of Fortune is an American television game show created by Merv Griffin. The show features a competition in which contestants solve word puzzles, similar to those used in Hangman, to win cash and prizes determined by spinning a giant carnival wheel</desc>
-  </programme>
-  <programme start="20191030133000 +0800" stop="20191030140000 +0800" channel="Channel 5">
-    <title lang="en">亲 Kin - EP 264</title>
-    <desc lang="en">Eunice's bribery attempt heaps more pressure on Matthew as he worries it will get her into trouble with the law. Kenneth overreacts to the possibility that Ananya is still not over James. May Wan gets suspicious when Debbie shows up unexpectedly to help out at Boss Lady</desc>
-  </programme>
-  <programme start="20191030140000 +0800" stop="20191030150000 +0800" channel="Channel 5">
-    <title lang="en">Masterchef Junior USA 4 - EP 12</title>
-    <desc lang="en">This reality culinary competition gives talented kids aged 8 to 13 the chance to showcase their culinary abilities and passion for food through a series of delicious challenges. Judges are three of the biggest names in the culinary world - Gordon Ramsay, Graham Elliot and Christina Tosi</desc>
-  </programme>
   <programme start="20191030150000 +0800" stop="20191030153000 +0800" channel="Channel 5">
     <title lang="en">Dengineers S3 - EP 6</title>
     <desc lang="en">The elite team of Dengineers create amazing out-of-this world dens for a lucky kid!</desc>
@@ -864,11 +852,11 @@
     <desc lang="en">The Secretary of Defense shuts down Gibbs' murder investigation and demands that McGee and Torres be arrested for their actions in the case</desc>
   </programme>
   <programme start="20191105000000 +0800" stop="20191105003000 +0800" channel="Channel 5">
-    <title lang="en">Kin - EP 268</title>
+    <title lang="en">亲 Kin - EP 268</title>
     <desc lang="en">Amethyst is jealous when she sees Nina has caught the attention of Jackson. Matthew gets an apology from Cindy but she quickly goes uncontactable. Shen Yang is upset when Ella makes things clear about their relationship</desc>
   </programme>
   <programme start="20191105003000 +0800" stop="20191105010000 +0800" channel="Channel 5">
-    <title lang="en">Special Delivery - EP 4</title>
+    <title lang="en">非一般递送  Special Delivery - EP 4</title>
     <desc lang="en">In a country known for its recent pain of civil strife and its love of Cricket, a group of teenage girls have decided to form a soccer team and bend it like Beckham. Nothing unusual about that, except that these girls have made it to third spot in the National Soccer League - and are doing so without even the most basic soccer gear - not even a single pair of boots. Host Pei Fen lugs her special delivery of boots onto a train - for the long ride from Colombo to Kilinochchi..</desc>
   </programme>
   <programme start="20191105010000 +0800" stop="20191105015000 +0800" channel="Channel 5">
@@ -877,10 +865,10 @@
   </programme>
   <programme start="20191105015000 +0800" stop="20191105024000 +0800" channel="Channel 5">
     <title lang="en">The Ellen DeGeneres Show 17 - EP 27</title>
-    <desc lang="en">Ellen welcomes Nicole Kidman, Charlize Theron and Margot Robbie ("Bombshell"). Midland perform their new hit, "Mr. Lonely," from their CD, "Let It Roll"</desc>
+    <desc lang="en">(Encore) Ellen welcomes Nicole Kidman, Charlize Theron and Margot Robbie ("Bombshell"). Midland perform their new hit, "Mr. Lonely," from their CD, "Let It Roll"</desc>
   </programme>
   <programme start="20191105024000 +0800" stop="20191105041000 +0800" channel="Channel 5">
-    <title lang="en">Britain's Got Talent S12 - EP 2</title>
+    <title lang="en">Britain's Got Talent S120008A</title>
     <desc lang="en">Viewers can expect to be amazed by an incredible line-up of acts competing to be crowned this years winner, from comedians and contortionists through to singers and dancers. Once again the judges will be saying yes to the acts that impress and buzzing off the acts that fail to make the mark, with the added excitement of the Golden Buzzer for the acts that have that extra-special something</desc>
   </programme>
   <programme start="20191105041000 +0800" stop="20191105044000 +0800" channel="Channel 5">
@@ -893,7 +881,7 @@
   </programme>
   <programme start="20191105051000 +0800" stop="20191105060000 +0800" channel="Channel 5">
     <title lang="en">The Dr Oz Show 10 - EP 55</title>
-    <desc lang="en">What kinds of packaged nuts are healthier than others; hot chocolate powder mixes; actor Jussie Smollett ("Empire") reveals his biggest health mission</desc>
+    <desc lang="en">(Encore) What kinds of packaged nuts are healthier than others; hot chocolate powder mixes; actor Jussie Smollett ("Empire") reveals his biggest health mission</desc>
   </programme>
   <programme start="20191105060000 +0800" stop="20191105063000 +0800" channel="Channel 5">
     <title lang="en">Dengineers S3 - EP 10</title>
@@ -904,7 +892,7 @@
     <desc lang="en">The ZhuZhuPets are no ordinary pets, they are EXTRAORDINARY and they can talk! Always on a quest for fun, they have to stay on their tiny toes to keep up with the non-stop action, laughs and adventures</desc>
   </programme>
   <programme start="20191105070000 +0800" stop="20191105073000 +0800" channel="Channel 5">
-    <title lang="en">Rob The Robot 2 - EP 35</title>
+    <title lang="en">Rob The Robot 2 - EP 0035 &amp; 0036</title>
     <desc lang="en">Join Rob, the galaxy's most curious and adventurous robot as he explores the wondrous planets with his friends Ema, the alien linguist, TK the walking toolkit, and Orbit the quirky artist, in this 3D animated preschool series full of fun and laughter</desc>
   </programme>
   <programme start="20191105073000 +0800" stop="20191105080000 +0800" channel="Channel 5">
@@ -916,7 +904,7 @@
     <desc lang="en">Ranger Rob is all about adventure, exploration and discovery of Big Sky Park, the coolest natural adventure park ever! What are you waiting for? Get Ranger Ready to go outside!</desc>
   </programme>
   <programme start="20191105083000 +0800" stop="20191105090000 +0800" channel="Channel 5">
-    <title lang="en">Sarah &amp; Duck S3 - EP 37</title>
+    <title lang="en">Sarah &amp; Duck S3 - EP 0037, 0038, 0039 &amp; 0040</title>
     <desc lang="en">Sarah and her loud, quacky friend Duck are back for a whole new series of fun and heartfelt adventures as they explore the world around them in unexpected ways</desc>
   </programme>
   <programme start="20191105090000 +0800" stop="20191105093000 +0800" channel="Channel 5">
@@ -924,7 +912,7 @@
     <desc lang="en">Team Umizoomi Season 3 is here and that's Umirrific news! The team needs your help to put a toy dinosaur back together, use math skills to count numbers on the clock face, and lots more. Plus, meet friends including Wyatt, the Cuckoo Bears and Amanda!</desc>
   </programme>
   <programme start="20191105093000 +0800" stop="20191105100000 +0800" channel="Channel 5">
-    <title lang="en">Rob The Robot 2 - EP 35</title>
+    <title lang="en">Rob The Robot 2 - EP 0035 &amp; 0036</title>
     <desc lang="en">Join Rob, the galaxy's most curious and adventurous robot as he explores the wondrous planets with his friends Ema, the alien linguist, TK the walking toolkit, and Orbit the quirky artist, in this 3D animated preschool series full of fun and laughter</desc>
   </programme>
   <programme start="20191105100000 +0800" stop="20191105103000 +0800" channel="Channel 5">
@@ -940,7 +928,7 @@
     <desc lang="en">Ranger Rob is all about adventure, exploration and discovery of Big Sky Park, the coolest natural adventure park ever! What are you waiting for? Get Ranger Ready to go outside!</desc>
   </programme>
   <programme start="20191105113000 +0800" stop="20191105120000 +0800" channel="Channel 5">
-    <title lang="en">Shimmer and Shine S2 - EP 10</title>
+    <title lang="en">Shimmer And Shine S2 - EP 10</title>
     <desc lang="en">From unexpected dinosaur pets and dragon guests to surprise treasure hunts and beyond, hilarious magical adventures are never far away with the two genies-in-training and three wishes a day</desc>
   </programme>
   <programme start="20191105120000 +0800" stop="20191105123000 +0800" channel="Channel 5">
@@ -953,10 +941,10 @@
   </programme>
   <programme start="20191105130000 +0800" stop="20191105133000 +0800" channel="Channel 5">
     <title lang="en">Wheel Of Fortune 36 - EP 6992</title>
-    <desc lang="en">Wheel Of Fortune is an American television game show created by Merv Griffin. The show features a competition in which contestants solve word puzzles, similar to those used in Hangman, to win cash and prizes determined by spinning a giant carnival wheel</desc>
+    <desc lang="en">(Encore) Wheel Of Fortune is an American television game show created by Merv Griffin. The show features a competition in which contestants solve word puzzles, similar to those used in Hangman, to win cash and prizes determined by spinning a giant carnival wheel</desc>
   </programme>
   <programme start="20191105133000 +0800" stop="20191105140000 +0800" channel="Channel 5">
-    <title lang="en">Kin - EP 268</title>
+    <title lang="en">亲 Kin - EP 268</title>
     <desc lang="en">Amethyst is jealous when she sees Nina has caught the attention of Jackson. Matthew gets an apology from Cindy but she quickly goes uncontactable. Shen Yang is upset when Ella makes things clear about their relationship</desc>
   </programme>
   <programme start="20191105140000 +0800" stop="20191105150000 +0800" channel="Channel 5">
@@ -976,11 +964,11 @@
     <desc lang="en">A stalwart hero is doing good deeds all over New Mouse City - and yet, Geronimo suspects there's something unusual about the whole affair since the Gators antics seem to be only set-ups for stories in Sally's newspaper</desc>
   </programme>
   <programme start="20191105163000 +0800" stop="20191105170000 +0800" channel="Channel 5">
-    <title lang="en">Elena of Avalor Yr 1 - EP 11</title>
+    <title lang="en">Elena Of Avalor Yr 1 - EP 11</title>
     <desc lang="en">More adventures of Princess Elena and friends</desc>
   </programme>
   <programme start="20191105170000 +0800" stop="20191105173000 +0800" channel="Channel 5">
-    <title lang="en">LEGO Ninjago - Secrets of the Forbidden Spinjitzu - EP 3</title>
+    <title lang="en">LEGO Ninjago - Secrets Of The Forbidden Spinjitzu - EP 0003 &amp; 0004</title>
     <desc lang="en">All new version of LEGO Ninjago!</desc>
   </programme>
   <programme start="20191105173000 +0800" stop="20191105180000 +0800" channel="Channel 5">
@@ -1000,11 +988,11 @@
     <desc lang="en">MasterChef Junior is an American cooking competition involving children from the ages of 8 to 13.  The sixth season returns with chefs Gordon Ramsay and Christina Tosi acting as the judges, along Joe Bastianich as the third judge</desc>
   </programme>
   <programme start="20191105203000 +0800" stop="20191105210000 +0800" channel="Channel 5">
-    <title lang="en">Kin - EP 269</title>
+    <title lang="en">亲 Kin - EP 269</title>
     <desc lang="en">Nina faces trouble in class due to Amethyst's scheming. Zaryf tells Zara off after he senses tension between Rosnani and her. Matthew, meanwhile, continues to fret over Cindy's disappearance</desc>
   </programme>
   <programme start="20191105210000 +0800" stop="20191105213000 +0800" channel="Channel 5">
-    <title lang="en">News 5 - EP 5</title>
+    <title lang="en">News 5</title>
     <desc lang="en">The daily evening-news programme featuring highlights and coverage of both local and international news with a local perspective</desc>
   </programme>
   <programme start="20191105213000 +0800" stop="20191105223000 +0800" channel="Channel 5">
@@ -1014,14 +1002,6 @@
   <programme start="20191105223000 +0800" stop="20191105230000 +0800" channel="Channel 5">
     <title lang="en">The Deep End - EP 4</title>
     <desc lang="en">It's escalation on all fronts as Pauline faces pressure from her father, coach, and archival simultaneously. On top of that, she agrees to go on a date with Des to get back at Dani, which will probably end up being an absolute nightmare... or will it?</desc>
-  </programme>
-  <programme start="20191030133000 +0800" stop="20191030140000 +0800" channel="Channel 8">
-    <title lang="en">118 II 118 S2 - EP 16</title>
-    <desc lang="en">(R) Jin Long chases Ji Zhou for news regarding his wife's whereabouts. Ji Zhou reveals that there have been some news about her online. Man Man discovers Jin Long seeking Ji Zhou's help in seeking for her mother and flies into a rage. (PG)(重)金龙悄悄追问际洲可有查到他老婆的下落，际洲说网上有一则上官燕的消息，金龙一听对方曾出过唱片，马上认定就是他要找的人。慢慢发现金龙托际洲寻找上官燕，非常生气，质问金龙为什么还要找那个无情无义的女人！</desc>
-  </programme>
-  <programme start="20191030140000 +0800" stop="20191030143000 +0800" channel="Channel 8">
-    <title lang="en">哆啦A梦 New Doraemon - EP 47</title>
-    <desc lang="en">(R) This animation series centres on a robotic cat from the future, Doraemon. With its various magical gadgets, Doraemon helps its master solve all kinds of problems. (重)在这系列卡通动画里，小朋友们将看到哆啦A梦 - 这只来自未来世界的机器猫，如何应用它的法宝，协助其主人大雄解决生活上的各种难题。</desc>
   </programme>
   <programme start="20191030143000 +0800" stop="20191030153000 +0800" channel="Channel 8">
     <title lang="en">三生三世十里桃花 Eternal Love - EP 27</title>
@@ -2475,10 +2455,6 @@
   <programme start="20191105223000 +0800" stop="20191105233000 +0800" channel="Suria">
     <title lang="en">Aduh...Bibikku! 2 - EP 7</title>
     <desc lang="en">Rosie receives an overseas seminar invitation. Shah is excited planning his moves towards Monica while Rosie is away. Tipez is becoming more popular among her followers in social media. Neng braves herself to confront Ayob about Imah. Haikal chided Wiwik for her lack of work commitment at home</desc>
-  </programme>
-  <programme start="20191030140000 +0800" stop="20191030160000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Asia Now - EP 1</title>
-    <desc lang="en">Catch 'live' breaking news as it happens in Asia with in-depth analysis and expert opinions to the day's events</desc>
   </programme>
   <programme start="20191030160000 +0800" stop="20191030160200 +0800" channel="Channel NewsAsia">
     <title lang="en">Headline News - EP 1</title>
