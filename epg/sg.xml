@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Channel 5">
     <display-name lang="en">Channel 5</display-name>
     <url>http://www.toggle.sg</url>
@@ -24,66 +24,6 @@
     <display-name lang="en">Vasantham</display-name>
     <url>http://www.toggle.sg</url>
   </channel>
-  <programme start="20191030150000 +0800" stop="20191030153000 +0800" channel="Channel 5">
-    <title lang="en">Dengineers S3 - EP 6</title>
-    <desc lang="en">The elite team of Dengineers create amazing out-of-this world dens for a lucky kid!</desc>
-  </programme>
-  <programme start="20191030153000 +0800" stop="20191030160000 +0800" channel="Channel 5">
-    <title lang="en">The ZhuZhus  - EP 2</title>
-    <desc lang="en">The ZhuZhuPets are no ordinary pets, they are EXTRAORDINARY and they can talk! Always on a quest for fun, they have to stay on their tiny toes to keep up with the non-stop action, laughs and adventures</desc>
-  </programme>
-  <programme start="20191030160000 +0800" stop="20191030163000 +0800" channel="Channel 5">
-    <title lang="en">Geronimo Stilton S1 - EP 19</title>
-    <desc lang="en">Agreeing to help his friend Professor Ranobel in her study of the melting ice caps, Geronimo and company take a trip into the arctic; however their passage does not go smoothly when they find the ship they're on under attack from one of the ocean's most fearsome creatures</desc>
-  </programme>
-  <programme start="20191030163000 +0800" stop="20191030170000 +0800" channel="Channel 5">
-    <title lang="en">Elena Of Avalor Yr 1 - EP 7</title>
-    <desc lang="en">More adventures of Princess Elena and friends</desc>
-  </programme>
-  <programme start="20191030170000 +0800" stop="20191030173000 +0800" channel="Channel 5">
-    <title lang="en">Big Hero 6: The Series Yr 1 - EP 23</title>
-    <desc lang="en">Based on Walt Disney Animation Studios Oscar-winning feature film</desc>
-  </programme>
-  <programme start="20191030173000 +0800" stop="20191030180000 +0800" channel="Channel 5">
-    <title lang="en">Make It Count S2 - EP 3</title>
-    <desc lang="en">Put on your top hat and bring out that wand, it's time for magic, Maths style. This episode mimics the mystique of Breaking the Magician's code to help you astound your friends with your ability to read minds, predict the future and guess their shoe size all by using Maths</desc>
-  </programme>
-  <programme start="20191030180000 +0800" stop="20191030190000 +0800" channel="Channel 5">
-    <title lang="en">The Ellen DeGeneres Show 17 - EP 25</title>
-    <desc lang="en">Ellen welcomes Michael Douglas ("The Kominsky Method" and "Green Eggs and Ham") and 16-year-old dancer Logan "Logistx" Edra performs a dance portraying the insecurities teenagers face due to social media</desc>
-  </programme>
-  <programme start="20191030190000 +0800" stop="20191030193000 +0800" channel="Channel 5">
-    <title lang="en">Wheel Of Fortune 36 - EP 6991</title>
-    <desc lang="en">Wheel Of Fortune is an American television game show created by Merv Griffin. The show features a competition in which contestants solve word puzzles, similar to those used in Hangman, to win cash and prizes determined by spinning a giant carnival wheel</desc>
-  </programme>
-  <programme start="20191030193000 +0800" stop="20191030200000 +0800" channel="Channel 5">
-    <title lang="en">The $100,000 Pyramid S3 - EP 21</title>
-    <desc lang="en">Revival of the classic game show, hosted by Michael Strahan. With the help of their game partners, contestants paired with celebrities must guess words or phrases that appear on the show's pyramid-shaped gameboard to win money</desc>
-  </programme>
-  <programme start="20191030200000 +0800" stop="20191030203000 +0800" channel="Channel 5">
-    <title lang="en">Around The World In 80 Tricks - EP 8</title>
-    <desc lang="en">Around the World in 80 Tricks stars magicians Magical Bones and Pete Heat as they showcase their unique brand of trickery on the streets of Europe and Asia</desc>
-  </programme>
-  <programme start="20191030203000 +0800" stop="20191030210000 +0800" channel="Channel 5">
-    <title lang="en">亲 Kin - EP 265</title>
-    <desc lang="en">Eunice is hauled in for questioning by the police and almost cracks under pressure. Debbie and Ella have to quickly cover up when May Wan and Ah Hock ask them about their supposed sales jobs. Kenneth meets with the parents from Nina's prospective school and one of them, a single mum, takes a shine to him</desc>
-  </programme>
-  <programme start="20191030210000 +0800" stop="20191030213000 +0800" channel="Channel 5">
-    <title lang="en">News 5</title>
-    <desc lang="en">The daily evening-news programme featuring highlights and coverage of both local and international news with a local perspective</desc>
-  </programme>
-  <programme start="20191030213000 +0800" stop="20191030220000 +0800" channel="Channel 5">
-    <title lang="en">RenovAID 8 - EP 1</title>
-    <desc lang="en">43 year old Josephine Ma has her hands full, caring for her three children with ADHD and her own aging parents. Her father has dementia and her mother suffers from arthritis. Can Renovaid give this family a fresh and safe home to start anew?</desc>
-  </programme>
-  <programme start="20191030220000 +0800" stop="20191030230000 +0800" channel="Channel 5">
-    <title lang="en">The Past Beneath Us - EP 1</title>
-    <desc lang="en">It is said that before the colonialists arrived in Singapore, there was a prosperous 700-year-old settlement here. Is it just a legend? Now, a team of archaeologists are separating fact from fiction</desc>
-  </programme>
-  <programme start="20191030230000 +0800" stop="20191031000000 +0800" channel="Channel 5">
-    <title lang="en">NCIS S16 - EP 10</title>
-    <desc lang="en">The team's holiday plans are put on hold after the murder investigation of a Navy veteran includes the discovery of a newborn baby with no identification</desc>
-  </programme>
   <programme start="20191031000000 +0800" stop="20191031003000 +0800" channel="Channel 5">
     <title lang="en">亲 Kin - EP 265</title>
     <desc lang="en">Eunice is hauled in for questioning by the police and almost cracks under pressure. Debbie and Ella have to quickly cover up when May Wan and Ah Hock ask them about their supposed sales jobs. Kenneth meets with the parents from Nina's prospective school and one of them, a single mum, takes a shine to him</desc>
@@ -837,7 +777,8 @@
     <desc lang="en">Amethyst is jealous when she sees Nina has caught the attention of Jackson. Matthew gets an apology from Cindy but she quickly goes uncontactable. Shen Yang is upset when Ella makes things clear about their relationship</desc>
   </programme>
   <programme start="20191104210000 +0800" stop="20191104214500 +0800" channel="Channel 5">
-    <title lang="en">News 5 With Highlights From Parliament  - EP 1</title>
+    <title lang="en">News 5 With Highlights From Parliament</title>
+    <desc lang="en">The daily evening-news programme featuring highlights and coverage of both local and international news with a local perspective.</desc>
   </programme>
   <programme start="20191104214500 +0800" stop="20191104224000 +0800" channel="Channel 5">
     <title lang="en">128 Circle - EP 4</title>
@@ -868,12 +809,12 @@
     <desc lang="en">(Encore) Ellen welcomes Nicole Kidman, Charlize Theron and Margot Robbie ("Bombshell"). Midland perform their new hit, "Mr. Lonely," from their CD, "Let It Roll"</desc>
   </programme>
   <programme start="20191105024000 +0800" stop="20191105041000 +0800" channel="Channel 5">
-    <title lang="en">Britain's Got Talent S120008A</title>
-    <desc lang="en">Viewers can expect to be amazed by an incredible line-up of acts competing to be crowned this years winner, from comedians and contortionists through to singers and dancers. Once again the judges will be saying yes to the acts that impress and buzzing off the acts that fail to make the mark, with the added excitement of the Golden Buzzer for the acts that have that extra-special something</desc>
+    <title lang="en">Britain's Got Talent S12 - EP 8</title>
+    <desc lang="en">Viewers can expect to be amazed by an incredible line-up of acts competing to be crowned this years winner, from comedians and contortionists through to singers and dancers. Once again the judges will be saying yes to the acts that impress and buzzing off the acts that fail to make the mark, with the added excitement of the Golden Buzzer for the acts that have that extra-special something.</desc>
   </programme>
   <programme start="20191105041000 +0800" stop="20191105044000 +0800" channel="Channel 5">
-    <title lang="en">Britain's Got Talent 12 (HD) - EP 1</title>
-    <desc lang="en">Viewers can expect to be amazed by an incredible line-up of acts competing to be crowned this years winner, from comedians and contortionists through to singers and dancers. Once again the judges will be saying yes to the acts that impress and buzzing off the acts that fail to make the mark, with the added excitement of the Golden Buzzer for the acts that have that extra-special something</desc>
+    <title lang="en">Britain's Got Talent S12  0008A</title>
+    <desc lang="en">Viewers can expect to be amazed by an incredible line-up of acts competing to be crowned this years winner, from comedians and contortionists through to singers and dancers. Once again the judges will be saying yes to the acts that impress and buzzing off the acts that fail to make the mark, with the added excitement of the Golden Buzzer for the acts that have that extra-special something.</desc>
   </programme>
   <programme start="20191105044000 +0800" stop="20191105051000 +0800" channel="Channel 5">
     <title lang="en">Jamie's Quick And Easy Food - EP 15</title>
@@ -1003,49 +944,165 @@
     <title lang="en">The Deep End - EP 4</title>
     <desc lang="en">It's escalation on all fronts as Pauline faces pressure from her father, coach, and archival simultaneously. On top of that, she agrees to go on a date with Des to get back at Dani, which will probably end up being an absolute nightmare... or will it?</desc>
   </programme>
-  <programme start="20191030143000 +0800" stop="20191030153000 +0800" channel="Channel 8">
-    <title lang="en">三生三世十里桃花 Eternal Love - EP 27</title>
-    <desc lang="en">(R) Susu consumes an amnesia potion and wakes up as Baiqian. She has no memory of her relationship with Yehua.  (PG-些许暴力画面)(重)白浅将折颜的忘情酒喝下，从此遗忘素素前尘过往心灰意冷。</desc>
+  <programme start="20191105230000 +0800" stop="20191106000000 +0800" channel="Channel 5">
+    <title lang="en">NCIS S16 - EP 12</title>
+    <desc lang="en">An old family friend beseeches Gibbs to join him on a road trip to search for a missing military I.D. bracelet.</desc>
   </programme>
-  <programme start="20191030153000 +0800" stop="20191030163000 +0800" channel="Channel 8">
-    <title lang="en">边缘父子 On The Fringe 11 - EP 18</title>
-    <desc lang="en">(R) Casts: Li Nan Xing as Tian Yi Bang;Fann Wong as Liu Jia Li;Rui En as Sha Sha;Zhang Yao Dong as Leo (PG-些许暴力画面)(重)演员：李南星饰田一邦;范文芳饰刘佳丽;瑞恩饰莎莎;张耀栋饰Leo</desc>
+  <programme start="20191106000000 +0800" stop="20191106003000 +0800" channel="Channel 5">
+    <title lang="en">亲 Kin - EP 269</title>
+    <desc lang="en">Nina faces trouble in class due to Amethyst's scheming. Zaryf tells Zara off after he senses tension between Rosnani and her. Matthew, meanwhile, continues to fret over Cindy's disappearance.</desc>
   </programme>
-  <programme start="20191030163000 +0800" stop="20191030173000 +0800" channel="Channel 8">
-    <title lang="en">甘味人生 Taste Of Life - EP 252</title>
-    <desc lang="en">Zhao Ju Cai and his wife Li Jin Xiu have five children. Devoted all his life to developing soy sauce products, much as Zhao Ju Cai hopes that one of his kids can follow his footsteps and take over his business, but he also respects their own passions and aspirations. Because of their father's pursuit of invention, the Zhao brothers' lives are about to change. (PG)赵居财，一生致力研发酱油产品，与妻李锦琇育有五个孩子；居财虽然希望众孩子之中有人接手经營家业，但也尊重孩子们的兴趣和志向。赵家兄弟也因为父亲赵居财的「发明梦」，人生逐渐起了变化。</desc>
+  <programme start="20191106003000 +0800" stop="20191106010000 +0800" channel="Channel 5">
+    <title lang="en">This Is Singapore - EP 5</title>
+    <desc lang="en">In this series, we will feature all things about Singapore that are often not noticeable or forgotten. We will find inspiring stories, buildings, history and unbelievable things that are found in Singapore. Each episode will base on a topic that will showcase five different stories.</desc>
   </programme>
-  <programme start="20191030173000 +0800" stop="20191030183000 +0800" channel="Channel 8">
-    <title lang="en">祖先保佑2 Blessings 2  - EP 5</title>
-    <desc lang="en">(R) Chun Xian moves into the big house, making friends with Sai Wen and the landlord's daughter, Jue Hui. However, she still doesn't see eye to eye with Xue Geng. Sai Ding has a crush on Jue Hui, but Jue Hui likes a wealthier man, Russell. Xue Geng helps Sai Wen sell biscuits. When a customer is making things difficult for Sai Wen, he defends her and even self-proclaims himself as her "lover". Sai Wen hears this and is overjoyed, thinking that Xue Geng meant what he said. (PG)(重)春仙搬入大杂院，与赛文和房东女儿觉慧成为朋友，与学庚则互看彼此不顺眼。赛鼎钟情于觉慧，奈何觉慧喜欢身世较好的Russell。学庚帮赛文卖饼，见有顾客让赛文难堪，便挺身帮她解围，还自称是赛文的“爱人"。赛文芳心暗喜，信以为真。</desc>
+  <programme start="20191106010000 +0800" stop="20191106015000 +0800" channel="Channel 5">
+    <title lang="en">Scorpion S2 - EP 6</title>
+    <desc lang="en">Walter's attempt to "normalize" goes horribly wrong when a nefarious virus is uploaded to his computer, turning Scorpion's new "smart" building project into a burning death trap with people locked inside.</desc>
   </programme>
-  <programme start="20191030183000 +0800" stop="20191030193000 +0800" channel="Channel 8">
-    <title lang="en">狮城有约 Hello Singapore   - EP 22</title>
-    <desc lang="en">(Live) Delivering the day's latest news and social features that matter to you. Every Monday to Friday, from 6.30pm to 7.30pm on Channel 8. （现场直播）总结一天大小事，关心属于你我的家园。每逢星期一至五，傍晚6.30-7.30pm，与你相约！</desc>
+  <programme start="20191106015000 +0800" stop="20191106024000 +0800" channel="Channel 5">
+    <title lang="en">The Ellen DeGeneres Show 17 - EP 28</title>
+    <desc lang="en">(Encore) Ellen welcomes Jessica Biel ("For All Mankind"), Alfie Allen ("Jojo Rabbit") and  3-year-old viral dancer, Liang Liang from China.</desc>
   </programme>
-  <programme start="20191030193000 +0800" stop="20191030200000 +0800" channel="Channel 8">
-    <title lang="en">老友万岁 Old Is Gold - EP 111</title>
-    <desc lang="en">Ping Pong misunderstands the relationship between Xin Xin and Hugo, and he begins to avoid Xin Xin as he feels discouraged. Although Sister Mi knows the truth about the relationship between Xin Xin and Hugo, she chooses to hide it from Ping Pong. Under Hugo's encouragement, Xin Xin takes the initiative to explain things to Ping Pong, but Ping Pong has already made the decision to let go, causing the distance between the two to lengthen further. (PG)Ping Pong误会欣欣和Hugo的关系，心灰意冷，开始回避欣欣。咪姐虽然知道欣欣和Hugo的真实关系，但选择隐瞒Ping Pong。欣欣在Hugo的鼓励下，主动要和Ping Pong解释，但Ping Pong却已经决定放下，两人关系再次拉远。</desc>
+  <programme start="20191106024000 +0800" stop="20191106041000 +0800" channel="Channel 5">
+    <title lang="en">Britain's Got Talent S12 - EP 9</title>
+    <desc lang="en">Viewers can expect to be amazed by an incredible line-up of acts competing to be crowned this years winner, from comedians and contortionists through to singers and dancers. Once again the judges will be saying yes to the acts that impress and buzzing off the acts that fail to make the mark, with the added excitement of the Golden Buzzer for the acts that have that extra-special something.</desc>
   </programme>
-  <programme start="20191030200000 +0800" stop="20191030210000 +0800" channel="Channel 8">
-    <title lang="en">午餐吃什么  What's For Lunch?  - EP 5</title>
-    <desc lang="en">Local food blogger Daniel Ang and bento designer Shirley Wong are taking hosts Pornsak and Vivian to lunch at unagi specialty restaurant - Unagiya Ichinoji. What do they love about this restaurant? Stay tuned to find out! Next up, we have BFFs Irene Ang and Chua En Lai! They will be bringing us to a restaurant that is popular with the locals, and loved by Irene. Check out the must-try dishes from the menu here as we catch up with Irene and En Lai on what they are currently busy with.  “午餐吃什么？”美食博客Daniel 和造型便当教主Shirley午餐有什么好介绍？他们来到一家鳗鱼料理专卖店，为什么非要品尝这家的鳗鱼美食呢？除了鳗鱼，这里还有什么料理值得一尝呢？下半场洪爱玲和蔡恩来有什么美食好介绍？爱玲常光顾的这家餐馆售卖各种本地人爱吃的美食，他们必点的菜肴有哪些？两人最近又在忙什么呢？更多精彩内容一一献上。</desc>
+  <programme start="20191106041000 +0800" stop="20191106044000 +0800" channel="Channel 5">
+    <title lang="en">Britain's Got Talent S12  0009A</title>
+    <desc lang="en">Viewers can expect to be amazed by an incredible line-up of acts competing to be crowned this years winner, from comedians and contortionists through to singers and dancers. Once again the judges will be saying yes to the acts that impress and buzzing off the acts that fail to make the mark, with the added excitement of the Golden Buzzer for the acts that have that extra-special something.</desc>
   </programme>
-  <programme start="20191030210000 +0800" stop="20191030220000 +0800" channel="Channel 8">
-    <title lang="en">天空渐渐亮 Daybreak - EP 8</title>
-    <desc lang="en">Wan An is shocked when Chu Lin blurted out that she is pregnant with Ren Xing's child on the day of their divorce! Ren Xing admitted with guilt that it happened two months ago when Chu Lin asked him to go home for their son's birthday celebration, and he got drunk. Ren Xing begged for forgiveness but an utterly disappointed Wan An initiated a break up despite her own heartache.  (PG-部分画面令人不安)仁兴的离婚生效日，楚琳忽然爆出自己怀有仁兴的孩子，不能离婚，婉安愕然！仁兴愧疚地透露两个月前，楚琳叫他回家为儿子庆祝生日，自己在酒醉下跟她发生了关系，求婉安原谅他。但婉安已经心灰意冷，忍痛提出分手。</desc>
+  <programme start="20191106044000 +0800" stop="20191106051000 +0800" channel="Channel 5">
+    <title lang="en">Jamie's Quick And Easy Food - EP 16</title>
+    <desc lang="en">Jamie's Quick &amp; Easy Food is the ultimate set of go-to recipes that are quick to cook and easy to remember. Perfect for those of you who love your grub, but don't have the time or energy for complicated cooking.</desc>
   </programme>
-  <programme start="20191030220000 +0800" stop="20191030223000 +0800" channel="Channel 8">
-    <title lang="en">晚间新闻 News Tonight</title>
-    <desc lang="en">Daily evening updates on top local news and world news. 《晚间新闻》每日为您提供最全面的本地与全球新闻报道。</desc>
+  <programme start="20191106051000 +0800" stop="20191106060000 +0800" channel="Channel 5">
+    <title lang="en">The Dr Oz Show 10 - EP 56</title>
+    <desc lang="en">(Encore) Serial killers hide their dark sides from their families and live secret lives; women who have uncovered shocking truths about their loved ones; the warning signs that someone may have a double identity.</desc>
   </programme>
-  <programme start="20191030223000 +0800" stop="20191030230000 +0800" channel="Channel 8">
-    <title lang="en">寻花探草 Sr 5 Garden Of Treasure Sr 5 - EP 10</title>
-    <desc lang="en">Hosted by Zhuan Wenjie; season 5 returns with a story on how a farmer interacts with nature. A group of herbalists also teaches you how to make unique herbal soaps as you rediscover traditional herbs. 主持人庄文杰带大家逃离忙碌生活，寻访有故事的农人，看看他们 如何亲手打造一片农田，过着最与世无争的农家生活。</desc>
+  <programme start="20191106060000 +0800" stop="20191106063000 +0800" channel="Channel 5">
+    <title lang="en">Dengineers S3 - EP 11</title>
+    <desc lang="en">The elite team of Dengineers create amazing out-of-this world dens for a lucky kid!</desc>
   </programme>
-  <programme start="20191030230000 +0800" stop="20191031000000 +0800" channel="Channel 8">
-    <title lang="en">城寨英雄 A Fist Within Four Walls  - EP 7</title>
-    <desc lang="en">(R) While delivering durians to Huaixin, Gouquan was shocked to learn that Huaixin and her father have been taken away. Yingfeng and the rest reached the fruits wholesale market to rescue Huaixin. When they started to fight with the men, Diaolan found a badly injured Huaixin. (PG13-暴力镜头)(重)勾拳等人送榴莲给怀鑫，却发现怀鑫父女被人捉走！迎风等人来到果栏欲救出怀鑫。当他们与果栏众人打起来时，刁兰发现伤痕累累的怀鑫。</desc>
+  <programme start="20191106063000 +0800" stop="20191106070000 +0800" channel="Channel 5">
+    <title lang="en">The ZhuZhus - EP 7</title>
+    <desc lang="en">The ZhuZhuPets are no ordinary pets, they are EXTRAORDINARY and they can talk! Always on a quest for fun, they have to stay on their tiny toes to keep up with the non-stop action, laughs and adventures.</desc>
+  </programme>
+  <programme start="20191106070000 +0800" stop="20191106073000 +0800" channel="Channel 5">
+    <title lang="en">Rob The Robot 2 - EP 0037 &amp; 0038</title>
+    <desc lang="en">Join Rob, the galaxy's most curious and adventurous robot as he explores the wondrous planets with his friends Ema, the alien linguist, TK the walking toolkit, and Orbit the quirky artist, in this 3D animated preschool series full of fun and laughter.</desc>
+  </programme>
+  <programme start="20191106073000 +0800" stop="20191106080000 +0800" channel="Channel 5">
+    <title lang="en">Paw Patrol S4 - EP 6</title>
+    <desc lang="en">Get ready for a tail-wagging good time in these rescue adventures with the PAW Patrol! No job is too big, no pup is too small as Ryder and the pups are always ready to lend a paw.</desc>
+  </programme>
+  <programme start="20191106080000 +0800" stop="20191106083000 +0800" channel="Channel 5">
+    <title lang="en">Ranger Rob  - EP 37</title>
+    <desc lang="en">Ranger Rob is all about adventure, exploration and discovery of Big Sky Park, the coolest natural adventure park ever! What are you waiting for? Get Ranger Ready to go outside!</desc>
+  </programme>
+  <programme start="20191106083000 +0800" stop="20191106090000 +0800" channel="Channel 5">
+    <title lang="en">Bing - EP 0001, 0002 &amp; 0003</title>
+    <desc lang="en">Just when Bing Bunny thinks he's got the hang of life, it can swing right back and knock him over, but it's ok It's a Bing Thing! And, Flop is there to help guide Bing through the everyday ups and downs of being a pre-schooler.</desc>
+  </programme>
+  <programme start="20191106090000 +0800" stop="20191106093000 +0800" channel="Channel 5">
+    <title lang="en">Team Umizoomi S3 - EP 14</title>
+    <desc lang="en">Team Umizoomi Season 3 is here and that's Umirrific news! The team needs your help to put a toy dinosaur back together, use math skills to count numbers on the clock face, and lots more. Plus, meet friends including Wyatt, the Cuckoo Bears and Amanda!</desc>
+  </programme>
+  <programme start="20191106093000 +0800" stop="20191106100000 +0800" channel="Channel 5">
+    <title lang="en">Rob The Robot 2 - EP 0037 &amp; 0038</title>
+    <desc lang="en">Join Rob, the galaxy's most curious and adventurous robot as he explores the wondrous planets with his friends Ema, the alien linguist, TK the walking toolkit, and Orbit the quirky artist, in this 3D animated preschool series full of fun and laughter.</desc>
+  </programme>
+  <programme start="20191106100000 +0800" stop="20191106103000 +0800" channel="Channel 5">
+    <title lang="en">Hiccup And Sneeze S2 - EP 13</title>
+    <desc lang="en">Sneeze doesn't take proper care of his indoor plant - and now it's droopy. He tries to revive it with his own bizarre blend of plant food, but something very strange starts to happen...</desc>
+  </programme>
+  <programme start="20191106103000 +0800" stop="20191106110000 +0800" channel="Channel 5">
+    <title lang="en">Paw Patrol S4 - EP 6</title>
+    <desc lang="en">Get ready for a tail-wagging good time in these rescue adventures with the PAW Patrol! No job is too big, no pup is too small as Ryder and the pups are always ready to lend a paw.</desc>
+  </programme>
+  <programme start="20191106110000 +0800" stop="20191106113000 +0800" channel="Channel 5">
+    <title lang="en">Ranger Rob  - EP 37</title>
+    <desc lang="en">Ranger Rob is all about adventure, exploration and discovery of Big Sky Park, the coolest natural adventure park ever! What are you waiting for? Get Ranger Ready to go outside!</desc>
+  </programme>
+  <programme start="20191106113000 +0800" stop="20191106120000 +0800" channel="Channel 5">
+    <title lang="en">Shimmer And Shine S2 - EP 11</title>
+    <desc lang="en">From unexpected dinosaur pets and dragon guests to surprise treasure hunts and beyond, hilarious magical adventures are never far away with the two genies-in-training and three wishes a day.</desc>
+  </programme>
+  <programme start="20191106120000 +0800" stop="20191106123000 +0800" channel="Channel 5">
+    <title lang="en">Everyday Gourmet With Justine Schofield S6 - EP 53</title>
+    <desc lang="en">Hosted by popular series one MasterChef contestant, Justine Schofield. Everyday Gourmet presents can-do cooking ideas as well as tips, tricks and insights into making us all more confident in the kitchen. Justine believes when it comes to cooking, a little bit of confidence goes a long way, and she'll spend most of the time building up your confidence in the kitchen.</desc>
+  </programme>
+  <programme start="20191106123000 +0800" stop="20191106130000 +0800" channel="Channel 5">
+    <title lang="en">Jamie's Quick And Easy Food - EP 17</title>
+    <desc lang="en">Jamie's Quick &amp; Easy Food is the ultimate set of go-to recipes that are quick to cook and easy to remember. Perfect for those of you who love your grub, but don't have the time or energy for complicated cooking.</desc>
+  </programme>
+  <programme start="20191106130000 +0800" stop="20191106133000 +0800" channel="Channel 5">
+    <title lang="en">Wheel Of Fortune 36 - EP 6993</title>
+    <desc lang="en">(Encore) Wheel Of Fortune is an American television game show created by Merv Griffin. The show features a competition in which contestants solve word puzzles, similar to those used in Hangman, to win cash and prizes determined by spinning a giant carnival wheel.</desc>
+  </programme>
+  <programme start="20191106133000 +0800" stop="20191106140000 +0800" channel="Channel 5">
+    <title lang="en">亲 Kin - EP 269</title>
+    <desc lang="en">Nina faces trouble in class due to Amethyst's scheming. Zaryf tells Zara off after he senses tension between Rosnani and her. Matthew, meanwhile, continues to fret over Cindy's disappearance.</desc>
+  </programme>
+  <programme start="20191106140000 +0800" stop="20191106150000 +0800" channel="Channel 5">
+    <title lang="en">Little Big Shots: Forever Young - EP 6</title>
+    <desc lang="en">Following up on the phenomenal success of Little Big Shots, in which kids brought their amazing talents to a primetime audience, Little Big Shots Forever Young highlights young-at-heart seniors who will showcase their hidden talents, vibrant personalities and incredible wisdom.</desc>
+  </programme>
+  <programme start="20191106150000 +0800" stop="20191106153000 +0800" channel="Channel 5">
+    <title lang="en">Dengineers S3 - EP 11</title>
+    <desc lang="en">The elite team of Dengineers create amazing out-of-this world dens for a lucky kid!</desc>
+  </programme>
+  <programme start="20191106153000 +0800" stop="20191106160000 +0800" channel="Channel 5">
+    <title lang="en">The ZhuZhus - EP 7</title>
+    <desc lang="en">The ZhuZhuPets are no ordinary pets, they are EXTRAORDINARY and they can talk! Always on a quest for fun, they have to stay on their tiny toes to keep up with the non-stop action, laughs and adventures.</desc>
+  </programme>
+  <programme start="20191106160000 +0800" stop="20191106163000 +0800" channel="Channel 5">
+    <title lang="en">Geronimo Stilton S1 - EP 24</title>
+    <desc lang="en">The Tour de Mouse has come to New Mouse City and Geronimo's friend, Jacques Fromage, is a champion bike racer who's been plagued with a string of bad luck. It's up to Geronimo to get to the bottom of the cause and help his friend get back into the race.</desc>
+  </programme>
+  <programme start="20191106163000 +0800" stop="20191106170000 +0800" channel="Channel 5">
+    <title lang="en">Elena Of Avalor Yr 1 - EP 12</title>
+    <desc lang="en">More adventures of Princess Elena and friends.</desc>
+  </programme>
+  <programme start="20191106170000 +0800" stop="20191106173000 +0800" channel="Channel 5">
+    <title lang="en">LEGO Ninjago - Secrets Of The Forbidden Spinjitzu - EP 0005 &amp; 0006</title>
+    <desc lang="en">All new version of LEGO Ninjago!</desc>
+  </programme>
+  <programme start="20191106173000 +0800" stop="20191106180000 +0800" channel="Channel 5">
+    <title lang="en">Make It Count S2 - EP 4</title>
+    <desc lang="en">Done in Amazing Race style, we pit Joakim against Charlotte in a quest around Singapore to find Maths in the nation's famous skyline. From buildings that draw inspiration from Nature's favourite shape to the structures that share the same ratios as our insides and the Maths behind the gravity-defying domes that is the Gardens by the Bay, this is a round-island tour with a difference. After this episode, you will never look at skyscrapers in Singapore the same again. Or Maths, for that matter.</desc>
+  </programme>
+  <programme start="20191106180000 +0800" stop="20191106190000 +0800" channel="Channel 5">
+    <title lang="en">The Ellen DeGeneres Show 17 - EP 29</title>
+    <desc lang="en">Ellen welcomes Scarlett Johansson ("Jojo Rabbit") and Joel Kinnaman ("For All Mankind").</desc>
+  </programme>
+  <programme start="20191106190000 +0800" stop="20191106193000 +0800" channel="Channel 5">
+    <title lang="en">Wheel Of Fortune 36 - EP 6994</title>
+    <desc lang="en">Wheel Of Fortune is an American television game show created by Merv Griffin. The show features a competition in which contestants solve word puzzles, similar to those used in Hangman, to win cash and prizes determined by spinning a giant carnival wheel.</desc>
+  </programme>
+  <programme start="20191106193000 +0800" stop="20191106200000 +0800" channel="Channel 5">
+    <title lang="en">The $100,000 Pyramid S3 - EP 23</title>
+    <desc lang="en">Revival of the classic game show, hosted by Michael Strahan. With the help of their game partners, contestants paired with celebrities must guess words or phrases that appear on the show's pyramid-shaped gameboard to win money.</desc>
+  </programme>
+  <programme start="20191106200000 +0800" stop="20191106203000 +0800" channel="Channel 5">
+    <title lang="en">Ladies, Fall In! - EP 1</title>
+    <desc lang="en">The series follows 4 women of different ages as they participate in MINDEF's 2-day women's bootcamp. We hear from them their motivations for taking part and what they have learnt from the experience.</desc>
+  </programme>
+  <programme start="20191106203000 +0800" stop="20191106210000 +0800" channel="Channel 5">
+    <title lang="en">亲 Kin - EP 270</title>
+    <desc lang="en">Sparks fly between Ella and Shen Yang as they take a leap of faith together. As the issue of Khaled's adoption drags on, Rosnani and Adina's relationship sours further. Illya and Zaryf face troubles as Zaryf's work takes priority over their relationship.</desc>
+  </programme>
+  <programme start="20191106210000 +0800" stop="20191106213000 +0800" channel="Channel 5">
+    <title lang="en">News 5</title>
+    <desc lang="en">The daily evening-news programme featuring highlights and coverage of both local and international news with a local perspective.</desc>
+  </programme>
+  <programme start="20191106213000 +0800" stop="20191106220000 +0800" channel="Channel 5">
+    <title lang="en">RenovAID 8 - EP 2</title>
+    <desc lang="en">Being the sole caregiver of her family, less than ideal living conditions at home have made Josephine's caregiving a daily challenge. Can our interior designer William revamp her house and inject new energy into their lives?</desc>
+  </programme>
+  <programme start="20191106220000 +0800" stop="20191106230000 +0800" channel="Channel 5">
+    <title lang="en">The Past Beneath Us - EP 2</title>
+    <desc lang="en">The lack of artefacts from 14th century Temasek to 19th century Singapore was once known as the 'black hole' in local archaeology. Now new finds are helping to fill the gap about colonial Singapore.</desc>
   </programme>
   <programme start="20191031000000 +0800" stop="20191031010000 +0800" channel="Channel 8">
     <title lang="en">新方世玉 Hero Of The Times - EP 11</title>
@@ -1675,45 +1732,113 @@
     <title lang="en">女人好健康 Good Health Women - EP 4</title>
     <desc lang="en">Darren hosts this new healthcare program that explores both Western &amp; traditional approaches to womens illnesses  from a male perspective. 主持庄文杰这次担任女人健康大使，找来中医、西医、物理治疗师从多个角度分享女人健康密码，了解与预防女人常见的毛病如经痛，中风，慢性疲劳等等。</desc>
   </programme>
-  <programme start="20191030150000 +0800" stop="20191030160000 +0800" channel="Channel U">
-    <title lang="en">烧。卖 Served H.O.T. - EP 8</title>
-    <desc lang="en">(R) After an incident on their opening day, the trio became dejected and impolite to their own customers. Meiwei could not take it lying down and gave them a good talking to. When she left in a huff, the trio thought that she was giving up on them and tried all means to make her stay.  (PG)(重)三个年轻人即将得到老字号南洋风味小吃店价值一百万的Laksa祖传秘方。他们是风雨同舟的兄弟：商业奇才庄浩伦（包勋评饰）、刀神陈欧文（方伟杰饰）和烹饪天才何泰龙（冯伟衷饰），合称“H.O.T”。三个前科犯准备接管生意，创造更好的生活。他们将遇到为厨师梦而孤军奋战的曾美薇（雅慧饰）、扬言破坏他们声誉的大厨Gordon（George Young饰）和破坏弟弟泰龙幸福的泰虎（李腾饰）。H.O.T之间的忠诚和成功将会因为过去的阴影而再次接受挑战。</desc>
+  <programme start="20191105230000 +0800" stop="20191106000000 +0800" channel="Channel 8">
+    <title lang="en">城寨英雄 A Fist Within Four Walls  - EP 11</title>
+    <desc lang="en">(R) Gouquan wanted to rescue Deli after he heard she was kidnapped. Gouquan and Bofeng found out from Shoujin's men where Deli was held hostage. Diaolan followed Yingfeng when he suddenly went out at night and found out he went to Chunmei's newly opened nightclub. (PG13-暴力镜头)(重)勾拳知道德莉被捉，欲想救德莉。从寿金手下的口中，勾拳与波凤得知德莉被困的地点。深夜，刁兰发现迎风出夜街，便跟着他。原来迎风来到春美新开的夜总会。.</desc>
   </programme>
-  <programme start="20191030160000 +0800" stop="20191030170000 +0800" channel="Channel U">
-    <title lang="en">线人2 Fixer 2 - EP 8</title>
-    <desc lang="en">(R) The Ganges River assumes many past and present lives. The Hindus believe that the river is flown out of Shiva's hair and it's a sacred place which can wash away sins, cleanse souls and redeem for rebirth. Life is full of sins and atonement and Indians have their own views on life and death. (PG)(重)印度恒河承载着人们的前世今生。兴都徒相信恒河是由湿婆的头发流出来的，它可洗去身上所有罪孽，视之为洗涤灵魂不洁的净身圣地，给思维轮回带来救赎。人生罪恶苦难当，一生一世赎罪忙。印度人的生死观自有一番见解。</desc>
+  <programme start="20191106000000 +0800" stop="20191106010000 +0800" channel="Channel 8">
+    <title lang="en">新方世玉 Hero Of The Times - EP 15</title>
+    <desc lang="en">(R)  (重).</desc>
   </programme>
-  <programme start="20191030170000 +0800" stop="20191030180000 +0800" channel="Channel U">
-    <title lang="en">我女婿的女人 Marrying My Daughter Twice  - EP 75</title>
-    <desc lang="en">(R) Jia-en attempts to silence Yinghao, but leaves the hospital hurriedly when Yinghao suddenly opens his eyes. Zaiyong tells Xiantai that he was brought to the orphanage by Shuzi. Xiantai is devastated upon learning the truth. (PG)(重)(双声道-中/韩)恩到医院想将英镐灭口，英镐却突然睁开眼睛，吓得佳恩仓惶而逃。载永告诉贤泰当初是淑子把他带到育幼院的。贤泰知道真相后，痛苦万分。</desc>
+  <programme start="20191106010000 +0800" stop="20191106020000 +0800" channel="Channel 8">
+    <title lang="en">发现大丝路IV  Discover The Great Silk Road S4 - EP 10</title>
+    <desc lang="en">(R) "Discover The Great Silk Road" is a large-scale travelogue spanning the three continents of Europe, Asia and Africa. Follow the host Marco Liao as he starts his breath-taking journey from China's Xi'an through the Northern Silk Road to the path taken by Admiral Zheng He. (重)发现大丝路是一个横跨欧亚非三大洲的大型文化旅游节目，主持人廖科溢从中国西安出发，走过充满伊斯兰风情的北方丝路，穿越蜀身毒道，看见南方丝路文化，最后寻郑和下西洋的路线见证海上丝路的辉煌。.</desc>
   </programme>
-  <programme start="20191030180000 +0800" stop="20191030190000 +0800" channel="Channel U">
-    <title lang="en">大力女都奉顺 Strong Girl Bong-Soon - EP 6</title>
-    <desc lang="en">(R) Fengshun, her brother Fengqi, her best friend Jingxin, and Minhe go to the nightclub. The drunken Fengshun decides to pole dance but when she accidentally dislodged the pole. This scene was recorded and posted on the Internet. Fengshun became red-hot on social media. (PG-部分画面令人不安)(重)(双声道-中/韩)奉顺,弟弟奉奇和闺蜜京心，以及敏赫一起去夜店。喝醉的奉顺跑去跳钢管舞，结果把人家的钢管摇了下来，这一幕被录了下来，还传到了网上，奉顺在一夜之间就成了网红。</desc>
+  <programme start="20191106020000 +0800" stop="20191106040000 +0800" channel="Channel 8">
+    <title lang="en">再战封神榜 Heavenly Beings - EP 0010 &amp; 0011</title>
+    <desc lang="en">(R)  (重).</desc>
   </programme>
-  <programme start="20191030190000 +0800" stop="20191030200000 +0800" channel="Channel U">
-    <title lang="en">没有名字的女人 Unknown Woman  - EP 31</title>
-    <desc lang="en">Zhiyuan asks Haizhu to bring Maya to have her mole removed, but Maya refuses to go. Haizhu questions Zhiyuan why she adopted Maya to replace her deceased daughter, yet the latter refuses to explain. Meantime, Wulie files for a divorce with Haizhu as he believes he has wrestled away WID Group.  (PG)(双声道-中/韩)智媛要点海珠带玛亚去掉腰身上的黑痣，但玛亚不愿意。海珠问智媛为何从外面领养玛亚回来代替死去的女儿，智媛默默无言。同时，武烈以为已经夺取WID集团，便向海珠提出离婚。</desc>
+  <programme start="20191106040000 +0800" stop="20191106060000 +0800" channel="Channel 8">
+    <title lang="en">甘味人生 Taste Of Life - EP 0099 &amp; 0100</title>
+    <desc lang="en">(R) Zhao Ju Cai and his wife Li Jin Xiu have five children. Devoted all his life to developing soy sauce products, much as Zhao Ju Cai hopes that one of his kids can follow his footsteps and take over his business, but he also respects their own passions and aspirations. Because of their father's pursuit of invention, the Zhao brothers' lives are about to change. (PG)(重)赵居财，一生致力研发酱油产品，与妻李锦琇育有五个孩子；居财虽然希望众孩子之中有人接手经營家业，但也尊重孩子们的兴趣和志向。赵家兄弟也因为父亲赵居财的「发明梦」，人生逐渐起了变化。.</desc>
   </programme>
-  <programme start="20191030200000 +0800" stop="20191030210000 +0800" channel="Channel U">
-    <title lang="en">没有名字的女人 Unknown Woman  - EP 32</title>
-    <desc lang="en">During the board meeting, Wulie votes that Daoying should be removed from the CEO position. At the same time, Wulie, who is charged for manipulating the share market, runs away. Yunxue wants a breakup with Daozi and reveals she is out to take revenge on Zhiyuan. Yunxue found Maya abandoned by Zhiyuan.  (PG)(双声道-中/韩)在股东大会里，武烈举双手赞成解雇道英为会长，此时金管会的人来调查武烈，武烈趁机逃走。尹雪要和道治分手，还告诉道治她接近他是为了向智媛报仇。尹雪看到玛亚被智媛赶出家，便把她带回自己的家。</desc>
+  <programme start="20191106060000 +0800" stop="20191106070000 +0800" channel="Channel 8">
+    <title lang="en">吃出一碗文化 Culture In A Bowl - EP 5</title>
+    <desc lang="en">(R) Behind every type of food is a strong cultural heritage reflecting the local lifestyle, literally culture in a bowl. This program focuses on stories behind the food, its origin and the relevant culture. (重)饮食的背后有着深厚的文化底蕴，“文化就在这碗里”，飘逸的是在地的生活气息。虽无可避免在新时代饮食思潮势力有所碰撞摩擦，却能融合，交揉衍生出独特的饮食文化精髓。.</desc>
   </programme>
-  <programme start="20191030210000 +0800" stop="20191030220000 +0800" channel="Channel U">
-    <title lang="en">寻医 A Medical Journey - EP 4</title>
-    <desc lang="en">The remote river islands along India's Brahmaputra River in Assam are home to millions - yet basic healthcare is limited. Jojo Goh hops onto the boat clinics to deliver medical care, and to understand how lives are lost as islanders battle yearly flooding and extreme soil erosion, when typhoon strikes. 主持人吴俐璇首次乘船出诊，将医疗服务送到印度阿萨姆邦一条大河上的村庄里。大河将村民隔绝在现代医疗之外，唯有医疗船，能把疫苗接种和紧急接生等服务带给孤立无援的人。雨季大河年年洪涝，医疗船该怎么救死扶伤？</desc>
+  <programme start="20191106070000 +0800" stop="20191106073000 +0800" channel="Channel 8">
+    <title lang="en">前线追踪 Frontline  - EP 30</title>
+    <desc lang="en">(R) Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans. (重)民情、民生、民意！【前线追踪】紧跟社会民生步伐，追踪调查时事动态，探讨新加坡人关心的课题，针对问题的核心追根究底。.</desc>
   </programme>
-  <programme start="20191030220000 +0800" stop="20191030230000 +0800" channel="Channel U">
-    <title lang="en">花遊記 A Korean Odyssey  - EP 28</title>
-    <desc lang="en">Priestess A'si will be summoning a black dragon. The Devil King says that the black dragon is especially powerful and suggests that Sanzang allows her body to be taken over by the black dragon to enable Wukong to eliminate it with the Heavenly Sword. Wukong does not approve of the suggestion. (PG13-部分画面令人不安)(双声道-中/韩)悟空查到即将被阿斯女召唤的龙是恶毒的黑龙。魔王说黑龙非常强大，就连悟空都可能没办法制服它。魔王建议将三藏的身体当成容器让黑龙附上去，然后由悟空用天剑将黑龙和三藏一起消灭。悟空不答应。</desc>
+  <programme start="20191106073000 +0800" stop="20191106080000 +0800" channel="Channel 8">
+    <title lang="en">狮城有约精华版 Hello Singapore Highlights  - EP 158</title>
+    <desc lang="en">Deliver social features that matter to you. 总结一天大小事，关心属于你我的家园。.</desc>
   </programme>
-  <programme start="20191030230000 +0800" stop="20191030233000 +0800" channel="Channel U">
+  <programme start="20191106080000 +0800" stop="20191106090000 +0800" channel="Channel 8">
+    <title lang="en">天空渐渐亮 Daybreak - EP 12</title>
+    <desc lang="en">(R) Tianliang was knocked down by a car, and it was Yong Cheng who did it on purpose to seek revenge for his deceased wife. Wan An was shocked and guilty. She took care of Tianliang and in the process, got to know him better and gradually accepted him. When Tianliang finds out about Wan An's intention, he started to woo her. Wan An was moved by Tianliang's actions, and they finally got together. (PG)(重)永诚为死去的妻子复仇，故意驾车撞伤天亮。婉安得知父亲撞伤的人是天亮，感到震惊又歉疚。婉安照顾天亮，对他的为人有更深的了解，渐渐接受他。天亮得知婉安的心意后，对她展开连串攻势。婉安被天亮的傻劲所感动，两人终在一起。.</desc>
+  </programme>
+  <programme start="20191106090000 +0800" stop="20191106093000 +0800" channel="Channel 8">
+    <title lang="en">晨光第一线 Morning Express  - EP 158</title>
+    <desc lang="en">(Live) A daily brand new News belt, from Monday to Friday, 9am - 9.30am. （现场直播）全新新闻时段，每逢星期一至五，早上九点，准时送上。.</desc>
+  </programme>
+  <programme start="20191106093000 +0800" stop="20191106100000 +0800" channel="Channel 8">
+    <title lang="en">老友万岁 Old Is Gold - EP 115</title>
+    <desc lang="en">(R) Jun Yang realises that Mei Fang is actually kind by nature and therefore tries to question her on whether she framed Xin Xin. Mei Fang denies but is actually angry that even Jun Yang is helping Xin Xin, and therefore decides to put Xin Xin in a corner. Mei Fang announces in the Centenarian Home that there is an internal thief, and orders all staff to open up their lockers, a lost worth 30 thousand dollars was found in Xin Xin's locker. (PG)(重)俊阳发现美芳的本质是善良的，婉转探问美芳有没有陷害欣欣。美芳矢口否认，心里却气连俊阳都帮着欣欣，决定置欣欣于绝境。美芳向众人宣布千岁之家出了内贼，命所有员工开储物柜表清白，结果在欣欣的储物柜搜出之前不见的3万块支票！.</desc>
+  </programme>
+  <programme start="20191106100000 +0800" stop="20191106103000 +0800" channel="Channel 8">
+    <title lang="en">女人好健康 Good Health Women - EP 4</title>
+    <desc lang="en">(R) Darren hosts this new healthcare program that explores both Western &amp; traditional approaches to womens illnesses  from a male perspective. (重)主持庄文杰这次担任女人健康大使，找来中医、西医、物理治疗师从多个角度分享女人健康密码，了解与预防女人常见的毛病如经痛，中风，慢性疲劳等等。.</desc>
+  </programme>
+  <programme start="20191106103000 +0800" stop="20191106123000 +0800" channel="Channel 8">
+    <title lang="en">家和万事兴 Lee's Family Reunion  - EP 0064 &amp; 0065</title>
+    <desc lang="en">(R) Passed down from generation to generation, the Li Ji Cake Shop has a hundred-year history to boast about. However, though the Li family look happy on the outside, there are conflicts aplenty behind closed doors. (PG)(重)《李记饼铺》代代相传已有百年，看似幸福美满的三代同堂，其实暗潮汹涌。老太爷李万世育有二子，长子再传留在饼店里帮忙，私生子再兴则流落在外，生活潦倒。主演：黄少褀饰高天诚，六月饰陈慧心，韩瑜饰李正男，方文琳饰罗秀琴。.</desc>
+  </programme>
+  <programme start="20191106123000 +0800" stop="20191106130000 +0800" channel="Channel 8">
+    <title lang="en">不说你不知 Trivia Trove 2 - EP 3</title>
+    <desc lang="en">(R)  (重).</desc>
+  </programme>
+  <programme start="20191106130000 +0800" stop="20191106133000 +0800" channel="Channel 8">
+    <title lang="en">一点新闻 News 8 At One - EP 158</title>
+    <desc lang="en">Weekday afternoon updates on local and world news headlines. 《一点新闻》为您提供更新的本地与全球新闻头条。.</desc>
+  </programme>
+  <programme start="20191106133000 +0800" stop="20191106140000 +0800" channel="Channel 8">
+    <title lang="en">118 II 118 S2 - EP 19</title>
+    <desc lang="en">(R) Shun Feng's big day is filled with unforeseen circumstances. First he was late due to a tummy ache, next he got the address of his bride wrong, causing everyone to worry. (PG-些许性相关语)(重)顺风结婚大喜之日，118全家一片喜气洋洋，但娶新娘的过程却状况连连。先是顺风临出门时肚子痛，耽搁了时间，到了后港，却找不到新娘所住的组屋，后来才发现搞错地址，是盛港而不是后港。.</desc>
+  </programme>
+  <programme start="20191106140000 +0800" stop="20191106143000 +0800" channel="Channel 8">
+    <title lang="en">哆啦A梦 New Doraemon - EP 48</title>
+    <desc lang="en">(R) This animation series centres on a robotic cat from the future, Doraemon. With its various magical gadgets, Doraemon helps its master solve all kinds of problems. (重)在这系列卡通动画里，小朋友们将看到哆啦A梦 - 这只来自未来世界的机器猫，如何应用它的法宝，协助其主人大雄解决生活上的各种难题。.</desc>
+  </programme>
+  <programme start="20191106143000 +0800" stop="20191106153000 +0800" channel="Channel 8">
+    <title lang="en">三生三世十里桃花 Eternal Love - EP 32</title>
+    <desc lang="en">(R) Sujin learns that Yehua and A-Li has moved to Qingqiu. She is devastated and sends her maid to Qingqiu to inform Baiqian of the rules of the Heavens, hoping that Baiqian will cancel the engagement on her own accord.  (PG)(重)素锦得知夜华与阿离特意搬到青丘 ，十分不服气。她派了辛奴去给白浅讲天宫的规矩，还诋毁白浅想让她主动退婚。.</desc>
+  </programme>
+  <programme start="20191106153000 +0800" stop="20191106163000 +0800" channel="Channel 8">
+    <title lang="en">万福楼 Bountiful Blessings - EP 2</title>
+    <desc lang="en">(R) Fuxi faces a restaurant problem with a food poisoning issue and has no choice but to look for Dafeng for help. Dafeng wants her to sell Wan Fu Lou to him, and says he is the cause of her problem. It turns out Dafeng wants revenge after being humiliated and heart-broken when Fuxi had to cancel their wedding plans. To make up to Dafeng, Fuxi decides to sell Wan Fu Lou. (重)福喜因食物中毒事件面对巨额赔偿，走投无路下找大丰帮忙，大丰要福喜将万福楼卖给他，并坦承一切都是他所为，目的是要报复福喜当年在婚礼上弃他而去，让他饱受屈辱和难堪。为了让大丰减轻恨意，福喜最终答应把万福楼卖给他。.</desc>
+  </programme>
+  <programme start="20191106163000 +0800" stop="20191106173000 +0800" channel="Channel 8">
+    <title lang="en">甘味人生 Taste Of Life - EP 257</title>
+    <desc lang="en">Zhao Ju Cai and his wife Li Jin Xiu have five children. Devoted all his life to developing soy sauce products, much as Zhao Ju Cai hopes that one of his kids can follow his footsteps and take over his business, but he also respects their own passions and aspirations. Because of their father's pursuit of invention, the Zhao brothers' lives are about to change. (PG)赵居财，一生致力研发酱油产品，与妻李锦琇育有五个孩子；居财虽然希望众孩子之中有人接手经營家业，但也尊重孩子们的兴趣和志向。赵家兄弟也因为父亲赵居财的「发明梦」，人生逐渐起了变化。.</desc>
+  </programme>
+  <programme start="20191106173000 +0800" stop="20191106183000 +0800" channel="Channel 8">
+    <title lang="en">祖先保佑2 Blessings 2  - EP 10</title>
+    <desc lang="en">(R) Xue Geng wants to be Master Tian's apprentice to learn his skills of making cakes, but Master Tian repeatedly rejects him. However, with the help of Chunxian, Xue Geng soon becomes Master Tian's mentee. Xue Geng is grateful and begins to have a good impression on Chunxian. He decides to pursue her. Da Xi is delighted that the two of them finally get together and has completed his tasks. He plans to go back to the future on the full moon night. (PG-些许暴力画面)(重)学庚一心想拜田师傅为师，做出好吃的饼，但一再遭到田师傅的拒绝。后在春仙帮忙下，终如愿以偿。学庚感激下，开始对春仙有好感，决定追求她。大喜欣慰两人终于在一起，自己已经完成任务，决定在月圆之夜回去未来。.</desc>
+  </programme>
+  <programme start="20191106183000 +0800" stop="20191106193000 +0800" channel="Channel 8">
+    <title lang="en">狮城有约 Hello Singapore   - EP 27</title>
+    <desc lang="en">(Live) Delivering the day's latest news and social features that matter to you. Every Monday to Friday, from 6.30pm to 7.30pm on Channel 8. （现场直播）总结一天大小事，关心属于你我的家园。每逢星期一至五，傍晚6.30-7.30pm，与你相约！.</desc>
+  </programme>
+  <programme start="20191106193000 +0800" stop="20191106200000 +0800" channel="Channel 8">
+    <title lang="en">老友万岁 Old Is Gold - EP 116</title>
+    <desc lang="en">Xin Xin has been accused of embezzlement and is thus being chased out of the Centenarian Home. She is furious and regrets not listening to the advices of Li E and Sha Sha. Mei Fang tells Sean that she has finally let Xin Xin have a taste of her own medicine, as revenge for when Xin Xin wronged her and caused her to leave the Centenarian Home. Jun Yang overhears, and is furious. Mei Fang insists that everything she has done is to protect the Centenarian Home, Jun Yang refuses to accept. (PG)欣欣被指盗用公款，被赶出千岁之家。她气愤不已，后悔没听丽娥和莎莎劝告。美芳向Sean表示自己终于以牙还牙，报复了欣欣当初害她离开千岁之家的冤屈。俊阳听到，气愤不已。美芳坚持自己所做一切都是在捍卫千岁之家，俊阳无法接受。.</desc>
+  </programme>
+  <programme start="20191106200000 +0800" stop="20191106210000 +0800" channel="Channel 8">
+    <title lang="en">午餐吃什么  What's For Lunch?  - EP 6</title>
+    <desc lang="en">What's For Lunch? Find out what is Michelle Chong &amp; Dad's favourite lunch choice! 《午餐吃什么？》之名人推荐：庄米雪和庄爸爸有什么午餐好介绍？.</desc>
+  </programme>
+  <programme start="20191106210000 +0800" stop="20191106220000 +0800" channel="Channel 8">
+    <title lang="en">天空渐渐亮 Daybreak - EP 13</title>
+    <desc lang="en">Lian Mei feels helpless and sorry for Tian Qing, who has to take care of the both of them elderlies. She tricked Huo Shui into suffocating her with a pillow. By the time Tian Qing realized what happened, it was too late. Huo Shui ran away, and Tian Qing was arrested for suspected murder.   (PG-部分画面令人不安)莲妹见天晴照顾他们两老很辛苦，自己又无能为力，便骗活水帮她做一件事，用枕头盖住她的头，紧紧压住，活水照做。等到天晴发现的时候，莲妹已经没了呼吸。活水径直离家，天晴涉嫌谋杀被捕。.</desc>
+  </programme>
+  <programme start="20191106220000 +0800" stop="20191106223000 +0800" channel="Channel 8">
     <title lang="en">晚间新闻 News Tonight</title>
-    <desc lang="en">A comprehensive half-hour news programme, NEWS TONIGHT provides viewers with important local, international and financial developments for the day. U频道《晚间新闻》，在半小时里除深入报道本地与国际要闻，还有详尽的财经新闻和体坛动态。世界局势与经济动脉，让大家轻松掌握。</desc>
+    <desc lang="en">Daily evening updates on top local news and world news. 《晚间新闻》每日为您提供最全面的本地与全球新闻报道。.</desc>
   </programme>
-  <programme start="20191030233000 +0800" stop="20191031000000 +0800" channel="Channel U">
-    <title lang="en">寻医 A Medical Journey - EP 4</title>
-    <desc lang="en">(R) The remote river islands along India's Brahmaputra River in Assam are home to millions - yet basic healthcare is limited. Jojo Goh hops onto the boat clinics to deliver medical care, and to understand how lives are lost as islanders battle yearly flooding and extreme soil erosion, when typhoon strikes. (重)主持人吴俐璇首次乘船出诊，将医疗服务送到印度阿萨姆邦一条大河上的村庄里。大河将村民隔绝在现代医疗之外，唯有医疗船，能把疫苗接种和紧急接生等服务带给孤立无援的人。雨季大河年年洪涝，医疗船该怎么救死扶伤？</desc>
+  <programme start="20191106223000 +0800" stop="20191106230000 +0800" channel="Channel 8">
+    <title lang="en">寻花探草 Sr 5 Garden Of Treasure Sr 5 - EP 11</title>
+    <desc lang="en">Hosted by Zhuan Wenjie; season 5 returns with a story on how a farmer interacts with nature. A group of herbalists also teaches you how to make unique herbal soaps as you rediscover traditional herbs. 主持人庄文杰带大家逃离忙碌生活，寻访有故事的农人，看看他们 如何亲手打造一片农田，过着最与世无争的农家生活。.</desc>
   </programme>
   <programme start="20191031000000 +0800" stop="20191031003000 +0800" channel="Channel U">
     <title lang="en">寻医 A Medical Journey - EP 4</title>
@@ -2083,53 +2208,63 @@
     <title lang="en">晚间新闻 News Tonight</title>
     <desc lang="en">A comprehensive half-hour news programme, NEWS TONIGHT provides viewers with important local, international and financial developments for the day. U频道《晚间新闻》，在半小时里除深入报道本地与国际要闻，还有详尽的财经新闻和体坛动态。世界局势与经济动脉，让大家轻松掌握。</desc>
   </programme>
-  <programme start="20191030150000 +0800" stop="20191030160000 +0800" channel="Suria">
-    <title lang="en">Juxbox Ekspres</title>
-    <desc lang="en">Groove to the music videos by local and regional talents in Juxbox Ekspres</desc>
+  <programme start="20191105233000 +0800" stop="20191106000000 +0800" channel="Channel U">
+    <title lang="en">食材地图 Our Daily Food - EP 2</title>
+    <desc lang="en">(R) In this episode, let's follow Pornsak &amp; Cui Fang to explore the production process and cultural heritage of Japanese tofu, how Taiwanese fermented tofu manufacturer uses various ingredients to develop into different flavours and the cultivation of organic kailan in Malaysia and Taiwanese cabbage. (重)在这一集的《食材地图》节目中，跟随Pornsak和林翠芳一窥日本豆腐的制作过程和文化底蕴，看台湾豆腐乳厂家如何利用不同的食材融合，研制出不同口味的豆腐乳，了解台湾高丽菜和马来西亚有机芥蓝菜的种植。.</desc>
   </programme>
-  <programme start="20191030160000 +0800" stop="20191030170000 +0800" channel="Suria">
-    <title lang="en">Pembancuh Kopi Mr Vampire - EP 22</title>
-    <desc lang="en">CEO Alif Irsyad never thought that one day, he will fall in love with a waitress. His theory is simple - ordinary girls like Nuzul are not on his level. However, what will happen when he finds himself falling for her?</desc>
+  <programme start="20191106000000 +0800" stop="20191106003000 +0800" channel="Channel U">
+    <title lang="en">食材地图 Our Daily Food - EP 2</title>
+    <desc lang="en">(R) In this episode, let's follow Pornsak &amp; Cui Fang to explore the production process and cultural heritage of Japanese tofu, how Taiwanese fermented tofu manufacturer uses various ingredients to develop into different flavours and the cultivation of organic kailan in Malaysia and Taiwanese cabbage. (重)在这一集的《食材地图》节目中，跟随Pornsak和林翠芳一窥日本豆腐的制作过程和文化底蕴，看台湾豆腐乳厂家如何利用不同的食材融合，研制出不同口味的豆腐乳，了解台湾高丽菜和马来西亚有机芥蓝菜的种植。.</desc>
   </programme>
-  <programme start="20191030170000 +0800" stop="20191030180000 +0800" channel="Suria">
-    <title lang="en">Projek Skrip - EP 1</title>
-    <desc lang="en">Programme is not available for live streaming. Sarah holds on tightly to her fiance, Rezal, who is younger and lives a reckless life. Despite her parents' advice and signs that she should leave him, she still believes that the relationship would eventually work out. However, she finds out that Rezal has been two-timing her with his ex, Maria, even impregnating her</desc>
+  <programme start="20191106003000 +0800" stop="20191106013000 +0800" channel="Channel U">
+    <title lang="en">没有名字的女人 Unknown Woman  - EP 39</title>
+    <desc lang="en">(R) Haizhu finds out that Maya is actually Ruli's daughter, Xiaochun. She is infuriated by the realization of having raised Ruli's daughter and Zhiyuan having lied to her all these years. Zhiyuan reveals that Jiaya could be suffering the same sickness as Haichen, and Maya may be their saviour one day. (PG)(重)(双声道-中/韩)海珠得知玛亚是如莉的女儿，非常崩溃，她不能相信自己爱了那么久的女儿竟然是如莉的，智媛跟她说嘉亚很有可能得跟海成一样的病，所以领养着玛亚，有可能会是将来挽救嘉亚的人，海珠内心痛苦，却只能忍着。.</desc>
   </programme>
-  <programme start="20191030180000 +0800" stop="20191030183000 +0800" channel="Suria">
-    <title lang="en">BoBoiBoy Galaxy - EP 2</title>
-    <desc lang="en">BoBoiBoy must chase and defeat his arch nemeses Adu Du and Probe who have kidnapped Motobot and brought him to a Space R&amp;R</desc>
+  <programme start="20191106013000 +0800" stop="20191106023000 +0800" channel="Channel U">
+    <title lang="en">没有名字的女人 Unknown Woman  - EP 40</title>
+    <desc lang="en">(R) Zhiyuan demands to see the complete video that Yunxue is using to threaten her but knowing that the video is incomplete, Yunxue refused. Wulie asks his mother not to reveal to Yunxue that Maya is Xiaochun. Jiaya was about to tell Maya that he saw her photos on TV but was stopped by Haizhu. (PG)(重)(双声道-中/韩)智媛要看完整版的视频才能确认道英受伤是自己害的，而视频的后半部分尹雪还在找人复原当中，尹雪拒绝给她。武烈不让他母亲说出玛亚是尹雪的孩子。嘉亚之前在电视上看到尹雪拿着玛亚的照片，想把事件告诉玛亚，被海珠阻止。.</desc>
   </programme>
-  <programme start="20191030183000 +0800" stop="20191030190000 +0800" channel="Suria">
-    <title lang="en">Resepi Memikat Suami 3 - EP 8</title>
-    <desc lang="en">Popular Malaysian comedian and host, Jihan Musa will host this cooking show that feature popular celebrities who will cook for their husbands to break fast. Featuring special guest Yana Shamsuddin and her husband</desc>
+  <programme start="20191106023000 +0800" stop="20191106110000 +0800" channel="Channel U">
+    <title lang="en">End of Transmission</title>
   </programme>
-  <programme start="20191030190000 +0800" stop="20191030200000 +0800" channel="Suria">
-    <title lang="en">Mr Donat Karamel - EP 7</title>
-    <desc lang="en">Anggun accepts Faiq's marriage proposal. As their wedding date draws near, Anggun finds out about Rafiqi's real identity. Mimin gets upset at Redwan for keeping Faiq's secret from her and decides to break up with him</desc>
+  <programme start="20191106110000 +0800" stop="20191106150000 +0800" channel="Channel U">
+    <title lang="en">JML Home Shopping - Infomercial</title>
   </programme>
-  <programme start="20191030200000 +0800" stop="20191030203000 +0800" channel="Suria">
-    <title lang="en">Berita - EP 213</title>
-    <desc lang="en">Catch the latest local and international news on Suria</desc>
+  <programme start="20191106150000 +0800" stop="20191106160000 +0800" channel="Channel U">
+    <title lang="en">烧。卖 Served H.O.T. - EP 9</title>
+    <desc lang="en">(R) Tai Hu wants to steal over Nanyang eatery's customers to their restaurant chain. He managed to invite celebrity chef Gordon Ramy to be part of his events. Owen turned his nose up at Gordon Ramy's westernized Roast Pork Noodles and openly challenged Gordon Ramy to see who can make better Char Siew.  (PG)(重)小吃店名声大噪，电视台来采访，但富贵有隐忧。欧文不屑Gordon Ramy自创的‘叉烧云吞面’，向对方下战书。欧文要以道地云吞面挑战名厨，此举遭队友们强力反对。欧文失落离开小吃店，结果惨被围殴。.</desc>
   </programme>
-  <programme start="20191030203000 +0800" stop="20191030210000 +0800" channel="Suria">
-    <title lang="en">Detik - EP 26</title>
-    <desc lang="en">The half hour program analyses and dissect issues of concern to the Malay-Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives</desc>
+  <programme start="20191106160000 +0800" stop="20191106170000 +0800" channel="Channel U">
+    <title lang="en">线人2 Fixer 2 - EP 9</title>
+    <desc lang="en">(R) The Citarum River in Indonesia is one of the dirtiest rivers in the world. The pollution issue has become a public health hazard. The villagers are the innocent victims who have nowhere to lodge complaints.  Will their grievances be heard by the authority and improve on the deteriorating condition? (重)印度尼西亚的芝塔龙河，是全世界最肮脏的河流之一。河流的污染问题已演变成公共健康危。村民是殃及池鱼的无辜者，无处可投诉的苦楚，日复一日的恶性循环，哪一天才会得到妥善的处理，他们的心声执政者听得到吗？.</desc>
   </programme>
-  <programme start="20191030210000 +0800" stop="20191030213000 +0800" channel="Suria">
-    <title lang="en">Jejak Jenayah - EP 8</title>
-    <desc lang="en">Watch how officers from the Criminal Investigation Department and the Technology Crime Forensics Branch persevered in their investigations, and spared no effort to crack down on online prostitution vice activities, and bring the perpetrators to justice. In this episode, we will also share tips on how to safeguard yourself against Credit-for-Sex Scam</desc>
+  <programme start="20191106170000 +0800" stop="20191106180000 +0800" channel="Channel U">
+    <title lang="en">我女婿的女人 Marrying My Daughter Twice  - EP 80</title>
+    <desc lang="en">(R) Zaiyong lies to Minzhi that Yinghao wants to give him a sum of money in exchange for the memory drive, then sends the loan sharks to give Minzhi a beating right after Minzhi has handed over the memory drive. Minzhi falls during the struggle and hurts his head. He dies shortly after. (PG-些许暴力画面)(重)(双声道-中/韩)载永骗民植说英鎬托他把一笔钱拿给民植。民植开心，计划拿到钱就离开韩国。载永从民植手上接获随身碟后，立刻安排民植被高利贷业者围攻。民植与高利贷业者纠缠时，跌倒撞到头部，伤重不治。.</desc>
   </programme>
-  <programme start="20191030213000 +0800" stop="20191030223000 +0800" channel="Suria">
-    <title lang="en">Baru Nak Up - EP 3</title>
-    <desc lang="en">Roza tries to convince her father, Rosli, on the cafe's revamp. Will he be able to accept her idea? Nora comes home to a surprise and has a talk with her husband, Haizad. Afiq secures a new client. Amelia decides to hide a secret from her mum</desc>
+  <programme start="20191106180000 +0800" stop="20191106190000 +0800" channel="Channel U">
+    <title lang="en">大力女都奉顺 Strong Girl Bong-Soon - EP 11</title>
+    <desc lang="en">(R) The serial kidnapper goes to the hospital to harm Jingxin but Fengshun pops up just in time to stop him injecting Jingxin with poison and chased after the kidnapper. Guodou storms into Jingxin's room to berate Fengshun for chasing the kidnapper herself without concern for her own safety. (PG-些许暴力画面)(重)(双声道-中/韩)嫌犯来到京心的病房，正欲向京心注射不明液体，却被奉顺拦了下来。国斗得知奉顺不顾危险去追犯人，大发雷霆，两人争吵起来。.</desc>
   </programme>
-  <programme start="20191030223000 +0800" stop="20191030233000 +0800" channel="Suria">
-    <title lang="en">Aduh...Bibikku! 2 - EP 4</title>
-    <desc lang="en">Tina wants Tipez to keep her profession a secret from her friends which worries Tipez. Neng is surprised to see Ayob appear at Imah's front door. Wiwik tries to stop Suzan from meeting Haikal but Suzan bulldozes her way. Shah returns home and is shocked to hear Rosie screaming</desc>
+  <programme start="20191106190000 +0800" stop="20191106200000 +0800" channel="Channel U">
+    <title lang="en">没有名字的女人 Unknown Woman  - EP 41</title>
+    <desc lang="en">Zhiyuan is relieved after she discovered the video that Yunxue threatened her with is incomplete. Daozhi announces he is marrying Yunxue over the weekend, making Wulie unhappy. In order to stop Yunxue seeing Maya, Haizhu decides to send her overseas. (PG)(双声道-中/韩)智媛知道尹雪手里拿着没有说服力的视频，大感安心。得知道治将在周末与尹雪举行婚宴，武烈失望。为了不让尹雪接近玛亚，海珠打算送玛亚出国。.</desc>
   </programme>
-  <programme start="20191030233000 +0800" stop="20191031000000 +0800" channel="Suria">
-    <title lang="en">Berita - EP 213</title>
-    <desc lang="en">Catch the latest local and international news on Suria</desc>
+  <programme start="20191106200000 +0800" stop="20191106210000 +0800" channel="Channel U">
+    <title lang="en">没有名字的女人 Unknown Woman  - EP 42</title>
+    <desc lang="en">On Daozhi and Yunxue's wedding day, Yunxue is arrested by the police on a tip-off by Zhiyuan. Yunxue changes her identity back to Ruli and is jailed for 2 years. Ruli receives an anonymous letter stating she will take care of Xiaochun and attached Xiaochun's hair. Ruli is excited. (PG)(双声道-中/韩)道治与尹雪婚礼当天, 警方带人来抓尹雪，智媛作证尹雪就是当年的逃犯。尹雪打算回复如莉身份，最终被判刑两年。在监狱里她收到一封来信，里面还放着玛亚的头发，还鼓励她不要放弃活下去的希望，如莉非常兴奋。.</desc>
+  </programme>
+  <programme start="20191106210000 +0800" stop="20191106220000 +0800" channel="Channel U">
+    <title lang="en">寻医 A Medical Journey - EP 5</title>
+    <desc lang="en">In Vietnam, more than 300 patients died of cancer every day. Jojo Goh visits the biggest cancer facility in Hanoi - the K Hospital to understand how cancer is turning into a health crisis. A trip to a cancer village also reveals a bleak environmental hazard which threatens the people's health. 越南每天有超过300人因癌症不治而丧命。主持人吴俐璇拜访越南北部城市河内最大的癌症医院，了解儿童癌症病患的情况与寻医历程。她也前往城外的一个“癌症村”，发现当地的工业污染日趋严重，严重威胁市民的健康。.</desc>
+  </programme>
+  <programme start="20191106220000 +0800" stop="20191106230000 +0800" channel="Channel U">
+    <title lang="en">武法律師 Lawless Lawyer  - EP 1</title>
+    <desc lang="en">A judge sentences a woman to 20 years in jail for murdering her abusive husband. The accused's lawyer, He Zaiyi, punches the judge as she thinks the punishment is unfair. Zaiyi is sacked by her law firm for her outburst of emotions. (PG13-暴力镜头)(首播)(双声道-中/韩)一名妇女杀了对她和女儿施暴的丈夫。法官判该妇女入狱20年，辨方律师河在伊不满判决，跟法官起争执，打了法官一拳，被罚停止执业六个月，还被律师行解雇。.</desc>
+  </programme>
+  <programme start="20191106230000 +0800" stop="20191106233000 +0800" channel="Channel U">
+    <title lang="en">晚间新闻 News Tonight</title>
+    <desc lang="en">A comprehensive half-hour news programme, NEWS TONIGHT provides viewers with important local, international and financial developments for the day. U频道《晚间新闻》，在半小时里除深入报道本地与国际要闻，还有详尽的财经新闻和体坛动态。世界局势与经济动脉，让大家轻松掌握。.</desc>
   </programme>
   <programme start="20191031000000 +0800" stop="20191031150000 +0800" channel="Suria">
     <title lang="en">End of Transmission</title>
@@ -2456,57 +2591,56 @@
     <title lang="en">Aduh...Bibikku! 2 - EP 7</title>
     <desc lang="en">Rosie receives an overseas seminar invitation. Shah is excited planning his moves towards Monica while Rosie is away. Tipez is becoming more popular among her followers in social media. Neng braves herself to confront Ayob about Imah. Haikal chided Wiwik for her lack of work commitment at home</desc>
   </programme>
-  <programme start="20191030160000 +0800" stop="20191030160200 +0800" channel="Channel NewsAsia">
-    <title lang="en">Headline News - EP 1</title>
-    <desc lang="en">Update on local and world news</desc>
+  <programme start="20191105233000 +0800" stop="20191106000000 +0800" channel="Suria">
+    <title lang="en">Berita - EP 219</title>
+    <desc lang="en">Catch the latest local and international news on Suria.</desc>
   </programme>
-  <programme start="20191030160200 +0800" stop="20191030163000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Why It Matters 3 - EP 2</title>
-    <desc lang="en">When you fly, do you hunt for the cheapest ticket online? Are we gambling with our lives when we do so? Joshua Lim finds out</desc>
+  <programme start="20191106000000 +0800" stop="20191106150000 +0800" channel="Suria">
+    <title lang="en">End of Transmission</title>
   </programme>
-  <programme start="20191030163000 +0800" stop="20191030170000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Rishi &amp; Sharul Try... - EP 2</title>
-    <desc lang="en">Decluttering doyenne Marie Kondo promises that "tidying can transform your life." Rishi and Sharul goes through a week of decluttering and minimalist living to find out if less is truly more</desc>
+  <programme start="20191106150000 +0800" stop="20191106160000 +0800" channel="Suria">
+    <title lang="en">Juxbox Ekspres</title>
+    <desc lang="en">Groove to the music videos by local and regional talents in Juxbox Ekspres.</desc>
   </programme>
-  <programme start="20191030170000 +0800" stop="20191030190000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Asia Now - EP 1</title>
-    <desc lang="en">Catch 'live' breaking news as it happens in Asia with in-depth analysis and expert opinions to the day's events</desc>
+  <programme start="20191106160000 +0800" stop="20191106170000 +0800" channel="Suria">
+    <title lang="en">Pembancuh Kopi Mr Vampire - EP 27</title>
+    <desc lang="en">CEO Alif Irsyad never thought that one day, he will fall in love with a waitress. His theory is simple - ordinary girls like Nuzul are not on his level. However, what will happen when he finds himself falling for her?</desc>
   </programme>
-  <programme start="20191030190000 +0800" stop="20191030190200 +0800" channel="Channel NewsAsia">
-    <title lang="en">Headline News - EP 1</title>
-    <desc lang="en">Update on local and world news</desc>
+  <programme start="20191106170000 +0800" stop="20191106180000 +0800" channel="Suria">
+    <title lang="en">Pencuri Cinta Kelas Satu - EP 4</title>
+    <desc lang="en">While on their vacation, Aira expresses how much she misses Taqif. This worries Firzal as he thinks Aira had married him because of Taqif. Jidin promises Firzal to keep Firzal's new status a secret in the office.</desc>
   </programme>
-  <programme start="20191030190200 +0800" stop="20191030193000 +0800" channel="Channel NewsAsia">
-    <title lang="en">This is What I Hear - EP 2</title>
-    <desc lang="en">How instrumental is the role of family in the lives of the hard-of-hearing? And how have their futures been influenced or determined by the decisions of their parents?</desc>
+  <programme start="20191106180000 +0800" stop="20191106183000 +0800" channel="Suria">
+    <title lang="en">BoBoiBoy Galaxy - EP 4</title>
+    <desc lang="en">The group is fighting against Adu Du and Probe, who are also searching for a Power Sphera when they encounter Cattus, a cute Cat + Cactus with the ability to turn into a monster.</desc>
   </programme>
-  <programme start="20191030193000 +0800" stop="20191030200000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Ladies, Fall In! - EP 2</title>
-    <desc lang="en">The series follows 4 women of different ages as they participate in MINDEF's 2-day women's bootcamp. We hear from them their motivations for taking part and what they have learnt from the experience</desc>
+  <programme start="20191106183000 +0800" stop="20191106190000 +0800" channel="Suria">
+    <title lang="en">Resepi Memikat Suami 3 - EP 93</title>
+    <desc lang="en">Popular Malaysian comedian and host, Jihan Musa will host this cooking show that feature popular celebrities who will cook for their husbands to break fast. Featuring special guest Nadia Nissa and her husband.</desc>
   </programme>
-  <programme start="20191030200000 +0800" stop="20191030210000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Asia Tonight - EP 1</title>
-    <desc lang="en">CNA's correspondents bring you the top stories of the day with 'live' reports and interviews to keep you up-to-date on what's happening in one of the most dynamic regions of the world</desc>
+  <programme start="20191106190000 +0800" stop="20191106200000 +0800" channel="Suria">
+    <title lang="en">Mr Donat Karamel  - EP 12</title>
+    <desc lang="en">Zhariff vows to come in between Anggun and Faiq. Faiq goes on a business trip to Singapore leaving Anggun alone at home. While she spends her time in the cafe, Zhariff takes the opportunity to get close to her. His plans backfires when Kamil interrupts him.</desc>
   </programme>
-  <programme start="20191030210000 +0800" stop="20191030210200 +0800" channel="Channel NewsAsia">
-    <title lang="en">Headline News - EP 1</title>
-    <desc lang="en">Update on local and world news</desc>
+  <programme start="20191106200000 +0800" stop="20191106203000 +0800" channel="Suria">
+    <title lang="en">Berita - EP 220</title>
+    <desc lang="en">Catch the latest local and international news on Suria.</desc>
   </programme>
-  <programme start="20191030210200 +0800" stop="20191030220000 +0800" channel="Channel NewsAsia">
-    <title lang="en">The Negotiators - EP 4</title>
-    <desc lang="en">Police negotiators are called into a local welfare office. 27 people have been taken hostage by an armed couple threatening to blow everyone up unless their 3-month-old baby is returned to them</desc>
+  <programme start="20191106203000 +0800" stop="20191106210000 +0800" channel="Suria">
+    <title lang="en">Detik - EP 27</title>
+    <desc lang="en">The half hour program analyses and dissect issues of concern to the Malay-Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
   </programme>
-  <programme start="20191030220000 +0800" stop="20191030230000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Singapore Tonight - EP 1</title>
-    <desc lang="en">From business to politics, health to technology, we bring you up-to-date with the latest news on Singapore and analyze how these events may affect you tomorrow</desc>
+  <programme start="20191106210000 +0800" stop="20191106213000 +0800" channel="Suria">
+    <title lang="en">Puan-Puan, Masuk Baris - EP 1</title>
+    <desc lang="en">More than 100 participants attended the women's boot camp in September. Meet four of the ladies: Michelle and Azzalia are mothers with young sons who want to find out more about army life, while 25-year-old Rachael and 13-year-old Ginger are game for an adventure. What exciting activities await them on Day 1 of the camp?</desc>
   </programme>
-  <programme start="20191030230000 +0800" stop="20191030230200 +0800" channel="Channel NewsAsia">
-    <title lang="en">Headline News - EP 1</title>
-    <desc lang="en">Update on local and world news</desc>
+  <programme start="20191106213000 +0800" stop="20191106223000 +0800" channel="Suria">
+    <title lang="en">Baru Nak Up - EP 4</title>
+    <desc lang="en">Nora suspects Haizad of having an affair when she finds his behavior suspicious. While at work, Ayub falls ill and decides to not tell his family. Rudy's colleague Danish, sabotages Rudy. Chef Bob comes to the Cafe to help with the revamp.</desc>
   </programme>
-  <programme start="20191030230200 +0800" stop="20191031000000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Inside the Cryptokingdom - EP 3</title>
-    <desc lang="en">With bitcoin came blockchain technology - a tool to decentralise all sorts of things beyond crypto-currency. Will it radically transform the way we live, work, and even govern ourselves?</desc>
+  <programme start="20191106223000 +0800" stop="20191106233000 +0800" channel="Suria">
+    <title lang="en">Aduh...Bibikku! 2 - EP 8</title>
+    <desc lang="en">Shah becomes bolder at home when Rosie leaves for Hong Kong. Wiwik is increasingly uncomfortable when Haikal gives her the cold shoulder and instructs her through writing. Tina is worried about Tipez's popularity in social media. Nuha constantly finds fault with Tipez.</desc>
   </programme>
   <programme start="20191031000000 +0800" stop="20191031003000 +0800" channel="Channel NewsAsia">
     <title lang="en">News Now - EP 1</title>
@@ -3460,69 +3594,137 @@
     <title lang="en">Why It Matters 3 - EP 3</title>
     <desc lang="en">There exists among us, a privileged group of people who have been blessed by nature - they just can't get fat. How do skinny people stay skinny while more and more people are getting fat?</desc>
   </programme>
-  <programme start="20191030150000 +0800" stop="20191030153000 +0800" channel="Vasantham">
-    <title lang="en">Super Samayal Sr 2 - EP 66</title>
-    <desc lang="en">Super Samayal Sr 2</desc>
+  <programme start="20191105233000 +0800" stop="20191106000000 +0800" channel="Channel NewsAsia">
+    <title lang="en">Rishi &amp; Sharul Try... - EP 3</title>
+    <desc lang="en">Give up your sense of smell or your smartphone? In one survey, most millennials would prefer to say no to their noses. Rishi and Sharul find out what it's like to disconnect - with a Digital Detox.</desc>
   </programme>
-  <programme start="20191030153000 +0800" stop="20191030160000 +0800" channel="Vasantham">
-    <title lang="en">Konjam Soru Konjam Varalaru  - EP 4</title>
-    <desc lang="en">The special food varieties, places of historical importance and road side eateries pertaining to a specific place are presented. It also includes a food item, its history and recipe</desc>
+  <programme start="20191106000000 +0800" stop="20191106003000 +0800" channel="Channel NewsAsia">
+    <title lang="en">News Now - EP 1</title>
+    <desc lang="en">Catch 'live' breaking news as it happens in Asia with in-depth analysis and expert opinions to the day's events.</desc>
   </programme>
-  <programme start="20191030160000 +0800" stop="20191030163000 +0800" channel="Vasantham">
-    <title lang="en">Priyasakhi - EP 189</title>
-    <desc lang="en">'Priyasakhi' is about the life of Dhivya. She has parents who are uncaring and partial, siblings who are jealous and cunning, husband who married her just for challenge and thrill, and in-laws who are unsympathetic and refuse to endorse the marriage</desc>
+  <programme start="20191106003000 +0800" stop="20191106010000 +0800" channel="Channel NewsAsia">
+    <title lang="en">A Singaporean Abroad 2 - EP 4</title>
+    <desc lang="en">Singaporean Carrie Tan left a 10 thousand dollars per-month-job, to focus on her social enterprise  "Daughters of Tomorrow" three years ago. The social enterprise aims to empower women marginalized by gender discrimination in India, by giving them an ability to earn money and craft their destiny.</desc>
   </programme>
-  <programme start="20191030163000 +0800" stop="20191030173000 +0800" channel="Vasantham">
-    <title lang="en">Ishq Ka Rang Safed - EP 0278&amp;0279</title>
-    <desc lang="en">Ishq Ka Rang Safed is set amidst the traditional old city of Banaras in Northern India. Biplab is the carefree, spoilt grandson of the town leader who is slated to go abroad for his law studies. His life takes an abrupt turn when he encounters Dhaani. Dhaani, a young widow leading a life of dignity abiding by her Dharma is a conformist, yet a strong minded individual</desc>
+  <programme start="20191106010000 +0800" stop="20191106010200 +0800" channel="Channel NewsAsia">
+    <title lang="en">Headline News - EP 1</title>
+    <desc lang="en">Update on local and world news.</desc>
   </programme>
-  <programme start="20191030173000 +0800" stop="20191030180000 +0800" channel="Vasantham">
-    <title lang="en">Kaanbom Karpom  - EP 1</title>
-    <desc lang="en">Vasantham brings to you the children's educational series Kaanbom Karpom!</desc>
+  <programme start="20191106010200 +0800" stop="20191106020000 +0800" channel="Channel NewsAsia">
+    <title lang="en">Inside the Cryptokingdom - EP 4</title>
+    <desc lang="en">Pioneers of blockchain technology and crypto-currencies have bold visions of an increasingly virtual future. Will it be a tech-rich utopia? The science-fiction future may be closer than we realise.</desc>
   </programme>
-  <programme start="20191030180000 +0800" stop="20191030190000 +0800" channel="Vasantham">
-    <title lang="en">Theriyatha Tamil Cinema 2 (HD) - EP 11</title>
-    <desc lang="en">The second season of Theriyatha Tamil Cinema, hosted by popular host Puravalan, will present viewers with different captivating facts and information about the Kollywood cinema industry each week</desc>
+  <programme start="20191106020000 +0800" stop="20191106023000 +0800" channel="Channel NewsAsia">
+    <title lang="en">News Now - EP 1</title>
+    <desc lang="en">Catch 'live' breaking news as it happens in Asia with in-depth analysis and expert opinions to the day's events.</desc>
   </programme>
-  <programme start="20191030190000 +0800" stop="20191030193000 +0800" channel="Vasantham">
-    <title lang="en">Anjaraipetti Sr 7  - EP 283</title>
-    <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to</desc>
+  <programme start="20191106023000 +0800" stop="20191106030000 +0800" channel="Channel NewsAsia">
+    <title lang="en">Food Reformers - EP 4</title>
+    <desc lang="en">Have you had to grovel one too many times because you can't remember birthdays, anniversaries, or what you heard five minutes ago? Join Henry Golding as he figures out simple foods that could boost your memory.</desc>
   </programme>
-  <programme start="20191030193000 +0800" stop="20191030200000 +0800" channel="Vasantham">
-    <title lang="en">Velunatchi - EP 98</title>
-    <desc lang="en">Velunachi, a young village girl decides to carry her father's lineage in Tamil martial art form, Silambam</desc>
+  <programme start="20191106030000 +0800" stop="20191106030200 +0800" channel="Channel NewsAsia">
+    <title lang="en">Headline News - EP 1</title>
+    <desc lang="en">Update on local and world news.</desc>
   </programme>
-  <programme start="20191030200000 +0800" stop="20191030203000 +0800" channel="Vasantham">
-    <title lang="en">Kannum Kannum Kollaiyadithal - EP 1</title>
-    <desc lang="en">Lavanya is not a catch unlike her best friend Tara, who is pretty and usually chased by guys. But all those differences don't matter to them. Lavanya and Tara share a beautiful friendship and live together with Sokkima, a special person in their lives.  One day after 15 years, Lavanya receives an email from her childhood love Sathya, who wishes to see her. They both agree to meet up with each other.  Wonder what it's like to meet up decades later? Will they recognize each other?</desc>
+  <programme start="20191106030200 +0800" stop="20191106040000 +0800" channel="Channel NewsAsia">
+    <title lang="en">Jewel After Hours</title>
+    <desc lang="en">Take a look at a different facet of Singapore's latest gem, Jewel Changi Airport. Who are the people working behind-the-scenes, often into the wee hours of the morning, keeping Jewel polished?</desc>
   </programme>
-  <programme start="20191030203000 +0800" stop="20191030210000 +0800" channel="Vasantham">
-    <title lang="en">Tamil Seithi - EP 213</title>
-    <desc lang="en">Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http:--seithi.mediacorp.sg-</desc>
+  <programme start="20191106040000 +0800" stop="20191106043000 +0800" channel="Channel NewsAsia">
+    <title lang="en">News Now - EP 1</title>
+    <desc lang="en">Catch 'live' breaking news as it happens in Asia with in-depth analysis and expert opinions to the day's events.</desc>
   </programme>
-  <programme start="20191030210000 +0800" stop="20191030213000 +0800" channel="Vasantham">
-    <title lang="en">Moondravathu Kann - EP 33</title>
-    <desc lang="en">Moondravathu Kann revolves around Rana Krishnakumar and his team of private detectives. After a career in criminology, Rana decides to venture on his own by setting up Third Eye Detectives, a private investigation company. He hires 4 random individuals who have no experience in the field. Little do they know that they have been hired for a reason</desc>
+  <programme start="20191106043000 +0800" stop="20191106050000 +0800" channel="Channel NewsAsia">
+    <title lang="en">A Singaporean Abroad 2 - EP 4</title>
+    <desc lang="en">Singaporean Carrie Tan left a 10 thousand dollars per-month-job, to focus on her social enterprise  "Daughters of Tomorrow" three years ago. The social enterprise aims to empower women marginalized by gender discrimination in India, by giving them an ability to earn money and craft their destiny.</desc>
   </programme>
-  <programme start="20191030213000 +0800" stop="20191030220000 +0800" channel="Vasantham">
-    <title lang="en">Ethiroli 16 (HD) - EP 31</title>
-    <desc lang="en">There are approximately 250,000 foreign maids working in Singapore currently. According to MOM, two in three do not make it to the end of their two-year contracts, with early termination being costly and disruptive to both employers and workers.The Government is introducing measures to help employers and foreign domestic workers find a better fit and have more lasting relationships.How are agencies seeing the new measures and how are existing employers handling the issues with their domest</desc>
+  <programme start="20191106050000 +0800" stop="20191106050200 +0800" channel="Channel NewsAsia">
+    <title lang="en">Headline News - EP 1</title>
+    <desc lang="en">Update on local and world news.</desc>
   </programme>
-  <programme start="20191030220000 +0800" stop="20191030223000 +0800" channel="Vasantham">
-    <title lang="en">Avathaaram - EP 21</title>
-    <desc lang="en">Avathaaram is a gripping suspense thriller about a series of murders that starts happening in the city after the mysterious death of an academy award-winning actor. Despite common modus operandi, the victims appear to have no connection with each other. The police are led to a prime suspect, Mr Guru who is bedridden and in a vegetative state. The murders continue. Who is the killer? What is Mr Gurus connection to all of this?</desc>
+  <programme start="20191106050200 +0800" stop="20191106060000 +0800" channel="Channel NewsAsia">
+    <title lang="en">Inside the Cryptokingdom - EP 4</title>
+    <desc lang="en">Pioneers of blockchain technology and crypto-currencies have bold visions of an increasingly virtual future. Will it be a tech-rich utopia? The science-fiction future may be closer than we realise.</desc>
   </programme>
-  <programme start="20191030223000 +0800" stop="20191030230000 +0800" channel="Vasantham">
-    <title lang="en">Iruvar (HD) - EP 8</title>
-    <desc lang="en">Sahana is a celebrated author who draws lifeblood and purpose from her work. She announces her next novel amidst much fanfare</desc>
+  <programme start="20191106060000 +0800" stop="20191106070000 +0800" channel="Channel NewsAsia">
+    <title lang="en">Singapore Tonight - EP 1</title>
+    <desc lang="en">From business to politics, health to technology, we bring you up-to-date with the latest news on Singapore and analyze how these events may affect you tomorrow.</desc>
   </programme>
-  <programme start="20191030230000 +0800" stop="20191030233000 +0800" channel="Vasantham">
-    <title lang="en">Nenjukulle - EP 8</title>
-    <desc lang="en">An unplugged music variety show that will feature a live band and a guest celebrity who will share with us their favourite songs</desc>
+  <programme start="20191106070000 +0800" stop="20191106100000 +0800" channel="Channel NewsAsia">
+    <title lang="en">Asia First - EP 1</title>
+    <desc lang="en">You'll wake up to understanding how developments in news and business across the globe overnight impacts you and affects your work day ahead in the Asia Pacific.</desc>
   </programme>
-  <programme start="20191030233000 +0800" stop="20191031000000 +0800" channel="Vasantham">
-    <title lang="en">Tamil Seithi - EP 213</title>
-    <desc lang="en">Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http:--seithi.mediacorp.sg-</desc>
+  <programme start="20191106100000 +0800" stop="20191106100200 +0800" channel="Channel NewsAsia">
+    <title lang="en">Headline News - EP 1</title>
+    <desc lang="en">Update on local and world news.</desc>
+  </programme>
+  <programme start="20191106100200 +0800" stop="20191106103000 +0800" channel="Channel NewsAsia">
+    <title lang="en">Why It Matters 3 - EP 3</title>
+    <desc lang="en">There exists among us, a privileged group of people who have been blessed by nature - they just can't get fat. How do skinny people stay skinny while more and more people are getting fat?</desc>
+  </programme>
+  <programme start="20191106103000 +0800" stop="20191106110000 +0800" channel="Channel NewsAsia">
+    <title lang="en">Rishi &amp; Sharul Try... - EP 3</title>
+    <desc lang="en">Give up your sense of smell or your smartphone? In one survey, most millennials would prefer to say no to their noses. Rishi and Sharul find out what it's like to disconnect - with a Digital Detox.</desc>
+  </programme>
+  <programme start="20191106110000 +0800" stop="20191106130000 +0800" channel="Channel NewsAsia">
+    <title lang="en">Asia Now - EP 1</title>
+    <desc lang="en">Catch 'live' breaking news as it happens in Asia with in-depth analysis and expert opinions to the day's events.</desc>
+  </programme>
+  <programme start="20191106130000 +0800" stop="20191106130200 +0800" channel="Channel NewsAsia">
+    <title lang="en">Headline News - EP 1</title>
+    <desc lang="en">Update on local and world news.</desc>
+  </programme>
+  <programme start="20191106130200 +0800" stop="20191106140000 +0800" channel="Channel NewsAsia">
+    <title lang="en">Inside the Cryptokingdom - EP 4</title>
+    <desc lang="en">Pioneers of blockchain technology and crypto-currencies have bold visions of an increasingly virtual future. Will it be a tech-rich utopia? The science-fiction future may be closer than we realise.</desc>
+  </programme>
+  <programme start="20191106140000 +0800" stop="20191106160000 +0800" channel="Channel NewsAsia">
+    <title lang="en">Asia Now - EP 1</title>
+    <desc lang="en">Catch 'live' breaking news as it happens in Asia with in-depth analysis and expert opinions to the day's events.</desc>
+  </programme>
+  <programme start="20191106160000 +0800" stop="20191106160200 +0800" channel="Channel NewsAsia">
+    <title lang="en">Headline News - EP 1</title>
+    <desc lang="en">Update on local and world news.</desc>
+  </programme>
+  <programme start="20191106160200 +0800" stop="20191106163000 +0800" channel="Channel NewsAsia">
+    <title lang="en">Why It Matters 3 - EP 3</title>
+    <desc lang="en">There exists among us, a privileged group of people who have been blessed by nature - they just can't get fat. How do skinny people stay skinny while more and more people are getting fat?</desc>
+  </programme>
+  <programme start="20191106163000 +0800" stop="20191106170000 +0800" channel="Channel NewsAsia">
+    <title lang="en">Rishi &amp; Sharul Try... - EP 3</title>
+    <desc lang="en">Give up your sense of smell or your smartphone? In one survey, most millennials would prefer to say no to their noses. Rishi and Sharul find out what it's like to disconnect - with a Digital Detox.</desc>
+  </programme>
+  <programme start="20191106170000 +0800" stop="20191106190000 +0800" channel="Channel NewsAsia">
+    <title lang="en">Asia Now - EP 1</title>
+    <desc lang="en">Catch 'live' breaking news as it happens in Asia with in-depth analysis and expert opinions to the day's events.</desc>
+  </programme>
+  <programme start="20191106190000 +0800" stop="20191106190200 +0800" channel="Channel NewsAsia">
+    <title lang="en">Headline News - EP 1</title>
+    <desc lang="en">Update on local and world news.</desc>
+  </programme>
+  <programme start="20191106190200 +0800" stop="20191106200000 +0800" channel="Channel NewsAsia">
+    <title lang="en">Inside the Cryptokingdom - EP 4</title>
+    <desc lang="en">Pioneers of blockchain technology and crypto-currencies have bold visions of an increasingly virtual future. Will it be a tech-rich utopia? The science-fiction future may be closer than we realise.</desc>
+  </programme>
+  <programme start="20191106200000 +0800" stop="20191106210000 +0800" channel="Channel NewsAsia">
+    <title lang="en">Asia Tonight - EP 1</title>
+    <desc lang="en">CNA's correspondents bring you the top stories of the day with 'live' reports and interviews to keep you up-to-date on what's happening in one of the most dynamic regions of the world.</desc>
+  </programme>
+  <programme start="20191106210000 +0800" stop="20191106210200 +0800" channel="Channel NewsAsia">
+    <title lang="en">Headline News - EP 1</title>
+    <desc lang="en">Update on local and world news.</desc>
+  </programme>
+  <programme start="20191106210200 +0800" stop="20191106220000 +0800" channel="Channel NewsAsia">
+    <title lang="en">The Millennial Investor - EP 1</title>
+    <desc lang="en">With the largest Muslim population in the world, Indonesia has ambitions to become the global halal hub. Entrepreneur and investor, Anna Haotanto, discovers if there are opportunities abound.</desc>
+  </programme>
+  <programme start="20191106220000 +0800" stop="20191106230000 +0800" channel="Channel NewsAsia">
+    <title lang="en">Singapore Tonight - EP 1</title>
+    <desc lang="en">From business to politics, health to technology, we bring you up-to-date with the latest news on Singapore and analyze how these events may affect you tomorrow.</desc>
+  </programme>
+  <programme start="20191106230000 +0800" stop="20191106230200 +0800" channel="Channel NewsAsia">
+    <title lang="en">Headline News - EP 1</title>
+    <desc lang="en">Update on local and world news.</desc>
   </programme>
   <programme start="20191031000000 +0800" stop="20191031150000 +0800" channel="Vasantham">
     <title lang="en">End of Transmission</title>
@@ -3870,5 +4072,76 @@
   <programme start="20191105230000 +0800" stop="20191105233000 +0800" channel="Vasantham">
     <title lang="en">Nenjukulle - EP 11</title>
     <desc lang="en">An unplugged music variety show that will feature a live band and a guest celebrity who will share with us their favourite songs</desc>
+  </programme>
+  <programme start="20191105233000 +0800" stop="20191106000000 +0800" channel="Vasantham">
+    <title lang="en">Tamil Seithi - EP 219</title>
+    <desc lang="en">Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http:--seithi.mediacorp.sg-.</desc>
+  </programme>
+  <programme start="20191106000000 +0800" stop="20191106150000 +0800" channel="Vasantham">
+    <title lang="en">End of Transmission</title>
+  </programme>
+  <programme start="20191106150000 +0800" stop="20191106153000 +0800" channel="Vasantham">
+    <title lang="en">Super Samayal Sr 2 - EP 71</title>
+    <desc lang="en">Super Samayal Sr 2.</desc>
+  </programme>
+  <programme start="20191106153000 +0800" stop="20191106160000 +0800" channel="Vasantham">
+    <title lang="en">Konjam Soru Konjam Varalaru  - EP 9</title>
+    <desc lang="en">The special food varieties, places of historical importance and road side eateries pertaining to a specific place are presented. It also includes a food item, its history and recipe.</desc>
+  </programme>
+  <programme start="20191106160000 +0800" stop="20191106163000 +0800" channel="Vasantham">
+    <title lang="en">Priyasakhi - EP 194</title>
+    <desc lang="en">'Priyasakhi' is about the life of Dhivya. She has parents who are uncaring and partial, siblings who are jealous and cunning, husband who married her just for challenge and thrill, and in-laws who are unsympathetic and refuse to endorse the marriage.</desc>
+  </programme>
+  <programme start="20191106163000 +0800" stop="20191106170000 +0800" channel="Vasantham">
+    <title lang="en">Ishq Ka Rang Safed - EP 282</title>
+    <desc lang="en">Ishq Ka Rang Safed is set amidst the traditional old city of Banaras in Northern India. Biplab is the carefree, spoilt grandson of the town leader who is slated to go abroad for his law studies. His life takes an abrupt turn when he encounters Dhaani. Dhaani, a young widow leading a life of dignity abiding by her Dharma is a conformist, yet a strong minded individual.</desc>
+  </programme>
+  <programme start="20191106170000 +0800" stop="20191106173000 +0800" channel="Vasantham">
+    <title lang="en">Ishq Ka Rang Safed - EP 283</title>
+    <desc lang="en">Ishq Ka Rang Safed is set amidst the traditional old city of Banaras in Northern India. Biplab is the carefree, spoilt grandson of the town leader who is slated to go abroad for his law studies. His life takes an abrupt turn when he encounters Dhaani. Dhaani, a young widow leading a life of dignity abiding by her Dharma is a conformist, yet a strong minded individual.</desc>
+  </programme>
+  <programme start="20191106173000 +0800" stop="20191106180000 +0800" channel="Vasantham">
+    <title lang="en">Kaanbom Karpom  - EP 6</title>
+    <desc lang="en">Vasantham brings to you the children's educational series Kaanbom Karpom!</desc>
+  </programme>
+  <programme start="20191106180000 +0800" stop="20191106190000 +0800" channel="Vasantham">
+    <title lang="en">Theriyatha Tamil Cinema 2 (HD) - EP 16</title>
+    <desc lang="en">The second season of Theriyatha Tamil Cinema, hosted by popular host Puravalan, will present viewers with different captivating facts and information about the Kollywood cinema industry each week.</desc>
+  </programme>
+  <programme start="20191106190000 +0800" stop="20191106193000 +0800" channel="Vasantham">
+    <title lang="en">Anjaraipetti Sr 7  - EP 287</title>
+    <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to.</desc>
+  </programme>
+  <programme start="20191106193000 +0800" stop="20191106200000 +0800" channel="Vasantham">
+    <title lang="en">Velunatchi - EP 103</title>
+    <desc lang="en">Velunachi, a young village girl decides to carry her father's lineage in Tamil martial art form, Silambam.</desc>
+  </programme>
+  <programme start="20191106200000 +0800" stop="20191106203000 +0800" channel="Vasantham">
+    <title lang="en">Kannum Kannum Kollaiyadithal - EP 5</title>
+    <desc lang="en">Between Tara's freakout over seeing Sathya again, and Lavanya's freakout over his treatment of her at work, Sathya has worked both roommates into a tizzy today. Lavanya comes home hollering that Sathya will never make her quit her job, she tells Tara that her first love is now her enemy. To not make things worse, Tara decides that telling Lavanya about running into Sathya again would only upset her, vowing to handle it herself. But can she?</desc>
+  </programme>
+  <programme start="20191106203000 +0800" stop="20191106210000 +0800" channel="Vasantham">
+    <title lang="en">Tamil Seithi - EP 220</title>
+    <desc lang="en">Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http:--seithi.mediacorp.sg-.</desc>
+  </programme>
+  <programme start="20191106210000 +0800" stop="20191106213000 +0800" channel="Vasantham">
+    <title lang="en">Thilaanaa - EP 3</title>
+    <desc lang="en">Gitanjalis universe collides with a like-minded soul called Shiva, whose one love in life is dance. Through Shiva, Gitanjali meets 5 girls from different walks of life, deterred from practicing dance. Through Deva, Gitanjali meets Shakthi and his almost defunct dance group. Determined to reconnect them to their purpose, Gitanjali rediscovers herself along the way. Their lives unfold like a dance repertoire, with each movement bringing them towards the next stage of their existence.</desc>
+  </programme>
+  <programme start="20191106213000 +0800" stop="20191106220000 +0800" channel="Vasantham">
+    <title lang="en">Ethiroli 16 (HD) - EP 32</title>
+    <desc lang="en">Ethiroli goes in depth into local stories and major events happening around the world.</desc>
+  </programme>
+  <programme start="20191106220000 +0800" stop="20191106223000 +0800" channel="Vasantham">
+    <title lang="en">Avathaaram - EP 25</title>
+    <desc lang="en">We know Guru's perspective but what happened on the other end. Where is Dhiya? The episode of Answers !</desc>
+  </programme>
+  <programme start="20191106223000 +0800" stop="20191106230000 +0800" channel="Vasantham">
+    <title lang="en">Iruvar (HD) - EP 12</title>
+    <desc lang="en">Sahana is a celebrated author who draws lifeblood and purpose from her work. She announces her next novel amidst much fanfare.</desc>
+  </programme>
+  <programme start="20191106230000 +0800" stop="20191106233000 +0800" channel="Vasantham">
+    <title lang="en">Nenjukulle - EP 12</title>
+    <desc lang="en">Playback singer and music director Ajesh together with guest celebrity Jaburdeen are back again this week with Friends band with a different selection of songs in Nenjukulle 2.</desc>
   </programme>
 </tv>
