@@ -1,7 +1,10 @@
 *.log.txt
 *.exe
+*.swp
 epgupdater.sh
 sources
 youtube-dl
 tokenizer.sh
 windows
+wg++
+test-dir
