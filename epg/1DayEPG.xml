@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RedBull TV">
+    <display-name lang="en">RedBull TV</display-name>
+    <icon src="https://archive.org/download/RedBullTVLogo/Red-Bull-TV-Logo.png" />
+    <url>http://www.redbull.tv</url>
+  </channel>
+  <programme start="20191026023600 +0000" stop="20191026030300 +0000" channel="RedBull TV">
+    <title lang="en">One Track Back</title>
+    <sub-title lang="en">The Matthias Walkner documentary</sub-title>
+    <desc lang="en">Follow Matthias Walkner through a journey of rehab and redemption as he overcomes injury and returns to form. Matthias Walkner, the daredevil in the world of rally raid biking, made the impossible possible: after a heavy crash at the 2016 Dakar Rally, sidelining his career, he gets crowned Dakar Rally champion only two years later.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191026030300 +0000" stop="20191026043500 +0000" channel="RedBull TV">
+    <title lang="en">Game Loading</title>
+    <sub-title lang="en">Rise of the indies</sub-title>
+    <desc lang="en">Disrupting the big-budget games industry, indie developers have impacted the world of video games in a big way. Explore the world of indie game developers – their craft, their games, their dreams and the way that these small teams of artists and programmers have forever changed not only video game culture, but the world at large.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191026043500 +0000" stop="20191026045900 +0000" channel="RedBull TV">
+    <title lang="en">Human Dart</title>
+    <sub-title lang="en">Ultimate Rush</sub-title>
+    <desc lang="en">A skydiver goes high and long to set the world record for the farthest absolute distance flown in a wingsuit. Skydiver Andy Stumpf loves a challenge, so when he has the opportunity to break four world records in one shot, he jumps at the chance. But what he wants above all else is to break the record for the farthest absolute distance flown in a wingsuit.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191026045900 +0000" stop="20191026070200 +0000" channel="RedBull TV">
+    <title lang="en">Racing Together</title>
+    <sub-title lang="en">Motorcycle racing's journey</sub-title>
+    <desc lang="en">The history of motorcycle racing is charted through its best riders, from former legends to today’s stars. Discover the history of motorcycle racing through its key personalities, from former legends to today’s multi-title-winning, globetrotting riders, such as Mick Doohan, Valentino Rossi and Marc Márquez.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191026072900 +0000" stop="20191026075000 +0000" channel="RedBull TV">
+    <title lang="en">Life Beyond Earth</title>
+    <sub-title lang="en">Liquid Science</sub-title>
+    <desc lang="en">US rapper GZA visits the Mars Desert Research Station in Utah and NASA’s Jet Propulsion lab in California. American rapper GZA reflects on two big issues facing humanity: where we came from and whether we're alone. We’ve searched for answers for hundreds of years here on Earth, but perhaps it's time for us to adjust our gaze to the great beyond.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191026075000 +0000" stop="20191026081200 +0000" channel="RedBull TV">
+    <title lang="en">Friday Night Juice</title>
+    <sub-title lang="en">Way Past Midnight</sub-title>
+    <desc lang="en">Artists, dancers and DJs in Barcelona's hip-hop scene join forces to put on the best party in the city. Barcelona's hip-hop scene converges twice a month at the best all-night dance party in the city. Juice is an event where people from all backgrounds come to dance, vibe, rap and connect with one another in an inclusive and creative environment.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191026081200 +0000" stop="20191026084300 +0000" channel="RedBull TV">
+    <title lang="en">The Blue Armada</title>
+    <sub-title lang="en">Featuring Kamaz Master</sub-title>
+    <desc lang="en">An award-winning Russian motorsports team show their unique way of working and preparing for the Dakar Rally. The most famous and award-winning motorsports team in Russia use their unique way of working together to prepare for off-road racing's most prestigious event, the Dakar Rally.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191026084300 +0000" stop="20191026091600 +0000" channel="RedBull TV">
+    <title lang="en">The Silent Samurai</title>
+    <sub-title lang="en">A look back at Dani Pedrosa's career</sub-title>
+    <desc lang="en">Take a look at the key moments that made Dani Pedrosa one of the most talented riders of his generation. Enjoy a look back at Dani Pedrosa’s motorcycling career as seen through the eyes of his coach, friend and former MotoGP star Sete Gibernau. Relive the key moments that made him one of the most talented riders of his generation.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191026091600 +0000" stop="20191026100900 +0000" channel="RedBull TV">
+    <title lang="en">Rich + Tone: PolyRhythmic</title>
+    <sub-title lang="en">The Talauega Brothers</sub-title>
+    <desc lang="en">Choreography team Rich + Tone take it back to their roots as they talk about their career in the dance world. Brothers Richmond and Anthony Talauega have been behind some of pop music's most explosive dance performances. Their inspiration for dancing comes from their heritage and upbringing, which they revisit as they craft a major routine for Chris Brown.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>UR</value>
+    </rating>
+  </programme>
+  <programme start="20191026100900 +0000" stop="20191026103400 +0000" channel="RedBull TV">
+    <title lang="en">What Lies Ahead</title>
+    <sub-title lang="en">Break'n Reality</sub-title>
+    <desc lang="en">The b-boys consider their futures. Roxrite judges a competition. Neguin visits friends. Lilou makes a choice. The b-boys get honest with themselves while setting their future goals. Roxrite judges a BC One qualifier. Neguin takes his nephew to an open b-boy practice session. After some soul-searching, Lilou opts to go for a third world championship.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191026103400 +0000" stop="20191026111400 +0000" channel="RedBull TV">
+    <title lang="en">The Learning Curve</title>
+    <sub-title lang="en">Drew Bezanson: From BMX to MTB</sub-title>
+    <desc lang="en">Drew Bezanson tries to make the transition from freestyle BMX to the world of slopestyle mountain biking. To be a master of two sports is a feat many have tried but few have accomplished. Drew Bezanson is one of the top BMX riders in the world, but now he wants to enter the world of slopestyle mountain biking and compete at Red Bull Joyride.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191026111400 +0000" stop="20191026120700 +0000" channel="RedBull TV">
+    <title lang="en">Wingmen</title>
+    <sub-title lang="en">Friendship forged in flight</sub-title>
+    <desc lang="en">Three elite BASE jumpers face the unknown on a global journey to find the best wingsuit and BASE jump spots. Three of the world's best wingsuit flyers set out on a global journey in search of perfect spots for proximity flying and BASE jumps. From Brazil to China, the trio face some of the most thrilling and challenging flights of their lives.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191026120700 +0000" stop="20191026130300 +0000" channel="RedBull TV">
+    <title lang="en">Locked In</title>
+    <sub-title lang="en">First descent of the Beriman Gorge</sub-title>
+    <desc lang="en">Ben Stookesberry and a group of kayakers attempt a first descent of the Beriman River in Papua New Guinea. Ben Stookesberry and a group of professional kayakers journey to the remote jungles of Papua New Guinea to attempt a first descent of the Beriman River, a daunting 40km run lined with sheer limestone walls and no way out but to ride to the ocean.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191026130300 +0000" stop="20191026131900 +0000" channel="RedBull TV">
+    <title lang="en">Rob Meets Sam Sunderland</title>
+    <sub-title lang="en">Rob Meets</sub-title>
+    <desc lang="en">Rob Warner meets 2017 Dakar Rally winner Sam Sunderland as he hones his motorcycle skills for the 2019 event. Rob Warner heads to France to meet with 2017 Dakar Rally winner Sam Sunderland to see how the British motorcycle rider’s preparations are going for the 2019 edition of the event.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191026131900 +0000" stop="20191026143900 +0000" channel="RedBull TV">
+    <title lang="en">Super Stage Spain</title>
+    <sub-title lang="en">FIA World Rally Championship</sub-title>
+    <desc lang="en">Watch the action from the only mixed-surface round of the season at Rally de España. Watch the action from the only mixed-surface round of the season at Rally de España as two days of asphalt are blended with a day of primarily gravel.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191026152400 +0000" stop="20191026155500 +0000" channel="RedBull TV">
+    <title lang="en">The Blue Armada</title>
+    <sub-title lang="en">Featuring Kamaz Master</sub-title>
+    <desc lang="en">An award-winning Russian motorsports team show their unique way of working and preparing for the Dakar Rally. The most famous and award-winning motorsports team in Russia use their unique way of working together to prepare for off-road racing's most prestigious event, the Dakar Rally.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191026155500 +0000" stop="20191026162900 +0000" channel="RedBull TV">
+    <title lang="en">The Silent Samurai</title>
+    <sub-title lang="en">A look back at Dani Pedrosa's career</sub-title>
+    <desc lang="en">Take a look at the key moments that made Dani Pedrosa one of the most talented riders of his generation. Enjoy a look back at Dani Pedrosa’s motorcycling career as seen through the eyes of his coach, friend and former MotoGP star Sete Gibernau. Relive the key moments that made him one of the most talented riders of his generation.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191026162900 +0000" stop="20191026163400 +0000" channel="RedBull TV">
+    <title lang="en">Last call for Mr Paul</title>
+    <sub-title lang="en">Jason Paul freeruns an airport</sub-title>
+    <desc lang="en">A lot of people run through an airport when they’re late for their flight. Pro freerunner Jason Paul just does it a little differently. A lot of people run through an airport when they’re late for their flight. Pro freerunner Jason Paul just does it a little differently, and along the way he sees parts of the airport most passengers never do.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191026163400 +0000" stop="20191026163700 +0000" channel="RedBull TV">
+    <title lang="en">Jason Paul's arcade run</title>
+    <sub-title lang="en">Freerunning in 8-bit</sub-title>
+    <desc lang="en">Freerunner Jason Paul takes his skills to the next level as he soars over pyramids and fights evil ninjas. Jason Paul and Team Farang come together to turn freerunning into an ‘80s arcade game. Soaring over pyramids, fighting ninjas, and thwarting the final boss, Jason takes his skills to the next level.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20191026163700 +0000" stop="20191026173200 +0000" channel="RedBull TV">
+    <title lang="en">Rich + Tone: PolyRhythmic</title>
+    <sub-title lang="en">The Talauega Brothers</sub-title>
+    <desc lang="en">Choreography team Rich + Tone take it back to their roots as they talk about their career in the dance world. Brothers Richmond and Anthony Talauega have been behind some of pop music's most explosive dance performances. Their inspiration for dancing comes from their heritage and upbringing, which they revisit as they craft a major routine for Chris Brown.</desc>
+    <category lang="en">Sports</category>
+    <rating system="US">
+      <value>UR</value>
+    </rating>
+  </programme>
+</tv>
