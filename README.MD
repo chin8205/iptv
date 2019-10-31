@@ -1,7 +1,6 @@
 # IPTV playlists with EPG
 ## Free over-the-air TV M3U8 streams and EPG
-| `Disclaimer: The streams listed here are free and publicly hosted by the respective providers, and we're in no way, intend to infringe any copyright laws.` |  
-| :--- |
+Disclaimer: The streams listed here are free and publicly hosted by the respective providers, and we're in no way, intend to infringe any copyright laws. We're also not in a position to guarantee a 24/7 uptime for the following streams.
 
 | No | Channels | Playlist |  EPG (7 days) |
 | --- | --- | --- | --- |
