@@ -5,6 +5,6 @@ epgupdater.sh
 sources
 youtube-dl
 tokenizer.sh
-windows
 wg++
+windows
 test-dir
