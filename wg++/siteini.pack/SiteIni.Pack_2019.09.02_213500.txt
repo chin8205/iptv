@@ -1,3 +1,0 @@
-;version file (keep in place)
-[version]
-number="2019.09.02_213500"
