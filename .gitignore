@@ -1,10 +1,8 @@
 *.log.txt
 *.exe
 *.swp
-epgupdater.sh
-sources
-youtube-dl
-tokenizer.sh
-wg++
-windows
-test-dir
+playlist/source/
+playlist/playlist.m3u
+playlist/personal.txt
+windows/
+test-dir/
