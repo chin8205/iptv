@@ -1,4 +1,4 @@
-# IPTV playlists with EPG <img align="right" src="https://www.myfreeview.tv/assets//images/logo_eng.png">
+# Freeview IPTV<img align="right" src="https://www.myfreeview.tv/assets//images/logo_eng.png">
 ## Free over-the-air TV M3U8 streams and EPG 
 
 Serve as an alternative for Freeview channels.
