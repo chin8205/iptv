@@ -1,5 +1,5 @@
 # Freeview IPTV <img align="right" src="https://www.myfreeview.tv/assets//images/logo_eng.png">
-Free over-the-air TV M3U streams and EPG 
+## Free over-the-air TV M3U streams and EPG 
 
 Compiled playlist for Freeview channels which can be loaded by Android TV or other compatible video players.
 
