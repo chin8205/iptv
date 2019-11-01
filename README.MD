@@ -12,4 +12,4 @@ Disclaimer: The streams listed here are free and publicly hosted by the respecti
 | 2 | Singapore | https://freeview.github.io/iptv/playlist/sg.m3u | https://freeview.github.io/iptv/epg/sg.xml |
 |  | Channel 5, Channel 8, Channel U, Channel NewsAsia, Suria, Vasantham | | |
 
-Please [report](https://github.com/hsytes/iptv/issues/new) broken streams.
+Report broken streams [here](https://github.com/hsytes/iptv/issues/new).
