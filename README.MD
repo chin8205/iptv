@@ -3,7 +3,7 @@
 
 Compiled playlist for Freeview channels which can be loaded by Android TV or other compatible video players.
 
-Disclaimer: The streams listed here are free and publicly hosted by the respective media companies. We're not in a position to guarantee a 24/7 uptime for the following streams. See [FAQs](https://github.com/freeview/iptv/wiki/FAQ).
+Disclaimer: The streams listed here are the official public streams hosted by their respective media companies. We're not in a position to guarantee a 24/7 uptime for the following streams. See [FAQs](https://github.com/freeview/iptv/wiki/FAQ).
 
 | No | Channels | Playlist |  EPG (7 days) |
 | --- | --- | --- | --- |
