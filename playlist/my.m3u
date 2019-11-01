@@ -34,7 +34,7 @@ https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2096000.m3u8
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/onenews.png",One News
 https://rtmonenews.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my
 
-# Youtube Channels (6 hours token)
+# Youtube Channels
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tvalhijrah.png",TV Alhijrah 
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1572588029/ei/nXW7XaWMC_aX3LUP3vChsAI/ip/202.187.33.174/id/7UZdxCaxyEQ.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-uphxqvujvh-30az.googlevideo.com/playlist_type/DVR/initcwndbps/13420/mm/44/mn/sn-uphxqvujvh-30az/ms/lva/mv/m/mvi/1/pl/17/dover/11/keepalive/yes/fexp/23842630/mt/1572566361/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_type/sig/ALgxI2wwRQIhAJLwTq4k4Tpl2Ycxyw_FnTlX8lvda8Kb0htI_NCcyfREAiAlBABxlo5PRd3JRtLpfNJ30jSvlObfIRod8Mb9lQN0Mg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRQIgDj6MrJSbzXefnwLBJAhXLfTR0_wkC9Em9rsjV1Br9yYCIQDjQNwpWi7iGJH-GRFDl_egKmCP4VQFkag9BYUByF-npQ%3D%3D/playlist/index.m3u8|Referer=https://www.youtube.com
