@@ -1,6 +1,3 @@
-*.log.txt
-*.exe
-*.swp
 playlist/source/
 playlist/playlist.m3u
 playlist/personal.txt
