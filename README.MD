@@ -1,11 +1,7 @@
 # Freeview IPTV <img align="right" src="https://www.myfreeview.tv/assets//images/logo_eng.png">
-## Free over-the-air TV M3U streams and EPG 
+## Malaysia Freeview IPTV Channels for Android TV
 
-Compiled playlist for Freeview channels which can be loaded by Android TV or other compatible video players.
-
-Disclaimer: The streams listed here are the official public streams hosted by their respective media companies. We're not in a position to guarantee a 24/7 uptime for the streams. See [FAQ](https://github.com/freeview/iptv/wiki/FAQ).
-
-Tokenizer Status: <img src="https://freeview.github.io/iptv/logos/status/online.png" height="25px"> ([What does this mean?](https://github.com/freeview/iptv/wiki/FAQ)) 
+Disclaimer: The streams listed here are the official public streams. We're not in a position to guarantee a 24/7 uptime for the streams. See [FAQ](https://github.com/freeview/iptv/wiki/FAQ).
 
 | No | Channels | Playlist |  EPG (7 days) |
 | --- | --- | --- | --- |
