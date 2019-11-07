@@ -1,7 +1,7 @@
 # Freeview IPTV <img align="right" src="https://www.myfreeview.tv/assets//images/logo_eng.png">
 ## Malaysia Freeview IPTV Channels for Android TV
 
-Disclaimer: The streams listed here are the official public streams. We're not in a position to guarantee a 24/7 uptime for the streams. See [FAQ](https://github.com/freeview/iptv/wiki/FAQ).
+Disclaimer: The streams listed here are the official public streams hosted on their live TV websites.
 
 | No | Channels | Playlist |  EPG (7 days) |
 | --- | --- | --- | --- |
