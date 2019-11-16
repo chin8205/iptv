@@ -144,6 +144,26 @@
     <display-name lang="en">Fox Sports 3</display-name>
     <url>http://www.astro.com.my</url>
   </channel>
+  <channel id="ABC (US)">
+    <display-name lang="en">ABC (US)</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/abc.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="CBS (US)">
+    <display-name lang="en">CBS (US)</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/cbs.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Fox (US)">
+    <display-name lang="en">Fox (US)</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/foxcable.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NBC (US)">
+    <display-name lang="en">NBC (US)</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/nbc.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
   <programme start="20191117000200 +0800" stop="20191117003200 +0800" channel="Al Jazeera">
     <title lang="en">News</title>
     <desc lang="en">Live, breaking and in-depth news from Asia, Africa, Europe and the Americas.</desc>
@@ -58265,5 +58285,4153 @@
     <category lang="en">Sports</category>
     <category lang="en">Sports Magazine</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X398397.jpg" />
+  </programme>
+  <programme start="20191116010000 -0500" stop="20191116080000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116080000 -0500" stop="20191116090000 -0500" channel="ABC (US)">
+    <title lang="en">Good Morning America Saturday</title>
+    <desc lang="en">Bringing viewers up-to-the-minute breaking news and weather reports, as well as topical features.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191116090000 -0500" stop="20191116093000 -0500" channel="ABC (US)">
+    <title lang="en">Jack Hanna's Wild Countdown</title>
+    <sub-title lang="en">In Search of Great Apes</sub-title>
+    <desc lang="en">Animal expert Jack Hannah gives top ten lists on a wide variety of animal-related topics.</desc>
+    <category lang="en">Animals</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116093000 -0500" stop="20191116100000 -0500" channel="ABC (US)">
+    <title lang="en">Ocean Treks With Jeff Corwin</title>
+    <sub-title lang="en">Sweet St. Petersburg</sub-title>
+    <desc lang="en">Jeff Corwin explores the underwater world.</desc>
+    <category lang="en">Children</category>
+    <rating system="US">
+      <value>TVY</value>
+    </rating>
+  </programme>
+  <programme start="20191116100000 -0500" stop="20191116103000 -0500" channel="ABC (US)">
+    <title lang="en">Oh Baby!</title>
+    <sub-title lang="en">Babies of Bouldering</sub-title>
+    <desc lang="en">Journey around the world to meet and observe some of the captivating wild baby animals.</desc>
+    <category lang="en">Animals</category>
+    <rating system="US">
+      <value>TVY</value>
+    </rating>
+  </programme>
+  <programme start="20191116103000 -0500" stop="20191116110000 -0500" channel="ABC (US)">
+    <title lang="en">Hearts of Heroes</title>
+    <sub-title lang="en">When Mountains Slide</sub-title>
+    <desc lang="en">A group of emergency response professionals protect people from harm during disasters.</desc>
+    <category lang="en">Children</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116110000 -0500" stop="20191116113000 -0500" channel="ABC (US)">
+    <title lang="en">Oh Baby!</title>
+    <sub-title lang="en">A Finful of Joy</sub-title>
+    <desc lang="en">Journey around the world to meet and observe some of the captivating wild baby animals.</desc>
+    <category lang="en">Animals</category>
+    <rating system="US">
+      <value>TVY</value>
+    </rating>
+  </programme>
+  <programme start="20191116113000 -0500" stop="20191116120000 -0500" channel="ABC (US)">
+    <title lang="en">Rock the Park</title>
+    <sub-title lang="en">Gallatin National Forest</sub-title>
+    <desc lang="en">Tapping into America's love affair with national parks.</desc>
+    <category lang="en">Travel</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191116120000 -0500" stop="20191116150000 -0500" channel="ABC (US)">
+    <title lang="en">Indiana vs. Penn State</title>
+    <desc lang="en">Football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116150000 -0500" stop="20191116153000 -0500" channel="ABC (US)">
+    <title lang="en">College Football Scoreboard</title>
+    <desc lang="en">Updates, reviews and recaps of the current day's matchups.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116153000 -0500" stop="20191116183000 -0500" channel="ABC (US)">
+    <title lang="en">Wake Forest vs. Clemson</title>
+    <desc lang="en">Football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116183000 -0500" stop="20191116190000 -0500" channel="ABC (US)">
+    <title lang="en">College Football Scoreboard</title>
+    <desc lang="en">Updates, reviews and recaps of the current day's matchups.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116190000 -0500" stop="20191116193000 -0500" channel="ABC (US)">
+    <title lang="en">College Football Scoreboard</title>
+    <desc lang="en">Updates, reviews and recaps of the current day's matchups.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116193000 -0500" stop="20191116230000 -0500" channel="ABC (US)">
+    <title lang="en">Oklahoma vs. Baylor</title>
+    <desc lang="en">Football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116230000 -0500" stop="20191116230000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116230000 -0500" stop="20191117080000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117080000 -0500" stop="20191117090000 -0500" channel="ABC (US)">
+    <title lang="en">Good Morning America Sunday</title>
+    <desc lang="en">Bringing viewers up-to-the-minute breaking news and weather as well as topical features.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117090000 -0500" stop="20191117100000 -0500" channel="ABC (US)">
+    <title lang="en">This Week With George Stephanopoulos</title>
+    <desc lang="en">News is put into perspective through interviews with top newsmakers and panel debates on a variety of topics.</desc>
+    <category lang="en">Discussion</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191117100000 -0500" stop="20191117140000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117140000 -0500" stop="20191117143000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117143000 -0500" stop="20191117150000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117150000 -0500" stop="20191117153000 -0500" channel="ABC (US)">
+    <title lang="en">World of X Games</title>
+    <sub-title lang="en">Brothers McMorris: Finnish Streets</sub-title>
+    <desc lang="en">Mark McMorris embarks on an urban snowboarding adventure for the first time in 10 years when he and his brother Craig travel to the holy grail of street riding, Helsinki Finland.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Extreme</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191117153000 -0500" stop="20191117160000 -0500" channel="ABC (US)">
+    <title lang="en">World of X Games</title>
+    <sub-title lang="en">Mayhem Presents: Per Mission Featuring Kyle Mack</sub-title>
+    <desc lang="en">Coming off a silver medal at the Olympics, Kyle Mack chases contests and street rails in the winter of 2018/19, to create his first feature film.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Extreme</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191117160000 -0500" stop="20191117170000 -0500" channel="ABC (US)">
+    <title lang="en">The American Game</title>
+    <sub-title lang="en">Notre Dame</sub-title>
+    <desc lang="en">The story of college football can't be told without the story of its most legendary program - its rise to lore, its glories and triumphs, its superstars and icons, its controversies and contradictions.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191117170000 -0500" stop="20191117180000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117180000 -0500" stop="20191117183000 -0500" channel="ABC (US)">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">This weekend edition provides viewers with the latest news from around the world.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117183000 -0500" stop="20191117190000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117190000 -0500" stop="20191117200000 -0500" channel="ABC (US)">
+    <title lang="en">America's Funniest Home Videos</title>
+    <desc lang="en">It's a Thanksgiving celebration on 'America's Funniest Home Videos,' including a woman who is grossed out by having to prepare a turkey for dinner and a little boy who is thankful for dinosaurs; plus, selfies gone wrong and people getting scared.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Thanksgiving</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191117200000 -0500" stop="20191117210000 -0500" channel="ABC (US)">
+    <title lang="en">Kids Say the Darndest Things</title>
+    <sub-title lang="en">Turkey in Space</sub-title>
+    <desc lang="en">Tiffany shares her favourite Turkey Day traditions and films an infomercial for 'Gobble Gobble Wrapping Paper' with kids who frantically gift wrap everything from Thanksgiving leftovers to a live turkey.Guests: Jack McBrayer..</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Thanksgiving</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117210000 -0500" stop="20191117220000 -0500" channel="ABC (US)">
+    <title lang="en">Shark Tank</title>
+    <desc lang="en">Pitches include cutting-edge stem cell technology to save pets from diseases in the future. Then, a healthier alternative to traditional style deli meat.Guests: Anne Wojcicki..</desc>
+    <credits>
+      <actor>Kevin O'Leary</actor>
+      <actor>Robert Herjavec</actor>
+      <actor>Daymond John</actor>
+    </credits>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191117220000 -0500" stop="20191117230000 -0500" channel="ABC (US)">
+    <title lang="en">The Rookie</title>
+    <sub-title lang="en">Clean Cut</sub-title>
+    <desc lang="en">Officer Nolan kicks off his birthday by babysitting a crime scene at a law office. Meanwhile, Officer Bradford and Officer West are set to receive special awards.</desc>
+    <credits>
+      <actor>Nathan Fillion</actor>
+      <actor>Alyssa Diaz</actor>
+      <actor>Richard T. Jones</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191117230000 -0500" stop="20191117230000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117230000 -0500" stop="20191118070000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118070000 -0500" stop="20191118090000 -0500" channel="ABC (US)">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Guests include Cameron Mathison, Marie Kondo, Joanna Saltz and Luis Casco.Guests: Cameron Mathison, Marie Kondo, Joanna Saltz, Luis Casco..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118090000 -0500" stop="20191118100000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118100000 -0500" stop="20191118110000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118110000 -0500" stop="20191118120000 -0500" channel="ABC (US)">
+    <title lang="en">The View</title>
+    <desc lang="en">Guests include Helena Bonham Carter.Guests: Helena Bonham Carter..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191118120000 -0500" stop="20191118130000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118130000 -0500" stop="20191118140000 -0500" channel="ABC (US)">
+    <title lang="en">GMA3: Strahan, Sara and Keke</title>
+    <desc lang="en">Guests include Mike 'The Situation' Sorrentino and his wife Lauren Sorrentino, Matthew Rhys and Vernon Francois.Guests: Mike 'The Situation' Sorrentino, Lauren Sorrentino, Matthew Rhys, Vernon Francois..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118140000 -0500" stop="20191118150000 -0500" channel="ABC (US)">
+    <title lang="en">General Hospital</title>
+    <desc lang="en">Residents of the fictional town of Port Charles live intriguing lives filled with passion, love and adventure.</desc>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191118150000 -0500" stop="20191118160000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118160000 -0500" stop="20191118183000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118183000 -0500" stop="20191118190000 -0500" channel="ABC (US)">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest information and analysis of major events from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191118190000 -0500" stop="20191118200000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118200000 -0500" stop="20191118220100 -0500" channel="ABC (US)">
+    <title lang="en">Dancing With the Stars</title>
+    <sub-title lang="en">Semi-Finals</sub-title>
+    <desc lang="en">Five celebrity and pro-dancer couples return to the ballroom to compete in two rounds of performances and the stakes are high to get into the finals.</desc>
+    <credits>
+      <actor>Len Goodman</actor>
+      <actor>Carrie Ann Inaba</actor>
+      <actor>Bruno Tonioli</actor>
+    </credits>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191118220100 -0500" stop="20191118230000 -0500" channel="ABC (US)">
+    <title lang="en">The Good Doctor</title>
+    <sub-title lang="en">Moonshot</sub-title>
+    <desc lang="en">Carly's attempts at increasing her intimacy with Shaun are becoming more of a frustration than either of them expected. Meanwhile, Lim and Melendez struggle in their relationship as they work to separate their work from their personal life.</desc>
+    <credits>
+      <actor>Freddie Highmore</actor>
+      <actor>Richard Schiff</actor>
+      <actor>Hill Harper</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191118230000 -0500" stop="20191118233500 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118233500 -0500" stop="20191119003500 -0500" channel="ABC (US)">
+    <title lang="en">Jimmy Kimmel Live</title>
+    <desc lang="en">Martin Scorsese, Jharrel Jerome and the Black Keys visit. The cast of 'Frozen 2' also stop by.Guests: Martin Scorsese, Jharrel Jerome, The Black Keys..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191119003500 -0500" stop="20191119010000 -0500" channel="ABC (US)">
+    <title lang="en">ABC News Nightline</title>
+    <desc lang="en">This half-hour program provides viewers with in-depth reporting on the major stories in the news.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119010000 -0500" stop="20191119010000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119010000 -0500" stop="20191119070000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119070000 -0500" stop="20191119090000 -0500" channel="ABC (US)">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Guests include Cara Dumaplin, Garth Brooks and Vashti Harrison.Guests: Cara Dumaplin, Garth Brooks, Vashti Harrison..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119090000 -0500" stop="20191119100000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119100000 -0500" stop="20191119110000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119110000 -0500" stop="20191119120000 -0500" channel="ABC (US)">
+    <title lang="en">The View</title>
+    <desc lang="en">A day of hot topics.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191119120000 -0500" stop="20191119130000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119130000 -0500" stop="20191119140000 -0500" channel="ABC (US)">
+    <title lang="en">GMA3: Strahan, Sara and Keke</title>
+    <desc lang="en">The cast of 'black-ish' and reality star Mike Johnson visit.Guests: Mike Johnson..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119140000 -0500" stop="20191119150000 -0500" channel="ABC (US)">
+    <title lang="en">General Hospital</title>
+    <desc lang="en">Residents of the fictional town of Port Charles live intriguing lives filled with passion, love and adventure.</desc>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191119150000 -0500" stop="20191119160000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119160000 -0500" stop="20191119183000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119183000 -0500" stop="20191119190000 -0500" channel="ABC (US)">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest information and analysis of major events from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191119190000 -0500" stop="20191119200000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119200000 -0500" stop="20191119203000 -0500" channel="ABC (US)">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Slappy Holidays</sub-title>
+    <desc lang="en">Chaos ensues when Dan finally gets the entire family together for Thanksgiving dinner. Mixed feelings about the Lunch Box continue to build tension in the house, and Harris makes an unexpected move.Guests: Eliza Bennett..</desc>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Sara Gilbert</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Thanksgiving</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191119203000 -0500" stop="20191119210000 -0500" channel="ABC (US)">
+    <title lang="en">Bless This Mess</title>
+    <sub-title lang="en">Six Out of Six</sub-title>
+    <desc lang="en">Mike and Rio are at odds with each other when they consider having a kid of their own; and they soon get a taste of the parenting life when they are forced to take care of Portia’s six piglets.</desc>
+    <credits>
+      <actor>Lake Bell</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Ed Begley Jr.</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191119210000 -0500" stop="20191119213000 -0500" channel="ABC (US)">
+    <title lang="en">Mixed-ish</title>
+    <sub-title lang="en">Weird Science</sub-title>
+    <desc lang="en">Rainbow's passion for science deflates when her peers convince her that science isn't cool. During Career Day, Rainbow code-switches and pursues journalism in order to fit in.</desc>
+    <credits>
+      <actor>Arica Himmel</actor>
+      <actor>Tika Sumpter</actor>
+      <actor>Marquel Skinner</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191119213000 -0500" stop="20191119220000 -0500" channel="ABC (US)">
+    <title lang="en">Black-ish</title>
+    <sub-title lang="en">O Mother Where Art Thou?</sub-title>
+    <desc lang="en">When Dre discovers that Lynette is an art aficionado like himself, the two quickly bond and become close, but he begins to feel guilty since he is spending more time with her than Ruby. Meanwhile, Junior introduces Bow to virtual reality.Guests: Loretta Devine..</desc>
+    <credits>
+      <actor>Anthony Anderson</actor>
+      <actor>Tracee Ellis Ross</actor>
+      <actor>Yara Shahidi</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191119220000 -0500" stop="20191119230000 -0500" channel="ABC (US)">
+    <title lang="en">Emergence</title>
+    <sub-title lang="en">Fatal Exception</sub-title>
+    <desc lang="en">Jo and Chris rush to find Piper before she's put in harm's way. Meanwhile, Jo faces new challenges at home after betraying Alex and Ed's trust.</desc>
+    <credits>
+      <actor>Allison Tolman</actor>
+      <actor>Alexa Swinton</actor>
+      <actor>Owain Yeoman</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191119230000 -0500" stop="20191119233500 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119233500 -0500" stop="20191120003500 -0500" channel="ABC (US)">
+    <title lang="en">Jimmy Kimmel Live</title>
+    <desc lang="en">Michael Douglas and Victoria Beckham stop by. DJ Shadow and De La Soul perform.Guests: Michael Douglas, Victoria Beckham, DJ Shadow, De La Soul..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191120003500 -0500" stop="20191120010000 -0500" channel="ABC (US)">
+    <title lang="en">ABC News Nightline</title>
+    <desc lang="en">This half-hour program provides viewers with in-depth reporting on the major stories in the news.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120010000 -0500" stop="20191120010000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120010000 -0500" stop="20191120070000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120070000 -0500" stop="20191120090000 -0500" channel="ABC (US)">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Guests include Evan Rachel Wood, Judy Delaware, Megan McNamee and Trisha Yearwood.Guests: Evan Rachel Wood, Judy Delaware, Megan McNamee, Trisha Yearwood..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120090000 -0500" stop="20191120100000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120100000 -0500" stop="20191120110000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120110000 -0500" stop="20191120120000 -0500" channel="ABC (US)">
+    <title lang="en">The View</title>
+    <desc lang="en">A day of hot topics.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191120120000 -0500" stop="20191120130000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120130000 -0500" stop="20191120140000 -0500" channel="ABC (US)">
+    <title lang="en">GMA3: Strahan, Sara and Keke</title>
+    <desc lang="en">Jennifer Lopez, Antoinette Clarke, and Tricia Clarke-Stone stop by.Guests: Jennifer Lopez, Antoinette Clarke, Tricia Clarke-Stone..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120140000 -0500" stop="20191120150000 -0500" channel="ABC (US)">
+    <title lang="en">General Hospital</title>
+    <desc lang="en">Residents of the fictional town of Port Charles live intriguing lives filled with passion, love and adventure.</desc>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191120150000 -0500" stop="20191120160000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120160000 -0500" stop="20191120183000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120183000 -0500" stop="20191120190000 -0500" channel="ABC (US)">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest information and analysis of major events from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191120190000 -0500" stop="20191120200000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120200000 -0500" stop="20191120203000 -0500" channel="ABC (US)">
+    <title lang="en">The Goldbergs</title>
+    <sub-title lang="en">Angst-Giving</sub-title>
+    <desc lang="en">Even though Beverly's patience with Pop Pop is put to the test due to his endless Thanksgiving demands, she is able to put aside her own feelings to help heal the long-standing rift between Murray and Pop Pop.Guests: Judd Hirsch, Dan Fogler..</desc>
+    <credits>
+      <actor>Sean Giambrone</actor>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Hayley Orrantia</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Thanksgiving</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191120203000 -0500" stop="20191120210000 -0500" channel="ABC (US)">
+    <title lang="en">Schooled</title>
+    <sub-title lang="en">Friendsgiving</sub-title>
+    <desc lang="en">CB celebrates Thanksgiving by having all of William Penn rally around him after a cooking incident at his house, while the alumni faculty football game brings out the competitive sides of Wilma and Coach Mellor.</desc>
+    <credits>
+      <actor>AJ Michalka</actor>
+      <actor>Tim Meadows</actor>
+      <actor>Bryan Callen</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Thanksgiving</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191120210000 -0500" stop="20191120213100 -0500" channel="ABC (US)">
+    <title lang="en">Modern Family</title>
+    <sub-title lang="en">The Last Thanksgiving</sub-title>
+    <desc lang="en">Cameron and Mitchell's friends mistakenly assume they have split up and have definitely chosen a side, and Haley attempts to cook Thanksgiving dinner as a thank you for Claire and Phil's support with the twins.</desc>
+    <credits>
+      <actor>Ed O'Neill</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Thanksgiving</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191120213100 -0500" stop="20191120220000 -0500" channel="ABC (US)">
+    <title lang="en">Single Parents</title>
+    <sub-title lang="en">Every Thursday Should Be Like This</sub-title>
+    <desc lang="en">When Will gets busy cooking Thanksgiving dinner at Douglas' home, he asks Angie to hang out with Tracy Freeze. Angie reluctantly does so, only to realize that Tracy is actually wonderful, except for a secret she's keeping from Will.Guests: Jama Williamson, Sarah Yarkin..</desc>
+    <credits>
+      <actor>Taran Killam</actor>
+      <actor>Leighton Meester</actor>
+      <actor>Kimrie Lewis</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Thanksgiving</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191120220000 -0500" stop="20191120230000 -0500" channel="ABC (US)">
+    <title lang="en">Stumptown</title>
+    <sub-title lang="en">November Surprise</sub-title>
+    <desc lang="en">Dex goes undercover after she is hired by a local politician to dig up dirt on his political opponent. Meanwhile, Grey and Liz's romance continues, and Dex celebrates Friendsgiving with the group.</desc>
+    <credits>
+      <actor>Cobie Smulders</actor>
+      <actor>Jake Johnson</actor>
+      <actor>Michael Ealy</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <category lang="en">Thanksgiving</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191120230000 -0500" stop="20191120233500 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120233500 -0500" stop="20191121003500 -0500" channel="ABC (US)">
+    <title lang="en">Jimmy Kimmel Live</title>
+    <desc lang="en">Guests include Garth Brooks and Mike Birbiglia.Guests: Garth Brooks, Mike Birbiglia..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191121003500 -0500" stop="20191121010000 -0500" channel="ABC (US)">
+    <title lang="en">ABC News Nightline</title>
+    <desc lang="en">This half-hour program provides viewers with in-depth reporting on the major stories in the news.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121010000 -0500" stop="20191121010000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121010000 -0500" stop="20191121070000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121070000 -0500" stop="20191121090000 -0500" channel="ABC (US)">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Guests include Marcus Samuelsson, Ryan Scott and Pati Jinich.Guests: Marcus Samuelsson, Ryan Scott, Pati Jinich..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121090000 -0500" stop="20191121100000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121100000 -0500" stop="20191121110000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121110000 -0500" stop="20191121120000 -0500" channel="ABC (US)">
+    <title lang="en">The View</title>
+    <desc lang="en">Guests include Jamie Lee Curtis, Mark Ruffalo and Robert Bilott.Guests: Jamie Lee Curtis, Mark Ruffalo, Robert Bilott..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191121120000 -0500" stop="20191121130000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121130000 -0500" stop="20191121140000 -0500" channel="ABC (US)">
+    <title lang="en">GMA3: Strahan, Sara and Keke</title>
+    <desc lang="en">Guests include Nick Lachey, Debbie Gibson and Mario Dedivanovic.Guests: Nick Lachey, Debbie Gibson, Mario Dedivanovic..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121140000 -0500" stop="20191121150000 -0500" channel="ABC (US)">
+    <title lang="en">General Hospital</title>
+    <desc lang="en">Residents of the fictional town of Port Charles live intriguing lives filled with passion, love and adventure.</desc>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191121150000 -0500" stop="20191121160000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121160000 -0500" stop="20191121183000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121183000 -0500" stop="20191121190000 -0500" channel="ABC (US)">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest information and analysis of major events from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191121190000 -0500" stop="20191121200000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121200000 -0500" stop="20191121210100 -0500" channel="ABC (US)">
+    <title lang="en">Grey's Anatomy</title>
+    <sub-title lang="en">Let's All Go to the Bar</sub-title>
+    <desc lang="en">Jo becomes a safe haven volunteer and gets a call that a baby has been dropped off at Station 19. Meanwhile, Meredith moves forward with her life after facing the medical board.</desc>
+    <credits>
+      <actor>Ellen Pompeo</actor>
+      <actor>Chandra Wilson</actor>
+      <actor>Kevin McKidd</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191121210100 -0500" stop="20191121220100 -0500" channel="ABC (US)">
+    <title lang="en">A Million Little Things</title>
+    <sub-title lang="en">Time Stands Still</sub-title>
+    <desc lang="en">Rome helps PJ through a personal crisis, while Gary and Maggie's relationship takes a turn; and Delilah, Eddie and Katherine make tough decisions that will affect their families.</desc>
+    <credits>
+      <actor>David Giuntoli</actor>
+      <actor>Ron Livingston</actor>
+      <actor>Romany Malco</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191121220100 -0500" stop="20191121230000 -0500" channel="ABC (US)">
+    <title lang="en">How to Get Away With Murder</title>
+    <sub-title lang="en">Are You the Mole?</sub-title>
+    <desc lang="en">On the eve of graduation, Oliver gifts Connor, Michaela and Asher something unexpected. At the dean's cocktail party, Annalise learns disturbing news. Later Michaela receives a surprise phone call, and the FBI informant is finally revealed.</desc>
+    <credits>
+      <actor>Viola Davis</actor>
+      <actor>Alfred Enoch</actor>
+      <actor>Jack Falahee</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191121230000 -0500" stop="20191121233500 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121233500 -0500" stop="20191122003500 -0500" channel="ABC (US)">
+    <title lang="en">Jimmy Kimmel Live</title>
+    <desc lang="en">This distinctive late-night talk show features celebrity guests, musical performances, comedy segments and general pandemonium.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191122003500 -0500" stop="20191122010000 -0500" channel="ABC (US)">
+    <title lang="en">ABC News Nightline</title>
+    <desc lang="en">This half-hour program provides viewers with in-depth reporting on the major stories in the news.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122010000 -0500" stop="20191122010000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122010000 -0500" stop="20191122070000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122070000 -0500" stop="20191122090000 -0500" channel="ABC (US)">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Guests include Adam Rapoport and Jonathan Groff.Guests: Adam Rapoport, Jonathan Groff..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122090000 -0500" stop="20191122100000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122100000 -0500" stop="20191122110000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122110000 -0500" stop="20191122120000 -0500" channel="ABC (US)">
+    <title lang="en">The View</title>
+    <desc lang="en">Guests include Dolly Parton.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191122120000 -0500" stop="20191122130000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122130000 -0500" stop="20191122140000 -0500" channel="ABC (US)">
+    <title lang="en">GMA3: Strahan, Sara and Keke</title>
+    <desc lang="en">Guests include LL Cool J and Garth Brooks.Guests: LL Cool J, Garth Brooks..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122140000 -0500" stop="20191122150000 -0500" channel="ABC (US)">
+    <title lang="en">General Hospital</title>
+    <desc lang="en">Residents of the fictional town of Port Charles live intriguing lives filled with passion, love and adventure.</desc>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191122150000 -0500" stop="20191122160000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122160000 -0500" stop="20191122183000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122183000 -0500" stop="20191122190000 -0500" channel="ABC (US)">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest information and analysis of major events from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191122190000 -0500" stop="20191122200000 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122200000 -0500" stop="20191122203000 -0500" channel="ABC (US)">
+    <title lang="en">American Housewife</title>
+    <sub-title lang="en">Women in Business</sub-title>
+    <desc lang="en">Katie's feud with Chloe Brown Mueller is reignited when Oliver discovers Chloe's attempts to sabotage Katie's lasagna business. Meanwhile, Anna-Kat and Franklin play matchmaker for Principal Amblin in an attempt to secure more privileges at school.Guests: Jessica St. Clair, Jerry Lambert..</desc>
+    <credits>
+      <actor>Daniel DiMaggio</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Ali  Wong</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191122203000 -0500" stop="20191122210000 -0500" channel="ABC (US)">
+    <title lang="en">Fresh Off the Boat</title>
+    <sub-title lang="en">TMI: Too Much Integrity</sub-title>
+    <desc lang="en">The Huang parents are out to make big changes in the lives of their friends and family: Jessica is scheduling mandatory family time with Eddie, Emery and Evan; and Louis is dead set on taking Honey’s blog to the next level.</desc>
+    <credits>
+      <actor>Ian Chen</actor>
+      <actor>Forrest Wheeler</actor>
+      <actor>Constance Wu</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191122210000 -0500" stop="20191122230000 -0500" channel="ABC (US)">
+    <title lang="en">20/20</title>
+    <desc lang="en">A combination of interviews, feature stories and hard-hitting investigative reports are presented by seasoned reporters.</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191122230000 -0500" stop="20191122233500 -0500" channel="ABC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122233500 -0500" stop="20191123003500 -0500" channel="ABC (US)">
+    <title lang="en">Jimmy Kimmel Live</title>
+    <desc lang="en">This distinctive late-night talk show features celebrity guests, musical performances, comedy segments and general pandemonium.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191116060000 -0500" stop="20191116080000 -0500" channel="CBS (US)">
+    <title lang="en">CBS This Morning Saturday</title>
+    <desc lang="en">Saturdays Sessions with Grace Potter. Geoff Rhyne is on The Dish. Anthony Mason interviews Julie Andrews. Dana Jacobson meets the Muppets of Sesame Street on the children show's 50th anniversary.Guests: Grace Potter, Geoff Rhyne, Julie Andrews..</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116080000 -0500" stop="20191116083000 -0500" channel="CBS (US)">
+    <title lang="en">Lucky Dog</title>
+    <sub-title lang="en">Atticus</sub-title>
+    <desc lang="en">After a sweet working dog is surrendered by his previous owner, Brandon trains this gentle giant to provide service for a visually impaired teen.</desc>
+    <category lang="en">Animals</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116083000 -0500" stop="20191116090000 -0500" channel="CBS (US)">
+    <title lang="en">The Henry Ford's Innovation Nation</title>
+    <sub-title lang="en">No Lid Cup</sub-title>
+    <desc lang="en">Host Mo Rocca shows us a woman’s rain boot stylishly keeping shoes dry; the tomato sorter swatting away the green ones; the folding origami hot drink cup with no plastic lid; and how, before super stores, there was the general store.</desc>
+    <category lang="en">Science</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116090000 -0500" stop="20191116093000 -0500" channel="CBS (US)">
+    <title lang="en">Mission Unstoppable</title>
+    <sub-title lang="en">A Biochop, a Bot and a Biobus</sub-title>
+    <desc lang="en">Meet a biomedical engineer who’s working on putting your brain on a microchip, the woman behind the amazing Mars Rover; and a bus that is really a traveling biology lab in New York City.</desc>
+    <category lang="en">Science</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116093000 -0500" stop="20191116100000 -0500" channel="CBS (US)">
+    <title lang="en">Pet Vet Dream Team</title>
+    <sub-title lang="en">Wolfgang and Poncho</sub-title>
+    <desc lang="en">A sickly bunny is rushed into Dr. Kate’s clinic with a life-threatening blockage in its stomach. Then, Dr. Pete reveals a secret past as he tries to fix a guinea pig’s teeth.</desc>
+    <category lang="en">Animals</category>
+    <rating system="US">
+      <value>TVY7</value>
+    </rating>
+  </programme>
+  <programme start="20191116100000 -0500" stop="20191116103000 -0500" channel="CBS (US)">
+    <title lang="en">Hope in the Wild</title>
+    <sub-title lang="en">A Day in the Life of Lily</sub-title>
+    <desc lang="en">Volunteer Lily rescues a skunk, feeds seals, rehabs a hawk and releases a weasel, all in a day’s work.</desc>
+    <credits>
+      <actor>Hope Swinimer</actor>
+    </credits>
+    <category lang="en">Animals</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191116103000 -0500" stop="20191116110000 -0500" channel="CBS (US)">
+    <title lang="en">Best Friends Furever With Kel Mitchell</title>
+    <sub-title lang="en">A Kangaroo Plus Two</sub-title>
+    <desc lang="en">A hunting dog has a big fan in a falcon. Plus, the bond between a kangaroo, a deer and a lemur is beyond unusual, but their loving friendship is very familiar.</desc>
+    <category lang="en">Animals</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191116110000 -0500" stop="20191116120000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116120000 -0500" stop="20191116153000 -0500" channel="CBS (US)">
+    <title lang="en">Florida vs. Missouri</title>
+    <desc lang="en">Football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116153000 -0500" stop="20191116190000 -0500" channel="CBS (US)">
+    <title lang="en">Georgia vs. Auburn</title>
+    <desc lang="en">Football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116190000 -0500" stop="20191116200000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116200000 -0500" stop="20191116210000 -0500" channel="CBS (US)">
+    <title lang="en">Bull</title>
+    <sub-title lang="en">Separate Together</sub-title>
+    <desc lang="en">Bull and his on-again, off-again romantic rival, Diana Lindsay, join forces to create two separate but collaborative defense teams when Diana’s niece and her husband are charged with armed robbery.Guests: Jill Flint..</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Freddy Rodriguez</actor>
+      <actor>Geneva Carr</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191116210000 -0500" stop="20191116220000 -0500" channel="CBS (US)">
+    <title lang="en">48 Hours</title>
+    <sub-title lang="en">The Doctor's Daughter</sub-title>
+    <desc lang="en">A prominent doctor is charged with murdering his wife, he says she fell but their daughter's 911 calls might decide his fate.</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191116220000 -0500" stop="20191116230000 -0500" channel="CBS (US)">
+    <title lang="en">48 Hours</title>
+    <sub-title lang="en">Maria Spencer's Vow to Kill</sub-title>
+    <desc lang="en">A bitter divorce, two arsons and a Pennsylvania father killed execution style; friends say he predicted his own murder.</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191116230000 -0500" stop="20191117000000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117000000 -0500" stop="20191117003000 -0500" channel="CBS (US)">
+    <title lang="en">CBS Weekend News</title>
+    <desc lang="en">CBS News correspondents report on the top stories from around the world and at home.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117003000 -0500" stop="20191117003000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117003000 -0500" stop="20191117070000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117070000 -0500" stop="20191117083000 -0500" channel="CBS (US)">
+    <title lang="en">CBS Sunday Morning With Jane Pauley</title>
+    <desc lang="en">In the wake of record flooding devastating the historic Italian city of Venice, Lee Cowan explores the world of art restoration.</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191117083000 -0500" stop="20191117090000 -0500" channel="CBS (US)">
+    <title lang="en">Face the Nation</title>
+    <desc lang="en">The program's moderator interviews top newsmakers on the latest issues, including such guests as government leaders, politicians and international figures.</desc>
+    <category lang="en">Political</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117090000 -0500" stop="20191117120000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117120000 -0500" stop="20191117130000 -0500" channel="CBS (US)">
+    <title lang="en">The NFL Today</title>
+    <desc lang="en">The hosts and studio analysts comment on the latest NFL events. While analyzing players, coaches and teams, the panel members offer their game predictions.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117130000 -0500" stop="20191117162500 -0500" channel="CBS (US)">
+    <title lang="en">Football</title>
+    <desc lang="en">Football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117162500 -0500" stop="20191117193000 -0500" channel="CBS (US)">
+    <title lang="en">Football</title>
+    <desc lang="en">Football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117193000 -0500" stop="20191117203000 -0500" channel="CBS (US)">
+    <title lang="en">60 Minutes</title>
+    <sub-title lang="en">Red Flag/ Into the Deep/ The Youngest Refugees/ Sesame Workshop</sub-title>
+    <desc lang="en">In the wake of mass shootings, states have turned to 'Red Flag' laws. The ocean floor holds trillions of dollars-worth of metals for cell phones and electric cars. Sesame Street is bringing new a gang of Muppets to the Middle East.</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117203000 -0500" stop="20191117213000 -0500" channel="CBS (US)">
+    <title lang="en">God Friended Me</title>
+    <sub-title lang="en">The Last Grenelle</sub-title>
+    <desc lang="en">Miles is shocked when the clues he began following in Paris lead him to Gideon, who had been helping friend suggestions years ago before making a fateful decision to leave the God Account behind.</desc>
+    <credits>
+      <actor>Brandon Micheal Hall</actor>
+      <actor>Violett Beane</actor>
+      <actor>Joe Morton</actor>
+    </credits>
+    <category lang="en">Sci-Fi</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191117213000 -0500" stop="20191117223000 -0500" channel="CBS (US)">
+    <title lang="en">NCIS: Los Angeles</title>
+    <sub-title lang="en">Human Resources</sub-title>
+    <desc lang="en">After a Navy lieutenant disappears from the scene of a car accident, the NCIS team processes the crime scene and discovers his laptop is missing along with recently accessed confidential information for retired Navy SEALs.</desc>
+    <credits>
+      <actor>Chris O'Donnell</actor>
+      <actor>LL Cool J</actor>
+      <actor>Linda Hunt</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191117223000 -0500" stop="20191117233000 -0500" channel="CBS (US)">
+    <title lang="en">Madam Secretary</title>
+    <sub-title lang="en">Accountability</sub-title>
+    <desc lang="en">When U.S. intelligence locates the mastermind behind a foreign country’s hack, Elizabeth must decide whether to risk war by extracting him from the country while she also prepares for the White House correspondents’ dinner.</desc>
+    <credits>
+      <actor>Téa Leoni</actor>
+      <actor>Tim Daly</actor>
+      <actor>Bebe Neuwirth</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191117233000 -0500" stop="20191118000000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118000000 -0500" stop="20191118003000 -0500" channel="CBS (US)">
+    <title lang="en">CBS Weekend News</title>
+    <desc lang="en">CBS News correspondents report on the top stories from around the world and at home.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118003000 -0500" stop="20191118003000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118003000 -0500" stop="20191118070000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118070000 -0500" stop="20191118090000 -0500" channel="CBS (US)">
+    <title lang="en">CBS This Morning</title>
+    <desc lang="en">Tobias Menzies, actor on 'The Crown', stops by.Guests: Tobias Menzies..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191118090000 -0500" stop="20191118110000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118110000 -0500" stop="20191118120000 -0500" channel="CBS (US)">
+    <title lang="en">The Price Is Right</title>
+    <desc lang="en">Contestants must correctly guess the retail price of various items in order to win cash and prizes.</desc>
+    <category lang="en">Game Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118120000 -0500" stop="20191118123000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118123000 -0500" stop="20191118133000 -0500" channel="CBS (US)">
+    <title lang="en">The Young and the Restless</title>
+    <desc lang="en">Revolves around the continuing rivalries, romances, hopes and fears of the residents of Genoa City.</desc>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191118133000 -0500" stop="20191118140000 -0500" channel="CBS (US)">
+    <title lang="en">The Bold and the Beautiful</title>
+    <desc lang="en">The lives, loves and battles of the Forrester and Spectra clans, who run their own fashion houses.</desc>
+    <credits>
+      <actor>John McCook</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191118140000 -0500" stop="20191118150000 -0500" channel="CBS (US)">
+    <title lang="en">The Talk</title>
+    <desc lang="en">An interview with host Marie Osmond and her brother Donny Osmond.Guests: Donny Osmond..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191118150000 -0500" stop="20191118160000 -0500" channel="CBS (US)">
+    <title lang="en">Let's Make a Deal</title>
+    <desc lang="en">Audience members dressed in outlandish costumes try to win cash and prizes by making deals with the host.</desc>
+    <credits>
+      <actor>Tiffany Coyne</actor>
+      <actor>Jonathan Mangum</actor>
+    </credits>
+    <category lang="en">Game Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118160000 -0500" stop="20191118180000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118180000 -0500" stop="20191118183000 -0500" channel="CBS (US)">
+    <title lang="en">CBS Evening News</title>
+    <desc lang="en">This news program covers the events that matter the most to people, from wherever they happen in the world.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118183000 -0500" stop="20191118200000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118200000 -0500" stop="20191118203000 -0500" channel="CBS (US)">
+    <title lang="en">The Neighborhood</title>
+    <sub-title lang="en">Welcome to Bowling</sub-title>
+    <desc lang="en">With Calvin down a teammate for his annual bowling championship, Dave offers to fill in and soon finds his mediation skills put to the test when he meets the competition: Calvin’s arch-rivals, the Pink Ladies.</desc>
+    <credits>
+      <actor>Cedric the Entertainer</actor>
+      <actor>Beth Behrs</actor>
+      <actor>Max Greenfield</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191118203000 -0500" stop="20191118210000 -0500" channel="CBS (US)">
+    <title lang="en">Bob Hearts Abishola</title>
+    <sub-title lang="en">Useless Potheads</sub-title>
+    <desc lang="en">With Abishola only helping part-time, Bob, Douglas and Christina struggle to take care of Dottie.</desc>
+    <credits>
+      <actor>Billy Gardell</actor>
+      <actor>Folake Olowofoyeku</actor>
+      <actor>Christine Ebersole</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191118210000 -0500" stop="20191118220000 -0500" channel="CBS (US)">
+    <title lang="en">All Rise</title>
+    <sub-title lang="en">Maricela and the Desert</sub-title>
+    <desc lang="en">Lola and Emily find themselves on opposing sides when the key witness in a murder trial is the victim’s 11-year-old daughter. Luke accompanies Mark on a road trip to the desert to bring a key witness back to testify.</desc>
+    <credits>
+      <actor>Simone Missick</actor>
+      <actor>Wilson Bethel</actor>
+      <actor>Marg Helgenberger</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191118220000 -0500" stop="20191118230000 -0500" channel="CBS (US)">
+    <title lang="en">Bull</title>
+    <sub-title lang="en">Safe and Sound</sub-title>
+    <desc lang="en">Bull mounts the defense of an old college friend, Eric Crawford, who is charged with negligent homicide after Eric’s youngest child kills his eldest with Eric’s handgun.</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Freddy Rodriguez</actor>
+      <actor>Geneva Carr</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191118230000 -0500" stop="20191118233500 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118233500 -0500" stop="20191119003700 -0500" channel="CBS (US)">
+    <title lang="en">The Late Show With Stephen Colbert</title>
+    <desc lang="en">See footage from Stephen's trip to New Zealand. Adam Driver and Adrienne Wilson visit and The 1975 perform.Guests: Adam Driver, Adrienne Wilson, The 1975..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191119003700 -0500" stop="20191119013700 -0500" channel="CBS (US)">
+    <title lang="en">The Late Late Show With James Corden</title>
+    <desc lang="en">Guests include Helen Hunt and a musical performance by Dave East.Guests: Helen Hunt, Dave East..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191119013700 -0500" stop="20191119013700 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119013700 -0500" stop="20191119070000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119070000 -0500" stop="20191119090000 -0500" channel="CBS (US)">
+    <title lang="en">CBS This Morning</title>
+    <desc lang="en">Lena Waithe, screenplay writer of 'Queen and Slim', stops by.Guests: Lena Waithe..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191119090000 -0500" stop="20191119110000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119110000 -0500" stop="20191119120000 -0500" channel="CBS (US)">
+    <title lang="en">The Price Is Right</title>
+    <desc lang="en">Contestants must correctly guess the retail price of various items in order to win cash and prizes.</desc>
+    <category lang="en">Game Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119120000 -0500" stop="20191119123000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119123000 -0500" stop="20191119133000 -0500" channel="CBS (US)">
+    <title lang="en">The Young and the Restless</title>
+    <desc lang="en">Revolves around the continuing rivalries, romances, hopes and fears of the residents of Genoa City.</desc>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191119133000 -0500" stop="20191119140000 -0500" channel="CBS (US)">
+    <title lang="en">The Bold and the Beautiful</title>
+    <desc lang="en">The lives, loves and battles of the Forrester and Spectra clans, who run their own fashion houses.</desc>
+    <credits>
+      <actor>John McCook</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191119140000 -0500" stop="20191119150000 -0500" channel="CBS (US)">
+    <title lang="en">The Talk</title>
+    <desc lang="en">Guests include Bruno Tonioli.Guests: Bruno Tonioli..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191119150000 -0500" stop="20191119160000 -0500" channel="CBS (US)">
+    <title lang="en">Let's Make a Deal</title>
+    <desc lang="en">Audience members dressed in outlandish costumes try to win cash and prizes by making deals with the host.</desc>
+    <credits>
+      <actor>Tiffany Coyne</actor>
+      <actor>Jonathan Mangum</actor>
+    </credits>
+    <category lang="en">Game Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119160000 -0500" stop="20191119180000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119180000 -0500" stop="20191119183000 -0500" channel="CBS (US)">
+    <title lang="en">CBS Evening News</title>
+    <desc lang="en">This news program covers the events that matter the most to people, from wherever they happen in the world.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119183000 -0500" stop="20191119200000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119200000 -0500" stop="20191119210000 -0500" channel="CBS (US)">
+    <title lang="en">NCIS</title>
+    <sub-title lang="en">Musical Chairs</sub-title>
+    <desc lang="en">The NCIS team investigates the murder of a musician in the Navy's most elite band that performs at diplomatic events around the world.</desc>
+    <credits>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>Emily Wickersham</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191119210000 -0500" stop="20191119220000 -0500" channel="CBS (US)">
+    <title lang="en">FBI</title>
+    <sub-title lang="en">Codename: Ferdinand</sub-title>
+    <desc lang="en">When the team digs into the circumstances surrounding a car crash that resulted in the death of a photographer, they realize there is more than meets the eye.</desc>
+    <credits>
+      <actor>Missy Peregrym</actor>
+      <actor>Zeeko Zaki</actor>
+      <actor>Ebonee Noel</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191119220000 -0500" stop="20191119230000 -0500" channel="CBS (US)">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">The Order of the Mongoose</sub-title>
+    <desc lang="en">Sebastian calls the NCIS team to assist with a possible kidnapping case when a dignitary’s son he was assigned to protect disappears from a local concert venue.Guests: The Revivalists..</desc>
+    <credits>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Rob Kerkovich</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191119230000 -0500" stop="20191119233500 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119233500 -0500" stop="20191120003700 -0500" channel="CBS (US)">
+    <title lang="en">The Late Show With Stephen Colbert</title>
+    <desc lang="en">See footage from Stephen's trip to New Zealand. Helena Bonham Carter and Lena Waithe visit and Lady Antebellum performs.Guests: Helena Bonham Carter, Lena Waithe, Lady Antebellum..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191120003700 -0500" stop="20191120013700 -0500" channel="CBS (US)">
+    <title lang="en">The Late Late Show With James Corden</title>
+    <desc lang="en">Guests include Josh Gad, Anna Camp and musical performance by Adam Lambert.Guests: Josh Gad, Anna Camp, Adam Lambert..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191120013700 -0500" stop="20191120013700 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120013700 -0500" stop="20191120070000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120070000 -0500" stop="20191120090000 -0500" channel="CBS (US)">
+    <title lang="en">CBS This Morning</title>
+    <desc lang="en">The 2020 Grammy Nominations are announced.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191120090000 -0500" stop="20191120110000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120110000 -0500" stop="20191120120000 -0500" channel="CBS (US)">
+    <title lang="en">The Price Is Right</title>
+    <desc lang="en">Contestants must correctly guess the retail price of various items in order to win cash and prizes.</desc>
+    <category lang="en">Game Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120120000 -0500" stop="20191120123000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120123000 -0500" stop="20191120133000 -0500" channel="CBS (US)">
+    <title lang="en">The Young and the Restless</title>
+    <desc lang="en">Revolves around the continuing rivalries, romances, hopes and fears of the residents of Genoa City.</desc>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191120133000 -0500" stop="20191120140000 -0500" channel="CBS (US)">
+    <title lang="en">The Bold and the Beautiful</title>
+    <desc lang="en">The lives, loves and battles of the Forrester and Spectra clans, who run their own fashion houses.</desc>
+    <credits>
+      <actor>John McCook</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191120140000 -0500" stop="20191120150000 -0500" channel="CBS (US)">
+    <title lang="en">The Talk</title>
+    <desc lang="en">Guests include Garth Brooks.Guests: Garth Brooks..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191120150000 -0500" stop="20191120160000 -0500" channel="CBS (US)">
+    <title lang="en">Let's Make a Deal</title>
+    <desc lang="en">Audience members dressed in outlandish costumes try to win cash and prizes by making deals with the host.</desc>
+    <credits>
+      <actor>Tiffany Coyne</actor>
+      <actor>Jonathan Mangum</actor>
+    </credits>
+    <category lang="en">Game Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120160000 -0500" stop="20191120180000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120180000 -0500" stop="20191120183000 -0500" channel="CBS (US)">
+    <title lang="en">CBS Evening News</title>
+    <desc lang="en">This news program covers the events that matter the most to people, from wherever they happen in the world.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120183000 -0500" stop="20191120200000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120200000 -0500" stop="20191120210000 -0500" channel="CBS (US)">
+    <title lang="en">Survivor: Island of the Idols</title>
+    <sub-title lang="en">Two For the Price of One</sub-title>
+    <desc lang="en">Contestants survive in harsh natural conditions while completing challenges.</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191120210000 -0500" stop="20191120220000 -0500" channel="CBS (US)">
+    <title lang="en">SEAL Team</title>
+    <sub-title lang="en">The Ones You Can't See</sub-title>
+    <desc lang="en">As Jason contemplates surgery for an injury, Bravo Team is on a mission abroad to help the secret service prevent a sniper attack on U.S. dignitaries.</desc>
+    <credits>
+      <actor>David Boreanaz</actor>
+      <actor>Max Thieriot</actor>
+      <actor>Neil Brown Jr.</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191120220000 -0500" stop="20191120230000 -0500" channel="CBS (US)">
+    <title lang="en">S.W.A.T.</title>
+    <sub-title lang="en">Lion's Den</sub-title>
+    <desc lang="en">The SWAT team engages in tense negotiations with a family that takes a local officer hostage when they’re evicted from their home due to eminent domain.</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>Stephanie Sigman</actor>
+      <actor>Alex Russell</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191120230000 -0500" stop="20191120233500 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120233500 -0500" stop="20191121003700 -0500" channel="CBS (US)">
+    <title lang="en">The Late Show With Stephen Colbert</title>
+    <desc lang="en">Stephen goes live following the Democratic debate, with guests that include John Heilemann and Alex Wagner.  Plus, see more footage from Stephen's trip to New Zealand.Guests: John Heilemann, Alex Wagner..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191121003700 -0500" stop="20191121013700 -0500" channel="CBS (US)">
+    <title lang="en">The Late Late Show With James Corden</title>
+    <desc lang="en">Guests include Julie Andrews and Kristen Bell.Guests: Julie Andrews, Kristen Bell..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191121013700 -0500" stop="20191121013700 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121013700 -0500" stop="20191121070000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121070000 -0500" stop="20191121090000 -0500" channel="CBS (US)">
+    <title lang="en">CBS This Morning</title>
+    <desc lang="en">Explore current events both locally and from around the world.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191121090000 -0500" stop="20191121110000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121110000 -0500" stop="20191121120000 -0500" channel="CBS (US)">
+    <title lang="en">The Price Is Right</title>
+    <desc lang="en">Contestants must correctly guess the retail price of various items in order to win cash and prizes.</desc>
+    <category lang="en">Game Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121120000 -0500" stop="20191121123000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121123000 -0500" stop="20191121133000 -0500" channel="CBS (US)">
+    <title lang="en">The Young and the Restless</title>
+    <desc lang="en">Revolves around the continuing rivalries, romances, hopes and fears of the residents of Genoa City.</desc>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191121133000 -0500" stop="20191121140000 -0500" channel="CBS (US)">
+    <title lang="en">The Bold and the Beautiful</title>
+    <desc lang="en">The lives, loves and battles of the Forrester and Spectra clans, who run their own fashion houses.</desc>
+    <credits>
+      <actor>John McCook</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191121140000 -0500" stop="20191121150000 -0500" channel="CBS (US)">
+    <title lang="en">The Talk</title>
+    <desc lang="en">Guests include Randall Park.Guests: Randall Park..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191121150000 -0500" stop="20191121160000 -0500" channel="CBS (US)">
+    <title lang="en">Let's Make a Deal</title>
+    <desc lang="en">Audience members dressed in outlandish costumes try to win cash and prizes by making deals with the host.</desc>
+    <credits>
+      <actor>Tiffany Coyne</actor>
+      <actor>Jonathan Mangum</actor>
+    </credits>
+    <category lang="en">Game Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121160000 -0500" stop="20191121180000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121180000 -0500" stop="20191121183000 -0500" channel="CBS (US)">
+    <title lang="en">CBS Evening News</title>
+    <desc lang="en">This news program covers the events that matter the most to people, from wherever they happen in the world.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121183000 -0500" stop="20191121200000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121200000 -0500" stop="20191121203100 -0500" channel="CBS (US)">
+    <title lang="en">Young Sheldon</title>
+    <sub-title lang="en">The Sin of Greed and a Chimichanga From Chi-Chi’s</sub-title>
+    <desc lang="en">The University makes George Sr. a lucrative job offer in the hopes of recruiting Sheldon. Also, Georgie gets a job working for Meemaw’s new boyfriend, and Mary is determined to rid her home of greed.</desc>
+    <credits>
+      <actor>Iain Armitage</actor>
+      <actor>Zoe Perry</actor>
+      <actor>Lance Barber</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191121203100 -0500" stop="20191121210100 -0500" channel="CBS (US)">
+    <title lang="en">The Unicorn</title>
+    <sub-title lang="en">Turkeys and Traditions</sub-title>
+    <desc lang="en">Wade and the girls tackle hosting a traditional Thanksgiving dinner for friends and extended family. Also, Ben attempts to make a fried turkey for the very first time.Guests: Annie Mumolo..</desc>
+    <credits>
+      <actor>Walton Goggins</actor>
+      <actor>Rob Corddry</actor>
+      <actor>Michaela Watkins</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191121210100 -0500" stop="20191121213000 -0500" channel="CBS (US)">
+    <title lang="en">Mom</title>
+    <sub-title lang="en">Hot Butter and Toxic Narcissism</sub-title>
+    <desc lang="en">Christy regrets fleeing the scene after hitting a parked car. Also, Bonnie’s therapist, Trevor, offers tools to help her better communicate with Adam.</desc>
+    <credits>
+      <actor>Anna Faris</actor>
+      <actor>Allison Janney</actor>
+      <actor>Mimi Kennedy</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191121213000 -0500" stop="20191121220000 -0500" channel="CBS (US)">
+    <title lang="en">Carol's Second Act</title>
+    <sub-title lang="en">Sick and Retired</sub-title>
+    <desc lang="en">Carol’s dear friend Phyllis is admitted to the hospital, and Carol jealously witnesses what retirement would have looked like for her.</desc>
+    <credits>
+      <actor>Patricia Heaton</actor>
+      <actor>Kyle MacLachlan</actor>
+      <actor>Ito Aghayere</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191121220000 -0500" stop="20191121230000 -0500" channel="CBS (US)">
+    <title lang="en">Evil</title>
+    <sub-title lang="en">2 Fathers</sub-title>
+    <desc lang="en">When David recognizes one of the sigils in the Poveglia Codex from his father Leon’s artwork, he and Kristen journey to a remote art commune to investigate its meaning and how it’s related to David’s family.</desc>
+    <credits>
+      <actor>Katja Herbers</actor>
+      <actor>Mike Colter</actor>
+      <actor>Aasif Mandvi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191121230000 -0500" stop="20191121233500 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121233500 -0500" stop="20191122003700 -0500" channel="CBS (US)">
+    <title lang="en">The Late Show With Stephen Colbert</title>
+    <desc lang="en">See footage from Stephen's trip to New Zealand. Senator Kamala Harris visits.Guests: Kamala Harris..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191122003700 -0500" stop="20191122013700 -0500" channel="CBS (US)">
+    <title lang="en">The Late Late Show With James Corden</title>
+    <desc lang="en">Guests include Chadwick Boseman, Sienna Miller and Stephan James.Guests: Chadwick Boseman, Sienna Miller, Stephan James..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191122013700 -0500" stop="20191122013700 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122013700 -0500" stop="20191122070000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122070000 -0500" stop="20191122090000 -0500" channel="CBS (US)">
+    <title lang="en">CBS This Morning</title>
+    <desc lang="en">Gayle King interviews Tom Hanks, and Delta Air Lines CEO Ed Bastian stops by.Guests: Tom Hanks, Ed Bastian..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191122090000 -0500" stop="20191122110000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122110000 -0500" stop="20191122120000 -0500" channel="CBS (US)">
+    <title lang="en">The Price Is Right</title>
+    <desc lang="en">Contestants must correctly guess the retail price of various items in order to win cash and prizes.</desc>
+    <category lang="en">Game Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122120000 -0500" stop="20191122123000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122123000 -0500" stop="20191122133000 -0500" channel="CBS (US)">
+    <title lang="en">The Young and the Restless</title>
+    <desc lang="en">Revolves around the continuing rivalries, romances, hopes and fears of the residents of Genoa City.</desc>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191122133000 -0500" stop="20191122140000 -0500" channel="CBS (US)">
+    <title lang="en">The Bold and the Beautiful</title>
+    <desc lang="en">The lives, loves and battles of the Forrester and Spectra clans, who run their own fashion houses.</desc>
+    <credits>
+      <actor>John McCook</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191122140000 -0500" stop="20191122150000 -0500" channel="CBS (US)">
+    <title lang="en">The Talk</title>
+    <desc lang="en">Guests include Julie Andrews.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191122150000 -0500" stop="20191122160000 -0500" channel="CBS (US)">
+    <title lang="en">Let's Make a Deal</title>
+    <desc lang="en">Audience members dressed in outlandish costumes try to win cash and prizes by making deals with the host.</desc>
+    <credits>
+      <actor>Tiffany Coyne</actor>
+      <actor>Jonathan Mangum</actor>
+    </credits>
+    <category lang="en">Game Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122160000 -0500" stop="20191122180000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122180000 -0500" stop="20191122183000 -0500" channel="CBS (US)">
+    <title lang="en">CBS Evening News</title>
+    <desc lang="en">This news program covers the events that matter the most to people, from wherever they happen in the world.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122183000 -0500" stop="20191122200000 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122200000 -0500" stop="20191122210000 -0500" channel="CBS (US)">
+    <title lang="en">Hawaii Five-0</title>
+    <sub-title lang="en">Ka la‘au kumu ‘ole o Kahilikolo</sub-title>
+    <desc lang="en">It’s Thanksgiving, and while Junior and Tani track down the thief who robbed his parents’ home, Five-0 investigates the murder of a beloved philanthropist and the theft of his ultra-valuable koa tree.</desc>
+    <credits>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Chi McBride</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191122210000 -0500" stop="20191122220000 -0500" channel="CBS (US)">
+    <title lang="en">Magnum P.I.</title>
+    <sub-title lang="en">A Bullet Named Fate</sub-title>
+    <desc lang="en">A guilt-ridden Magnum follows the clues his private investigator friend, Harry Brown, left behind when he was shot while working a case Thomas passed onto him.</desc>
+    <credits>
+      <actor>Jay Hernandez</actor>
+      <actor>Perdita Weeks</actor>
+      <actor>Zachary Knighton</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191122220000 -0500" stop="20191122230000 -0500" channel="CBS (US)">
+    <title lang="en">Blue Bloods</title>
+    <sub-title lang="en">Grave Errors</sub-title>
+    <desc lang="en">While working a case of a nanny accused of abuse, Erin disagrees with the psychiatric consultant, Dr. Alice Dornan, regarding her diagnosis and punishment suggestion.</desc>
+    <credits>
+      <actor>Tom Selleck</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Bridget Moynahan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191122230000 -0500" stop="20191122233500 -0500" channel="CBS (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122233500 -0500" stop="20191123003700 -0500" channel="CBS (US)">
+    <title lang="en">The Late Show With Stephen Colbert</title>
+    <desc lang="en">See footage from Stephen's trip to New Zealand. Daniel Craig visits.Guests: Daniel Craig..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191116010000 -0500" stop="20191116090000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116090000 -0500" stop="20191116110000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116110000 -0500" stop="20191116120000 -0500" channel="Fox (US)">
+    <title lang="en">Big Noon Kickoff</title>
+    <desc lang="en">Preview of today's top games in College football plus detailed analysis on the Fox Big Noon Saturday matchup.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116120000 -0500" stop="20191116153000 -0500" channel="Fox (US)">
+    <title lang="en">Michigan State vs. Michigan</title>
+    <desc lang="en">Football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116153000 -0500" stop="20191116160000 -0500" channel="Fox (US)">
+    <title lang="en">College Football Extra</title>
+    <desc lang="en">Highlights and updates of the day's college football action plus previews of upcoming games.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116160000 -0500" stop="20191116193000 -0500" channel="Fox (US)">
+    <title lang="en">Minnesota vs. Iowa</title>
+    <desc lang="en">Football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116193000 -0500" stop="20191116200000 -0500" channel="Fox (US)">
+    <title lang="en">College Football Extra</title>
+    <desc lang="en">Highlights and updates of the day's college football action plus previews of upcoming games.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116200000 -0500" stop="20191116233000 -0500" channel="Fox (US)">
+    <title lang="en">UCLA vs. Utah</title>
+    <desc lang="en">Football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116233000 -0500" stop="20191117000000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117000000 -0500" stop="20191117003000 -0500" channel="Fox (US)">
+    <title lang="en">PBC Fight Camp</title>
+    <sub-title lang="en">Deontay Wilder vs. Luis Ortiz 2</sub-title>
+    <desc lang="en">Follows Heavyweight World Champion Deontay Wilder and Cuban contender Luis Ortiz for an in-depth look at their preparation leading to their upcoming match.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191117003000 -0500" stop="20191117010000 -0500" channel="Fox (US)">
+    <title lang="en">PBC Countdown</title>
+    <sub-title lang="en">Leo Santa Cruz vs. Miguel Flores</sub-title>
+    <desc lang="en">We follow Leo Santa Cruz and Miguel Flores as they prepare for their upcoming match.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191117010000 -0500" stop="20191117033000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117033000 -0500" stop="20191117060000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117060000 -0500" stop="20191117070000 -0500" channel="Fox (US)">
+    <title lang="en">Fox News Sunday</title>
+    <desc lang="en">Interviews with newsmakers and discussions of current affairs.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117070000 -0500" stop="20191117110000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117110000 -0500" stop="20191117120000 -0500" channel="Fox (US)">
+    <title lang="en">NFL Kickoff</title>
+    <desc lang="en">A cast of NFL analysts cover team news, strategies, injuries and fantasy information.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117120000 -0500" stop="20191117130000 -0500" channel="Fox (US)">
+    <title lang="en">Fox NFL Sunday</title>
+    <desc lang="en">America's most-watched and Emmy Award-winning pregame show previews the upcoming day's action, presents up-to-the-second news and stories, insightful analysis and timely features from around the NFL.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117130000 -0500" stop="20191117160000 -0500" channel="Fox (US)">
+    <title lang="en">Football</title>
+    <desc lang="en">Football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117160000 -0500" stop="20191117163000 -0500" channel="Fox (US)">
+    <title lang="en">The OT</title>
+    <desc lang="en">A post-game show presented by Fox Sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117163000 -0500" stop="20191117170000 -0500" channel="Fox (US)">
+    <title lang="en">PBC Fight Camp</title>
+    <sub-title lang="en">Deontay Wilder vs. Luis Ortiz 2</sub-title>
+    <desc lang="en">Follows Heavyweight World Champion Deontay Wilder and Cuban contender Luis Ortiz for an in-depth look at their preparation leading to their upcoming match.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191117170000 -0500" stop="20191117180000 -0500" channel="Fox (US)">
+    <title lang="en">Inside PBC Boxing</title>
+    <desc lang="en">The official news and information show of the Premier Boxing Championship. Analysts from Fox Sports Los Angeles studios comment on the world of boxing.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Boxing</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191117180000 -0500" stop="20191117190000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117190000 -0500" stop="20191117193000 -0500" channel="Fox (US)">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Go Big or Go Homer</sub-title>
+    <desc lang="en">Homer is demoted to supervising interns, among whom is go-getter millennial Mike, a 35-year-old who asks Homer to be his mentor. However, when Homer inspires Mike to start a business of his own, the two find themselves being chased by the mob.Guests: Michael Rapaport..</desc>
+    <credits>
+      <actor>Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191117193000 -0500" stop="20191117200000 -0500" channel="Fox (US)">
+    <title lang="en">Bob's Burgers</title>
+    <sub-title lang="en">Boys Just Wanna Have Fungus</sub-title>
+    <desc lang="en">Unable to afford a rare gourmet mushroom for a Burger of the Day, Bob and Gene jump into the cutthroat world of mushroom foraging. Meanwhile, Tina's powerful new prescription glasses lead her to believe she has a superpower.Guests: Thomas Lennon, Robert Ben Garant..</desc>
+    <credits>
+      <actor>H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191117200000 -0500" stop="20191117203000 -0500" channel="Fox (US)">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Livin La Pura Vida</sub-title>
+    <desc lang="en">The Simpsons join other Springfield families on the Van Houten's annual trip to Costa Rica, which they obviously can't afford. While there, Homer befriends Patty’s new girlfriend, Evelyn.Guests: Fortune Feimster..</desc>
+    <credits>
+      <actor>Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191117203000 -0500" stop="20191117210000 -0500" channel="Fox (US)">
+    <title lang="en">Bless the Harts</title>
+    <sub-title lang="en">Myrtle Beach Memoirs</sub-title>
+    <desc lang="en">When The Last Supper is closed for repairs, the Harts head to Myrtle Beach for a family vacation that they can't exactly afford. While Wayne and Betty try to sit through a lengthy timeshare presentation that would cover all the costs of the trip.</desc>
+    <credits>
+      <actor>Ike Barinholtz</actor>
+      <actor>Jillian Bell</actor>
+      <actor>Fortune Feimster</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191117210000 -0500" stop="20191117213000 -0500" channel="Fox (US)">
+    <title lang="en">Bob's Burgers</title>
+    <sub-title lang="en">Land of the Loft</sub-title>
+    <desc lang="en">Bob and Linda challenge themselves and attend a loft party on a stormy night, while the kids challenge their babysitter, Jen, and face the storm in an ice cream truck.</desc>
+    <credits>
+      <actor>H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191117213000 -0500" stop="20191117220000 -0500" channel="Fox (US)">
+    <title lang="en">Family Guy</title>
+    <sub-title lang="en">Heart Burn</sub-title>
+    <desc lang="en">In celebration of Peter and Lois' anniversary, the Griffins recount their own versions of three well-known love stories.</desc>
+    <category lang="en">Animated</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191117220000 -0500" stop="20191117230000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117230000 -0500" stop="20191118010000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118010000 -0500" stop="20191118010000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118010000 -0500" stop="20191118080000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118080000 -0500" stop="20191118160000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118160000 -0500" stop="20191118190000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118190000 -0500" stop="20191118200000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118200000 -0500" stop="20191118210100 -0500" channel="Fox (US)">
+    <title lang="en">9-1-1</title>
+    <sub-title lang="en">Kids Today</sub-title>
+    <desc lang="en">Athena enlists the 118's help when a teenager speeds out of control on the freeway. Meanwhile, a routine traffic stop uncovers a shocking kidnapping and Buck struggles with his recovery.</desc>
+    <credits>
+      <actor>Peter Krause</actor>
+      <actor>Angela Bassett</actor>
+      <actor>Jennifer Love Hewitt</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191118210100 -0500" stop="20191118220000 -0500" channel="Fox (US)">
+    <title lang="en">Prodigal Son</title>
+    <sub-title lang="en">Annihilator</sub-title>
+    <desc lang="en">Bright jumps at the chance to help Arroyo solve a quadruple homicide for the NYPD. As Bright slips into the mind of this serial killer, he finds himself dealing with the repercussions of seeing his father for the first time in years.</desc>
+    <credits>
+      <actor>Tom Payne</actor>
+      <actor>Michael Sheen</actor>
+      <actor>Bellamy Young</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191118220000 -0500" stop="20191119010000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119010000 -0500" stop="20191119010000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119010000 -0500" stop="20191119080000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119080000 -0500" stop="20191119160000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119160000 -0500" stop="20191119190000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119190000 -0500" stop="20191119200000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119200000 -0500" stop="20191119210000 -0500" channel="Fox (US)">
+    <title lang="en">The Resident</title>
+    <sub-title lang="en">Woman Down</sub-title>
+    <desc lang="en">When one of Chastain's own is brought into the emergency room with life-threatening injuries, the staff rallies around each other to try to save her life, while disagreements over how to best handle her care put Cain at odds with the rest of the doctors.</desc>
+    <credits>
+      <actor>Bruce Greenwood</actor>
+      <actor>Malcolm-Jamal Warner</actor>
+      <actor>Matt Czuchry</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191119210000 -0500" stop="20191119220000 -0500" channel="Fox (US)">
+    <title lang="en">Empire</title>
+    <sub-title lang="en">Good Enough</sub-title>
+    <desc lang="en">Cookie makes moves to get back into the music world and offers to throw an event to gain exposure for Bossy Media.  Meanwhile, Lucious tries to regain control of Empire through sabotage.</desc>
+    <credits>
+      <actor>Terrence Howard</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Gabourey Sidibe</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191119220000 -0500" stop="20191120010000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120010000 -0500" stop="20191120010000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120010000 -0500" stop="20191120080000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120080000 -0500" stop="20191120120000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120120000 -0500" stop="20191120190000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120190000 -0500" stop="20191120200000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120200000 -0500" stop="20191120210100 -0500" channel="Fox (US)">
+    <title lang="en">The Masked Singer</title>
+    <sub-title lang="en">Mask and You Shall Receive</sub-title>
+    <desc lang="en">Four of the remaining eight celebrities take on their next round of dazzling performances.</desc>
+    <credits>
+      <actor>Jenny McCarthy</actor>
+      <actor>Nicole Scherzinger</actor>
+      <actor>Ken Jeong</actor>
+    </credits>
+    <category lang="en">Game Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191120210100 -0500" stop="20191120220000 -0500" channel="Fox (US)">
+    <title lang="en">Almost Family</title>
+    <sub-title lang="en">Risky AF</sub-title>
+    <desc lang="en">Julia is forced to make a drastic decision when she finds out that Isaac has been secretly working with Leon for advice on his current patients. Tim is on high alert when Edie misses a family event to 'work' all weekend.Guests: Michael Stahl-David..</desc>
+    <credits>
+      <actor>Brittany Snow</actor>
+      <actor>Timothy Hutton</actor>
+      <actor>Megalyn Echikunwoke</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191120220000 -0500" stop="20191121010000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121010000 -0500" stop="20191121010000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121010000 -0500" stop="20191121080000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121080000 -0500" stop="20191121120000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121120000 -0500" stop="20191121180000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121180000 -0500" stop="20191121193000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121193000 -0500" stop="20191121200000 -0500" channel="Fox (US)">
+    <title lang="en">NFL Pre-game Show</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121200000 -0500" stop="20191121233000 -0500" channel="Fox (US)">
+    <title lang="en">Indianapolis Colts vs. Houston Texans</title>
+    <desc lang="en">Football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121233000 -0500" stop="20191122010000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122010000 -0500" stop="20191122010000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122010000 -0500" stop="20191122080000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122080000 -0500" stop="20191122120000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122120000 -0500" stop="20191122180000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122180000 -0500" stop="20191122200000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122200000 -0500" stop="20191122220000 -0500" channel="Fox (US)">
+    <title lang="en">WWE Friday Night Smackdown!</title>
+    <desc lang="en">WWE superstars do battle in elaborate, long-running rivalries.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191122220000 -0500" stop="20191123010000 -0500" channel="Fox (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116060000 -0500" stop="20191116080000 -0500" channel="NBC (US)">
+    <title lang="en">Saturday Today</title>
+    <desc lang="en">This weekend morning show covers breaking news and a variety of feature stories.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116080000 -0500" stop="20191116133000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116133000 -0500" stop="20191116143000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116143000 -0500" stop="20191116180000 -0500" channel="NBC (US)">
+    <title lang="en">Navy vs. Notre Dame</title>
+    <desc lang="en">Football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116180000 -0500" stop="20191116193000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116193000 -0500" stop="20191116200000 -0500" channel="NBC (US)">
+    <title lang="en">NBC Nightly News With Lester Holt</title>
+    <desc lang="en">This daily evening news program features the top national and international stories of the day.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116200000 -0500" stop="20191116210000 -0500" channel="NBC (US)">
+    <title lang="en">The Voice</title>
+    <sub-title lang="en">Live Top 20 Eliminations</sub-title>
+    <desc lang="en">Eight artists will be revealed as safe by America's votes and the coaches, Kelly Clarkson, John Legend, Blake Shelton and Gwen Stefani, will each select an artist to save.</desc>
+    <credits>
+      <actor>Blake Shelton</actor>
+      <actor>John Legend</actor>
+      <actor>Kelly Clarkson</actor>
+    </credits>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191116210000 -0500" stop="20191116220000 -0500" channel="NBC (US)">
+    <title lang="en">Dateline NBC</title>
+    <sub-title lang="en">Secrets of Lake Seminole</sub-title>
+    <desc lang="en">Mike Williams disappeared after duck hunting in North Florida on his sixth wedding anniversary and was later found murdered. His mother pushed for the case to be reopened after authorities' initial belief Williams died by drowning.</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116220000 -0500" stop="20191116230000 -0500" channel="NBC (US)">
+    <title lang="en">Saturday Night Live</title>
+    <desc lang="en">This variety show features comedy sketches and special musical and celebrity guests.Guests: Jerry Seinfeld, David Bowie..</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191116230000 -0500" stop="20191116233000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191116233000 -0500" stop="20191117010000 -0500" channel="NBC (US)">
+    <title lang="en">Saturday Night Live</title>
+    <desc lang="en">Harry Styles hosts and performs as musical guest.Guests: Harry Styles..</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191117010000 -0500" stop="20191117013000 -0500" channel="NBC (US)">
+    <title lang="en">Earth Odyssey With Dylan Dreyer</title>
+    <sub-title lang="en">Best of: South America</sub-title>
+    <desc lang="en">We head back to South America to visit some of our favorite animals.</desc>
+    <category lang="en">Travel</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117013000 -0500" stop="20191117020000 -0500" channel="NBC (US)">
+    <title lang="en">Earth Odyssey With Dylan Dreyer</title>
+    <sub-title lang="en">Best of: Islands</sub-title>
+    <desc lang="en">We venture back to some of our favorite islands from around the world.</desc>
+    <category lang="en">Travel</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117020000 -0500" stop="20191117023000 -0500" channel="NBC (US)">
+    <title lang="en">Consumer 101</title>
+    <sub-title lang="en">Lawn and Order</sub-title>
+    <desc lang="en">Jack Rico investigates and turns up dozens of tips on how to get the most out of your yard.</desc>
+    <category lang="en">Science</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117023000 -0500" stop="20191117030000 -0500" channel="NBC (US)">
+    <title lang="en">A New Leaf</title>
+    <sub-title lang="en">A Family Reunion</sub-title>
+    <desc lang="en">Lauren and her husband have given their young sons a real connection to their dad's Trinidadian roots, but Lauren wants them to know her family history, too.</desc>
+    <category lang="en">Children</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117030000 -0500" stop="20191117033000 -0500" channel="NBC (US)">
+    <title lang="en">Vets Saving Pets</title>
+    <sub-title lang="en">A Breath of Fresh Air</sub-title>
+    <desc lang="en">Oreo the cat is presented to Dr. Sharon French to see if she can repair the host of issues in his mouth and jaw and restore a normal life to the feline.</desc>
+    <category lang="en">Animals</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117033000 -0500" stop="20191117040000 -0500" channel="NBC (US)">
+    <title lang="en">The Champion Within</title>
+    <sub-title lang="en">Flo Vaulter</sub-title>
+    <desc lang="en">Lauren Thompson leads us through some of the most inspirational and uplifting stories in the sports world.</desc>
+    <category lang="en">Children</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117040000 -0500" stop="20191117060000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117060000 -0500" stop="20191117070000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117070000 -0500" stop="20191117080000 -0500" channel="NBC (US)">
+    <title lang="en">Sunday Today</title>
+    <desc lang="en">This morning show covers breaking news and offers a variety of feature stories.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117080000 -0500" stop="20191117090000 -0500" channel="NBC (US)">
+    <title lang="en">Meet the Press</title>
+    <desc lang="en">A public affairs program featuring interviews with journalists and newsmakers.</desc>
+    <category lang="en">Discussion</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191117090000 -0500" stop="20191117120000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117120000 -0500" stop="20191117133000 -0500" channel="NBC (US)">
+    <title lang="en">Figure Skating</title>
+    <desc lang="en">Figure skating. Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Figure Skating</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117133000 -0500" stop="20191117140000 -0500" channel="NBC (US)">
+    <title lang="en">NASCAR America</title>
+    <desc lang="en">News, highlights and access to the world of NASCAR racing and its dynamic stars.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117140000 -0500" stop="20191117150000 -0500" channel="NBC (US)">
+    <title lang="en">Countdown to Green</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117150000 -0500" stop="20191117190000 -0500" channel="NBC (US)">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">Auto racing. Monster Energy Cup Series.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117190000 -0500" stop="20191117202000 -0500" channel="NBC (US)">
+    <title lang="en">Football Night in America</title>
+    <desc lang="en">A pre-game show leading up to the football game on Sunday night.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191117202000 -0500" stop="20191117233000 -0500" channel="NBC (US)">
+    <title lang="en">Chicago Bears vs. Los Angeles Rams</title>
+    <desc lang="en">Football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191117233000 -0500" stop="20191118000000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118000000 -0500" stop="20191118003000 -0500" channel="NBC (US)">
+    <title lang="en">NBC Nightly News: Weekend Edition</title>
+    <desc lang="en">Timely reports on national and international news events that take place over the weekend.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118003000 -0500" stop="20191118020000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118020000 -0500" stop="20191118023000 -0500" channel="NBC (US)">
+    <title lang="en">Open House</title>
+    <desc lang="en">A look at the world of real estate, including the latest trends, investment opportunities and home designs.</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191118023000 -0500" stop="20191118030000 -0500" channel="NBC (US)">
+    <title lang="en">1st Look</title>
+    <desc lang="en">Your guide to the county's best food, nightlife, travel and more.</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191118030000 -0500" stop="20191118040000 -0500" channel="NBC (US)">
+    <title lang="en">Meet the Press</title>
+    <desc lang="en">This public affairs program is the longest-running television show in the history of broadcasting. Featuring interviews with some of the most influential people in Washington, the show covers everything from politics and economics to foreign policy.</desc>
+    <category lang="en">Discussion</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191118040000 -0500" stop="20191118050000 -0500" channel="NBC (US)">
+    <title lang="en">Early Today</title>
+    <desc lang="en">A comprehensive look at overnight news, the day ahead, plus the latest weather from across the nation. Also featured are regular segments on business, sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118050000 -0500" stop="20191118053000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118053000 -0500" stop="20191118060000 -0500" channel="NBC (US)">
+    <title lang="en">Early Today</title>
+    <desc lang="en">A comprehensive look at overnight news, the day ahead, plus the latest weather from across the nation. Also featured are regular segments on business, sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118060000 -0500" stop="20191118070000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118070000 -0500" stop="20191118090000 -0500" channel="NBC (US)">
+    <title lang="en">Today</title>
+    <desc lang="en">Features the latest in international news and weather, including newsmaker interviews.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118090000 -0500" stop="20191118100000 -0500" channel="NBC (US)">
+    <title lang="en">Today III</title>
+    <desc lang="en">News, weather and interviews with newsmakers that inform, entertain and inspire.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118100000 -0500" stop="20191118110000 -0500" channel="NBC (US)">
+    <title lang="en">Today With Hoda and Jenna</title>
+    <desc lang="en">Featuring the latest in international news, Weather and interviews with newsmakers.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118110000 -0500" stop="20191118130000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118130000 -0500" stop="20191118140000 -0500" channel="NBC (US)">
+    <title lang="en">Days of Our Lives</title>
+    <desc lang="en">The characters from Salem face daily challenges, personal conflicts and supernatural forces.</desc>
+    <credits>
+      <actor>Jen Lilley</actor>
+      <actor>Chrishell Stause</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191118140000 -0500" stop="20191118193000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118193000 -0500" stop="20191118200000 -0500" channel="NBC (US)">
+    <title lang="en">NBC Nightly News With Lester Holt</title>
+    <desc lang="en">This daily evening news program features the top national and international stories of the day.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118200000 -0500" stop="20191118220100 -0500" channel="NBC (US)">
+    <title lang="en">The Voice</title>
+    <sub-title lang="en">Live Top 13 Performances</sub-title>
+    <desc lang="en">This week’s theme is 'Dedications Week.' The artists will perform songs dedicated to someone special.</desc>
+    <credits>
+      <actor>Blake Shelton</actor>
+      <actor>John Legend</actor>
+      <actor>Kelly Clarkson</actor>
+    </credits>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191118220100 -0500" stop="20191118230000 -0500" channel="NBC (US)">
+    <title lang="en">Bluff City Law</title>
+    <sub-title lang="en">Ave Maria</sub-title>
+    <desc lang="en">Elijah and Sydney help a catholic teacher who is fired from her school after undergoing IVF treatment.Guests: Ana Mackenzie..</desc>
+    <credits>
+      <actor>Jimmy Smits</actor>
+      <actor>Caitlin Mcgee</actor>
+      <actor>Scott Shepherd</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191118230000 -0500" stop="20191118233500 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191118233500 -0500" stop="20191119003500 -0500" channel="NBC (US)">
+    <title lang="en">The Tonight Show Starring Jimmy Fallon</title>
+    <desc lang="en">Guests include Seth Meyers, Cobie Smulders and musical guest Tones and I.Guests: Seth Meyers, Cobie Smulders, Tones and I..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191119003500 -0500" stop="20191119013500 -0500" channel="NBC (US)">
+    <title lang="en">Late Night With Seth Meyers</title>
+    <desc lang="en">Guests include Sienna Miller, Matthew Rhys and Jacqueline Woodson. Jon Theodore sits-in with the 8G Band.Guests: Sienna Miller, Matthew Rhys, Jacqueline Woodson, Jon Theodore..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191119013500 -0500" stop="20191119020500 -0500" channel="NBC (US)">
+    <title lang="en">A Little Late With Lilly Singh</title>
+    <desc lang="en">Lilly Singh interviews guests and stars in comedy sketches and signature segments.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191119020500 -0500" stop="20191119030000 -0500" channel="NBC (US)">
+    <title lang="en">Today</title>
+    <desc lang="en">Features the latest in international news and weather, including newsmaker interviews.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119030000 -0500" stop="20191119033000 -0500" channel="NBC (US)">
+    <title lang="en">Early Today</title>
+    <desc lang="en">A comprehensive look at overnight news, the day ahead, plus the latest weather from across the nation. Also featured are regular segments on business, sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119033000 -0500" stop="20191119040000 -0500" channel="NBC (US)">
+    <title lang="en">Early Today</title>
+    <desc lang="en">A comprehensive look at overnight news, the day ahead, plus the latest weather from across the nation. Also featured are regular segments on business, sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119040000 -0500" stop="20191119043000 -0500" channel="NBC (US)">
+    <title lang="en">Early Today</title>
+    <desc lang="en">A comprehensive look at overnight news, the day ahead, plus the latest weather from across the nation. Also featured are regular segments on business, sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119043000 -0500" stop="20191119050000 -0500" channel="NBC (US)">
+    <title lang="en">NBC Nightly News With Lester Holt</title>
+    <desc lang="en">This daily evening news program features the top national and international stories of the day.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119050000 -0500" stop="20191119050000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119050000 -0500" stop="20191119070000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119070000 -0500" stop="20191119090000 -0500" channel="NBC (US)">
+    <title lang="en">Today</title>
+    <desc lang="en">Features the latest in international news and weather, including newsmaker interviews.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119090000 -0500" stop="20191119100000 -0500" channel="NBC (US)">
+    <title lang="en">Today III</title>
+    <desc lang="en">News, weather and interviews with newsmakers that inform, entertain and inspire.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119100000 -0500" stop="20191119110000 -0500" channel="NBC (US)">
+    <title lang="en">Today With Hoda and Jenna</title>
+    <desc lang="en">Featuring the latest in international news, Weather and interviews with newsmakers.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119110000 -0500" stop="20191119130000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119130000 -0500" stop="20191119140000 -0500" channel="NBC (US)">
+    <title lang="en">Days of Our Lives</title>
+    <desc lang="en">The characters from Salem face daily challenges, personal conflicts and supernatural forces.</desc>
+    <credits>
+      <actor>Jen Lilley</actor>
+      <actor>Chrishell Stause</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191119140000 -0500" stop="20191119193000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119193000 -0500" stop="20191119200000 -0500" channel="NBC (US)">
+    <title lang="en">NBC Nightly News With Lester Holt</title>
+    <desc lang="en">This daily evening news program features the top national and international stories of the day.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119200000 -0500" stop="20191119210000 -0500" channel="NBC (US)">
+    <title lang="en">The Voice</title>
+    <sub-title lang="en">Live Top 13 Eliminations</sub-title>
+    <desc lang="en">In the live results show, ten artists will be revealed as safe by America's votes.</desc>
+    <credits>
+      <actor>Blake Shelton</actor>
+      <actor>John Legend</actor>
+      <actor>Kelly Clarkson</actor>
+    </credits>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191119210000 -0500" stop="20191119220100 -0500" channel="NBC (US)">
+    <title lang="en">This Is Us</title>
+    <sub-title lang="en">So Long, Marianne</sub-title>
+    <desc lang="en">The Pearson family gathers for their first Thanksgiving at Randall's Philadelphia townhouse.</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191119220100 -0500" stop="20191119230000 -0500" channel="NBC (US)">
+    <title lang="en">New Amsterdam</title>
+    <sub-title lang="en">The Island</sub-title>
+    <desc lang="en">When an inmate comes in with an entirely preventable illness, Max, Sharpe, and Iggy head directly to the source - Rikers Island.</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191119230000 -0500" stop="20191119233500 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191119233500 -0500" stop="20191120003500 -0500" channel="NBC (US)">
+    <title lang="en">The Tonight Show Starring Jimmy Fallon</title>
+    <desc lang="en">Guests include Chadwick Boseman, Evan Rachel Wood, David Byrne and musical guest David Byrne’s American Utopia.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191120003500 -0500" stop="20191120013500 -0500" channel="NBC (US)">
+    <title lang="en">Late Night With Seth Meyers</title>
+    <desc lang="en">Guests include Robert Pattinson, Former Vice President Al Gore and Nicole Rucker. Jon Theodore sits-in with the 8G Band.Guests: Robert Pattinson, Al Gore, Nicole Rucker, Jon Theodore..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191120013500 -0500" stop="20191120020500 -0500" channel="NBC (US)">
+    <title lang="en">A Little Late With Lilly Singh</title>
+    <desc lang="en">Lilly Singh interviews guests and stars in comedy sketches and signature segments.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191120020500 -0500" stop="20191120030000 -0500" channel="NBC (US)">
+    <title lang="en">Today</title>
+    <desc lang="en">Features the latest in international news and weather, including newsmaker interviews.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120030000 -0500" stop="20191120033000 -0500" channel="NBC (US)">
+    <title lang="en">Early Today</title>
+    <desc lang="en">A comprehensive look at overnight news, the day ahead, plus the latest weather from across the nation. Also featured are regular segments on business, sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120033000 -0500" stop="20191120040000 -0500" channel="NBC (US)">
+    <title lang="en">Early Today</title>
+    <desc lang="en">A comprehensive look at overnight news, the day ahead, plus the latest weather from across the nation. Also featured are regular segments on business, sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120040000 -0500" stop="20191120043000 -0500" channel="NBC (US)">
+    <title lang="en">Early Today</title>
+    <desc lang="en">A comprehensive look at overnight news, the day ahead, plus the latest weather from across the nation. Also featured are regular segments on business, sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120043000 -0500" stop="20191120050000 -0500" channel="NBC (US)">
+    <title lang="en">NBC Nightly News With Lester Holt</title>
+    <desc lang="en">This daily evening news program features the top national and international stories of the day.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120050000 -0500" stop="20191120050000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120050000 -0500" stop="20191120070000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120070000 -0500" stop="20191120090000 -0500" channel="NBC (US)">
+    <title lang="en">Today</title>
+    <desc lang="en">Features the latest in international news and weather, including newsmaker interviews.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120090000 -0500" stop="20191120100000 -0500" channel="NBC (US)">
+    <title lang="en">Today III</title>
+    <desc lang="en">News, weather and interviews with newsmakers that inform, entertain and inspire.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120100000 -0500" stop="20191120110000 -0500" channel="NBC (US)">
+    <title lang="en">Today With Hoda and Jenna</title>
+    <desc lang="en">Featuring the latest in international news, Weather and interviews with newsmakers.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120110000 -0500" stop="20191120130000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120130000 -0500" stop="20191120140000 -0500" channel="NBC (US)">
+    <title lang="en">Days of Our Lives</title>
+    <desc lang="en">The characters from Salem face daily challenges, personal conflicts and supernatural forces.</desc>
+    <credits>
+      <actor>Jen Lilley</actor>
+      <actor>Chrishell Stause</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191120140000 -0500" stop="20191120193000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120193000 -0500" stop="20191120200000 -0500" channel="NBC (US)">
+    <title lang="en">NBC Nightly News With Lester Holt</title>
+    <desc lang="en">This daily evening news program features the top national and international stories of the day.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120200000 -0500" stop="20191120210000 -0500" channel="NBC (US)">
+    <title lang="en">Chicago Med</title>
+    <sub-title lang="en">I Can't Imagine the Future</sub-title>
+    <desc lang="en">April receives unfortunate news that makes her question her future with Ethan.</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191120210000 -0500" stop="20191120220000 -0500" channel="NBC (US)">
+    <title lang="en">Chicago Fire</title>
+    <sub-title lang="en">Best Friend Magic</sub-title>
+    <desc lang="en">An unexpected visit throws Casey for a loop. Severide sets out to exonerate a wrongly convicted arsonist.</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191120220000 -0500" stop="20191120230000 -0500" channel="NBC (US)">
+    <title lang="en">Chicago P.D.</title>
+    <sub-title lang="en">Absolution</sub-title>
+    <desc lang="en">Halstead's secret ongoing relationship with a woman connected to another case puts him in jeopardy.</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191120230000 -0500" stop="20191120233500 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191120233500 -0500" stop="20191121003500 -0500" channel="NBC (US)">
+    <title lang="en">The Tonight Show Starring Jimmy Fallon</title>
+    <desc lang="en">Guests include Dolly Parton and musical guest Kacey Musgraves.Guests: Dolly Parton, Kacey Musgraves..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191121003500 -0500" stop="20191121013500 -0500" channel="NBC (US)">
+    <title lang="en">Late Night With Seth Meyers</title>
+    <desc lang="en">Guests include Adam Driver, Jonathan Groff and musical guest Hozier. Jon Theodore sits-in with the 8G Band.Guests: Adam Driver, Jonathan Groff, Hozier, Jon Theodore..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191121013500 -0500" stop="20191121020500 -0500" channel="NBC (US)">
+    <title lang="en">A Little Late With Lilly Singh</title>
+    <desc lang="en">Lilly Singh interviews guests and stars in comedy sketches and signature segments.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191121020500 -0500" stop="20191121030000 -0500" channel="NBC (US)">
+    <title lang="en">Today</title>
+    <desc lang="en">Features the latest in international news and weather, including newsmaker interviews.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121030000 -0500" stop="20191121033000 -0500" channel="NBC (US)">
+    <title lang="en">Early Today</title>
+    <desc lang="en">A comprehensive look at overnight news, the day ahead, plus the latest weather from across the nation. Also featured are regular segments on business, sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121033000 -0500" stop="20191121040000 -0500" channel="NBC (US)">
+    <title lang="en">Early Today</title>
+    <desc lang="en">A comprehensive look at overnight news, the day ahead, plus the latest weather from across the nation. Also featured are regular segments on business, sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121040000 -0500" stop="20191121043000 -0500" channel="NBC (US)">
+    <title lang="en">Early Today</title>
+    <desc lang="en">A comprehensive look at overnight news, the day ahead, plus the latest weather from across the nation. Also featured are regular segments on business, sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121043000 -0500" stop="20191121050000 -0500" channel="NBC (US)">
+    <title lang="en">NBC Nightly News With Lester Holt</title>
+    <desc lang="en">This daily evening news program features the top national and international stories of the day.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121050000 -0500" stop="20191121050000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121050000 -0500" stop="20191121070000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121070000 -0500" stop="20191121090000 -0500" channel="NBC (US)">
+    <title lang="en">Today</title>
+    <desc lang="en">Features the latest in international news and weather, including newsmaker interviews.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121090000 -0500" stop="20191121100000 -0500" channel="NBC (US)">
+    <title lang="en">Today III</title>
+    <desc lang="en">News, weather and interviews with newsmakers that inform, entertain and inspire.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121100000 -0500" stop="20191121110000 -0500" channel="NBC (US)">
+    <title lang="en">Today With Hoda and Jenna</title>
+    <desc lang="en">Featuring the latest in international news, Weather and interviews with newsmakers.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121110000 -0500" stop="20191121130000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121130000 -0500" stop="20191121140000 -0500" channel="NBC (US)">
+    <title lang="en">Days of Our Lives</title>
+    <desc lang="en">The characters from Salem face daily challenges, personal conflicts and supernatural forces.</desc>
+    <credits>
+      <actor>Jen Lilley</actor>
+      <actor>Chrishell Stause</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191121140000 -0500" stop="20191121193000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121193000 -0500" stop="20191121200000 -0500" channel="NBC (US)">
+    <title lang="en">NBC Nightly News With Lester Holt</title>
+    <desc lang="en">This daily evening news program features the top national and international stories of the day.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121200000 -0500" stop="20191121203000 -0500" channel="NBC (US)">
+    <title lang="en">Superstore</title>
+    <sub-title lang="en">Curbside Pickup</sub-title>
+    <desc lang="en">As part of a new corporate initiative Dina is spearheading, Jonah, Cheyenne and other overworked employees have to rush items directly to shoppers’ cars.</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191121203000 -0500" stop="20191121210000 -0500" channel="NBC (US)">
+    <title lang="en">Perfect Harmony</title>
+    <sub-title lang="en">Thanks-taking</sub-title>
+    <desc lang="en">Jax convinces Arthur to join the choir's progressive Thanksgiving dinner and snoop in various choir members' homes to find a missing item.</desc>
+    <credits>
+      <actor>Bradley Whitford</actor>
+      <actor>Anna Camp</actor>
+      <actor>Tymberlee Hill</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191121210000 -0500" stop="20191121213000 -0500" channel="NBC (US)">
+    <title lang="en">The Good Place</title>
+    <sub-title lang="en">The Answer</sub-title>
+    <desc lang="en">In an attempt to plan a better future, Chidi considers his past.</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191121213000 -0500" stop="20191121220000 -0500" channel="NBC (US)">
+    <title lang="en">Will &amp; Grace</title>
+    <sub-title lang="en">The Grief Panda</sub-title>
+    <desc lang="en">In the aftermath of Will and McCoy breaking up, Grace and Jack hire the Grief Panda to help Will process his pain.</desc>
+    <credits>
+      <actor>Eric McCormack</actor>
+      <actor>Debra Messing</actor>
+      <actor>Megan Mullally</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191121220000 -0500" stop="20191121230000 -0500" channel="NBC (US)">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <sub-title lang="en">Can't Be Held Accountable</sub-title>
+    <desc lang="en">A fellow detective asks the SVU for help when he suspects his two daughters are being groomed by a serial predator.Guests: Nicholas Turturro, Vincent Kartheiser, Zuleikha Robinson, Amy Hargreaves..</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191121230000 -0500" stop="20191121233500 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191121233500 -0500" stop="20191122003500 -0500" channel="NBC (US)">
+    <title lang="en">The Tonight Show Starring Jimmy Fallon</title>
+    <desc lang="en">This long-running, late-night talk and variety show features a nightly opening monologue with ongoing comedy segments and quick quips about current events. Interviews are conducted with news-making guests, and musical performers are also featured.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191122003500 -0500" stop="20191122013500 -0500" channel="NBC (US)">
+    <title lang="en">Late Night With Seth Meyers</title>
+    <desc lang="en">Guests Dolly Parton, Tobias Menzies and Rep. Ro Khanna. Jon Theodore sits-in with the 8G Band.Guests: Dolly Parton, Tobias Menzies, Ro Khanna..</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191122013500 -0500" stop="20191122020500 -0500" channel="NBC (US)">
+    <title lang="en">A Little Late With Lilly Singh</title>
+    <desc lang="en">Lilly Singh interviews guests and stars in comedy sketches and signature segments.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20191122020500 -0500" stop="20191122030000 -0500" channel="NBC (US)">
+    <title lang="en">Today</title>
+    <desc lang="en">Features the latest in international news and weather, including newsmaker interviews.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122030000 -0500" stop="20191122033000 -0500" channel="NBC (US)">
+    <title lang="en">Early Today</title>
+    <desc lang="en">A comprehensive look at overnight news, the day ahead, plus the latest weather from across the nation. Also featured are regular segments on business, sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122033000 -0500" stop="20191122040000 -0500" channel="NBC (US)">
+    <title lang="en">Early Today</title>
+    <desc lang="en">A comprehensive look at overnight news, the day ahead, plus the latest weather from across the nation. Also featured are regular segments on business, sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122040000 -0500" stop="20191122043000 -0500" channel="NBC (US)">
+    <title lang="en">Early Today</title>
+    <desc lang="en">A comprehensive look at overnight news, the day ahead, plus the latest weather from across the nation. Also featured are regular segments on business, sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122043000 -0500" stop="20191122050000 -0500" channel="NBC (US)">
+    <title lang="en">NBC Nightly News With Lester Holt</title>
+    <desc lang="en">This daily evening news program features the top national and international stories of the day.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122050000 -0500" stop="20191122050000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122050000 -0500" stop="20191122070000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122070000 -0500" stop="20191122090000 -0500" channel="NBC (US)">
+    <title lang="en">Today</title>
+    <desc lang="en">Features the latest in international news and weather, including newsmaker interviews.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122090000 -0500" stop="20191122100000 -0500" channel="NBC (US)">
+    <title lang="en">Today III</title>
+    <desc lang="en">News, weather and interviews with newsmakers that inform, entertain and inspire.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122100000 -0500" stop="20191122110000 -0500" channel="NBC (US)">
+    <title lang="en">Today With Hoda and Jenna</title>
+    <desc lang="en">Featuring the latest in international news, Weather and interviews with newsmakers.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122110000 -0500" stop="20191122130000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122130000 -0500" stop="20191122140000 -0500" channel="NBC (US)">
+    <title lang="en">Days of Our Lives</title>
+    <desc lang="en">The characters from Salem face daily challenges, personal conflicts and supernatural forces.</desc>
+    <credits>
+      <actor>Jen Lilley</actor>
+      <actor>Chrishell Stause</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191122140000 -0500" stop="20191122193000 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122193000 -0500" stop="20191122200000 -0500" channel="NBC (US)">
+    <title lang="en">NBC Nightly News With Lester Holt</title>
+    <desc lang="en">This daily evening news program features the top national and international stories of the day.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122200000 -0500" stop="20191122210000 -0500" channel="NBC (US)">
+    <title lang="en">The Blacklist</title>
+    <sub-title lang="en">The Hawaladar</sub-title>
+    <desc lang="en">Desperate for information about the whereabouts of a long-time friend, Red directs the Task Force to find a blacklister who specializes in untraceable money transfers.</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191122210000 -0500" stop="20191122230000 -0500" channel="NBC (US)">
+    <title lang="en">Dateline NBC</title>
+    <desc lang="en">This news magazine presents quality investigative features, breaking news coverage, newsmaker profiles and a variety of human interest stories.</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20191122230000 -0500" stop="20191122233500 -0500" channel="NBC (US)">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Local programming.</desc>
+    <category lang="en">Local</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20191122233500 -0500" stop="20191123003500 -0500" channel="NBC (US)">
+    <title lang="en">The Tonight Show Starring Jimmy Fallon</title>
+    <desc lang="en">This long-running, late-night talk and variety show features a nightly opening monologue with ongoing comedy segments and quick quips about current events. Interviews are conducted with news-making guests and musical performers are also welcomed.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
   </programme>
 </tv>
