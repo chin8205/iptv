@@ -132,6 +132,18 @@
     <display-name lang="en">Warner TV</display-name>
     <url>http://www.astro.com.my</url>
   </channel>
+  <channel id="Fox Sports">
+    <display-name lang="en">Fox Sports</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Fox Sports 2">
+    <display-name lang="en">Fox Sports 2</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Fox Sports 3">
+    <display-name lang="en">Fox Sports 3</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
   <programme start="20191117000200 +0800" stop="20191117003200 +0800" channel="Al Jazeera">
     <title lang="en">News</title>
     <desc lang="en">Live, breaking and in-depth news from Asia, Africa, Europe and the Americas.</desc>
@@ -57184,5 +57196,1074 @@
     <category lang="en">Movie</category>
     <category lang="en">Action</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000319X168930.jpg" />
+  </programme>
+  <programme start="20191117000500 +0800" stop="20191117014500 +0800" channel="Fox Sports">
+    <title lang="en">F1 Classics</title>
+    <desc lang="en">Formula 1 has got a long history. Throughout this time there have been several great drivers in the sport, and with great drivers, there also have been great races.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X380919.jpg" />
+  </programme>
+  <programme start="20191117014500 +0800" stop="20191117031500 +0800" channel="Fox Sports">
+    <title lang="en">(L) F1 Heineken Brazilian GP 2019 QF</title>
+    <desc lang="en">LIVE: Auto Racing - Formula 1 Heineken Brazilian Grand Prix 2019 : Qualifying, from Autodromo Jose Carlos Pace, Sao Paulo, Brazil.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X404723.jpg" />
+  </programme>
+  <programme start="20191117031500 +0800" stop="20191117032500 +0800" channel="Fox Sports">
+    <title lang="en">In Focus 2019</title>
+    <desc lang="en">In Focus is a showcase of the pivotal moments in the world of sports, that every sports fans will want to re-live.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X387173.jpg" />
+  </programme>
+  <programme start="20191117032500 +0800" stop="20191117033000 +0800" channel="Fox Sports">
+    <title lang="en">In Focus 2019</title>
+    <desc lang="en">In Focus is a showcase of the pivotal moments in the world of sports, that every sports fans will want to re-live.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X387173.jpg" />
+  </programme>
+  <programme start="20191117033000 +0800" stop="20191117070000 +0800" channel="Fox Sports">
+    <title lang="en">MotoGP 2019 Motul GP of Valencia QF</title>
+    <desc lang="en">Motor Cycle Racing - MotoGP : Qualifying - Motul Grand Prix Of Valencia, from Circuit Ricardo Tormo, Valencia, Spain.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X404726.jpg" />
+  </programme>
+  <programme start="20191117070000 +0800" stop="20191117073000 +0800" channel="Fox Sports">
+    <title lang="en">FIM Enel Moto E World Cup 2019</title>
+    <desc lang="en">Motor Cycle Racing - FIM Enel Moto E World Cup 2019 : Race 5, from Valencia, Spain.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X376023.jpg" />
+  </programme>
+  <programme start="20191117073000 +0800" stop="20191117090000 +0800" channel="Fox Sports">
+    <title lang="en">F1 Heineken Brazilian GP 2019 QF</title>
+    <desc lang="en">Auto Racing - Formula 1 Heineken Brazilian Grand Prix 2019 : Qualifying, from Autodromo Jose Carlos Pace, Sao Paulo, Brazil.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X404727.jpg" />
+  </programme>
+  <programme start="20191117090000 +0800" stop="20191117120000 +0800" channel="Fox Sports">
+    <title lang="en">(L) UFC Fight Night: Blachowicz Vs Jacare</title>
+    <desc lang="en">LIVE: UFC Fight Night: Blachowicz vs Jacare fighting event took at Ginsio do Ibirapuera in So Paulo, Brazil.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X404725.jpg" />
+  </programme>
+  <programme start="20191117120000 +0800" stop="20191117133000 +0800" channel="Fox Sports">
+    <title lang="en">MotoGP 2019 Motul GP of Valencia QF</title>
+    <desc lang="en">Motor Cycle Racing - MotoGP : Qualifying - Motul Grand Prix Of Valencia, from Circuit Ricardo Tormo, Valencia, Spain.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X404726.jpg" />
+  </programme>
+  <programme start="20191117133000 +0800" stop="20191117135500 +0800" channel="Fox Sports">
+    <title lang="en">Racemax</title>
+    <desc lang="en">Racemax is a long established half-hour motorsport magazine show each week, covering news and features from across the globe.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+  </programme>
+  <programme start="20191117135500 +0800" stop="20191117152500 +0800" channel="Fox Sports">
+    <title lang="en">F1 Heineken Brazilian GP 2019 QF</title>
+    <desc lang="en">Auto Racing - Formula 1 Heineken Brazilian Grand Prix 2019 : Qualifying, from Autodromo Jose Carlos Pace, Sao Paulo, Brazil.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X404727.jpg" />
+  </programme>
+  <programme start="20191117152500 +0800" stop="20191117165500 +0800" channel="Fox Sports">
+    <title lang="en">MotoGP 2019 Motul GP of Valencia QF</title>
+    <desc lang="en">Motor Cycle Racing - MotoGP : Qualifying - Motul Grand Prix Of Valencia, from Circuit Ricardo Tormo, Valencia, Spain.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X404726.jpg" />
+  </programme>
+  <programme start="20191117165500 +0800" stop="20191117173500 +0800" channel="Fox Sports">
+    <title lang="en">(L) FIM Enel Moto E World Cup 2019</title>
+    <desc lang="en">LIVE: Motor Cycle Racing - FIM Enel Moto E World Cup 2019 : Race 6, from Valencia, Spain.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X376021.jpg" />
+  </programme>
+  <programme start="20191117173500 +0800" stop="20191117223000 +0800" channel="Fox Sports">
+    <title lang="en">(L) MotoGP 2019 Motul GP of Valencia Races</title>
+    <desc lang="en">LIVE: Motor Cycle Racing - MotoGP : Races - Motul Grand Prix Of Valencia, from Circuit Ricardo Tormo, Valencia, Spain.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X404728.jpg" />
+  </programme>
+  <programme start="20191117223000 +0800" stop="20191117230000 +0800" channel="Fox Sports">
+    <title lang="en">Formula E Street Racers</title>
+    <desc lang="en">This show featuring highlights, a chance to see the latest electric road car innovations to modern computer game design.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X378116.jpg" />
+  </programme>
+  <programme start="20191117230000 +0800" stop="20191118003000 +0800" channel="Fox Sports">
+    <title lang="en">F1 Heineken Brazilian GP 2019 QF</title>
+    <desc lang="en">Auto Racing - Formula 1 Heineken Brazilian Grand Prix 2019 : Qualifying, from Autodromo Jose Carlos Pace, Sao Paulo, Brazil.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X404727.jpg" />
+  </programme>
+  <programme start="20191118030500 +0800" stop="20191118070500 +0800" channel="Fox Sports">
+    <title lang="en">MotoGP 2019 Motul GP of Valencia Races</title>
+    <desc lang="en">Motor Cycle Racing - MotoGP : Races - Motul Grand Prix Of Valencia, from Circuit Ricardo Tormo, Valencia, Spain.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X404730.jpg" />
+  </programme>
+  <programme start="20191118070500 +0800" stop="20191118073500 +0800" channel="Fox Sports">
+    <title lang="en">FIM Enel Moto E World Cup 2019</title>
+    <desc lang="en">Motor Cycle Racing - FIM Enel Moto E World Cup 2019 : Race 6, from Valencia, Spain.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X376023.jpg" />
+  </programme>
+  <programme start="20191118073500 +0800" stop="20191118093500 +0800" channel="Fox Sports">
+    <title lang="en">F1 Heineken Brazilian GP 2019 Main Race</title>
+    <desc lang="en">Auto Racing - Formula 1 Heineken Brazilian Grand Prix 2019 : Main Race, from Interlagos Circuit, Sao Paulo, Brazil.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408852.jpg" />
+  </programme>
+  <programme start="20191118093500 +0800" stop="20191118100000 +0800" channel="Fox Sports">
+    <title lang="en">In Depth With Graham Bensinger</title>
+    <desc lang="en">Graham Bensinger's interview programme show features sports stars discussing their lives and careers, including some controversial topics.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X378117.jpg" />
+  </programme>
+  <programme start="20191118100000 +0800" stop="20191118120000 +0800" channel="Fox Sports">
+    <title lang="en">Serie A: Lazio Vs Lecce</title>
+    <desc lang="en">Football - Serie A Championship 2019/20: Lazio vs Lecce, from Olimpico, Rome, Italy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X409249.jpg" />
+  </programme>
+  <programme start="20191118120000 +0800" stop="20191118140000 +0800" channel="Fox Sports">
+    <title lang="en">MotoGP 2019 Motul GP of Valencia Races</title>
+    <desc lang="en">Motor Cycle Racing - MotoGP : Races - Motul Grand Prix Of Valencia, from Circuit Ricardo Tormo, Spain.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X404730.jpg" />
+  </programme>
+  <programme start="20191118140000 +0800" stop="20191118160000 +0800" channel="Fox Sports">
+    <title lang="en">F1 Heineken Brazilian GP 2019 Main Race</title>
+    <desc lang="en">Auto Racing - Formula 1 Heineken Brazilian Grand Prix 2019 : Main Race, from Interlagos Circuit, Sao Paulo, Brazil.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408852.jpg" />
+  </programme>
+  <programme start="20191118160000 +0800" stop="20191118170000 +0800" channel="Fox Sports">
+    <title lang="en">Serie A: Napoli Vs Genoa</title>
+    <desc lang="en">Football - Serie A Championship 2019/20: Napoli vs Genoa, from San Paolo, Naples, Italy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408669.jpg" />
+  </programme>
+  <programme start="20191118170000 +0800" stop="20191118180000 +0800" channel="Fox Sports">
+    <title lang="en">FIM Enel Moto E World Cup 2019</title>
+    <desc lang="en">Motor Cycle Racing - FIM Enel Moto E World Cup 2019 : Race 6, from Valencia, Spain.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X376023.jpg" />
+  </programme>
+  <programme start="20191118180000 +0800" stop="20191118200000 +0800" channel="Fox Sports">
+    <title lang="en">MotoGP 2019 Motul GP of Valencia Races</title>
+    <desc lang="en">Motor Cycle Racing - MotoGP : Races - Motul Grand Prix Of Valencia, from Circuit Ricardo Tormo, Spain.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X404730.jpg" />
+  </programme>
+  <programme start="20191118200000 +0800" stop="20191118210000 +0800" channel="Fox Sports">
+    <title lang="en">(L) The John Dykes Show 2019/20</title>
+    <desc lang="en">LIVE: Updated weekly highlights show from John Dykes, that will give fans unique insights and perspectives on English football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X384575.jpg" />
+  </programme>
+  <programme start="20191118210000 +0800" stop="20191118220000 +0800" channel="Fox Sports">
+    <title lang="en">F1 Heineken Brazilian GP 2019 Highlights</title>
+    <desc lang="en">Auto Racing - Formula 1 Heineken Brazilian Grand Prix 2019 : Highlights, from Interlagos Circuit, Sao Paulo, Brazil.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408805.jpg" />
+  </programme>
+  <programme start="20191118220000 +0800" stop="20191118223000 +0800" channel="Fox Sports">
+    <title lang="en">Formula E Street Racers</title>
+    <desc lang="en">This show featuring highlights, a chance to see the latest electric road car innovations to modern computer game design.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X378116.jpg" />
+  </programme>
+  <programme start="20191118223000 +0800" stop="20191118233000 +0800" channel="Fox Sports">
+    <title lang="en">The John Dykes Show 2019</title>
+    <desc lang="en">Updated weekly highlights show from John Dykes, that will give fans unique insights and perspectives on English football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X383824.jpg" />
+  </programme>
+  <programme start="20191118233000 +0800" stop="20191119003000 +0800" channel="Fox Sports">
+    <title lang="en">F1 Heineken Brazilian GP 2019 Highlights</title>
+    <desc lang="en">Auto Racing - Formula 1 Heineken Brazilian Grand Prix 2019 : Highlights, from Interlagos Circuit, Sao Paulo, Brazil.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408805.jpg" />
+  </programme>
+  <programme start="20191119013000 +0800" stop="20191119033000 +0800" channel="Fox Sports">
+    <title lang="en">MotoGP 2019 Motul GP of Valencia Races</title>
+    <desc lang="en">Motor Cycle Racing - MotoGP : Races - Motul Grand Prix Of Valencia, from Circuit Ricardo Tormo, Spain.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X404730.jpg" />
+  </programme>
+  <programme start="20191119033000 +0800" stop="20191119060000 +0800" channel="Fox Sports">
+    <title lang="en">UFC</title>
+    <desc lang="en">Catch all the action from UFC ultimate mixed martial arts fights in UFC Epics.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X395359.jpg" />
+  </programme>
+  <programme start="20191119060000 +0800" stop="20191119070000 +0800" channel="Fox Sports">
+    <title lang="en">F1 Heineken Brazilian GP 2019 Highlights</title>
+    <desc lang="en">Auto Racing - Formula 1 Heineken Brazilian Grand Prix 2019 : Highlights, from Interlagos Circuit, Sao Paulo, Brazil.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408805.jpg" />
+  </programme>
+  <programme start="20191119070000 +0800" stop="20191119080000 +0800" channel="Fox Sports">
+    <title lang="en">The John Dykes Show 2019</title>
+    <desc lang="en">Updated weekly highlights show from John Dykes, that will give fans unique insights and perspectives on English football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X383824.jpg" />
+  </programme>
+  <programme start="20191119080000 +0800" stop="20191119090000 +0800" channel="Fox Sports">
+    <title lang="en">Euro Beach Football League 2019</title>
+    <desc lang="en">Football - Euro Beach Football League 2019 - Nazare: Norway vs Denmark.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X399480.jpg" />
+  </programme>
+  <programme start="20191119090000 +0800" stop="20191119100000 +0800" channel="Fox Sports">
+    <title lang="en">Euro Beach Football League 2019</title>
+    <desc lang="en">Football - Euro Beach Football League 2019 - Nazare: Georgia vs Bulgaria.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X399480.jpg" />
+  </programme>
+  <programme start="20191119100000 +0800" stop="20191119120000 +0800" channel="Fox Sports">
+    <title lang="en">MotoGP 2019 Motul GP of Valencia Races</title>
+    <desc lang="en">Motor Cycle Racing - MotoGP : Races - Motul Grand Prix Of Valencia, from Circuit Ricardo Tormo, Spain.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X404730.jpg" />
+  </programme>
+  <programme start="20191119120000 +0800" stop="20191119130000 +0800" channel="Fox Sports">
+    <title lang="en">F1 Heineken Brazilian GP 2019 Highlights</title>
+    <desc lang="en">Auto Racing - Formula 1 Heineken Brazilian Grand Prix 2019 : Highlights, from Interlagos Circuit, Sao Paulo, Brazil.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408805.jpg" />
+  </programme>
+  <programme start="20191119130000 +0800" stop="20191119140000 +0800" channel="Fox Sports">
+    <title lang="en">The John Dykes Show 2019</title>
+    <desc lang="en">Updated weekly highlights show from John Dykes, that will give fans unique insights and perspectives on English football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X383824.jpg" />
+  </programme>
+  <programme start="20191119140000 +0800" stop="20191119150000 +0800" channel="Fox Sports">
+    <title lang="en">Euro Beach Football League 2019</title>
+    <desc lang="en">Football - Euro Beach Football League 2019 - Nazare: Switzerland vs Ukraine.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X399480.jpg" />
+  </programme>
+  <programme start="20191119150000 +0800" stop="20191119163000 +0800" channel="Fox Sports">
+    <title lang="en">Euro Beach Football League 2019</title>
+    <desc lang="en">Football - Euro Beach Football League 2019 - Nazare: Russia vs Azerbaijan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X399480.jpg" />
+  </programme>
+  <programme start="20191119163000 +0800" stop="20191119170000 +0800" channel="Fox Sports">
+    <title lang="en">Australian Fishing Championship 2019</title>
+    <desc lang="en">Australian Fishing Championships is the Grand Prix of tournament fishing in Australia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000328X408854.jpg" />
+  </programme>
+  <programme start="20191119170000 +0800" stop="20191119180000 +0800" channel="Fox Sports">
+    <title lang="en">Serie A: Sampdoria Vs Atalanta</title>
+    <desc lang="en">Football - Serie A Championship 2019/20: Sampdoria vs Atalanta, from Luigi Ferraris, Genoa, Italy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408671.jpg" />
+  </programme>
+  <programme start="20191119180000 +0800" stop="20191119190000 +0800" channel="Fox Sports">
+    <title lang="en">F1 Heineken Brazilian GP 2019 Highlights</title>
+    <desc lang="en">Auto Racing - Formula 1 Heineken Brazilian Grand Prix 2019 : Highlights, from Interlagos Circuit, Sao Paulo, Brazil.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408805.jpg" />
+  </programme>
+  <programme start="20191119190000 +0800" stop="20191119200000 +0800" channel="Fox Sports">
+    <title lang="en">The John Dykes Show 2019</title>
+    <desc lang="en">Updated weekly highlights show from John Dykes, that will give fans unique insights and perspectives on English football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X383824.jpg" />
+  </programme>
+  <programme start="20191119200000 +0800" stop="20191119203000 +0800" channel="Fox Sports">
+    <title lang="en">2 Wheels</title>
+    <desc lang="en">2 Wheels is a magazine show on Star Sports that brings to you the latest updates and most exciting segments on the world of professional motorbike racing.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X378114.jpg" />
+  </programme>
+  <programme start="20191119203000 +0800" stop="20191119210000 +0800" channel="Fox Sports">
+    <title lang="en">Racemax</title>
+    <desc lang="en">Racemax is a long established half-hour motorsport magazine show each week, covering news and features from across the globe.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X378132.jpg" />
+  </programme>
+  <programme start="20191119210000 +0800" stop="20191119220000 +0800" channel="Fox Sports">
+    <title lang="en">Bayern Vs Dortmund</title>
+    <desc lang="en">Football - Bundesliga 2019/20: Bayern vs Dortmund, from Allianz Arena, Muchen, Germany.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408658.jpg" />
+  </programme>
+  <programme start="20191119220000 +0800" stop="20191119223000 +0800" channel="Fox Sports">
+    <title lang="en">2 Wheels</title>
+    <desc lang="en">2 Wheels is a magazine show on Star Sports that brings to you the latest updates and most exciting segments on the world of professional motorbike racing.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X378114.jpg" />
+  </programme>
+  <programme start="20191119223000 +0800" stop="20191120010000 +0800" channel="Fox Sports">
+    <title lang="en">UFC Fight Night: Blachowicz Vs Jacare</title>
+    <desc lang="en">UFC Fight Night: Blachowicz vs Jacare fighting event took at Ginsio do Ibirapuera in So Paulo, Brazil.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000328X405002.jpg" />
+  </programme>
+  <programme start="20191120013000 +0800" stop="20191120020000 +0800" channel="Fox Sports">
+    <title lang="en">Racemax</title>
+    <desc lang="en">Racemax is a long established half-hour motorsport magazine show each week, covering news and features from across the globe.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X378132.jpg" />
+  </programme>
+  <programme start="20191120020000 +0800" stop="20191120043000 +0800" channel="Fox Sports">
+    <title lang="en">UFC</title>
+    <desc lang="en">Catch all the action from UFC ultimate mixed martial arts fights in UFC Epics.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X395359.jpg" />
+  </programme>
+  <programme start="20191120043000 +0800" stop="20191120050000 +0800" channel="Fox Sports">
+    <title lang="en">UFC Ultimate Knockouts</title>
+    <desc lang="en">The UFC's Ultimate Knockouts series brings you the greatest knockouts in the history, delivered by the fighters who end fights on their own terms, with a single strike.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408657.jpg" />
+  </programme>
+  <programme start="20191120050000 +0800" stop="20191120070000 +0800" channel="Fox Sports">
+    <title lang="en">F1 Heineken Brazilian GP 2019 Main Race</title>
+    <desc lang="en">Auto Racing - Formula 1 Heineken Brazilian Grand Prix 2019 : Main Race, from Interlagos Circuit, Sao Paulo, Brazil.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408852.jpg" />
+  </programme>
+  <programme start="20191120070000 +0800" stop="20191120073000 +0800" channel="Fox Sports">
+    <title lang="en">2 Wheels</title>
+    <desc lang="en">2 Wheels is a magazine show on Star Sports that brings to you the latest updates and most exciting segments on the world of professional motorbike racing.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X378114.jpg" />
+  </programme>
+  <programme start="20191120073000 +0800" stop="20191120080000 +0800" channel="Fox Sports">
+    <title lang="en">Racemax</title>
+    <desc lang="en">Racemax is a long established half-hour motorsport magazine show each week, covering news and features from across the globe.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X378132.jpg" />
+  </programme>
+  <programme start="20191120080000 +0800" stop="20191120090000 +0800" channel="Fox Sports">
+    <title lang="en">Euro Beach Football League 2019</title>
+    <desc lang="en">Football - Euro Beach Football League 2019 - Nazare: Turkey vs Spain.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X399480.jpg" />
+  </programme>
+  <programme start="20191120090000 +0800" stop="20191120103000 +0800" channel="Fox Sports">
+    <title lang="en">Euro Beach Football League 2019</title>
+    <desc lang="en">Football - Euro Beach Football League 2019 - Nazare: Poland vs Portugal.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X399480.jpg" />
+  </programme>
+  <programme start="20191120103000 +0800" stop="20191120110000 +0800" channel="Fox Sports">
+    <title lang="en">Australian Fishing Championship 2019</title>
+    <desc lang="en">Australian Fishing Championships is the Grand Prix of tournament fishing in Australia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000328X408854.jpg" />
+  </programme>
+  <programme start="20191120110000 +0800" stop="20191120120000 +0800" channel="Fox Sports">
+    <title lang="en">Wolfsburg Vs Leverkusen</title>
+    <desc lang="en">Football - Bundesliga 2019/20: Wolfsburg vs Leverkusen, from Volkswagen Arena, Wolfsburg, Germany.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408668.jpg" />
+  </programme>
+  <programme start="20191120120000 +0800" stop="20191120123000 +0800" channel="Fox Sports">
+    <title lang="en">Formula Drift Championship</title>
+    <desc lang="en">Auto Racing - Formula Drift Championship: Driftingchampionshipseries.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X398982.jpg" />
+  </programme>
+  <programme start="20191120123000 +0800" stop="20191120130000 +0800" channel="Fox Sports">
+    <title lang="en">FIBA 3x3 World Tour Magazine</title>
+    <desc lang="en">Basketball - FIBA 3x3 World Tour 2019 Magazine - World Tour Final Utsunomiya.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X392153.jpg" />
+  </programme>
+  <programme start="20191120130000 +0800" stop="20191120133000 +0800" channel="Fox Sports">
+    <title lang="en">2 Wheels</title>
+    <desc lang="en">2 Wheels is a magazine show on Star Sports that brings to you the latest updates and most exciting segments on the world of professional motorbike racing.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X378114.jpg" />
+  </programme>
+  <programme start="20191120133000 +0800" stop="20191120140000 +0800" channel="Fox Sports">
+    <title lang="en">Racemax</title>
+    <desc lang="en">Racemax is a long established half-hour motorsport magazine show each week, covering news and features from across the globe.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X378132.jpg" />
+  </programme>
+  <programme start="20191120140000 +0800" stop="20191120153000 +0800" channel="Fox Sports">
+    <title lang="en">Euro Beach Football League 2019</title>
+    <desc lang="en">Football - Euro Beach Football League 2019 - Nazare: Norway vs Georgia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X399480.jpg" />
+  </programme>
+  <programme start="20191120153000 +0800" stop="20191120163000 +0800" channel="Fox Sports">
+    <title lang="en">Euro Beach Football League 2019</title>
+    <desc lang="en">Football - Euro Beach Football League 2019 - Nazare: Bulgaria vs Denmark.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X399480.jpg" />
+  </programme>
+  <programme start="20191120163000 +0800" stop="20191120170000 +0800" channel="Fox Sports">
+    <title lang="en">Australian Fishing Championship 2019</title>
+    <desc lang="en">Australian Fishing Championships is the Grand Prix of tournament fishing in Australia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000328X408854.jpg" />
+  </programme>
+  <programme start="20191120170000 +0800" stop="20191120180000 +0800" channel="Fox Sports">
+    <title lang="en">Serie A: Inter Vs Hellas Verona</title>
+    <desc lang="en">Football - Serie A Championship 2019/20: Inter vs Hellas Verona, from Giuseppe Meazza, Milan, Italy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408659.jpg" />
+  </programme>
+  <programme start="20191120180000 +0800" stop="20191120183000 +0800" channel="Fox Sports">
+    <title lang="en">Formula E Street Racers</title>
+    <desc lang="en">This show featuring highlights, a chance to see the latest electric road car innovations to modern computer game design.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X378116.jpg" />
+  </programme>
+  <programme start="20191120183000 +0800" stop="20191120190000 +0800" channel="Fox Sports">
+    <title lang="en">FIBA 3x3 World Tour Magazine</title>
+    <desc lang="en">Basketball - FIBA 3x3 World Tour 2019 Magazine - World Tour Final Utsunomiya.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X392153.jpg" />
+  </programme>
+  <programme start="20191120190000 +0800" stop="20191120193000 +0800" channel="Fox Sports">
+    <title lang="en">2 Wheels</title>
+    <desc lang="en">2 Wheels is a magazine show on Star Sports that brings to you the latest updates and most exciting segments on the world of professional motorbike racing.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X378114.jpg" />
+  </programme>
+  <programme start="20191120193000 +0800" stop="20191120200000 +0800" channel="Fox Sports">
+    <title lang="en">Racemax</title>
+    <desc lang="en">Racemax is a long established half-hour motorsport magazine show each week, covering news and features from across the globe.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X378132.jpg" />
+  </programme>
+  <programme start="20191120200000 +0800" stop="20191120203000 +0800" channel="Fox Sports">
+    <title lang="en">(L) The John Dykes Show 2019/20</title>
+    <desc lang="en">LIVE: Updated weekly highlights show from John Dykes, that will give fans unique insights and perspectives on English football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X384575.jpg" />
+  </programme>
+  <programme start="20191120203000 +0800" stop="20191120210000 +0800" channel="Fox Sports">
+    <title lang="en">Football Stars</title>
+    <desc lang="en">Catch the latest news and highlights, plus who and what's happening in the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X376042.jpg" />
+  </programme>
+  <programme start="20191120210000 +0800" stop="20191120220000 +0800" channel="Fox Sports">
+    <title lang="en">Serie A: Juventus Vs Milan</title>
+    <desc lang="en">Football - Serie A Championship 2019/20: Juventus vs Milan, from Allianz Stadium, Turin, Italy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000328X408663.jpg" />
+  </programme>
+  <programme start="20191120220000 +0800" stop="20191120223000 +0800" channel="Fox Sports">
+    <title lang="en">The John Dykes Show 2019</title>
+    <desc lang="en">Updated weekly highlights show from John Dykes, that will give fans unique insights and perspectives on English football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X383824.jpg" />
+  </programme>
+  <programme start="20191120223000 +0800" stop="20191120230000 +0800" channel="Fox Sports">
+    <title lang="en">Football Stars</title>
+    <desc lang="en">Catch the latest news and highlights, plus who and what's happening in the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X376042.jpg" />
+  </programme>
+  <programme start="20191120230000 +0800" stop="20191121013000 +0800" channel="Fox Sports">
+    <title lang="en">UFC</title>
+    <desc lang="en">Catch all the action from UFC ultimate mixed martial arts fights in UFC Epics.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X395359.jpg" />
+  </programme>
+  <programme start="20191121020000 +0800" stop="20191121043000 +0800" channel="Fox Sports">
+    <title lang="en">UFC Fight Night: Blachowicz Vs Jacare</title>
+    <desc lang="en">UFC Fight Night: Blachowicz vs Jacare fighting event took at Ginsio do Ibirapuera in So Paulo, Brazil.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000328X405002.jpg" />
+  </programme>
+  <programme start="20191121043000 +0800" stop="20191121050000 +0800" channel="Fox Sports">
+    <title lang="en">UFC Ultimate Knockouts</title>
+    <desc lang="en">The UFC's Ultimate Knockouts series brings you the greatest knockouts in the history, delivered by the fighters who end fights on their own terms, with a single strike.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408657.jpg" />
+  </programme>
+  <programme start="20191121050000 +0800" stop="20191121070000 +0800" channel="Fox Sports">
+    <title lang="en">MotoGP 2019 Motul GP of Valencia Races</title>
+    <desc lang="en">Motor Cycle Racing - MotoGP : Races - Motul Grand Prix Of Valencia, from Circuit Ricardo Tormo, Spain.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X404730.jpg" />
+  </programme>
+  <programme start="20191121070000 +0800" stop="20191121073000 +0800" channel="Fox Sports">
+    <title lang="en">The John Dykes Show 2019</title>
+    <desc lang="en">Updated weekly highlights show from John Dykes, that will give fans unique insights and perspectives on English football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X383824.jpg" />
+  </programme>
+  <programme start="20191121073000 +0800" stop="20191121080000 +0800" channel="Fox Sports">
+    <title lang="en">Football Stars</title>
+    <desc lang="en">Catch the latest news and highlights, plus who and what's happening in the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X376042.jpg" />
+  </programme>
+  <programme start="20191121080000 +0800" stop="20191121093000 +0800" channel="Fox Sports">
+    <title lang="en">Euro Beach Football League 2019</title>
+    <desc lang="en">Football - Euro Beach Football League 2019 - Nazare: Switzerland vs Poland.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X399480.jpg" />
+  </programme>
+  <programme start="20191121093000 +0800" stop="20191121103000 +0800" channel="Fox Sports">
+    <title lang="en">Euro Beach Football League 2019</title>
+    <desc lang="en">Football - Euro Beach Football League 2019 - Nazare: Russia vs Turkey.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X399480.jpg" />
+  </programme>
+  <programme start="20191121103000 +0800" stop="20191121110000 +0800" channel="Fox Sports">
+    <title lang="en">Australian Fishing Championship 2019</title>
+    <desc lang="en">Australian Fishing Championships is the Grand Prix of tournament fishing in Australia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000328X408854.jpg" />
+  </programme>
+  <programme start="20191121110000 +0800" stop="20191121120000 +0800" channel="Fox Sports">
+    <title lang="en">Schalke Vs Dsseldorf</title>
+    <desc lang="en">Football - Bundesliga 2019/20: Schalke vs Dsseldorf, from VELTINS-Arena, Gelsenkirchen, Germany.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408678.jpg" />
+  </programme>
+  <programme start="20191121120000 +0800" stop="20191121130000 +0800" channel="Fox Sports">
+    <title lang="en">MotoGP 2019 Motul GP of Valencia Hls</title>
+    <desc lang="en">Motor Cycle Racing - MotoGP : Highlights - Motul Grand Prix Of Valencia, from Circuit Ricardo Tormo, Spain.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408861.jpg" />
+  </programme>
+  <programme start="20191121130000 +0800" stop="20191121133000 +0800" channel="Fox Sports">
+    <title lang="en">The John Dykes Show 2019</title>
+    <desc lang="en">Updated weekly highlights show from John Dykes, that will give fans unique insights and perspectives on English football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X383824.jpg" />
+  </programme>
+  <programme start="20191121133000 +0800" stop="20191121140000 +0800" channel="Fox Sports">
+    <title lang="en">Football Stars</title>
+    <desc lang="en">Catch the latest news and highlights, plus who and what's happening in the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X376042.jpg" />
+  </programme>
+  <programme start="20191121140000 +0800" stop="20191121150000 +0800" channel="Fox Sports">
+    <title lang="en">Euro Beach Football League 2019</title>
+    <desc lang="en">Football - Euro Beach Football League 2019 - Nazare: Spain vs Azerbaijan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X399480.jpg" />
+  </programme>
+  <programme start="20191121150000 +0800" stop="20191121160000 +0800" channel="Fox Sports">
+    <title lang="en">Euro Beach Football League 2019</title>
+    <desc lang="en">Football - Euro Beach Football League 2019 - Nazare: Portugal vs Ukraine.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X399480.jpg" />
+  </programme>
+  <programme start="20191121160000 +0800" stop="20191121180000 +0800" channel="Fox Sports">
+    <title lang="en">Serie A: Lazio Vs Lecce</title>
+    <desc lang="en">Football - Serie A Championship 2019/20: Lazio vs Lecce, from Olimpico, Rome, Italy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X409249.jpg" />
+  </programme>
+  <programme start="20191121180000 +0800" stop="20191121183000 +0800" channel="Fox Sports">
+    <title lang="en">In Depth With Graham Bensinger</title>
+    <desc lang="en">Graham Bensinger's interview programme show features sports stars discussing their lives and careers, including some controversial topics.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X378117.jpg" />
+  </programme>
+  <programme start="20191121183000 +0800" stop="20191121190000 +0800" channel="Fox Sports">
+    <title lang="en">Football Stars</title>
+    <desc lang="en">Catch the latest news and highlights, plus who and what's happening in the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X376042.jpg" />
+  </programme>
+  <programme start="20191121190000 +0800" stop="20191121193000 +0800" channel="Fox Sports">
+    <title lang="en">The John Dykes Show 2019</title>
+    <desc lang="en">Updated weekly highlights show from John Dykes, that will give fans unique insights and perspectives on English football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X383824.jpg" />
+  </programme>
+  <programme start="20191121193000 +0800" stop="20191121203000 +0800" channel="Fox Sports">
+    <title lang="en">MotoGP 2019 Motul GP of Valencia Hls</title>
+    <desc lang="en">Motor Cycle Racing - MotoGP : Highlights - Motul Grand Prix Of Valencia, from Circuit Ricardo Tormo, Spain.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408861.jpg" />
+  </programme>
+  <programme start="20191121203000 +0800" stop="20191121210000 +0800" channel="Fox Sports">
+    <title lang="en">Bundesliga 2019/20 Weekly</title>
+    <desc lang="en">Bundesliga 2019/20 Weekly Shows features highlights from Bundesliga, Germany's premier football competition.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X384175.jpg" />
+  </programme>
+  <programme start="20191121210000 +0800" stop="20191121213000 +0800" channel="Fox Sports">
+    <title lang="en">F1 Heineken Brazilian GP 2019 Race Review</title>
+    <desc lang="en">Auto Racing - Formula 1 Heineken Brazilian Grand Prix 2019 : Race Review, from Interlagos Circuit, Sao Paulo, Brazil.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408859.jpg" />
+  </programme>
+  <programme start="20191121213000 +0800" stop="20191121223000 +0800" channel="Fox Sports">
+    <title lang="en">Serie A: Parma Vs Roma</title>
+    <desc lang="en">Football - Serie A Championship 2019/20: Parma vs Roma, from Ennio Tardini, Parma, Italy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408672.jpg" />
+  </programme>
+  <programme start="20191121223000 +0800" stop="20191121230000 +0800" channel="Fox Sports">
+    <title lang="en">Bundesliga 2019/20 Weekly</title>
+    <desc lang="en">Bundesliga 2019/20 Weekly Shows features highlights from Bundesliga, Germany's premier football competition.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X384175.jpg" />
+  </programme>
+  <programme start="20191121230000 +0800" stop="20191122013000 +0800" channel="Fox Sports">
+    <title lang="en">UFC Main Event: Holloway Vs Ortega</title>
+    <desc lang="en">UFC Main Event showcases the best fights of recent vintage, interview-driven features that reveal the backstories of the athletes and their mindsets just prior those epic bouts.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X380664.jpg" />
+  </programme>
+  <programme start="20191122020000 +0800" stop="20191122023000 +0800" channel="Fox Sports">
+    <title lang="en">Bundesliga 2019/20 Weekly</title>
+    <desc lang="en">Bundesliga 2019/20 Weekly Shows features highlights from Bundesliga, Germany's premier football competition.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X384175.jpg" />
+  </programme>
+  <programme start="20191122023000 +0800" stop="20191122050000 +0800" channel="Fox Sports">
+    <title lang="en">UFC</title>
+    <desc lang="en">Catch all the action from UFC ultimate mixed martial arts fights in UFC Epics.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X395359.jpg" />
+  </programme>
+  <programme start="20191122050000 +0800" stop="20191122070000 +0800" channel="Fox Sports">
+    <title lang="en">UFC</title>
+    <desc lang="en">Catch all the action from UFC ultimate mixed martial arts fights in UFC Epics.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X395359.jpg" />
+  </programme>
+  <programme start="20191122070000 +0800" stop="20191122073000 +0800" channel="Fox Sports">
+    <title lang="en">F1 Heineken Brazilian GP 2019 Race Review</title>
+    <desc lang="en">Auto Racing - Formula 1 Heineken Brazilian Grand Prix 2019 : Race Review, from Interlagos Circuit, Sao Paulo, Brazil.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408859.jpg" />
+  </programme>
+  <programme start="20191122073000 +0800" stop="20191122080000 +0800" channel="Fox Sports">
+    <title lang="en">Bundesliga 2019/20 Weekly</title>
+    <desc lang="en">Bundesliga 2019/20 Weekly Shows features highlights from Bundesliga, Germany's premier football competition.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X384175.jpg" />
+  </programme>
+  <programme start="20191122080000 +0800" stop="20191122093000 +0800" channel="Fox Sports">
+    <title lang="en">Euro Beach Football League 2019</title>
+    <desc lang="en">Football - Euro Beach Football League 2019 - Nazare: Denmark vs Georgia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X399480.jpg" />
+  </programme>
+  <programme start="20191122093000 +0800" stop="20191122103000 +0800" channel="Fox Sports">
+    <title lang="en">Euro Beach Football League 2019</title>
+    <desc lang="en">Football - Euro Beach Football League 2019 - Nazare: Bulgaria vs Norway.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X399480.jpg" />
+  </programme>
+  <programme start="20191122103000 +0800" stop="20191122110000 +0800" channel="Fox Sports">
+    <title lang="en">Australian Fishing Championship 2019</title>
+    <desc lang="en">Australian Fishing Championships is the Grand Prix of tournament fishing in Australia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000328X408854.jpg" />
+  </programme>
+  <programme start="20191122110000 +0800" stop="20191122120000 +0800" channel="Fox Sports">
+    <title lang="en">Serie a Championship 2019/20</title>
+    <desc lang="en">Football - Serie A Championship 2019/20: Match.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X387129.jpg" />
+  </programme>
+  <programme start="20191122120000 +0800" stop="20191122123000 +0800" channel="Fox Sports">
+    <title lang="en">In Depth With Graham Bensinger</title>
+    <desc lang="en">Graham Bensinger's interview programme show features sports stars discussing their lives and careers, including some controversial topics.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X378117.jpg" />
+  </programme>
+  <programme start="20191122123000 +0800" stop="20191122130000 +0800" channel="Fox Sports">
+    <title lang="en">Football Stars</title>
+    <desc lang="en">Catch the latest news and highlights, plus who and what's happening in the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X376042.jpg" />
+  </programme>
+  <programme start="20191122130000 +0800" stop="20191122133000 +0800" channel="Fox Sports">
+    <title lang="en">F1 Heineken Brazilian GP 2019 Race Review</title>
+    <desc lang="en">Auto Racing - Formula 1 Heineken Brazilian Grand Prix 2019 : Race Review, from Interlagos Circuit, Sao Paulo, Brazil.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408859.jpg" />
+  </programme>
+  <programme start="20191122133000 +0800" stop="20191122140000 +0800" channel="Fox Sports">
+    <title lang="en">Bundesliga 2019/20 Weekly</title>
+    <desc lang="en">Bundesliga 2019/20 Weekly Shows features highlights from Bundesliga, Germany's premier football competition.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X384175.jpg" />
+  </programme>
+  <programme start="20191122140000 +0800" stop="20191122150000 +0800" channel="Fox Sports">
+    <title lang="en">Euro Beach Football League 2019</title>
+    <desc lang="en">Football - Euro Beach Football League 2019 - Nazare: Ukraine vs Poland.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X399480.jpg" />
+  </programme>
+  <programme start="20191122150000 +0800" stop="20191122160000 +0800" channel="Fox Sports">
+    <title lang="en">Euro Beach Football League 2019</title>
+    <desc lang="en">Football - Euro Beach Football League 2019 - Nazare: Azerbaijan vs Turkey.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X399480.jpg" />
+  </programme>
+  <programme start="20191122160000 +0800" stop="20191122180000 +0800" channel="Fox Sports">
+    <title lang="en">Serie a Championship 2019/20</title>
+    <desc lang="en">Football - Serie A Championship 2019/20: Match.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X387129.jpg" />
+  </programme>
+  <programme start="20191122180000 +0800" stop="20191122183000 +0800" channel="Fox Sports">
+    <title lang="en">Mobil 1 the GRID</title>
+    <desc lang="en">This feature-led programme covers the world's greatest motorsport championships from F1, NASCAR and IndyCar to World Rally.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X383825.jpg" />
+  </programme>
+  <programme start="20191122183000 +0800" stop="20191122190000 +0800" channel="Fox Sports">
+    <title lang="en">F1 Heineken Brazilian GP 2019 Race Review</title>
+    <desc lang="en">Auto Racing - Formula 1 Heineken Brazilian Grand Prix 2019 : Race Review, from Interlagos Circuit, Sao Paulo, Brazil.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408859.jpg" />
+  </programme>
+  <programme start="20191122190000 +0800" stop="20191122193000 +0800" channel="Fox Sports">
+    <title lang="en">Bundesliga 2019/20 Weekly</title>
+    <desc lang="en">Bundesliga 2019/20 Weekly Shows features highlights from Bundesliga, Germany's premier football competition.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X384175.jpg" />
+  </programme>
+  <programme start="20191122193000 +0800" stop="20191122200000 +0800" channel="Fox Sports">
+    <title lang="en">Inside Serie A 2019/20</title>
+    <desc lang="en">Inside Serie A provide you all the news from Italy's top flight, the latest football transfers and all the gossip from clubs and leagues all around the world!</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X387074.jpg" />
+  </programme>
+  <programme start="20191122200000 +0800" stop="20191122203000 +0800" channel="Fox Sports">
+    <title lang="en">(L) The John Dykes Show 2019/20</title>
+    <desc lang="en">LIVE: Updated weekly highlights show from John Dykes, that will give fans unique insights and perspectives on English football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X384575.jpg" />
+  </programme>
+  <programme start="20191122203000 +0800" stop="20191122210000 +0800" channel="Fox Sports">
+    <title lang="en">FOX Sports FC</title>
+    <desc lang="en">FOX Sports FC is an informative program featuring the latest news from football's biggest confederation.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X386692.jpg" />
+  </programme>
+  <programme start="20191122210000 +0800" stop="20191122220000 +0800" channel="Fox Sports">
+    <title lang="en">MotoGP 2019 Motul GP of Valencia Hls</title>
+    <desc lang="en">Motor Cycle Racing - MotoGP : Highlights - Motul Grand Prix Of Valencia, from Circuit Ricardo Tormo, Spain.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408861.jpg" />
+  </programme>
+  <programme start="20191122220000 +0800" stop="20191122223000 +0800" channel="Fox Sports">
+    <title lang="en">The John Dykes Show 2019</title>
+    <desc lang="en">Updated weekly highlights show from John Dykes, that will give fans unique insights and perspectives on English football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X383824.jpg" />
+  </programme>
+  <programme start="20191122223000 +0800" stop="20191122230000 +0800" channel="Fox Sports">
+    <title lang="en">FOX Sports FC</title>
+    <desc lang="en">FOX Sports FC is an informative program featuring the latest news from football's biggest confederation.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X386692.jpg" />
+  </programme>
+  <programme start="20191122230000 +0800" stop="20191123013000 +0800" channel="Fox Sports">
+    <title lang="en">UFC</title>
+    <desc lang="en">Catch all the action from UFC ultimate mixed martial arts fights in UFC Epics.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X395359.jpg" />
+  </programme>
+  <programme start="20191123020000 +0800" stop="20191123023000 +0800" channel="Fox Sports">
+    <title lang="en">FOX Sports FC</title>
+    <desc lang="en">FOX Sports FC is an informative program featuring the latest news from football's biggest confederation.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X386692.jpg" />
+  </programme>
+  <programme start="20191123023000 +0800" stop="20191123030000 +0800" channel="Fox Sports">
+    <title lang="en">Inside Serie A 2019/20</title>
+    <desc lang="en">Inside Serie A provide you all the news from Italy's top flight, the latest football transfers and all the gossip from clubs and leagues all around the world!</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X387074.jpg" />
+  </programme>
+  <programme start="20191123030000 +0800" stop="20191123031000 +0800" channel="Fox Sports">
+    <title lang="en">In Focus 2019</title>
+    <desc lang="en">In Focus is a showcase of the pivotal moments in the world of sports, that every sports fans will want to re-live.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X387173.jpg" />
+  </programme>
+  <programme start="20191123031000 +0800" stop="20191123032000 +0800" channel="Fox Sports">
+    <title lang="en">In Focus 2019</title>
+    <desc lang="en">In Focus is a showcase of the pivotal moments in the world of sports, that every sports fans will want to re-live.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X387173.jpg" />
+  </programme>
+  <programme start="20191123032000 +0800" stop="20191123053000 +0800" channel="Fox Sports">
+    <title lang="en">(L) Dortmund Vs Paderborn</title>
+    <desc lang="en">LIVE: Football - Bundesliga 2019/20: Dortmund vs Paderborn, from SIGNAL IDUNA PARK, Dortmund, Germany.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408860.jpg" />
+  </programme>
+  <programme start="20191123053000 +0800" stop="20191123063000 +0800" channel="Fox Sports">
+    <title lang="en">UFC Unleashed</title>
+    <desc lang="en">UFC Unleashed is a television series features matches from past UFC events showing several UFC bouts and best of' compilations of popular fighters.'.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+  </programme>
+  <programme start="20191123063000 +0800" stop="20191123070000 +0800" channel="Fox Sports">
+    <title lang="en">Inside Serie A 2019/20</title>
+    <desc lang="en">Inside Serie A provide you all the news from Italy's top flight, the latest football transfers and all the gossip from clubs and leagues all around the world!</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X387074.jpg" />
+  </programme>
+  <programme start="20191123070000 +0800" stop="20191123073000 +0800" channel="Fox Sports">
+    <title lang="en">The John Dykes Show 2019</title>
+    <desc lang="en">Updated weekly highlights show from John Dykes, that will give fans unique insights and perspectives on English football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X383824.jpg" />
+  </programme>
+  <programme start="20191123073000 +0800" stop="20191123080000 +0800" channel="Fox Sports">
+    <title lang="en">FOX Sports FC</title>
+    <desc lang="en">FOX Sports FC is an informative program featuring the latest news from football's biggest confederation.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X386692.jpg" />
+  </programme>
+  <programme start="20191123080000 +0800" stop="20191123090000 +0800" channel="Fox Sports">
+    <title lang="en">Euro Beach Football League 2019</title>
+    <desc lang="en">Football - Euro Beach Football League 2019 - Nazare: Spain vs Russia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X399480.jpg" />
+  </programme>
+  <programme start="20191123090000 +0800" stop="20191123103000 +0800" channel="Fox Sports">
+    <title lang="en">Euro Beach Football League 2019</title>
+    <desc lang="en">Football - Euro Beach Football League 2019 - Nazare: Portugal vs Switzerland.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X399480.jpg" />
+  </programme>
+  <programme start="20191123103000 +0800" stop="20191123113000 +0800" channel="Fox Sports">
+    <title lang="en">AFC: Al Hilal Vs Urawa</title>
+    <desc lang="en">Football - AFC Champions League 2019 Final, 1st Leg: Al Hilal SFC vs Urawa Red Diamonds, from King Saud University Stadium, Riyadh, Saudi Arabia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408660.jpg" />
+  </programme>
+  <programme start="20191123113000 +0800" stop="20191123123000 +0800" channel="Fox Sports">
+    <title lang="en">MotoGP 2019 Motul GP of Valencia Hls</title>
+    <desc lang="en">Motor Cycle Racing - MotoGP : Highlights - Motul Grand Prix Of Valencia, from Circuit Ricardo Tormo, Spain.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408861.jpg" />
+  </programme>
+  <programme start="20191123123000 +0800" stop="20191123130000 +0800" channel="Fox Sports">
+    <title lang="en">Inside Serie A 2019/20</title>
+    <desc lang="en">Inside Serie A provide you all the news from Italy's top flight, the latest football transfers and all the gossip from clubs and leagues all around the world!</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X387074.jpg" />
+  </programme>
+  <programme start="20191123130000 +0800" stop="20191123133000 +0800" channel="Fox Sports">
+    <title lang="en">The John Dykes Show 2019</title>
+    <desc lang="en">Updated weekly highlights show from John Dykes, that will give fans unique insights and perspectives on English football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X383824.jpg" />
+  </programme>
+  <programme start="20191123133000 +0800" stop="20191123140000 +0800" channel="Fox Sports">
+    <title lang="en">FOX Sports FC</title>
+    <desc lang="en">FOX Sports FC is an informative program featuring the latest news from football's biggest confederation.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X386692.jpg" />
+  </programme>
+  <programme start="20191123140000 +0800" stop="20191123160000 +0800" channel="Fox Sports">
+    <title lang="en">Dortmund Vs Paderborn</title>
+    <desc lang="en">Football - Bundesliga 2019/20: Dortmund vs Paderborn, from SIGNAL IDUNA PARK, Dortmund, Germany.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408875.jpg" />
+  </programme>
+  <programme start="20191123160000 +0800" stop="20191123180000 +0800" channel="Fox Sports">
+    <title lang="en">F1 Heineken Brazilian GP 2019 Main Race</title>
+    <desc lang="en">Auto Racing - Formula 1 Heineken Brazilian Grand Prix 2019 : Main Race, from Interlagos Circuit, Sao Paulo, Brazil.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408852.jpg" />
+  </programme>
+  <programme start="20191123180000 +0800" stop="20191123200000 +0800" channel="Fox Sports">
+    <title lang="en">AFC: Al Hilal Vs Urawa</title>
+    <desc lang="en">Football - AFC Champions League 2019 Final, 1st Leg: Al Hilal SFC vs Urawa Red Diamonds, from King Saud University Stadium, Riyadh, Saudi Arabia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X408660.jpg" />
+  </programme>
+  <programme start="20191123200000 +0800" stop="20191123203000 +0800" channel="Fox Sports">
+    <title lang="en">Bundesliga 2019/20 Weekly</title>
+    <desc lang="en">Bundesliga 2019/20 Weekly Shows features highlights from Bundesliga, Germany's premier football competition.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X384175.jpg" />
+  </programme>
+  <programme start="20191123203000 +0800" stop="20191123210000 +0800" channel="Fox Sports">
+    <title lang="en">Inside Serie A 2019/20</title>
+    <desc lang="en">Inside Serie A provide you all the news from Italy's top flight, the latest football transfers and all the gossip from clubs and leagues all around the world!</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X387074.jpg" />
+  </programme>
+  <programme start="20191123210000 +0800" stop="20191123213000 +0800" channel="Fox Sports">
+    <title lang="en">The John Dykes Show 2019</title>
+    <desc lang="en">Updated weekly highlights show from John Dykes, that will give fans unique insights and perspectives on English football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X383824.jpg" />
+  </programme>
+  <programme start="20191123213000 +0800" stop="20191123220000 +0800" channel="Fox Sports">
+    <title lang="en">FOX Sports FC</title>
+    <desc lang="en">FOX Sports FC is an informative program featuring the latest news from football's biggest confederation.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X386692.jpg" />
+  </programme>
+  <programme start="20191123220000 +0800" stop="20191123222000 +0800" channel="Fox Sports">
+    <title lang="en">(L) FOX SPORTS Live</title>
+    <desc lang="en">LIVE: FOX SPORTS offers the most comprehensive coverage of sports news, providing a 360 degree perspective by the most credible experts.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000015X398397.jpg" />
   </programme>
 </tv>
