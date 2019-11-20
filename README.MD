@@ -3,11 +3,7 @@ This repository contains the playlists, EPG and other related resources to enjoy
 
 These playlists are specific for Android TV.
 ## Information
-The streams listed here are the official public streams hosted on their live TV websites, and some channels are grabbed from YouTube. A tokenizer server updates the playlists every 6 hours to ensure uptime. 
-
-EPG contains 7 days worth of TV guide.
-
-Use the playlists below.
+The streams listed here are the official public streams hosted on their live TV websites, and some channels are grabbed from YouTube. A tokenizer server updates the playlists every 6 hours to ensure uptime. EPG contains 7 days worth of TV guide.
 
 | No | Channels | Playlist |  EPG |
 | --- | --- | --- | --- |
