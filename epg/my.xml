@@ -36,6 +36,10 @@
     <display-name lang="en">BNC</display-name>
     <url>http://www.astro.com.my</url>
   </channel>
+  <channel id="Astro Awani">
+    <display-name lang="en">Astro Awani</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
   <programme start="20191120000000 +0800" stop="20191120003000 +0800" channel="TV 1">
     <title lang="en">Nasional 12</title>
     <desc lang="en">Saksikan Berita Nasional yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
@@ -10412,5 +10416,2764 @@
     <desc lang="en">Laporan terkini berita dari dalam dan luar negara.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120000000 +0800" stop="20191120003000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120003000 +0800" stop="20191120010000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.334.</episode-num>
+  </programme>
+  <programme start="20191120010000 +0800" stop="20191120013000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.602.</episode-num>
+  </programme>
+  <programme start="20191120013000 +0800" stop="20191120020000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.110.</episode-num>
+  </programme>
+  <programme start="20191120020000 +0800" stop="20191120023000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.602.</episode-num>
+  </programme>
+  <programme start="20191120023000 +0800" stop="20191120030000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.334.</episode-num>
+  </programme>
+  <programme start="20191120030000 +0800" stop="20191120033000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.602.</episode-num>
+  </programme>
+  <programme start="20191120033000 +0800" stop="20191120040000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.110.</episode-num>
+  </programme>
+  <programme start="20191120040000 +0800" stop="20191120043000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.602.</episode-num>
+  </programme>
+  <programme start="20191120043000 +0800" stop="20191120050000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.334.</episode-num>
+  </programme>
+  <programme start="20191120050000 +0800" stop="20191120053000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.602.</episode-num>
+  </programme>
+  <programme start="20191120053000 +0800" stop="20191120060000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.110.</episode-num>
+  </programme>
+  <programme start="20191120060000 +0800" stop="20191120063000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120063000 +0800" stop="20191120065700 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Pagi</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120065700 +0800" stop="20191120070000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120070000 +0800" stop="20191120073000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120073000 +0800" stop="20191120080000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Pagi</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120080000 +0800" stop="20191120082700 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120082700 +0800" stop="20191120083000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120083000 +0800" stop="20191120090000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Pagi</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120090000 +0800" stop="20191120092700 +0800" channel="Astro Awani">
+    <title lang="en">Niaga AWANI</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120092700 +0800" stop="20191120093000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Ringkas</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120093000 +0800" stop="20191120100000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.605.</episode-num>
+  </programme>
+  <programme start="20191120100000 +0800" stop="20191120120000 +0800" channel="Astro Awani">
+    <title lang="en">Sidang Dewan Rakyat</title>
+    <desc lang="en">Siaran langsung Sidang Dewan Rakyat Mesyuarat Ketiga Penggal Kedua Parlimen ke 14 2019.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120120000 +0800" stop="20191120123000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120123000 +0800" stop="20191120125700 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120125700 +0800" stop="20191120130000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120130000 +0800" stop="20191120133000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120133000 +0800" stop="20191120135700 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120135700 +0800" stop="20191120140000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120140000 +0800" stop="20191120143000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120143000 +0800" stop="20191120150000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120150000 +0800" stop="20191120153000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.611.</episode-num>
+  </programme>
+  <programme start="20191120153000 +0800" stop="20191120155700 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.334.</episode-num>
+  </programme>
+  <programme start="20191120155700 +0800" stop="20191120160000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Ringkas</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120160000 +0800" stop="20191120163000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120163000 +0800" stop="20191120164500 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXIV_Series.jpg" />
+    <episode-num system="xmltv_ns">.222.</episode-num>
+  </programme>
+  <programme start="20191120164500 +0800" stop="20191120170000 +0800" channel="Astro Awani">
+    <title lang="en">Lan Berdagang</title>
+    <desc lang="en">Lan Berdagang mengangkat usahawan-usahawan Sarawak berkongsi cerita, pengalaman dan produk yang dihasilkan untuk pasaran tempatan dan antarabangsa termasuk keistimewaan menjadi anak bumi kenyalang.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IWJPK_series.jpg" />
+    <episode-num system="xmltv_ns">.22.</episode-num>
+  </programme>
+  <programme start="20191120170000 +0800" stop="20191120172700 +0800" channel="Astro Awani">
+    <title lang="en">Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120172700 +0800" stop="20191120173000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120173000 +0800" stop="20191120174500 +0800" channel="Astro Awani">
+    <title lang="en">Niaga AWANI</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120174500 +0800" stop="20191120180000 +0800" channel="Astro Awani">
+    <title lang="en">Ikon Agro</title>
+    <desc lang="en">Bagaimana industri asas tani terus kekal relevan dan kompetitif? Program khas ini memaparkan para usahawan dalam sektor pertanian yang telah berjaya meningkatkan daya saing mereka secara kreatif, dan inova.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXLI_series.jpg" />
+    <episode-num system="xmltv_ns">.15.</episode-num>
+  </programme>
+  <programme start="20191120180000 +0800" stop="20191120183000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.613.</episode-num>
+  </programme>
+  <programme start="20191120183000 +0800" stop="20191120190000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120190000 +0800" stop="20191120191500 +0800" channel="Astro Awani">
+    <title lang="en">Awani Sarawak</title>
+    <desc lang="en">Laporan perkembangan berita Negeri Sarawak.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120191500 +0800" stop="20191120193000 +0800" channel="Astro Awani">
+    <title lang="en">Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.236.</episode-num>
+  </programme>
+  <programme start="20191120193000 +0800" stop="20191120194500 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXIV_Series.jpg" />
+    <episode-num system="xmltv_ns">.223.</episode-num>
+  </programme>
+  <programme start="20191120194500 +0800" stop="20191120203000 +0800" channel="Astro Awani">
+    <title lang="en">Awani 7:45</title>
+    <desc lang="en">Laporan berita, fakta dan data yang anda perlu tahu hari ini.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120203000 +0800" stop="20191120204500 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXIV_Series.jpg" />
+    <episode-num system="xmltv_ns">.223.</episode-num>
+  </programme>
+  <programme start="20191120204500 +0800" stop="20191120210000 +0800" channel="Astro Awani">
+    <title lang="en">Lan Berdagang</title>
+    <desc lang="en">Lan Berdagang mengangkat usahawan-usahawan Sarawak berkongsi cerita, pengalaman dan produk yang dihasilkan untuk pasaran tempatan dan antarabangsa termasuk keistimewaan menjadi anak bumi kenyalang.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IWJPK_series.jpg" />
+    <episode-num system="xmltv_ns">.23.</episode-num>
+  </programme>
+  <programme start="20191120210000 +0800" stop="20191120213000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Agenda Awani.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191120213000 +0800" stop="20191120214500 +0800" channel="Astro Awani">
+    <title lang="en">Awani Sarawak</title>
+    <desc lang="en">Laporan perkembangan berita Negeri Sarawak.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ITGMU_series.jpg" />
+    <episode-num system="xmltv_ns">.250.</episode-num>
+  </programme>
+  <programme start="20191120214500 +0800" stop="20191120220000 +0800" channel="Astro Awani">
+    <title lang="en">Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.236.</episode-num>
+  </programme>
+  <programme start="20191120220000 +0800" stop="20191120223000 +0800" channel="Astro Awani">
+    <title lang="en">Consider This</title>
+    <desc lang="en">Fresh perspectives demand fresh voices. Sharaad Kuttan and Melisa Idris will give you a fresh take on topics you may have only previously considered from one point of view.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+  </programme>
+  <programme start="20191120223000 +0800" stop="20191120230000 +0800" channel="Astro Awani">
+    <title lang="en">Notepad with Ibrahim Sani</title>
+    <desc lang="en">Join Astro AWANI's Lead Business Editor Ibrahim Sani, as he shares today's top stories and events that impacts your lives.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ITIZG_Series.jpg" />
+    <episode-num system="xmltv_ns">.138.</episode-num>
+  </programme>
+  <programme start="20191120230000 +0800" stop="20191120233000 +0800" channel="Astro Awani">
+    <title lang="en">Consider This</title>
+    <desc lang="en">Fresh perspectives demand fresh voices. Sharaad Kuttan and Melisa Idris will give you a fresh take on topics you may have only previously considered from one point of view.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXWYL_Series.jpg" />
+    <episode-num system="xmltv_ns">.78.</episode-num>
+  </programme>
+  <programme start="20191120233000 +0800" stop="20191121000000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Review</title>
+    <desc lang="en">AWANI Review with Cynthia Ng is a series of in-depth conversations with industry captains and influential leaders shaping the future of business.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXZSD_series.jpg" />
+    <episode-num system="xmltv_ns">.15.</episode-num>
+  </programme>
+  <programme start="20191121003000 +0800" stop="20191121010000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.335.</episode-num>
+  </programme>
+  <programme start="20191121010000 +0800" stop="20191121013000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.614.</episode-num>
+  </programme>
+  <programme start="20191121013000 +0800" stop="20191121020000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.111.</episode-num>
+  </programme>
+  <programme start="20191121020000 +0800" stop="20191121023000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.614.</episode-num>
+  </programme>
+  <programme start="20191121023000 +0800" stop="20191121030000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.335.</episode-num>
+  </programme>
+  <programme start="20191121030000 +0800" stop="20191121033000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.614.</episode-num>
+  </programme>
+  <programme start="20191121033000 +0800" stop="20191121040000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.111.</episode-num>
+  </programme>
+  <programme start="20191121040000 +0800" stop="20191121043000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.614.</episode-num>
+  </programme>
+  <programme start="20191121043000 +0800" stop="20191121050000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.335.</episode-num>
+  </programme>
+  <programme start="20191121050000 +0800" stop="20191121053000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.614.</episode-num>
+  </programme>
+  <programme start="20191121053000 +0800" stop="20191121060000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.111.</episode-num>
+  </programme>
+  <programme start="20191121060000 +0800" stop="20191121063000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121063000 +0800" stop="20191121065700 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Pagi</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121065700 +0800" stop="20191121070000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121070000 +0800" stop="20191121073000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121073000 +0800" stop="20191121080000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Pagi</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121080000 +0800" stop="20191121082700 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121082700 +0800" stop="20191121083000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121083000 +0800" stop="20191121090000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Pagi</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121090000 +0800" stop="20191121092700 +0800" channel="Astro Awani">
+    <title lang="en">Niaga AWANI</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121092700 +0800" stop="20191121093000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Ringkas</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121093000 +0800" stop="20191121100000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.617.</episode-num>
+  </programme>
+  <programme start="20191121100000 +0800" stop="20191121120000 +0800" channel="Astro Awani">
+    <title lang="en">Sidang Dewan Rakyat</title>
+    <desc lang="en">Siaran langsung Sidang Dewan Rakyat Mesyuarat Ketiga Penggal Kedua Parlimen ke 14 2019.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121120000 +0800" stop="20191121123000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121123000 +0800" stop="20191121125700 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121125700 +0800" stop="20191121130000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121130000 +0800" stop="20191121133000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121133000 +0800" stop="20191121135700 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121135700 +0800" stop="20191121140000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121140000 +0800" stop="20191121143000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121143000 +0800" stop="20191121150000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121150000 +0800" stop="20191121153000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.623.</episode-num>
+  </programme>
+  <programme start="20191121153000 +0800" stop="20191121155700 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.335.</episode-num>
+  </programme>
+  <programme start="20191121155700 +0800" stop="20191121160000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Ringkas</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121160000 +0800" stop="20191121163000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121163000 +0800" stop="20191121164500 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXIV_Series.jpg" />
+    <episode-num system="xmltv_ns">.224.</episode-num>
+  </programme>
+  <programme start="20191121164500 +0800" stop="20191121170000 +0800" channel="Astro Awani">
+    <title lang="en">Ikon Agro</title>
+    <desc lang="en">Bagaimana industri asas tani terus kekal relevan dan kompetitif? Program khas ini memaparkan para usahawan dalam sektor pertanian yang telah berjaya meningkatkan daya saing mereka secara kreatif, dan inova.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXLI_series.jpg" />
+    <episode-num system="xmltv_ns">.15.</episode-num>
+  </programme>
+  <programme start="20191121170000 +0800" stop="20191121172700 +0800" channel="Astro Awani">
+    <title lang="en">Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121172700 +0800" stop="20191121173000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121173000 +0800" stop="20191121174500 +0800" channel="Astro Awani">
+    <title lang="en">Niaga AWANI</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121174500 +0800" stop="20191121180000 +0800" channel="Astro Awani">
+    <title lang="en">Lan Berdagang</title>
+    <desc lang="en">Lan Berdagang mengangkat usahawan-usahawan Sarawak berkongsi cerita, pengalaman dan produk yang dihasilkan untuk pasaran tempatan dan antarabangsa termasuk keistimewaan menjadi anak bumi kenyalang.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IWJPK_series.jpg" />
+    <episode-num system="xmltv_ns">.23.</episode-num>
+  </programme>
+  <programme start="20191121180000 +0800" stop="20191121183000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.624.</episode-num>
+  </programme>
+  <programme start="20191121183000 +0800" stop="20191121190000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121190000 +0800" stop="20191121191500 +0800" channel="Astro Awani">
+    <title lang="en">Awani Sarawak</title>
+    <desc lang="en">Laporan perkembangan berita Negeri Sarawak.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121191500 +0800" stop="20191121193000 +0800" channel="Astro Awani">
+    <title lang="en">Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.237.</episode-num>
+  </programme>
+  <programme start="20191121193000 +0800" stop="20191121194500 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXIV_Series.jpg" />
+    <episode-num system="xmltv_ns">.225.</episode-num>
+  </programme>
+  <programme start="20191121194500 +0800" stop="20191121203000 +0800" channel="Astro Awani">
+    <title lang="en">Awani 7:45</title>
+    <desc lang="en">Laporan berita, fakta dan data yang anda perlu tahu hari ini.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121203000 +0800" stop="20191121204500 +0800" channel="Astro Awani">
+    <title lang="en">Ikon Agro</title>
+    <desc lang="en">Bagaimana industri asas tani terus kekal relevan dan kompetitif? Program khas ini memaparkan para usahawan dalam sektor pertanian yang telah berjaya meningkatkan daya saing mereka secara kreatif, dan inova.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXLI_series.jpg" />
+    <episode-num system="xmltv_ns">.16.</episode-num>
+  </programme>
+  <programme start="20191121204500 +0800" stop="20191121210000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXIV_Series.jpg" />
+    <episode-num system="xmltv_ns">.225.</episode-num>
+  </programme>
+  <programme start="20191121210000 +0800" stop="20191121213000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Agenda Awani.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191121213000 +0800" stop="20191121214500 +0800" channel="Astro Awani">
+    <title lang="en">Awani Sarawak</title>
+    <desc lang="en">Laporan perkembangan berita Negeri Sarawak.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ITGMU_series.jpg" />
+    <episode-num system="xmltv_ns">.251.</episode-num>
+  </programme>
+  <programme start="20191121214500 +0800" stop="20191121220000 +0800" channel="Astro Awani">
+    <title lang="en">Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.237.</episode-num>
+  </programme>
+  <programme start="20191121220000 +0800" stop="20191121223000 +0800" channel="Astro Awani">
+    <title lang="en">Consider This</title>
+    <desc lang="en">Fresh perspectives demand fresh voices. Sharaad Kuttan and Melisa Idris will give you a fresh take on topics you may have only previously considered from one point of view.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+  </programme>
+  <programme start="20191121223000 +0800" stop="20191121230000 +0800" channel="Astro Awani">
+    <title lang="en">Notepad with Ibrahim Sani</title>
+    <desc lang="en">Join Astro AWANI's Lead Business Editor Ibrahim Sani, as he shares today's top stories and events that impacts your lives.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ITIZG_Series.jpg" />
+    <episode-num system="xmltv_ns">.139.</episode-num>
+  </programme>
+  <programme start="20191121230000 +0800" stop="20191121233000 +0800" channel="Astro Awani">
+    <title lang="en">Consider This</title>
+    <desc lang="en">Fresh perspectives demand fresh voices. Sharaad Kuttan and Melisa Idris will give you a fresh take on topics you may have only previously considered from one point of view.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXWYL_Series.jpg" />
+    <episode-num system="xmltv_ns">.79.</episode-num>
+  </programme>
+  <programme start="20191121233000 +0800" stop="20191122000000 +0800" channel="Astro Awani">
+    <title lang="en">Health Matters with Dishen Kumar</title>
+    <desc lang="en">Explore the wonderful world that is the human body. We speak to physicians, clinicians, researchers, patients, and more, as we try to understand that boundless intricacies of the human body, with Dishen Ku.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ITLTA_series.jpg" />
+    <episode-num system="xmltv_ns">.40.</episode-num>
+  </programme>
+  <programme start="20191122003000 +0800" stop="20191122010000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.336.</episode-num>
+  </programme>
+  <programme start="20191122010000 +0800" stop="20191122013000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.626.</episode-num>
+  </programme>
+  <programme start="20191122013000 +0800" stop="20191122020000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.112.</episode-num>
+  </programme>
+  <programme start="20191122020000 +0800" stop="20191122023000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.626.</episode-num>
+  </programme>
+  <programme start="20191122023000 +0800" stop="20191122030000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.336.</episode-num>
+  </programme>
+  <programme start="20191122030000 +0800" stop="20191122033000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.626.</episode-num>
+  </programme>
+  <programme start="20191122033000 +0800" stop="20191122040000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.112.</episode-num>
+  </programme>
+  <programme start="20191122040000 +0800" stop="20191122043000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.626.</episode-num>
+  </programme>
+  <programme start="20191122043000 +0800" stop="20191122050000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.336.</episode-num>
+  </programme>
+  <programme start="20191122050000 +0800" stop="20191122053000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.626.</episode-num>
+  </programme>
+  <programme start="20191122053000 +0800" stop="20191122060000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.112.</episode-num>
+  </programme>
+  <programme start="20191122060000 +0800" stop="20191122063000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122063000 +0800" stop="20191122065700 +0800" channel="Astro Awani">
+    <title lang="en">(L) AWANI Pagi</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122065700 +0800" stop="20191122070000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122070000 +0800" stop="20191122073000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122073000 +0800" stop="20191122080000 +0800" channel="Astro Awani">
+    <title lang="en">(L) AWANI Pagi</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122080000 +0800" stop="20191122082700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122082700 +0800" stop="20191122083000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122083000 +0800" stop="20191122090000 +0800" channel="Astro Awani">
+    <title lang="en">(L) AWANI Pagi</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122090000 +0800" stop="20191122092700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Niaga AWANI</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122092700 +0800" stop="20191122093000 +0800" channel="Astro Awani">
+    <title lang="en">Ringkasan Global</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122093000 +0800" stop="20191122100000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.629.</episode-num>
+  </programme>
+  <programme start="20191122100000 +0800" stop="20191122103000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122103000 +0800" stop="20191122110000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122110000 +0800" stop="20191122112700 +0800" channel="Astro Awani">
+    <title lang="en">Niaga AWANI</title>
+    <desc lang="en">Berita niaga dan ekonomi dalam dan luar negara serta analisis dan temubual bersama tokoh perniagaan.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Entertainment News</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXRG_Series.jpg" />
+    <episode-num system="xmltv_ns">.162.</episode-num>
+  </programme>
+  <programme start="20191122112700 +0800" stop="20191122113000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Ringkas</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122113000 +0800" stop="20191122120000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.336.</episode-num>
+  </programme>
+  <programme start="20191122120000 +0800" stop="20191122123000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122123000 +0800" stop="20191122125700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122125700 +0800" stop="20191122130000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122130000 +0800" stop="20191122131500 +0800" channel="Astro Awani">
+    <title lang="en">Ikon Agro</title>
+    <desc lang="en">Bagaimana industri asas tani terus kekal relevan dan kompetitif? Program khas ini memaparkan para usahawan dalam sektor pertanian yang telah berjaya meningkatkan daya saing mereka secara kreatif, dan inova.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXLI_series.jpg" />
+    <episode-num system="xmltv_ns">.16.</episode-num>
+  </programme>
+  <programme start="20191122131500 +0800" stop="20191122133000 +0800" channel="Astro Awani">
+    <title lang="en">Lan Berdagang</title>
+    <desc lang="en">Lan Berdagang mengangkat usahawan-usahawan Sarawak berkongsi cerita, pengalaman dan produk yang dihasilkan untuk pasaran tempatan dan antarabangsa termasuk keistimewaan menjadi anak bumi kenyalang.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IWJPK_series.jpg" />
+    <episode-num system="xmltv_ns">.23.</episode-num>
+  </programme>
+  <programme start="20191122133000 +0800" stop="20191122143000 +0800" channel="Astro Awani">
+    <title lang="en">Tanya Doktor Imelda</title>
+    <desc lang="en">Saksikan Tanya Dr Imelda bersama Lisa Surihani &amp; Dr Imelda Balchin membincangkan simptom, rawatan serta membongkar mitos dan fakta tentang pelbagai permasalahan kesihatan wanita #ApaApaPunJumpaDoktorNaaaaa.</desc>
+    <category lang="en">Lifestyle, Leisure, Hobbies</category>
+    <category lang="en">Wellness</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IWZUW.jpg" />
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20191122143000 +0800" stop="20191122150000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122150000 +0800" stop="20191122153000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.634.</episode-num>
+  </programme>
+  <programme start="20191122153000 +0800" stop="20191122155700 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.336.</episode-num>
+  </programme>
+  <programme start="20191122155700 +0800" stop="20191122160000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Ringkas</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122160000 +0800" stop="20191122163000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122163000 +0800" stop="20191122164500 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXIV_Series.jpg" />
+    <episode-num system="xmltv_ns">.170.</episode-num>
+  </programme>
+  <programme start="20191122164500 +0800" stop="20191122170000 +0800" channel="Astro Awani">
+    <title lang="en">Ikon Agro</title>
+    <desc lang="en">Bagaimana industri asas tani terus kekal relevan dan kompetitif? Program khas ini memaparkan para usahawan dalam sektor pertanian yang telah berjaya meningkatkan daya saing mereka secara kreatif, dan inova.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXLI_series.jpg" />
+    <episode-num system="xmltv_ns">.16.</episode-num>
+  </programme>
+  <programme start="20191122170000 +0800" stop="20191122172700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122172700 +0800" stop="20191122173000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122173000 +0800" stop="20191122174500 +0800" channel="Astro Awani">
+    <title lang="en">(L) Niaga AWANI</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122174500 +0800" stop="20191122180000 +0800" channel="Astro Awani">
+    <title lang="en">Lan Berdagang</title>
+    <desc lang="en">Lan Berdagang mengangkat usahawan-usahawan Sarawak berkongsi cerita, pengalaman dan produk yang dihasilkan untuk pasaran tempatan dan antarabangsa termasuk keistimewaan menjadi anak bumi kenyalang.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IWJPK_series.jpg" />
+    <episode-num system="xmltv_ns">.23.</episode-num>
+  </programme>
+  <programme start="20191122180000 +0800" stop="20191122183000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.635.</episode-num>
+  </programme>
+  <programme start="20191122183000 +0800" stop="20191122190000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122190000 +0800" stop="20191122191500 +0800" channel="Astro Awani">
+    <title lang="en">(L) Awani Sarawak</title>
+    <desc lang="en">Laporan perkembangan berita Negeri Sarawak.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122191500 +0800" stop="20191122193000 +0800" channel="Astro Awani">
+    <title lang="en">Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.238.</episode-num>
+  </programme>
+  <programme start="20191122193000 +0800" stop="20191122194500 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXIV_Series.jpg" />
+    <episode-num system="xmltv_ns">.227.</episode-num>
+  </programme>
+  <programme start="20191122194500 +0800" stop="20191122203000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Awani 7:45</title>
+    <desc lang="en">Laporan berita, fakta dan data yang anda perlu tahu hari ini.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122203000 +0800" stop="20191122210000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.113.</episode-num>
+  </programme>
+  <programme start="20191122210000 +0800" stop="20191122213000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Agenda Awani</title>
+    <desc lang="en">Agenda Awani.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191122213000 +0800" stop="20191122214500 +0800" channel="Astro Awani">
+    <title lang="en">Awani Sarawak</title>
+    <desc lang="en">Laporan perkembangan berita Negeri Sarawak.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ITGMU_series.jpg" />
+    <episode-num system="xmltv_ns">.252.</episode-num>
+  </programme>
+  <programme start="20191122214500 +0800" stop="20191122220000 +0800" channel="Astro Awani">
+    <title lang="en">Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.238.</episode-num>
+  </programme>
+  <programme start="20191122220000 +0800" stop="20191122223000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Consider This</title>
+    <desc lang="en">Fresh perspectives demand fresh voices. Sharaad Kuttan and Melisa Idris will give you a fresh take on topics you may have only previously considered from one point of view.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+  </programme>
+  <programme start="20191122223000 +0800" stop="20191122230000 +0800" channel="Astro Awani">
+    <title lang="en">Notepad with Ibrahim Sani</title>
+    <desc lang="en">Join Astro AWANI's Lead Business Editor Ibrahim Sani, as he shares today's top stories and events that impacts your lives.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ITIZG_Series.jpg" />
+    <episode-num system="xmltv_ns">.140.</episode-num>
+  </programme>
+  <programme start="20191122230000 +0800" stop="20191122233000 +0800" channel="Astro Awani">
+    <title lang="en">Consider This</title>
+    <desc lang="en">Fresh perspectives demand fresh voices. Sharaad Kuttan and Melisa Idris will give you a fresh take on topics you may have only previously considered from one point of view.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXWYL_Series.jpg" />
+    <episode-num system="xmltv_ns">.80.</episode-num>
+  </programme>
+  <programme start="20191122233000 +0800" stop="20191123000000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Review</title>
+    <desc lang="en">AWANI Review with Cynthia Ng is a series of in-depth conversations with industry captains and influential leaders shaping the future of business.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXZSD_series.jpg" />
+    <episode-num system="xmltv_ns">.15.</episode-num>
+  </programme>
+  <programme start="20191123003000 +0800" stop="20191123010000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.337.</episode-num>
+  </programme>
+  <programme start="20191123010000 +0800" stop="20191123013000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.637.</episode-num>
+  </programme>
+  <programme start="20191123013000 +0800" stop="20191123020000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.113.</episode-num>
+  </programme>
+  <programme start="20191123020000 +0800" stop="20191123023000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.637.</episode-num>
+  </programme>
+  <programme start="20191123023000 +0800" stop="20191123030000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.337.</episode-num>
+  </programme>
+  <programme start="20191123030000 +0800" stop="20191123033000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.431.</episode-num>
+  </programme>
+  <programme start="20191123033000 +0800" stop="20191123040000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.113.</episode-num>
+  </programme>
+  <programme start="20191123040000 +0800" stop="20191123043000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.637.</episode-num>
+  </programme>
+  <programme start="20191123043000 +0800" stop="20191123050000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.337.</episode-num>
+  </programme>
+  <programme start="20191123050000 +0800" stop="20191123053000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.637.</episode-num>
+  </programme>
+  <programme start="20191123053000 +0800" stop="20191123060000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.113.</episode-num>
+  </programme>
+  <programme start="20191123060000 +0800" stop="20191123063000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123063000 +0800" stop="20191123065700 +0800" channel="Astro Awani">
+    <title lang="en">(L) AWANI Pagi</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123065700 +0800" stop="20191123070000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123070000 +0800" stop="20191123073000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123073000 +0800" stop="20191123080000 +0800" channel="Astro Awani">
+    <title lang="en">(L) AWANI Pagi</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123080000 +0800" stop="20191123082700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123082700 +0800" stop="20191123083000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123083000 +0800" stop="20191123090000 +0800" channel="Astro Awani">
+    <title lang="en">(L) AWANI Pagi</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123090000 +0800" stop="20191123092700 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Global</title>
+    <desc lang="en">AWANI Global dihoskan oleh Rizal Zulkapli, meneroka isu-isu Antarabangsa dan kesannya kepada Malaysia Baharu.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/INYUY_series.jpg" />
+    <episode-num system="xmltv_ns">.72.</episode-num>
+  </programme>
+  <programme start="20191123092700 +0800" stop="20191123093000 +0800" channel="Astro Awani">
+    <title lang="en">Ringkasan Global</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123093000 +0800" stop="20191123100000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.640.</episode-num>
+  </programme>
+  <programme start="20191123100000 +0800" stop="20191123103000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123103000 +0800" stop="20191123110000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123110000 +0800" stop="20191123112700 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.642.</episode-num>
+  </programme>
+  <programme start="20191123112700 +0800" stop="20191123113000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Ringkas</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123113000 +0800" stop="20191123120000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.337.</episode-num>
+  </programme>
+  <programme start="20191123120000 +0800" stop="20191123123000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123123000 +0800" stop="20191123125700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123125700 +0800" stop="20191123130000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123130000 +0800" stop="20191123133000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123133000 +0800" stop="20191123135700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123135700 +0800" stop="20191123140000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123140000 +0800" stop="20191123143000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123143000 +0800" stop="20191123150000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123150000 +0800" stop="20191123153000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.648.</episode-num>
+  </programme>
+  <programme start="20191123153000 +0800" stop="20191123155700 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.337.</episode-num>
+  </programme>
+  <programme start="20191123155700 +0800" stop="20191123160000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Ringkas</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123160000 +0800" stop="20191123163000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123163000 +0800" stop="20191123164500 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXIV_Series.jpg" />
+    <episode-num system="xmltv_ns">.228.</episode-num>
+  </programme>
+  <programme start="20191123164500 +0800" stop="20191123170000 +0800" channel="Astro Awani">
+    <title lang="en">Ikon Agro</title>
+    <desc lang="en">Bagaimana industri asas tani terus kekal relevan dan kompetitif? Program khas ini memaparkan para usahawan dalam sektor pertanian yang telah berjaya meningkatkan daya saing mereka secara kreatif, dan inova.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXLI_series.jpg" />
+    <episode-num system="xmltv_ns">.16.</episode-num>
+  </programme>
+  <programme start="20191123170000 +0800" stop="20191123172700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123172700 +0800" stop="20191123173000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123173000 +0800" stop="20191123180000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Global</title>
+    <desc lang="en">AWANI Global dihoskan oleh Rizal Zulkapli, meneroka isu-isu Antarabangsa dan kesannya kepada Malaysia Baharu.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/INYUY_series.jpg" />
+    <episode-num system="xmltv_ns">.72.</episode-num>
+  </programme>
+  <programme start="20191123180000 +0800" stop="20191123183000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.649.</episode-num>
+  </programme>
+  <programme start="20191123183000 +0800" stop="20191123190000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123190000 +0800" stop="20191123191500 +0800" channel="Astro Awani">
+    <title lang="en">(L) Awani Sarawak</title>
+    <desc lang="en">Laporan perkembangan berita Negeri Sarawak.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123191500 +0800" stop="20191123193000 +0800" channel="Astro Awani">
+    <title lang="en">Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.239.</episode-num>
+  </programme>
+  <programme start="20191123193000 +0800" stop="20191123194500 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXIV_Series.jpg" />
+    <episode-num system="xmltv_ns">.229.</episode-num>
+  </programme>
+  <programme start="20191123194500 +0800" stop="20191123203000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Awani 7:45</title>
+    <desc lang="en">Laporan berita, fakta dan data yang anda perlu tahu hari ini.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123203000 +0800" stop="20191123210000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.114.</episode-num>
+  </programme>
+  <programme start="20191123210000 +0800" stop="20191123213000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Agenda Awani</title>
+    <desc lang="en">Agenda Awani.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191123213000 +0800" stop="20191123214500 +0800" channel="Astro Awani">
+    <title lang="en">Awani Sarawak</title>
+    <desc lang="en">Laporan perkembangan berita Negeri Sarawak.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ITGMU_series.jpg" />
+    <episode-num system="xmltv_ns">.162.</episode-num>
+  </programme>
+  <programme start="20191123214500 +0800" stop="20191123220000 +0800" channel="Astro Awani">
+    <title lang="en">Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.239.</episode-num>
+  </programme>
+  <programme start="20191123220000 +0800" stop="20191123223000 +0800" channel="Astro Awani">
+    <title lang="en">Let's Talk with Sharaad Kuttan</title>
+    <desc lang="en">A deeper look at events packed in a one-hour show for wider knowledge, greater understanding, and better comprehension of the news that matter.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IQFUR_series.jpg" />
+    <episode-num system="xmltv_ns">.313.</episode-num>
+  </programme>
+  <programme start="20191123223000 +0800" stop="20191123230000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Review</title>
+    <desc lang="en">AWANI Review with Cynthia Ng is a series of in-depth conversations with industry captains and influential leaders shaping the future of business.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXZSD_series.jpg" />
+    <episode-num system="xmltv_ns">.16.</episode-num>
+  </programme>
+  <programme start="20191123230000 +0800" stop="20191123233000 +0800" channel="Astro Awani">
+    <title lang="en">No information available</title>
+    <desc lang="en">No information available.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXZAN_Series.jpg" />
+    <episode-num system="xmltv_ns">.16.</episode-num>
+  </programme>
+  <programme start="20191123233000 +0800" stop="20191123234500 +0800" channel="Astro Awani">
+    <title lang="en">Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.239.</episode-num>
+  </programme>
+  <programme start="20191123234500 +0800" stop="20191124000000 +0800" channel="Astro Awani">
+    <title lang="en">Ikon Agro</title>
+    <desc lang="en">Bagaimana industri asas tani terus kekal relevan dan kompetitif? Program khas ini memaparkan para usahawan dalam sektor pertanian yang telah berjaya meningkatkan daya saing mereka secara kreatif, dan inova.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXLI_series.jpg" />
+    <episode-num system="xmltv_ns">.16.</episode-num>
+  </programme>
+  <programme start="20191124003000 +0800" stop="20191124010000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.338.</episode-num>
+  </programme>
+  <programme start="20191124010000 +0800" stop="20191124013000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.651.</episode-num>
+  </programme>
+  <programme start="20191124013000 +0800" stop="20191124020000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.114.</episode-num>
+  </programme>
+  <programme start="20191124020000 +0800" stop="20191124023000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.651.</episode-num>
+  </programme>
+  <programme start="20191124023000 +0800" stop="20191124030000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.338.</episode-num>
+  </programme>
+  <programme start="20191124030000 +0800" stop="20191124033000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.459.</episode-num>
+  </programme>
+  <programme start="20191124033000 +0800" stop="20191124040000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.114.</episode-num>
+  </programme>
+  <programme start="20191124040000 +0800" stop="20191124043000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.651.</episode-num>
+  </programme>
+  <programme start="20191124043000 +0800" stop="20191124050000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.338.</episode-num>
+  </programme>
+  <programme start="20191124050000 +0800" stop="20191124053000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.651.</episode-num>
+  </programme>
+  <programme start="20191124053000 +0800" stop="20191124060000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.114.</episode-num>
+  </programme>
+  <programme start="20191124060000 +0800" stop="20191124063000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124063000 +0800" stop="20191124065700 +0800" channel="Astro Awani">
+    <title lang="en">(L) AWANI Pagi</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124065700 +0800" stop="20191124070000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124070000 +0800" stop="20191124073000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124073000 +0800" stop="20191124080000 +0800" channel="Astro Awani">
+    <title lang="en">(L) AWANI Pagi</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124080000 +0800" stop="20191124082700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124082700 +0800" stop="20191124083000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124083000 +0800" stop="20191124090000 +0800" channel="Astro Awani">
+    <title lang="en">(L) AWANI Pagi</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124090000 +0800" stop="20191124092700 +0800" channel="Astro Awani">
+    <title lang="en">Kamek Anak Sarawak</title>
+    <desc lang="en">Kamek Anak Sarawak membawakan temubual eksklusif bersama Timbalan Ketua Menteri Sarawak, Tan Sr Dr James Jemut Masing yang berkongsi sisi lainnya sebagai ahli politik selama lebih 37 tahun.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXUFI.jpg" />
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20191124092700 +0800" stop="20191124093000 +0800" channel="Astro Awani">
+    <title lang="en">Ringkasan Global</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124093000 +0800" stop="20191124100000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.654.</episode-num>
+  </programme>
+  <programme start="20191124100000 +0800" stop="20191124103000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124103000 +0800" stop="20191124110000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124110000 +0800" stop="20191124112700 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.656.</episode-num>
+  </programme>
+  <programme start="20191124112700 +0800" stop="20191124113000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Ringkas</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124113000 +0800" stop="20191124120000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.252.</episode-num>
+  </programme>
+  <programme start="20191124120000 +0800" stop="20191124123000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124123000 +0800" stop="20191124125700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124125700 +0800" stop="20191124130000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124130000 +0800" stop="20191124133000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124133000 +0800" stop="20191124135700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124135700 +0800" stop="20191124140000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124140000 +0800" stop="20191124143000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124143000 +0800" stop="20191124150000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124150000 +0800" stop="20191124153000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.662.</episode-num>
+  </programme>
+  <programme start="20191124153000 +0800" stop="20191124155700 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.338.</episode-num>
+  </programme>
+  <programme start="20191124155700 +0800" stop="20191124160000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Ringkas</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124160000 +0800" stop="20191124163000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124163000 +0800" stop="20191124164500 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXIV_Series.jpg" />
+    <episode-num system="xmltv_ns">.230.</episode-num>
+  </programme>
+  <programme start="20191124164500 +0800" stop="20191124170000 +0800" channel="Astro Awani">
+    <title lang="en">Ikon Agro</title>
+    <desc lang="en">Bagaimana industri asas tani terus kekal relevan dan kompetitif? Program khas ini memaparkan para usahawan dalam sektor pertanian yang telah berjaya meningkatkan daya saing mereka secara kreatif, dan inova.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXLI_series.jpg" />
+    <episode-num system="xmltv_ns">.16.</episode-num>
+  </programme>
+  <programme start="20191124170000 +0800" stop="20191124172700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124172700 +0800" stop="20191124173000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124173000 +0800" stop="20191124180000 +0800" channel="Astro Awani">
+    <title lang="en">Notepad with Ibrahim Sani</title>
+    <desc lang="en">Join Astro AWANI's Lead Business Editor Ibrahim Sani, as he shares today's top stories and events that impacts your lives.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ITIZG_Series.jpg" />
+    <episode-num system="xmltv_ns">.140.</episode-num>
+  </programme>
+  <programme start="20191124180000 +0800" stop="20191124183000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.663.</episode-num>
+  </programme>
+  <programme start="20191124183000 +0800" stop="20191124190000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124190000 +0800" stop="20191124191500 +0800" channel="Astro Awani">
+    <title lang="en">(L) Awani Sarawak</title>
+    <desc lang="en">Laporan perkembangan berita Negeri Sarawak.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124191500 +0800" stop="20191124193000 +0800" channel="Astro Awani">
+    <title lang="en">Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.240.</episode-num>
+  </programme>
+  <programme start="20191124193000 +0800" stop="20191124194500 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXIV_Series.jpg" />
+    <episode-num system="xmltv_ns">.231.</episode-num>
+  </programme>
+  <programme start="20191124194500 +0800" stop="20191124203000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Awani 7:45</title>
+    <desc lang="en">Laporan berita, fakta dan data yang anda perlu tahu hari ini.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124203000 +0800" stop="20191124210000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.115.</episode-num>
+  </programme>
+  <programme start="20191124210000 +0800" stop="20191124213000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Agenda Awani</title>
+    <desc lang="en">Agenda Awani.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191124213000 +0800" stop="20191124214500 +0800" channel="Astro Awani">
+    <title lang="en">Awani Sarawak</title>
+    <desc lang="en">Laporan perkembangan berita Negeri Sarawak.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ITGMU_series.jpg" />
+    <episode-num system="xmltv_ns">.254.</episode-num>
+  </programme>
+  <programme start="20191124214500 +0800" stop="20191124220000 +0800" channel="Astro Awani">
+    <title lang="en">Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.240.</episode-num>
+  </programme>
+  <programme start="20191124220000 +0800" stop="20191124223000 +0800" channel="Astro Awani">
+    <title lang="en">No information available</title>
+    <desc lang="en">No information available.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXZAN_Series.jpg" />
+    <episode-num system="xmltv_ns">.16.</episode-num>
+  </programme>
+  <programme start="20191124223000 +0800" stop="20191124230000 +0800" channel="Astro Awani">
+    <title lang="en">Health Matters with Dishen Kumar</title>
+    <desc lang="en">Explore the wonderful world that is the human body. We speak to physicians, clinicians, researchers, patients, and more, as we try to understand that boundless intricacies of the human body, with Dishen Ku.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ITLTA_series.jpg" />
+    <episode-num system="xmltv_ns">.41.</episode-num>
+  </programme>
+  <programme start="20191124230000 +0800" stop="20191124233000 +0800" channel="Astro Awani">
+    <title lang="en">Let's Talk with Sharaad Kuttan</title>
+    <desc lang="en">A deeper look at events packed in a one-hour show for wider knowledge, greater understanding, and better comprehension of the news that matter.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IQFUR_series.jpg" />
+    <episode-num system="xmltv_ns">.313.</episode-num>
+  </programme>
+  <programme start="20191124233000 +0800" stop="20191125000000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Review</title>
+    <desc lang="en">AWANI Review with Cynthia Ng is a series of in-depth conversations with industry captains and influential leaders shaping the future of business.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXZSD_series.jpg" />
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme start="20191125003000 +0800" stop="20191125010000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.339.</episode-num>
+  </programme>
+  <programme start="20191125010000 +0800" stop="20191125013000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.665.</episode-num>
+  </programme>
+  <programme start="20191125013000 +0800" stop="20191125020000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.115.</episode-num>
+  </programme>
+  <programme start="20191125020000 +0800" stop="20191125023000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.665.</episode-num>
+  </programme>
+  <programme start="20191125023000 +0800" stop="20191125030000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.339.</episode-num>
+  </programme>
+  <programme start="20191125030000 +0800" stop="20191125033000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.665.</episode-num>
+  </programme>
+  <programme start="20191125033000 +0800" stop="20191125040000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani Khas</title>
+    <desc lang="en">Sidang Media Perdana Menteri Tun Dr Mahathir dari Kyoto, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.23.</episode-num>
+  </programme>
+  <programme start="20191125040000 +0800" stop="20191125043000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.665.</episode-num>
+  </programme>
+  <programme start="20191125043000 +0800" stop="20191125050000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.339.</episode-num>
+  </programme>
+  <programme start="20191125050000 +0800" stop="20191125053000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.665.</episode-num>
+  </programme>
+  <programme start="20191125053000 +0800" stop="20191125060000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.115.</episode-num>
+  </programme>
+  <programme start="20191125060000 +0800" stop="20191125063000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125063000 +0800" stop="20191125065700 +0800" channel="Astro Awani">
+    <title lang="en">(L) AWANI Pagi</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125065700 +0800" stop="20191125070000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125070000 +0800" stop="20191125073000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125073000 +0800" stop="20191125080000 +0800" channel="Astro Awani">
+    <title lang="en">(L) AWANI Pagi</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125080000 +0800" stop="20191125082700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125082700 +0800" stop="20191125083000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125083000 +0800" stop="20191125090000 +0800" channel="Astro Awani">
+    <title lang="en">(L) AWANI Pagi</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125090000 +0800" stop="20191125092700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Niaga AWANI</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125092700 +0800" stop="20191125093000 +0800" channel="Astro Awani">
+    <title lang="en">Ringkasan Global</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125093000 +0800" stop="20191125094500 +0800" channel="Astro Awani">
+    <title lang="en">Lan Berdagang</title>
+    <desc lang="en">Lan Berdagang mengangkat usahawan-usahawan Sarawak berkongsi cerita, pengalaman dan produk yang dihasilkan untuk pasaran tempatan dan antarabangsa termasuk keistimewaan menjadi anak bumi kenyalang.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IWJPK_series.jpg" />
+    <episode-num system="xmltv_ns">.23.</episode-num>
+  </programme>
+  <programme start="20191125094500 +0800" stop="20191125100000 +0800" channel="Astro Awani">
+    <title lang="en">Ikon Agro</title>
+    <desc lang="en">Bagaimana industri asas tani terus kekal relevan dan kompetitif? Program khas ini memaparkan para usahawan dalam sektor pertanian yang telah berjaya meningkatkan daya saing mereka secara kreatif, dan inova.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXLI_series.jpg" />
+    <episode-num system="xmltv_ns">.16.</episode-num>
+  </programme>
+  <programme start="20191125100000 +0800" stop="20191125120000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Sidang Dewan Rakyat</title>
+    <desc lang="en">Siaran langsung Sidang Dewan Rakyat Mesyuarat Ketiga Penggal Kedua Parlimen ke 14 2019.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125120000 +0800" stop="20191125123000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125123000 +0800" stop="20191125125700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125125700 +0800" stop="20191125130000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125130000 +0800" stop="20191125133000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125133000 +0800" stop="20191125135700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125135700 +0800" stop="20191125140000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125140000 +0800" stop="20191125143000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125143000 +0800" stop="20191125150000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125150000 +0800" stop="20191125153000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.366.</episode-num>
+  </programme>
+  <programme start="20191125153000 +0800" stop="20191125155700 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.339.</episode-num>
+  </programme>
+  <programme start="20191125155700 +0800" stop="20191125160000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Ringkas</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125160000 +0800" stop="20191125163000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125163000 +0800" stop="20191125170000 +0800" channel="Astro Awani">
+    <title lang="en">Bual Bola</title>
+    <desc lang="en">Reaksi penyokong-penyokong bola sepak mengenai perlawanan Liga Perdana Inggeris (EPL).</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IYEAH_series.jpg" />
+    <episode-num system="xmltv_ns">.15.</episode-num>
+  </programme>
+  <programme start="20191125170000 +0800" stop="20191125172700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125172700 +0800" stop="20191125173000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125173000 +0800" stop="20191125174500 +0800" channel="Astro Awani">
+    <title lang="en">(L) Niaga AWANI</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125174500 +0800" stop="20191125180000 +0800" channel="Astro Awani">
+    <title lang="en">Ikon Agro</title>
+    <desc lang="en">Bagaimana industri asas tani terus kekal relevan dan kompetitif? Program khas ini memaparkan para usahawan dalam sektor pertanian yang telah berjaya meningkatkan daya saing mereka secara kreatif, dan inova.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXLI_series.jpg" />
+    <episode-num system="xmltv_ns">.16.</episode-num>
+  </programme>
+  <programme start="20191125180000 +0800" stop="20191125183000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.675.</episode-num>
+  </programme>
+  <programme start="20191125183000 +0800" stop="20191125190000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125190000 +0800" stop="20191125191500 +0800" channel="Astro Awani">
+    <title lang="en">(L) Awani Sarawak</title>
+    <desc lang="en">Laporan perkembangan berita Negeri Sarawak.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125191500 +0800" stop="20191125193000 +0800" channel="Astro Awani">
+    <title lang="en">Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.241.</episode-num>
+  </programme>
+  <programme start="20191125193000 +0800" stop="20191125194500 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXIV_Series.jpg" />
+    <episode-num system="xmltv_ns">.233.</episode-num>
+  </programme>
+  <programme start="20191125194500 +0800" stop="20191125203000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Awani 7:45</title>
+    <desc lang="en">Laporan berita, fakta dan data yang anda perlu tahu hari ini.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125203000 +0800" stop="20191125210000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.116.</episode-num>
+  </programme>
+  <programme start="20191125210000 +0800" stop="20191125213000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Agenda Awani</title>
+    <desc lang="en">Agenda Awani.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191125213000 +0800" stop="20191125214500 +0800" channel="Astro Awani">
+    <title lang="en">Awani Sarawak</title>
+    <desc lang="en">Laporan perkembangan berita Negeri Sarawak.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ITGMU_series.jpg" />
+    <episode-num system="xmltv_ns">.255.</episode-num>
+  </programme>
+  <programme start="20191125214500 +0800" stop="20191125220000 +0800" channel="Astro Awani">
+    <title lang="en">Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.241.</episode-num>
+  </programme>
+  <programme start="20191125220000 +0800" stop="20191125223000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Consider This</title>
+    <desc lang="en">Fresh perspectives demand fresh voices. Sharaad Kuttan and Melisa Idris will give you a fresh take on topics you may have only previously considered from one point of view.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+  </programme>
+  <programme start="20191125223000 +0800" stop="20191125230000 +0800" channel="Astro Awani">
+    <title lang="en">Notepad with Ibrahim Sani</title>
+    <desc lang="en">Join Astro AWANI's Lead Business Editor Ibrahim Sani, as he shares today's top stories and events that impacts your lives.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ITIZG_Series.jpg" />
+    <episode-num system="xmltv_ns">.71.</episode-num>
+  </programme>
+  <programme start="20191125230000 +0800" stop="20191125233000 +0800" channel="Astro Awani">
+    <title lang="en">Consider This</title>
+    <desc lang="en">Fresh perspectives demand fresh voices. Sharaad Kuttan and Melisa Idris will give you a fresh take on topics you may have only previously considered from one point of view.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXWYL_Series.jpg" />
+    <episode-num system="xmltv_ns">.12.</episode-num>
+  </programme>
+  <programme start="20191125233000 +0800" stop="20191126000000 +0800" channel="Astro Awani">
+    <title lang="en">Bual Bola</title>
+    <desc lang="en">Reaksi penyokong-penyokong bola sepak mengenai perlawanan Liga Perdana Inggeris (EPL).</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IYEAH_series.jpg" />
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20191126003000 +0800" stop="20191126010000 +0800" channel="Astro Awani">
+    <title lang="en">Health Matters with Dishen Kumar</title>
+    <desc lang="en">Explore the wonderful world that is the human body. We speak to physicians, clinicians, researchers, patients, and more, as we try to understand that boundless intricacies of the human body, with Dishen Ku.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ITLTA_series.jpg" />
+    <episode-num system="xmltv_ns">.41.</episode-num>
+  </programme>
+  <programme start="20191126010000 +0800" stop="20191126013000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.677.</episode-num>
+  </programme>
+  <programme start="20191126013000 +0800" stop="20191126020000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.340.</episode-num>
+  </programme>
+  <programme start="20191126020000 +0800" stop="20191126023000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.677.</episode-num>
+  </programme>
+  <programme start="20191126023000 +0800" stop="20191126030000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.340.</episode-num>
+  </programme>
+  <programme start="20191126030000 +0800" stop="20191126033000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.677.</episode-num>
+  </programme>
+  <programme start="20191126033000 +0800" stop="20191126040000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.116.</episode-num>
+  </programme>
+  <programme start="20191126040000 +0800" stop="20191126043000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.677.</episode-num>
+  </programme>
+  <programme start="20191126043000 +0800" stop="20191126050000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.340.</episode-num>
+  </programme>
+  <programme start="20191126050000 +0800" stop="20191126053000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.677.</episode-num>
+  </programme>
+  <programme start="20191126053000 +0800" stop="20191126060000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.116.</episode-num>
+  </programme>
+  <programme start="20191126060000 +0800" stop="20191126063000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126063000 +0800" stop="20191126065700 +0800" channel="Astro Awani">
+    <title lang="en">(L) AWANI Pagi</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126065700 +0800" stop="20191126070000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126070000 +0800" stop="20191126073000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126073000 +0800" stop="20191126080000 +0800" channel="Astro Awani">
+    <title lang="en">(L) AWANI Pagi</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126080000 +0800" stop="20191126082700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126082700 +0800" stop="20191126083000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126083000 +0800" stop="20191126090000 +0800" channel="Astro Awani">
+    <title lang="en">(L) AWANI Pagi</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126090000 +0800" stop="20191126092700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Niaga AWANI</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126092700 +0800" stop="20191126093000 +0800" channel="Astro Awani">
+    <title lang="en">Ringkasan Global</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126093000 +0800" stop="20191126100000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.680.</episode-num>
+  </programme>
+  <programme start="20191126100000 +0800" stop="20191126120000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Sidang Dewan Rakyat</title>
+    <desc lang="en">Siaran langsung Sidang Dewan Rakyat Mesyuarat Ketiga Penggal Kedua Parlimen ke 14 2019.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126120000 +0800" stop="20191126123000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126123000 +0800" stop="20191126125700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126125700 +0800" stop="20191126130000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126130000 +0800" stop="20191126133000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126133000 +0800" stop="20191126135700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126135700 +0800" stop="20191126140000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126140000 +0800" stop="20191126143000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126143000 +0800" stop="20191126150000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126150000 +0800" stop="20191126153000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20191126153000 +0800" stop="20191126155700 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
+    <episode-num system="xmltv_ns">.340.</episode-num>
+  </programme>
+  <programme start="20191126155700 +0800" stop="20191126160000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Ringkas</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126160000 +0800" stop="20191126163000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126164500 +0800" stop="20191126170000 +0800" channel="Astro Awani">
+    <title lang="en">Komuniti Awani</title>
+    <desc lang="en">Cerita komuniti yang memberi impak kepada kehidupan harian kerana semua komuniti ada cerita tersendiri.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IUYQL_series.jpg" />
+    <episode-num system="xmltv_ns">.133.</episode-num>
+  </programme>
+  <programme start="20191126170000 +0800" stop="20191126172700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126172700 +0800" stop="20191126173000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">AWANI Byte.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126173000 +0800" stop="20191126174500 +0800" channel="Astro Awani">
+    <title lang="en">(L) Niaga AWANI</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126174500 +0800" stop="20191126180000 +0800" channel="Astro Awani">
+    <title lang="en">Lan Berdagang</title>
+    <desc lang="en">Lan Berdagang mengangkat usahawan-usahawan Sarawak berkongsi cerita, pengalaman dan produk yang dihasilkan untuk pasaran tempatan dan antarabangsa termasuk keistimewaan menjadi anak bumi kenyalang.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IWJPK_series.jpg" />
+    <episode-num system="xmltv_ns">.9.</episode-num>
+  </programme>
+  <programme start="20191126180000 +0800" stop="20191126183000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126183000 +0800" stop="20191126190000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
+    <episode-num system="xmltv_ns">.384.</episode-num>
+  </programme>
+  <programme start="20191126190000 +0800" stop="20191126191500 +0800" channel="Astro Awani">
+    <title lang="en">(L) Awani Sarawak</title>
+    <desc lang="en">Laporan perkembangan berita Negeri Sarawak.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126191500 +0800" stop="20191126193000 +0800" channel="Astro Awani">
+    <title lang="en">Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.144.</episode-num>
+  </programme>
+  <programme start="20191126193000 +0800" stop="20191126194500 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126194500 +0800" stop="20191126201500 +0800" channel="Astro Awani">
+    <title lang="en">(L) Awani 7:45</title>
+    <desc lang="en">Laporan berita, fakta dan data yang anda perlu tahu hari ini.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126201500 +0800" stop="20191126203000 +0800" channel="Astro Awani">
+    <title lang="en">Komuniti Awani</title>
+    <desc lang="en">Cerita komuniti yang memberi impak kepada kehidupan harian kerana semua komuniti ada cerita tersendiri.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IUYQL_series.jpg" />
+    <episode-num system="xmltv_ns">.134.</episode-num>
+  </programme>
+  <programme start="20191126203000 +0800" stop="20191126210000 +0800" channel="Astro Awani">
+    <title lang="en">Kamek Anak Sarawak</title>
+    <desc lang="en">Kamek Anak Sarawak kali menampilkan secara eksklusif Datuk Amar Douglas Unggah Embas, Timbalan Ketua Menteri Sarawak.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXUFI.jpg" />
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20191126210000 +0800" stop="20191126213000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Agenda Awani</title>
+    <desc lang="en">Agenda Awani.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20191126213000 +0800" stop="20191126214500 +0800" channel="Astro Awani">
+    <title lang="en">Awani Sarawak</title>
+    <desc lang="en">Laporan perkembangan berita Negeri Sarawak.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ITGMU_series.jpg" />
+    <episode-num system="xmltv_ns">.158.</episode-num>
+  </programme>
+  <programme start="20191126214500 +0800" stop="20191126220000 +0800" channel="Astro Awani">
+    <title lang="en">Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.144.</episode-num>
+  </programme>
+  <programme start="20191126220000 +0800" stop="20191126223000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Consider This</title>
+    <desc lang="en">Fresh perspectives demand fresh voices. Sharaad Kuttan and Melisa Idris will give you a fresh take on topics you may have only previously considered from one point of view.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+  </programme>
+  <programme start="20191126223000 +0800" stop="20191126230000 +0800" channel="Astro Awani">
+    <title lang="en">Notepad with Ibrahim Sani</title>
+    <desc lang="en">Join Astro AWANI's Lead Business Editor Ibrahim Sani, as he shares today's top stories and events that impacts your lives.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ITIZG_Series.jpg" />
+    <episode-num system="xmltv_ns">.72.</episode-num>
+  </programme>
+  <programme start="20191126230000 +0800" stop="20191126233000 +0800" channel="Astro Awani">
+    <title lang="en">Consider This</title>
+    <desc lang="en">Fresh perspectives demand fresh voices. Sharaad Kuttan and Melisa Idris will give you a fresh take on topics you may have only previously considered from one point of view.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXWYL_Series.jpg" />
+    <episode-num system="xmltv_ns">.13.</episode-num>
   </programme>
 </tv>

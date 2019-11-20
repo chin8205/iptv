@@ -35969,172 +35969,6 @@
     <category lang="en">Nature</category>
     <episode-num system="xmltv_ns">1.3.</episode-num>
   </programme>
-  <programme start="20191119040000 +0000" stop="20191119044500 +0000" channel="AXN">
-    <title lang="en">Blue Bloods (Season 9)</title>
-    <sub-title lang="en">Two-Faced</sub-title>
-    <desc lang="en">Frank's long-time friend Lenny (Treat Williams) reveals to him that an upcoming expose will air some of the NYPD's dirty laundry.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">.16.</episode-num>
-  </programme>
-  <programme start="20191119044500 +0000" stop="20191119054000 +0000" channel="AXN">
-    <title lang="en">The Blacklist (Season 6)</title>
-    <sub-title lang="en">The Osterman Umbrella Company</sub-title>
-    <desc lang="en">Red directs Liz to investigate a secret organisation of assassins hired by global intelligence agencies to eliminate former agents, a case with ramifications that will change the Task Force forever.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">.13.</episode-num>
-  </programme>
-  <programme start="20191119054000 +0000" stop="20191119063500 +0000" channel="AXN">
-    <title lang="en">Team Ninja Warrior (Season 2)</title>
-    <sub-title lang="en">Qualifying Week 1</sub-title>
-    <desc lang="en">Contestants go through crazy obstacles as they compete to become the next Team Ninja champion.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality</category>
-    <episode-num system="xmltv_ns">.5.</episode-num>
-  </programme>
-  <programme start="20191119063500 +0000" stop="20191119073000 +0000" channel="AXN">
-    <title lang="en">Madam Secretary (Season 4)</title>
-    <sub-title lang="en">The Essentials</sub-title>
-    <desc lang="en">With a government shutdown looming, Elizabeth must think outside the box to help fund an electrical grid in a Syrian refugee camp.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">.2.</episode-num>
-  </programme>
-  <programme start="20191119073000 +0000" stop="20191119082500 +0000" channel="AXN">
-    <title lang="en">Instinct (Season 1)</title>
-    <sub-title lang="en">Live</sub-title>
-    <desc lang="en">Instinct stars Alan Cumming as a former CIA operative who is lured back to his old life when the NYPD needs his help to stop a serial killer.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">.11.</episode-num>
-  </programme>
-  <programme start="20191119082500 +0000" stop="20191119092000 +0000" channel="AXN">
-    <title lang="en">Hawaii Five-0 (Season 9)</title>
-    <sub-title lang="en">Offer Young Taro Leaves To</sub-title>
-    <desc lang="en">Junior is torn between his duties as a member of Five-0 and his feelings for his former girlfriend when her new love is one of the culprits in a bank-heist-turned-homicide.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">.16.</episode-num>
-  </programme>
-  <programme start="20191119092000 +0000" stop="20191119101500 +0000" channel="AXN">
-    <title lang="en">Blue Bloods (Season 9)</title>
-    <sub-title lang="en">Two-Faced</sub-title>
-    <desc lang="en">Frank's long-time friend Lenny (Treat Williams) reveals to him that an upcoming expose will air some of the NYPD's dirty laundry.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">.16.</episode-num>
-  </programme>
-  <programme start="20191119101500 +0000" stop="20191119111500 +0000" channel="AXN">
-    <title lang="en">Hawaii Five-0 (Season 10)</title>
-    <sub-title lang="en">That Way And This Way Shifts The Sand Of Punahoa</sub-title>
-    <desc lang="en">Hawaii Five-0 is a contemporary take on the classic series about an elite federalized task force whose mission is to wipe out the crime that washes up on the islands' sun-drenched beaches.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20191119111500 +0000" stop="20191119134500 +0000" channel="AXN">
-    <title lang="en">Spider-Man 2</title>
-    <desc lang="en">After quitting the superhero business, a reluctant Peter Parker turns Spiderman again to save the city from the evil Doc Ock, risking his anonymity.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20191119134500 +0000" stop="20191119144000 +0000" channel="AXN">
-    <title lang="en">NCIS: Los Angeles (Season 10)</title>
-    <sub-title lang="en">The One That Got Away</sub-title>
-    <desc lang="en">After Anna Kolcheck (Bar Paly) escapes from prison with her cellmate, Callen and the NCIS team assist with the investigation and search for her whereabouts.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">.20.</episode-num>
-  </programme>
-  <programme start="20191119144000 +0000" stop="20191119153500 +0000" channel="AXN">
-    <title lang="en">Madam Secretary (Season 4)</title>
-    <sub-title lang="en">Shutdown</sub-title>
-    <desc lang="en">As the government shutdown shows no sign of progress, Secretary of State McCord must negotiate an agreement between the White House and its opposition led by Senator Morejon.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">.3.</episode-num>
-  </programme>
-  <programme start="20191119153500 +0000" stop="20191119163000 +0000" channel="AXN">
-    <title lang="en">NCIS: Los Angeles (Season 10)</title>
-    <sub-title lang="en">The One That Got Away</sub-title>
-    <desc lang="en">After Anna Kolcheck (Bar Paly) escapes from prison with her cellmate, Callen and the NCIS team assist with the investigation and search for her whereabouts.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">.20.</episode-num>
-  </programme>
-  <programme start="20191119163000 +0000" stop="20191119172500 +0000" channel="AXN">
-    <title lang="en">Team Ninja Warrior (Season 2)</title>
-    <sub-title lang="en">Qualifying Week 2</sub-title>
-    <desc lang="en">Contestants go through crazy obstacles as they compete to become the next Team Ninja champion.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality</category>
-    <episode-num system="xmltv_ns">.6.</episode-num>
-  </programme>
-  <programme start="20191119172500 +0000" stop="20191119182000 +0000" channel="AXN">
-    <title lang="en">Madam Secretary (Season 4)</title>
-    <sub-title lang="en">Shutdown</sub-title>
-    <desc lang="en">As the government shutdown shows no sign of progress, Secretary of State McCord must negotiate an agreement between the White House and its opposition led by Senator Morejon.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">.3.</episode-num>
-  </programme>
-  <programme start="20191119182000 +0000" stop="20191119191500 +0000" channel="AXN">
-    <title lang="en">Blue Bloods (Season 9)</title>
-    <sub-title lang="en">Two-Faced</sub-title>
-    <desc lang="en">Frank's long-time friend Lenny (Treat Williams) reveals to him that an upcoming expose will air some of the NYPD's dirty laundry.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">.16.</episode-num>
-  </programme>
-  <programme start="20191119191500 +0000" stop="20191119201000 +0000" channel="AXN">
-    <title lang="en">Hawaii Five-0 (Season 9)</title>
-    <sub-title lang="en">Offer Young Taro Leaves To</sub-title>
-    <desc lang="en">Junior is torn between his duties as a member of Five-0 and his feelings for his former girlfriend when her new love is one of the culprits in a bank-heist-turned-homicide.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">.16.</episode-num>
-  </programme>
-  <programme start="20191119201000 +0000" stop="20191119210500 +0000" channel="AXN">
-    <title lang="en">The Blacklist (Season 6)</title>
-    <sub-title lang="en">The Osterman Umbrella Company</sub-title>
-    <desc lang="en">Red directs Liz to investigate a secret organisation of assassins hired by global intelligence agencies to eliminate former agents, a case with ramifications that will change the Task Force forever.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">.13.</episode-num>
-  </programme>
-  <programme start="20191119210500 +0000" stop="20191119220000 +0000" channel="AXN">
-    <title lang="en">Instinct (Season 1)</title>
-    <sub-title lang="en">Live</sub-title>
-    <desc lang="en">Instinct stars Alan Cumming as a former CIA operative who is lured back to his old life when the NYPD needs his help to stop a serial killer.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">.11.</episode-num>
-  </programme>
-  <programme start="20191119220000 +0000" stop="20191119225000 +0000" channel="AXN">
-    <title lang="en">Instinct (Season 1)</title>
-    <sub-title lang="en">Tribal</sub-title>
-    <desc lang="en">Instinct stars Alan Cumming as a former CIA operative who is lured back to his old life when the NYPD needs his help to stop a serial killer.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">.12.</episode-num>
-  </programme>
-  <programme start="20191119225000 +0000" stop="20191119234000 +0000" channel="AXN">
-    <title lang="en">Team Ninja Warrior (Season 2)</title>
-    <sub-title lang="en">Qualifying Week 2</sub-title>
-    <desc lang="en">Contestants go through crazy obstacles as they compete to become the next Team Ninja champion.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality</category>
-    <episode-num system="xmltv_ns">.6.</episode-num>
-  </programme>
-  <programme start="20191119234000 +0000" stop="20191120003000 +0000" channel="AXN">
-    <title lang="en">Blue Bloods (Season 9)</title>
-    <sub-title lang="en">Rectify</sub-title>
-    <desc lang="en">After an incident where Officer Witten's (Lauren Patten) backup physically could not keep up with a chase, Frank must decide whether to implement a more rigorous fitness test for the NYPD.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">.17.</episode-num>
-  </programme>
   <programme start="20191120003000 +0000" stop="20191120012000 +0000" channel="AXN">
     <title lang="en">The Blacklist (Season 6)</title>
     <sub-title lang="en">Olivia Olson</sub-title>
@@ -36318,7 +36152,12 @@
     <episode-num system="xmltv_ns">.17.</episode-num>
   </programme>
   <programme start="20191120191500 +0000" stop="20191120201000 +0000" channel="AXN">
-    <title lang="en">No Program</title>
+    <title lang="en">Hawaii Five-0 (Season 9)</title>
+    <sub-title lang="en">He Who Eats 'Ape Is Bound To Have His Mouth Itch</sub-title>
+    <desc lang="en">Tani and Junior go undercover at a gym to track down a deadly batch of steroids that's killing users.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">.17.</episode-num>
   </programme>
   <programme start="20191120201000 +0000" stop="20191120210500 +0000" channel="AXN">
     <title lang="en">The Blacklist (Season 6)</title>
@@ -36369,7 +36208,12 @@
     <episode-num system="xmltv_ns">.15.</episode-num>
   </programme>
   <programme start="20191121014500 +0000" stop="20191121024000 +0000" channel="AXN">
-    <title lang="en">No Program</title>
+    <title lang="en">Hawaii Five-0 (Season 9)</title>
+    <sub-title lang="en">The Octopus Of The Deep Spews Its Ink</sub-title>
+    <desc lang="en">Five-0 investigate the murder of a window washer and find that the victim is actually a renowned street artist.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">.18.</episode-num>
   </programme>
   <programme start="20191121024000 +0000" stop="20191121033500 +0000" channel="AXN">
     <title lang="en">L.A.'S Finest (Season 1)</title>
@@ -36474,7 +36318,12 @@
     <category lang="en">Action/Adventure</category>
   </programme>
   <programme start="20191121153500 +0000" stop="20191121163000 +0000" channel="AXN">
-    <title lang="en">No Program</title>
+    <title lang="en">Madam Secretary (Season 4)</title>
+    <sub-title lang="en">Loophole</sub-title>
+    <desc lang="en">Henry disagrees with the President and Elizabeth when they refuse to negotiate with terrorists for the release of an American CIA agent who was captured by the Taliban in Afghanistan.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">.5.</episode-num>
   </programme>
   <programme start="20191121163000 +0000" stop="20191121191500 +0000" channel="AXN">
     <title lang="en">The Da Vinci Code</title>
@@ -37215,87 +37064,201 @@
     <category lang="en">Family</category>
     <episode-num system="xmltv_ns">.21.</episode-num>
   </programme>
-  <programme start="20191119040000 +0000" stop="20191119052000 +0000" channel="HBO">
-    <title lang="en">Ready Player One</title>
-    <desc lang="en">When the creator of a virtual reality universe dies, he leaves his fortune to the first person who finds a hidden digital Easter egg, sparking a contest that grips the entire world.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
+  <programme start="20191126003500 +0000" stop="20191126012500 +0000" channel="AXN">
+    <title lang="en">The Blacklist (Season 6)</title>
+    <sub-title lang="en">Rassvet</sub-title>
+    <desc lang="en">Alone in a foreign country after a mission goes catastrophically wrong, Katarina Rostova (guest starring Lotte Verbeek) goes on the run to avoid the forces trying to hunt her down.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">.18.</episode-num>
   </programme>
-  <programme start="20191119052000 +0000" stop="20191119073000 +0000" channel="HBO">
-    <title lang="en">Blackkklansman</title>
-    <desc lang="en">Determined to make a difference, an African-American detective bravely sets out on a dangerous mission to infiltrate and expose the Ku Klux Klan.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20191119073000 +0000" stop="20191119090000 +0000" channel="HBO">
-    <title lang="en">Benchwarmers 2: Breaking Balls</title>
-    <desc lang="en">After Ben McGrath's hopes to play ball literally gets crushed, he gets another swing at redemption as a new attorney for Schmood &amp; Associates.</desc>
-    <category lang="en">Movies</category>
+  <programme start="20191126012500 +0000" stop="20191126021500 +0000" channel="AXN">
+    <title lang="en">Hawaii Five-0 (Season 9)</title>
+    <sub-title lang="en">The Teacher, The Pupil- Let It Come Forth</sub-title>
+    <desc lang="en">While Adam investigates the murder of an undercover FBI agent about to wed the daughter of a Yakuza leader, Noelani is held hostage along with her mentor Dr. Chu (Page Leong).</desc>
+    <category lang="en">Drama Series</category>
     <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">.21.</episode-num>
   </programme>
-  <programme start="20191119090000 +0000" stop="20191119111500 +0000" channel="HBO">
-    <title lang="en">Harry Potter And The Order Of The Phoenix</title>
-    <desc lang="en">Lord Voldemort has returned, but few want to believe it; in fact, the Ministry of Magic is doing everything it can to keep everyone from knowing the truth.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
+  <programme start="20191126021500 +0000" stop="20191126031000 +0000" channel="AXN">
+    <title lang="en">L.A.'S Finest (Season 1)</title>
+    <sub-title lang="en">Deja Vu</sub-title>
+    <desc lang="en">Time is up - Syd and McKenna need to get Knox's fentanyl into police custody while leaving no trace of their own involvement. But can they pull it off when McKenna is distracted?</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">.3.</episode-num>
   </programme>
-  <programme start="20191119111500 +0000" stop="20191119131000 +0000" channel="HBO">
-    <title lang="en">Thor</title>
-    <desc lang="en">A powerful but arrogant warrior from a mystical realm learns what it takes to be a true hero.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20191119131000 +0000" stop="20191119140000 +0000" channel="HBO">
-    <title lang="en">The Teenage Psychic S2</title>
-    <desc lang="en">Season two sees Xiao Zhen trying to pick up the pieces in the new school year following the tragedy she faced last year.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20191119140000 +0000" stop="20191119150000 +0000" channel="HBO">
-    <title lang="en">His Dark Materials S1</title>
-    <desc lang="en">A brave young woman's quest to find her kidnapped friend leads her to uncover a sinister plot, encounter extraordinary beings and protect dangerous secrets.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">.2.</episode-num>
-  </programme>
-  <programme start="20191119150000 +0000" stop="20191119170000 +0000" channel="HBO">
-    <title lang="en">Gone In Sixty Seconds</title>
-    <desc lang="en">A former car thief is forced into stealing 50 cars within 72 hours to save his younger brother's life.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20191119170000 +0000" stop="20191119175500 +0000" channel="HBO">
-    <title lang="en">Food Lore S1</title>
-    <sub-title lang="en">Maria's Secret Recipe</sub-title>
-    <desc lang="en">An HBO Asia anthology series exploring the human condition through the stories behind Asian cuisines.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">.2.</episode-num>
-  </programme>
-  <programme start="20191119175500 +0000" stop="20191119194500 +0000" channel="HBO">
-    <title lang="en">Black Swan</title>
-    <desc lang="en">A psychological thriller set in the world of New York City Ballet depicts a dancer who finds herself in a web of competitive intrigue with a new rival at the company.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20191119194500 +0000" stop="20191119220000 +0000" channel="HBO">
-    <title lang="en">Harry Potter And The Order Of The Phoenix</title>
-    <desc lang="en">Lord Voldemort has returned, but few want to believe it; in fact, the Ministry of Magic is doing everything it can to keep everyone from knowing the truth.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20191119220000 +0000" stop="20191119235500 +0000" channel="HBO">
-    <title lang="en">Joyful Noise</title>
-    <desc lang="en">A gospel choir dramedy about an unlikely partnership between two strong-minded women.</desc>
-    <category lang="en">Movies</category>
+  <programme start="20191126031000 +0000" stop="20191126035959 +0000" channel="AXN">
+    <title lang="en">Hawaii Five-0 (Season 10)</title>
+    <desc lang="en">Hawaii Five-0 is a contemporary take on the classic series about an elite federalized task force whose mission is to wipe out the crime that washes up on the islands' sun-drenched beaches.</desc>
+    <category lang="en">Drama Series</category>
     <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">.8.</episode-num>
   </programme>
-  <programme start="20191119235500 +0000" stop="20191120022500 +0000" channel="HBO">
-    <title lang="en">A Time To Kill</title>
-    <desc lang="en">A murder trial brings a small town's racial tensions to the flashpoint while an unseasoned but idealistic young attorney mounts a stirring courtroom battle for justice.</desc>
+  <programme start="20191126040000 +0000" stop="20191126045000 +0000" channel="AXN">
+    <title lang="en">Blue Bloods (Season 9)</title>
+    <sub-title lang="en">Something Blue</sub-title>
+    <desc lang="en">As Jamie and Eddie's wedding day approaches, Frank worries about the toast he'll deliver at their rehearsal dinner.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">.21.</episode-num>
+  </programme>
+  <programme start="20191126045000 +0000" stop="20191126054000 +0000" channel="AXN">
+    <title lang="en">The Blacklist (Season 6)</title>
+    <sub-title lang="en">Rassvet</sub-title>
+    <desc lang="en">Alone in a foreign country after a mission goes catastrophically wrong, Katarina Rostova (guest starring Lotte Verbeek) goes on the run to avoid the forces trying to hunt her down.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">.18.</episode-num>
+  </programme>
+  <programme start="20191126054000 +0000" stop="20191126063500 +0000" channel="AXN">
+    <title lang="en">Team Ninja Warrior (Season 2)</title>
+    <sub-title lang="en">Qualifying Week 6</sub-title>
+    <desc lang="en">Contestants go through crazy obstacles as they compete to become the next Team Ninja champion.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">.10.</episode-num>
+  </programme>
+  <programme start="20191126063500 +0000" stop="20191126072500 +0000" channel="AXN">
+    <title lang="en">Madam Secretary (Season 4)</title>
+    <sub-title lang="en">Loophole</sub-title>
+    <desc lang="en">Henry disagrees with the President and Elizabeth when they refuse to negotiate with terrorists for the release of an American CIA agent who was captured by the Taliban in Afghanistan.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">.5.</episode-num>
+  </programme>
+  <programme start="20191126072500 +0000" stop="20191126082500 +0000" channel="AXN">
+    <title lang="en">L.A.'S Finest (Season 1)</title>
+    <sub-title lang="en">Deja Vu</sub-title>
+    <desc lang="en">Time is up - Syd and McKenna need to get Knox's fentanyl into police custody while leaving no trace of their own involvement. But can they pull it off when McKenna is distracted?</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme start="20191126082500 +0000" stop="20191126091500 +0000" channel="AXN">
+    <title lang="en">Hawaii Five-0 (Season 9)</title>
+    <sub-title lang="en">The Teacher, The Pupil- Let It Come Forth</sub-title>
+    <desc lang="en">While Adam investigates the murder of an undercover FBI agent about to wed the daughter of a Yakuza leader, Noelani is held hostage along with her mentor Dr. Chu (Page Leong).</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">.21.</episode-num>
+  </programme>
+  <programme start="20191126091500 +0000" stop="20191126101000 +0000" channel="AXN">
+    <title lang="en">Blue Bloods (Season 9)</title>
+    <sub-title lang="en">Something Blue</sub-title>
+    <desc lang="en">As Jamie and Eddie's wedding day approaches, Frank worries about the toast he'll deliver at their rehearsal dinner.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">.21.</episode-num>
+  </programme>
+  <programme start="20191126101000 +0000" stop="20191126110500 +0000" channel="AXN">
+    <title lang="en">Hawaii Five-0 (Season 10)</title>
+    <desc lang="en">Hawaii Five-0 is a contemporary take on the classic series about an elite federalized task force whose mission is to wipe out the crime that washes up on the islands' sun-drenched beaches.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">.8.</episode-num>
+  </programme>
+  <programme start="20191126110500 +0000" stop="20191126134500 +0000" channel="AXN">
+    <title lang="en">Spider-Man 3</title>
+    <desc lang="en">Peter Parker has finally managed to strike a balance between his devotion to M.J. and his duties as a superhero, but there is a storm brewing on the horizon.</desc>
     <category lang="en">Movies</category>
-    <category lang="en">Thriller/Suspense</category>
+    <category lang="en">Action/Adventure</category>
+  </programme>
+  <programme start="20191126134500 +0000" stop="20191126144000 +0000" channel="AXN">
+    <title lang="en">NCIS: Los Angeles (Season 10)</title>
+    <sub-title lang="en">No More Secrets</sub-title>
+    <desc lang="en">The NCIS team travels to Cuba for an unsanctioned mission after Callen gets a lead on Anna Kolcheck's (Bar Paly) whereabouts.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">.21.</episode-num>
+  </programme>
+  <programme start="20191126144000 +0000" stop="20191126153500 +0000" channel="AXN">
+    <title lang="en">Madam Secretary (Season 4)</title>
+    <sub-title lang="en">North To The Future</sub-title>
+    <desc lang="en">When a Russian dissident flees to the U.S. after contracting smallpox, Secretary of State and retired U.N. Ambassador Kat Sandoval must work with the Russian Foreign Minister to contain the outbreak.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+  </programme>
+  <programme start="20191126153500 +0000" stop="20191126163000 +0000" channel="AXN">
+    <title lang="en">NCIS: Los Angeles (Season 10)</title>
+    <sub-title lang="en">No More Secrets</sub-title>
+    <desc lang="en">The NCIS team travels to Cuba for an unsanctioned mission after Callen gets a lead on Anna Kolcheck's (Bar Paly) whereabouts.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">.21.</episode-num>
+  </programme>
+  <programme start="20191126163000 +0000" stop="20191126172500 +0000" channel="AXN">
+    <title lang="en">Team Ninja Warrior (Season 2)</title>
+    <sub-title lang="en">Qualifying Week 7</sub-title>
+    <desc lang="en">Contestants go through crazy obstacles as they compete to become the next Team Ninja champion.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+  </programme>
+  <programme start="20191126172500 +0000" stop="20191126182000 +0000" channel="AXN">
+    <title lang="en">Madam Secretary (Season 4)</title>
+    <sub-title lang="en">North To The Future</sub-title>
+    <desc lang="en">When a Russian dissident flees to the U.S. after contracting smallpox, Secretary of State and retired U.N. Ambassador Kat Sandoval must work with the Russian Foreign Minister to contain the outbreak.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+  </programme>
+  <programme start="20191126182000 +0000" stop="20191126191500 +0000" channel="AXN">
+    <title lang="en">Blue Bloods (Season 9)</title>
+    <sub-title lang="en">Something Blue</sub-title>
+    <desc lang="en">As Jamie and Eddie's wedding day approaches, Frank worries about the toast he'll deliver at their rehearsal dinner.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">.21.</episode-num>
+  </programme>
+  <programme start="20191126191500 +0000" stop="20191126201000 +0000" channel="AXN">
+    <title lang="en">Hawaii Five-0 (Season 9)</title>
+    <sub-title lang="en">The Teacher, The Pupil- Let It Come Forth</sub-title>
+    <desc lang="en">While Adam investigates the murder of an undercover FBI agent about to wed the daughter of a Yakuza leader, Noelani is held hostage along with her mentor Dr. Chu (Page Leong).</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">.21.</episode-num>
+  </programme>
+  <programme start="20191126201000 +0000" stop="20191126210000 +0000" channel="AXN">
+    <title lang="en">The Blacklist (Season 6)</title>
+    <sub-title lang="en">Rassvet</sub-title>
+    <desc lang="en">Alone in a foreign country after a mission goes catastrophically wrong, Katarina Rostova (guest starring Lotte Verbeek) goes on the run to avoid the forces trying to hunt her down.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">.18.</episode-num>
+  </programme>
+  <programme start="20191126210000 +0000" stop="20191126220000 +0000" channel="AXN">
+    <title lang="en">L.A.'S Finest (Season 1)</title>
+    <sub-title lang="en">Deja Vu</sub-title>
+    <desc lang="en">Time is up - Syd and McKenna need to get Knox's fentanyl into police custody while leaving no trace of their own involvement. But can they pull it off when McKenna is distracted?</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme start="20191126220000 +0000" stop="20191126225500 +0000" channel="AXN">
+    <title lang="en">L.A.'S Finest (Season 1)</title>
+    <sub-title lang="en">Farewell…</sub-title>
+    <desc lang="en">Our LAPD team works to solve the mystery behind the brutal death of a transwoman, while Syd and McKenna are tangled up in their own personal complications.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+  </programme>
+  <programme start="20191126225500 +0000" stop="20191126234500 +0000" channel="AXN">
+    <title lang="en">Team Ninja Warrior (Season 2)</title>
+    <sub-title lang="en">Qualifying Week 7</sub-title>
+    <desc lang="en">Contestants go through crazy obstacles as they compete to become the next Team Ninja champion.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+  </programme>
+  <programme start="20191126234500 +0000" stop="20191127003500 +0000" channel="AXN">
+    <title lang="en">Instinct (Season 2)</title>
+    <sub-title lang="en">Stay Gold</sub-title>
+    <desc lang="en">Dylan and Lizzie investigate the murder of a successful businesswoman who had attempted to prolong the lifespan of humans.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
   <programme start="20191120022500 +0000" stop="20191120035959 +0000" channel="HBO">
     <title lang="en">The Brothers Grimm</title>
@@ -37849,77 +37812,105 @@
     <category lang="en">Movies</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20191119040000 +0000" stop="20191119042000 +0000" channel="HBO Hits">
-    <title lang="en">Driven</title>
-    <desc lang="en">A seasoned veteran of the racing circuit is brought out of retirement to help guide a wild young rookie to victory.</desc>
+  <programme start="20191126020000 +0000" stop="20191126030000 +0000" channel="HBO">
+    <title lang="en">His Dark Materials S1</title>
+    <desc lang="en">A brave young woman's quest to find her kidnapped friend leads her to uncover a sinister plot, encounter extraordinary beings and protect dangerous secrets.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme start="20191126030000 +0000" stop="20191126035959 +0000" channel="HBO">
+    <title lang="en">Siberia</title>
+    <desc lang="en">When a business deal in Russia goes south, a U.S. diamond merchant and his lover are caught in a lethal crossfire between the buyer and federal intelligence service.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller/Suspense</category>
+  </programme>
+  <programme start="20191126040000 +0000" stop="20191126044000 +0000" channel="HBO">
+    <title lang="en">Siberia</title>
+    <desc lang="en">When a business deal in Russia goes south, a U.S. diamond merchant and his lover are caught in a lethal crossfire between the buyer and federal intelligence service.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller/Suspense</category>
+  </programme>
+  <programme start="20191126044000 +0000" stop="20191126065000 +0000" channel="HBO">
+    <title lang="en">Harry Potter And The Deathly Hallows - Part 2</title>
+    <desc lang="en">Laced with visual magic and haunting storytelling, the hugely successful billion-dollar film franchise is brought to its triumphant close.</desc>
     <category lang="en">Movies</category>
     <category lang="en">Action/Adventure</category>
   </programme>
-  <programme start="20191119042000 +0000" stop="20191119055500 +0000" channel="HBO Hits">
-    <title lang="en">Cheaper By The Dozen 2</title>
-    <desc lang="en">The Bakers' summer getaway quickly turns into the ultimate inter-clan battle with the overzealous family of Tom's long-time rival, Jimmy.</desc>
+  <programme start="20191126065000 +0000" stop="20191126084000 +0000" channel="HBO">
+    <title lang="en">Monte Carlo</title>
+    <desc lang="en">A family summer trip to Paris turns into the fantasy of a lifetime when an ordinary girl assumes another person's identity.</desc>
     <category lang="en">Movies</category>
     <category lang="en">Comedy</category>
   </programme>
-  <programme start="20191119055500 +0000" stop="20191119075500 +0000" channel="HBO Hits">
-    <title lang="en">XXX</title>
-    <desc lang="en">Samuel L Jackson turns extreme sports junkie Vin Diesel into a secret agent on a dangerous mission.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20191119075500 +0000" stop="20191119093500 +0000" channel="HBO Hits">
-    <title lang="en">Smallfoot</title>
-    <desc lang="en">The Bigfoot legend is turned upside down when a bright young Yeti finds something he thought didn't exist-a human.</desc>
+  <programme start="20191126084000 +0000" stop="20191126101000 +0000" channel="HBO">
+    <title lang="en">Mr. Popper's Penguins</title>
+    <desc lang="en">Mr. Popper loves to write letters to real explorers. One of them sends him a penguin, which he keeps in the icebox. Soon enough, he has a litter of 12 beaked birds.</desc>
     <category lang="en">Movies</category>
     <category lang="en">Family</category>
   </programme>
-  <programme start="20191119093500 +0000" stop="20191119112500 +0000" channel="HBO Hits">
-    <title lang="en">Click</title>
-    <desc lang="en">A stressed and overworked father discovers a remote that enables him to control his universe and skip all the lousy experiences of life.</desc>
+  <programme start="20191126101000 +0000" stop="20191126115000 +0000" channel="HBO">
+    <title lang="en">Finding Nemo</title>
+    <desc lang="en">An overprotective clownfish father, accompanied by a friendly but forgetful regal blue tang fish, embarks on an epic journey to find his son!</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20191126115000 +0000" stop="20191126140000 +0000" channel="HBO">
+    <title lang="en">Mortal Engines</title>
+    <desc lang="en">In a post-apocalyptic world where cities ride on wheels and consume each other to survive, two people meet in London and try to stop a conspiracy.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action/Adventure</category>
+  </programme>
+  <programme start="20191126140000 +0000" stop="20191126150000 +0000" channel="HBO">
+    <title lang="en">His Dark Materials S1</title>
+    <desc lang="en">A brave young woman's quest to find her kidnapped friend leads her to uncover a sinister plot, encounter extraordinary beings and protect dangerous secrets.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme start="20191126150000 +0000" stop="20191126165500 +0000" channel="HBO">
+    <title lang="en">What Men Want</title>
+    <desc lang="en">When Ali is passed up for a promotion, she questions what else she needs to do to succeed in a man's world, until she gains the ability to hear men's thoughts!</desc>
     <category lang="en">Movies</category>
     <category lang="en">Comedy</category>
   </programme>
-  <programme start="20191119112500 +0000" stop="20191119132000 +0000" channel="HBO Hits">
-    <title lang="en">Mission To Mars</title>
-    <desc lang="en">A mission to rescue a missing astronaut uncovers startling facts about Mars.</desc>
+  <programme start="20191126165500 +0000" stop="20191126174500 +0000" channel="HBO">
+    <title lang="en">Food Lore S1</title>
+    <sub-title lang="en">A Plate Of Moon</sub-title>
+    <desc lang="en">An HBO Asia anthology series exploring the human condition through the stories behind Asian cuisines.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme start="20191126174500 +0000" stop="20191126192500 +0000" channel="HBO">
+    <title lang="en">From Dusk Till Dawn</title>
+    <desc lang="en">Two criminals and their hostages unknowingly seek refuge in a club that is inhabited by vampires.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller/Suspense</category>
+  </programme>
+  <programme start="20191126192500 +0000" stop="20191126205500 +0000" channel="HBO">
+    <title lang="en">A Ghost Story</title>
+    <desc lang="en">A ghost returns to console his wife, only to find that he has become unstuck in time, now forced to watch the life he once knew and the woman he loves slip away.</desc>
     <category lang="en">Movies</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20191119132000 +0000" stop="20191119150000 +0000" channel="HBO Hits">
-    <title lang="en">Looking Glass</title>
-    <desc lang="en">A couple buys an old motel looking to start afresh but soon find themselves in a twisted game of cat and mouse when one of them witnesses a murder.</desc>
+  <programme start="20191126205500 +0000" stop="20191126221000 +0000" channel="HBO">
+    <title lang="en">Lego Dc Comics Super Heroes: Aquaman - Rage Of Atlantis</title>
+    <desc lang="en">The King of Atlantis must make some difficult decisions to ensure the future of his ocean realm.</desc>
     <category lang="en">Movies</category>
     <category lang="en">Action/Adventure</category>
   </programme>
-  <programme start="20191119150000 +0000" stop="20191119165500 +0000" channel="HBO Hits">
-    <title lang="en">Scott Pilgrim Vs. The World</title>
-    <desc lang="en">When Scott falls for Ramona Flowers, he discovers he must defeat all her ex-boyfriends if he wants a chance with her.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20191119165500 +0000" stop="20191119185500 +0000" channel="HBO Hits">
-    <title lang="en">Driven</title>
-    <desc lang="en">A seasoned veteran of the racing circuit is brought out of retirement to help guide a wild young rookie to victory.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20191119185500 +0000" stop="20191119210000 +0000" channel="HBO Hits">
-    <title lang="en">XXX</title>
-    <desc lang="en">Samuel L Jackson turns extreme sports junkie Vin Diesel into a secret agent on a dangerous mission.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20191119210000 +0000" stop="20191119230000 +0000" channel="HBO Hits">
-    <title lang="en">Mission To Mars</title>
-    <desc lang="en">A mission to rescue a missing astronaut uncovers startling facts about Mars.</desc>
+  <programme start="20191126221000 +0000" stop="20191126234000 +0000" channel="HBO">
+    <title lang="en">The Stepford Wives</title>
+    <desc lang="en">In the town of Stepford, Nicole Kidman and Matthew Broderick find that all the women are perfect - a little too perfect.</desc>
     <category lang="en">Movies</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20191119230000 +0000" stop="20191120004500 +0000" channel="HBO Hits">
-    <title lang="en">Click</title>
-    <desc lang="en">A stressed and overworked father discovers a remote that enables him to control his universe and skip all the lousy experiences of life.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
+  <programme start="20191126234000 +0000" stop="20191127011500 +0000" channel="HBO">
+    <title lang="en">Won't You Be My Neighbor?</title>
+    <desc lang="en">A documentary that centres around Fred Rogers, an unassuming minister, puppeteer, writer and producer.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Specials</category>
   </programme>
   <programme start="20191120004500 +0000" stop="20191120022500 +0000" channel="HBO Hits">
     <title lang="en">Hitman: Agent 47</title>
@@ -38411,93 +38402,94 @@
     <category lang="en">Movies</category>
     <category lang="en">Comedy</category>
   </programme>
-  <programme start="20191119040000 +0000" stop="20191119045000 +0000" channel="HBO Signature">
-    <title lang="en">The Teenage Psychic S2</title>
-    <desc lang="en">Season two sees Xiao Zhen trying to pick up the pieces in the new school year following the tragedy she faced last year.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20191119045000 +0000" stop="20191119064000 +0000" channel="HBO Signature">
-    <title lang="en">Very Ralph</title>
-    <desc lang="en">The first documentary portrait of fashion icon Ralph Lauren, reveals the man behind the icon and the creation of one of the most successful brands in fashion history.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">General</category>
-  </programme>
-  <programme start="20191119064000 +0000" stop="20191119085000 +0000" channel="HBO Signature">
-    <title lang="en">When The Levees Broke: A Requiem In Four Acts (Acts 3&amp;4)</title>
-    <desc lang="en">An HBO documentary recounting the destructions Hurricane Katrina brought to New Orleans and the stories of those who survived.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">General</category>
-  </programme>
-  <programme start="20191119085000 +0000" stop="20191119102500 +0000" channel="HBO Signature">
-    <title lang="en">The Gathering Storm</title>
-    <desc lang="en">The story of Winston Churchill unfolds in this award winning HBO Original Movie.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20191119102500 +0000" stop="20191119120000 +0000" channel="HBO Signature">
-    <title lang="en">Into The Storm</title>
-    <desc lang="en">A powerful HBO Original Movie that follows Prime Minister Winston Churchill as he guides his nation through the war years.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20191119120000 +0000" stop="20191119134000 +0000" channel="HBO Signature">
-    <title lang="en">The Pentagon Wars</title>
-    <desc lang="en">Follow the comedic exploits and firefight between an Air Force lieutenant colonel and Army major over a carrier/scout vehicle.</desc>
+  <programme start="20191126002000 +0000" stop="20191126021000 +0000" channel="HBO Hits">
+    <title lang="en">Father Figures</title>
+    <desc lang="en">In a wild road trip to find their father, a pair of twin brothers learn more about their mother than they probably ever wanted to know.</desc>
     <category lang="en">Movies</category>
     <category lang="en">Comedy</category>
   </programme>
-  <programme start="20191119134000 +0000" stop="20191119140000 +0000" channel="HBO Signature">
-    <title lang="en">The Number On Great-Grandpa's Arm</title>
-    <desc lang="en">When Elliott asks his great-grandfather, Jack, about the number tattooed on his arm, he sparks an intimate conversation about Jack's life.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">General</category>
-  </programme>
-  <programme start="20191119140000 +0000" stop="20191119150000 +0000" channel="HBO Signature">
-    <title lang="en">Watchmen S1</title>
-    <sub-title lang="en">Little Fear Of Lightning</sub-title>
-    <desc lang="en">The origin story of Looking Glass is at last revealed, as is the truth behind the greatest hoax in American history. Far away, The Smartest Man In The World plots a daring escape.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">.4.</episode-num>
-  </programme>
-  <programme start="20191119150000 +0000" stop="20191119153000 +0000" channel="HBO Signature">
-    <title lang="en">Silicon Valley S6</title>
-    <desc lang="en">HBO's original comedy series about a computer programmer with a game-changing algorithm.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">.3.</episode-num>
-  </programme>
-  <programme start="20191119153000 +0000" stop="20191119160000 +0000" channel="HBO Signature">
-    <title lang="en">Mrs. Fletcher S1</title>
-    <sub-title lang="en">Parents Weekend</sub-title>
-    <desc lang="en">Eve and Amanda attend a wake. Brendan reconnects with Ted at Parents' Weekend. Margo and Curtis go on a first date.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">.3.</episode-num>
-  </programme>
-  <programme start="20191119160000 +0000" stop="20191119180500 +0000" channel="HBO Signature">
-    <title lang="en">Lean On Pete</title>
-    <desc lang="en">A fifteen-year-old finds acceptance and camaraderie at a local racetrack where he lands a job caring for an aging Quarter Horse which is bound for slaughter.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20191119180500 +0000" stop="20191119201500 +0000" channel="HBO Signature">
-    <title lang="en">The Mummy Returns</title>
-    <desc lang="en">An ancient legacy of terror is unleashed when an accursed mummy, Imhotep, is resurrected along with The Scorpion King.</desc>
+  <programme start="20191126021000 +0000" stop="20191126034000 +0000" channel="HBO Hits">
+    <title lang="en">Mile 22</title>
+    <desc lang="en">An intelligence officer, aided by a top-secret tactical command unit, tries to smuggle a mysterious police officer with sensitive information out of the country.</desc>
     <category lang="en">Movies</category>
     <category lang="en">Action/Adventure</category>
   </programme>
-  <programme start="20191119201500 +0000" stop="20191119222000 +0000" channel="HBO Signature">
-    <title lang="en">Rules Don't Apply</title>
-    <desc lang="en">When an aspiring starlet arrives in Los Angeles, she meets her handsome driver and the two are attracted to one another.</desc>
+  <programme start="20191126034000 +0000" stop="20191126035959 +0000" channel="HBO Hits">
+    <title lang="en">How To Lose A Guy In 10 Days</title>
+    <desc lang="en">Matthew McConoughey and Kate Hudson play a twisted game of love.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20191126040000 +0000" stop="20191126053500 +0000" channel="HBO Hits">
+    <title lang="en">How To Lose A Guy In 10 Days</title>
+    <desc lang="en">Matthew McConoughey and Kate Hudson play a twisted game of love.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20191126053500 +0000" stop="20191126070500 +0000" channel="HBO Hits">
+    <title lang="en">The Son Of Bigfoot</title>
+    <desc lang="en">A thirteen-year-old, sets out on an epic quest to uncover the mystery behind his long-lost dad. He discovers that his father is none other than the legendary Bigfoot.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20191126070500 +0000" stop="20191126084000 +0000" channel="HBO Hits">
+    <title lang="en">Megamind</title>
+    <desc lang="en">Will Ferrell, Brad Pitt and Tina Fey voice this animation about a villain who finally conquers his nemesis but finds his life pointless without a hero to fight.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20191126084000 +0000" stop="20191126110000 +0000" channel="HBO Hits">
+    <title lang="en">The Judge</title>
+    <desc lang="en">An established city lawyer reconnects with his estranged family when he returns home to help defend his father who is suspected of murder.</desc>
     <category lang="en">Movies</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20191119222000 +0000" stop="20191120001500 +0000" channel="HBO Signature">
-    <title lang="en">The Art Of War</title>
-    <desc lang="en">Neil Shaw a covert operative of an elite team of United Nations agents. His weapons of choice include tactics from the Sun Tsu handbook about The Art of War.</desc>
+  <programme start="20191126110000 +0000" stop="20191126113000 +0000" channel="HBO Hits">
+    <title lang="en">The HBO Movie Show</title>
+    <desc lang="en">Get the inside scoop on all the latest and greatest movies flying out of Hollywood on The HBO Movie Show.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">General</category>
+    <episode-num system="xmltv_ns">.10.</episode-num>
+  </programme>
+  <programme start="20191126113000 +0000" stop="20191126131500 +0000" channel="HBO Hits">
+    <title lang="en">Life Of The Party</title>
+    <desc lang="en">A newly divorced mother returns to college to complete her degree, and ends up bonding with her daughter's friends.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20191126131500 +0000" stop="20191126150000 +0000" channel="HBO Hits">
+    <title lang="en">Renegades</title>
+    <desc lang="en">Renegades follows a team of Navy SEALS on assignment in war-torn Europe. In an effort to help the locals, they go rogue and engineer a heist to retrieve the gold.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action/Adventure</category>
+  </programme>
+  <programme start="20191126150000 +0000" stop="20191126165000 +0000" channel="HBO Hits">
+    <title lang="en">Father Figures</title>
+    <desc lang="en">In a wild road trip to find their father, a pair of twin brothers learn more about their mother than they probably ever wanted to know.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20191126165000 +0000" stop="20191126190500 +0000" channel="HBO Hits">
+    <title lang="en">The Talented Mr. Ripley</title>
+    <desc lang="en">Tom Ripley uses his talents of forgery, lying and impersonating to get what he wants.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20191126190500 +0000" stop="20191126205500 +0000" channel="HBO Hits">
+    <title lang="en">Annabelle: Creation</title>
+    <desc lang="en">A nun and several girls from a shuttered orphanage become the target of a possessed doll.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller/Suspense</category>
+  </programme>
+  <programme start="20191126205500 +0000" stop="20191126224500 +0000" channel="HBO Hits">
+    <title lang="en">Up In The Air</title>
+    <desc lang="en">George Clooney is Ryan Bingham, a corporate downsizing expert whose cherished life on the road is threatened.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20191126224500 +0000" stop="20191127003000 +0000" channel="HBO Hits">
+    <title lang="en">Renegades</title>
+    <desc lang="en">Renegades follows a team of Navy SEALS on assignment in war-torn Europe. In an effort to help the locals, they go rogue and engineer a heist to retrieve the gold.</desc>
     <category lang="en">Movies</category>
     <category lang="en">Action/Adventure</category>
   </programme>
@@ -39187,71 +39179,100 @@
     <category lang="en">Movies</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20191119040000 +0000" stop="20191119060000 +0000" channel="Red by HBO">
-    <title lang="en">Ip Man</title>
-    <desc lang="en">When a wealthy martial artist is forced to leave his home and work to support his family, he reluctantly agrees to train others in the art of Wing Chun.</desc>
+  <programme start="20191126014500 +0000" stop="20191126035959 +0000" channel="HBO Signature">
+    <title lang="en">Black Hawk Down</title>
+    <desc lang="en">American soldiers get a brutal education when a mission gone awry results in the US military's biggest firefight since Vietnam. Directed by Ridley Scott.</desc>
     <category lang="en">Movies</category>
     <category lang="en">Action/Adventure</category>
   </programme>
-  <programme start="20191119060000 +0000" stop="20191119080000 +0000" channel="Red by HBO">
-    <title lang="en">Unfinished</title>
-    <desc lang="en">This intriguing political thriller revolves around a South Korean economist in Germany who becomes a wanted man after a run-in with a North Korean spy.</desc>
+  <programme start="20191126040000 +0000" stop="20191126040500 +0000" channel="HBO Signature">
+    <title lang="en">Black Hawk Down</title>
+    <desc lang="en">American soldiers get a brutal education when a mission gone awry results in the US military's biggest firefight since Vietnam. Directed by Ridley Scott.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action/Adventure</category>
+  </programme>
+  <programme start="20191126040500 +0000" stop="20191126053000 +0000" channel="HBO Signature">
+    <title lang="en">The House</title>
+    <desc lang="en">When the scholarship didn't come through, a couple decides to open an illegal casino to fund their daughter's tuition.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20191126053000 +0000" stop="20191126070500 +0000" channel="HBO Signature">
+    <title lang="en">I Love You, Man</title>
+    <desc lang="en">In this comedy that explores what it truly means to be a friend, a successful realtor embarks on a series of 'man dates' to find a best man for his wedding.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20191126070500 +0000" stop="20191126090500 +0000" channel="HBO Signature">
+    <title lang="en">Lean On Pete</title>
+    <desc lang="en">A fifteen-year-old finds acceptance and camaraderie at a local racetrack where he lands a job caring for an aging Quarter Horse which is bound for slaughter.</desc>
     <category lang="en">Movies</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20191119080000 +0000" stop="20191119094000 +0000" channel="Red by HBO">
-    <title lang="en">Blood Stained Shoes</title>
-    <desc lang="en">Set in the 1930s, this Chinese horror film tells the tale of a series of strange murders revolving around a pair of embroidered shoes.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Horror</category>
-  </programme>
-  <programme start="20191119094000 +0000" stop="20191119115000 +0000" channel="Red by HBO">
-    <title lang="en">Last Child</title>
-    <desc lang="en">A bereaved couple take their recently deceased son's friend under their wing, until secrets threaten to tear the trust down.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Horror</category>
-  </programme>
-  <programme start="20191119115000 +0000" stop="20191119140000 +0000" channel="Red by HBO">
-    <title lang="en">Ataru - The First Love &amp; The Last Kill</title>
-    <desc lang="en">An autistic savant who works for the police is suspected of committing crimes. However, he believes the culprit is an old friend with the same mental disorder.</desc>
+  <programme start="20191126090500 +0000" stop="20191126103500 +0000" channel="HBO Signature">
+    <title lang="en">Undefeated</title>
+    <desc lang="en">A young, lightning fast Latino boxer must navigate the path between his newfound fame, with all its seductive trappings, and his humble yet proud roots.</desc>
     <category lang="en">Movies</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20191119140000 +0000" stop="20191119160000 +0000" channel="Red by HBO">
-    <title lang="en">Under The Hawthorn Tree</title>
-    <desc lang="en">A pure romance sparks between a young woman and a young man during China's cultural revolution.</desc>
+  <programme start="20191126103500 +0000" stop="20191126121500 +0000" channel="HBO Signature">
+    <title lang="en">There's Something Wrong With Aunt Diane</title>
+    <desc lang="en">An HBO documentary that investigates the mysterious tragedy of Diane Schuler in an effort to understand what went wrong.</desc>
     <category lang="en">Movies</category>
-    <category lang="en">Romance</category>
+    <category lang="en">General</category>
   </programme>
-  <programme start="20191119160000 +0000" stop="20191119175000 +0000" channel="Red by HBO">
-    <title lang="en">The Island Of Cats</title>
-    <desc lang="en">This is a heart-warming movie illustrating an old man's daily life with his beloved cat and their interactions with neighbours on the island.</desc>
+  <programme start="20191126121500 +0000" stop="20191126140000 +0000" channel="HBO Signature">
+    <title lang="en">Paterno</title>
+    <desc lang="en">HBO Films' PATERNO centres on Penn State's Joe Paterno in the aftermath of the Jerry Sandusky sexual abuse scandal.</desc>
     <category lang="en">Movies</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20191119175000 +0000" stop="20191119193000 +0000" channel="Red by HBO">
-    <title lang="en">Fly Me To Venus</title>
-    <desc lang="en">A computer genius writes a programme to care for his long-distance girlfriend. What will happen after he passes on?</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Romance</category>
+  <programme start="20191126140000 +0000" stop="20191126150000 +0000" channel="HBO Signature">
+    <title lang="en">Watchmen S1</title>
+    <sub-title lang="en">This Extraordinary Being</sub-title>
+    <desc lang="en">Deep under the influence of Nostalgia, Angela (Regina King) gets a firsthand account of her grandfather's journey.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">.5.</episode-num>
   </programme>
-  <programme start="20191119193000 +0000" stop="20191119214000 +0000" channel="Red by HBO">
-    <title lang="en">Last Child</title>
-    <desc lang="en">A bereaved couple take their recently deceased son's friend under their wing, until secrets threaten to tear the trust down.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Horror</category>
+  <programme start="20191126150000 +0000" stop="20191126153000 +0000" channel="HBO Signature">
+    <title lang="en">Silicon Valley S6</title>
+    <desc lang="en">HBO's original comedy series about a computer programmer with a game-changing algorithm.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Variety</category>
+    <episode-num system="xmltv_ns">.4.</episode-num>
   </programme>
-  <programme start="20191119214000 +0000" stop="20191119231000 +0000" channel="Red by HBO">
-    <title lang="en">Midnight Train</title>
-    <desc lang="en">A young woman receives a mysterious letter with a train ticket. She boards the train with the ticket and meets a woman who claims to be mother.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Horror</category>
+  <programme start="20191126153000 +0000" stop="20191126160500 +0000" channel="HBO Signature">
+    <title lang="en">Mrs. Fletcher S1</title>
+    <sub-title lang="en">Invisible Fence</sub-title>
+    <desc lang="en">Eve gets out of her comfort zone at a hip party in Brooklyn with Margo. Brendan and Chloe have an unexpected encounter at a body-positivity college event.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Variety</category>
+    <episode-num system="xmltv_ns">.4.</episode-num>
   </programme>
-  <programme start="20191119231000 +0000" stop="20191120005000 +0000" channel="Red by HBO">
-    <title lang="en">Kung Fu Hip-Hop 2</title>
-    <desc lang="en">When his mother falls ill, genius choreographer WangZi decides to take part in a dance competition and use the prize money for her treatment.</desc>
+  <programme start="20191126160500 +0000" stop="20191126182000 +0000" channel="HBO Signature">
+    <title lang="en">A Star Is Born</title>
+    <desc lang="en">In this new take on the tragic love story, a seasoned musician discovers and falls in love with a struggling artist.</desc>
     <category lang="en">Movies</category>
     <category lang="en">Drama</category>
+  </programme>
+  <programme start="20191126182000 +0000" stop="20191126200000 +0000" channel="HBO Signature">
+    <title lang="en">Your Highness</title>
+    <desc lang="en">Princes are on a mission to save a damsel in distress.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20191126200000 +0000" stop="20191126222000 +0000" channel="HBO Signature">
+    <title lang="en">Blood Diamond</title>
+    <desc lang="en">A smuggler, fisherman and reporter team up in search of a priceless pink diamond, a lost son and the dark story behind the diamond trade.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20191126222000 +0000" stop="20191127003000 +0000" channel="HBO Signature">
+    <title lang="en">The Mummy Returns</title>
+    <desc lang="en">An ancient legacy of terror is unleashed when an accursed mummy, Imhotep, is resurrected along with The Scorpion King.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action/Adventure</category>
   </programme>
   <programme start="20191120005000 +0000" stop="20191120023000 +0000" channel="Red by HBO">
     <title lang="en">Blood Stained Shoes</title>
@@ -39740,6 +39761,84 @@
   <programme start="20191125220000 +0000" stop="20191126000000 +0000" channel="Red by HBO">
     <title lang="en">(Sex) Appeal</title>
     <desc lang="en">A Masters student sues her music professor for sexual assault when he rejects her affections for him.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20191126000000 +0000" stop="20191126020000 +0000" channel="Red by HBO">
+    <title lang="en">Intimate Enemies</title>
+    <desc lang="en">Four people find a large sum of money illegally belonging to a conglomerate president, and decide to use it to take revenge on corrupt corporations.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action/Adventure</category>
+  </programme>
+  <programme start="20191126020000 +0000" stop="20191126035959 +0000" channel="Red by HBO">
+    <title lang="en">Queen Of The Night</title>
+    <desc lang="en">When Young-soo uncovers some surprising aspects of his seemingly perfect wife at a class reunion, he begins to dig into her past.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20191126040000 +0000" stop="20191126041000 +0000" channel="Red by HBO">
+    <title lang="en">Queen Of The Night</title>
+    <desc lang="en">When Young-soo uncovers some surprising aspects of his seemingly perfect wife at a class reunion, he begins to dig into her past.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20191126041000 +0000" stop="20191126061000 +0000" channel="Red by HBO">
+    <title lang="en">I Have To Buy New Shoes</title>
+    <desc lang="en">A young photographer travelling in Paris has a chance encounter with a Japanese expat, and an unexpected romance blossoms between the two.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20191126061000 +0000" stop="20191126080000 +0000" channel="Red by HBO">
+    <title lang="en">Love Reborn</title>
+    <desc lang="en">In this Indonesian dramedy, things go awry when an online comic seemingly based on real-life characters goes viral.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20191126080000 +0000" stop="20191126094000 +0000" channel="Red by HBO">
+    <title lang="en">Speed Pioneer</title>
+    <desc lang="en">In this extreme sports film, two parkour enthusiasts compete for the same girl's affections by entering a competition.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20191126094000 +0000" stop="20191126114000 +0000" channel="Red by HBO">
+    <title lang="en">Star Of Bethlehem</title>
+    <desc lang="en">Between mistresses and lovers, struggling friendships and a disintegrating marriage, a group of men and women find their lives intertwining.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20191126114000 +0000" stop="20191126140000 +0000" channel="Red by HBO">
+    <title lang="en">The Grandmaster</title>
+    <desc lang="en">From Hong Kong auteur Wong Kar-wai, this martial arts drama is based on the life story of the Wung Chun grandmaster, Ip Man. Starring Tony Leung and Zhang Ziyi.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action/Adventure</category>
+  </programme>
+  <programme start="20191126140000 +0000" stop="20191126154000 +0000" channel="Red by HBO">
+    <title lang="en">Summer Blooms</title>
+    <desc lang="en">A tale of loss and rebirth as a series of events forces detached ex-teacher Hatsumi, still mourning the death of her boyfriend, to re-evaluate her life.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20191126154000 +0000" stop="20191126173000 +0000" channel="Red by HBO">
+    <title lang="en">It's A Mad, Mad, Mad, Mad Show</title>
+    <desc lang="en">Adapted from the successful comedy theatre production Crazy TV, this Taiwanese film is a hilarious trip through the darker side of Taiwanese television.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20191126173000 +0000" stop="20191126193000 +0000" channel="Red by HBO">
+    <title lang="en">I Have To Buy New Shoes</title>
+    <desc lang="en">A young photographer travelling in Paris has a chance encounter with a Japanese expat, and an unexpected romance blossoms between the two.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20191126193000 +0000" stop="20191126215000 +0000" channel="Red by HBO">
+    <title lang="en">The Great Passage</title>
+    <desc lang="en">Winner of the Best Picture award at the Japan Academy Prize, this film chronicles the story of a dictionary compiler.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20191126215000 +0000" stop="20191127000000 +0000" channel="Red by HBO">
+    <title lang="en">Glass Garden</title>
+    <desc lang="en">When a physically-challenged researcher is betrayed by her professor and lover, she retreats to the forest where she grew up, but soon realises that she is not alone.</desc>
     <category lang="en">Movies</category>
     <category lang="en">Drama</category>
   </programme>
@@ -45816,261 +45915,6 @@
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">3.9.</episode-num>
   </programme>
-  <programme start="20191119040000 +0000" stop="20191119040500 +0000" channel="Fox Crime">
-    <title lang="en">CSI</title>
-    <sub-title lang="en">Who And What</sub-title>
-    <desc lang="en">A kidnap victim from New York who went missing six years ago may be the same boy whose death Grissom and the CSI team are investigating in Las Vegas.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Talkshow</category>
-    <episode-num system="xmltv_ns">.5.</episode-num>
-  </programme>
-  <programme start="20191119040500 +0000" stop="20191119045500 +0000" channel="Fox Crime">
-    <title lang="en">CSI</title>
-    <sub-title lang="en">Goodbye &amp; Good Luck</sub-title>
-    <desc lang="en">A suspect from Sara's past returns, causing her to question her future as a CSI.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Talkshow</category>
-    <episode-num system="xmltv_ns">.6.</episode-num>
-  </programme>
-  <programme start="20191119045500 +0000" stop="20191119052500 +0000" channel="Fox Crime">
-    <title lang="en">Border Security Australia</title>
-    <sub-title lang="en">Picnic In A Luggage</sub-title>
-    <desc lang="en">A woman with protruding buttocks attracts the attention of Customs; officers get to the bottom of the truth. When officers discover his bag of meat, a passenger faces a fine but chooses to go to court.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">.5.</episode-num>
-  </programme>
-  <programme start="20191119052500 +0000" stop="20191119055500 +0000" channel="Fox Crime">
-    <title lang="en">Border Security Australia</title>
-    <sub-title lang="en">A Nutty Surprise</sub-title>
-    <desc lang="en">A woman with extravagant taste attempts to smuggle an expensive gift back into Australia. A male escort and his boyfriend are held in separately. When the truth is revealed, it may shock one of them.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">.6.</episode-num>
-  </programme>
-  <programme start="20191119055500 +0000" stop="20191119062500 +0000" channel="Fox Crime">
-    <title lang="en">Border Security Australia</title>
-    <sub-title lang="en">Seeds Of Doubt</sub-title>
-    <desc lang="en">The fidgety behavior of a passenger returning to Australia has officers on high alert. What lies under the floor boards of a suburban home has immigration scrambling.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20191119062500 +0000" stop="20191119071500 +0000" channel="Fox Crime">
-    <title lang="en">Ten Days In The Valley</title>
-    <sub-title lang="en">Day 9: Recast</sub-title>
-    <desc lang="en">Jane flees town for her own protection while Bird continues to work the case. Meanwhile, Ali tries to keep the peace with Pete; and Red's identity is revealed.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">.8.</episode-num>
-  </programme>
-  <programme start="20191119071500 +0000" stop="20191119080000 +0000" channel="Fox Crime">
-    <title lang="en">Ten Days In The Valley</title>
-    <sub-title lang="en">Day 10: Fade Out</sub-title>
-    <desc lang="en">Jane finds herself in immediate danger when the kidnapper's identity is discovered.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">.9.</episode-num>
-  </programme>
-  <programme start="20191119080000 +0000" stop="20191119085000 +0000" channel="Fox Crime">
-    <title lang="en">Bosch</title>
-    <sub-title lang="en">Pill Shills</sub-title>
-    <desc lang="en">Fifteen months after bringing his mother’s killer to justice, Bosch finds himself seeking the truth on two fronts. New evidence in an old case leaves everyone wondering whether Bosch planted evidence to convict the wrong guy. And a murder at a Hollywood pharmacy expose a sophisticated opioid pill mill, sending Bosch down a dark and perilous path in pursuit of the killers.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Talkshow</category>
-    <episode-num system="xmltv_ns">.1.</episode-num>
-  </programme>
-  <programme start="20191119085000 +0000" stop="20191119094000 +0000" channel="Fox Crime">
-    <title lang="en">Bosch</title>
-    <sub-title lang="en">The Last Scrip</sub-title>
-    <desc lang="en">Fifteen months after bringing his mother’s killer to justice, Bosch finds himself seeking the truth on two fronts. New evidence in an old case leaves everyone wondering whether Bosch planted evidence to convict the wrong guy. And a murder at a Hollywood pharmacy expose a sophisticated opioid pill mill, sending Bosch down a dark and perilous path in pursuit of the killers.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Talkshow</category>
-    <episode-num system="xmltv_ns">.2.</episode-num>
-  </programme>
-  <programme start="20191119094000 +0000" stop="20191119103000 +0000" channel="Fox Crime">
-    <title lang="en">Bosch</title>
-    <sub-title lang="en">Raise The Dead</sub-title>
-    <desc lang="en">Fifteen months after bringing his mother’s killer to justice, Bosch finds himself seeking the truth on two fronts. New evidence in an old case leaves everyone wondering whether Bosch planted evidence to convict the wrong guy. And a murder at a Hollywood pharmacy expose a sophisticated opioid pill mill, sending Bosch down a dark and perilous path in pursuit of the killers.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Talkshow</category>
-    <episode-num system="xmltv_ns">.3.</episode-num>
-  </programme>
-  <programme start="20191119103000 +0000" stop="20191119112500 +0000" channel="Fox Crime">
-    <title lang="en">Bosch</title>
-    <sub-title lang="en">Tunnel Vision</sub-title>
-    <desc lang="en">Fifteen months after bringing his mother’s killer to justice, Bosch finds himself seeking the truth on two fronts. New evidence in an old case leaves everyone wondering whether Bosch planted evidence to convict the wrong guy. And a murder at a Hollywood pharmacy expose a sophisticated opioid pill mill, sending Bosch down a dark and perilous path in pursuit of the killers.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Talkshow</category>
-    <episode-num system="xmltv_ns">.4.</episode-num>
-  </programme>
-  <programme start="20191119112500 +0000" stop="20191119115500 +0000" channel="Fox Crime">
-    <title lang="en">Border Security Australia</title>
-    <sub-title lang="en">Picnic In A Luggage</sub-title>
-    <desc lang="en">A woman with protruding buttocks attracts the attention of Customs; officers get to the bottom of the truth. When officers discover his bag of meat, a passenger faces a fine but chooses to go to court.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">.5.</episode-num>
-  </programme>
-  <programme start="20191119115500 +0000" stop="20191119122500 +0000" channel="Fox Crime">
-    <title lang="en">Border Security Australia</title>
-    <sub-title lang="en">A Nutty Surprise</sub-title>
-    <desc lang="en">A woman with extravagant taste attempts to smuggle an expensive gift back into Australia. A male escort and his boyfriend are held in separately. When the truth is revealed, it may shock one of them.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">.6.</episode-num>
-  </programme>
-  <programme start="20191119122500 +0000" stop="20191119125500 +0000" channel="Fox Crime">
-    <title lang="en">Border Security Australia</title>
-    <sub-title lang="en">Seeds Of Doubt</sub-title>
-    <desc lang="en">The fidgety behavior of a passenger returning to Australia has officers on high alert. What lies under the floor boards of a suburban home has immigration scrambling.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20191119125500 +0000" stop="20191119134500 +0000" channel="Fox Crime">
-    <title lang="en">CSI</title>
-    <sub-title lang="en">Goodbye &amp; Good Luck</sub-title>
-    <desc lang="en">A suspect from Sara's past returns, causing her to question her future as a CSI.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Talkshow</category>
-    <episode-num system="xmltv_ns">.6.</episode-num>
-  </programme>
-  <programme start="20191119134500 +0000" stop="20191119143000 +0000" channel="Fox Crime">
-    <title lang="en">CSI</title>
-    <sub-title lang="en">Cockroaches</sub-title>
-    <desc lang="en">Warrick's addiction to pills begins to impact his job when his investigation into the underground mob in Vegas results in him being targeted as the prime suspect in a mob related murder case.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Talkshow</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20191119143000 +0000" stop="20191119151500 +0000" channel="Fox Crime">
-    <title lang="en">American Crime</title>
-    <desc lang="en">An undocumented worker, Luis Salazar, travels from Mexico into the United States in search of a job, only to discover that modern servitude is thriving in the farmlands and agricultural communities. Promised work and a place to live, laborers find themselves required to pay exorbitant rates for shelter, food and other essentials. What little money they make is often collected directly by their employers.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Talkshow</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme start="20191119151500 +0000" stop="20191119154500 +0000" channel="Fox Crime">
-    <title lang="en">Border Security Australia</title>
-    <sub-title lang="en">A Nutty Surprise</sub-title>
-    <desc lang="en">A woman with extravagant taste attempts to smuggle an expensive gift back into Australia. A male escort and his boyfriend are held in separately. When the truth is revealed, it may shock one of them.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">.6.</episode-num>
-  </programme>
-  <programme start="20191119154500 +0000" stop="20191119161500 +0000" channel="Fox Crime">
-    <title lang="en">Border Security Australia</title>
-    <sub-title lang="en">Seeds Of Doubt</sub-title>
-    <desc lang="en">The fidgety behavior of a passenger returning to Australia has officers on high alert. What lies under the floor boards of a suburban home has immigration scrambling.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20191119161500 +0000" stop="20191119170500 +0000" channel="Fox Crime">
-    <title lang="en">CSI</title>
-    <sub-title lang="en">Goodbye &amp; Good Luck</sub-title>
-    <desc lang="en">A suspect from Sara's past returns, causing her to question her future as a CSI.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Talkshow</category>
-    <episode-num system="xmltv_ns">.6.</episode-num>
-  </programme>
-  <programme start="20191119170500 +0000" stop="20191119175500 +0000" channel="Fox Crime">
-    <title lang="en">CSI</title>
-    <sub-title lang="en">Cockroaches</sub-title>
-    <desc lang="en">Warrick's addiction to pills begins to impact his job when his investigation into the underground mob in Vegas results in him being targeted as the prime suspect in a mob related murder case.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Talkshow</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20191119175500 +0000" stop="20191119184500 +0000" channel="Fox Crime">
-    <title lang="en">Bosch</title>
-    <sub-title lang="en">The Last Scrip</sub-title>
-    <desc lang="en">Fifteen months after bringing his mother’s killer to justice, Bosch finds himself seeking the truth on two fronts. New evidence in an old case leaves everyone wondering whether Bosch planted evidence to convict the wrong guy. And a murder at a Hollywood pharmacy expose a sophisticated opioid pill mill, sending Bosch down a dark and perilous path in pursuit of the killers.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Talkshow</category>
-    <episode-num system="xmltv_ns">.2.</episode-num>
-  </programme>
-  <programme start="20191119184500 +0000" stop="20191119193500 +0000" channel="Fox Crime">
-    <title lang="en">Bosch</title>
-    <sub-title lang="en">Raise The Dead</sub-title>
-    <desc lang="en">Fifteen months after bringing his mother’s killer to justice, Bosch finds himself seeking the truth on two fronts. New evidence in an old case leaves everyone wondering whether Bosch planted evidence to convict the wrong guy. And a murder at a Hollywood pharmacy expose a sophisticated opioid pill mill, sending Bosch down a dark and perilous path in pursuit of the killers.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Talkshow</category>
-    <episode-num system="xmltv_ns">.3.</episode-num>
-  </programme>
-  <programme start="20191119193500 +0000" stop="20191119203000 +0000" channel="Fox Crime">
-    <title lang="en">Bosch</title>
-    <sub-title lang="en">Tunnel Vision</sub-title>
-    <desc lang="en">Fifteen months after bringing his mother’s killer to justice, Bosch finds himself seeking the truth on two fronts. New evidence in an old case leaves everyone wondering whether Bosch planted evidence to convict the wrong guy. And a murder at a Hollywood pharmacy expose a sophisticated opioid pill mill, sending Bosch down a dark and perilous path in pursuit of the killers.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Talkshow</category>
-    <episode-num system="xmltv_ns">.4.</episode-num>
-  </programme>
-  <programme start="20191119203000 +0000" stop="20191119210000 +0000" channel="Fox Crime">
-    <title lang="en">Border Security Australia</title>
-    <sub-title lang="en">Picnic In A Luggage</sub-title>
-    <desc lang="en">A woman with protruding buttocks attracts the attention of Customs; officers get to the bottom of the truth. When officers discover his bag of meat, a passenger faces a fine but chooses to go to court.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">.5.</episode-num>
-  </programme>
-  <programme start="20191119210000 +0000" stop="20191119213000 +0000" channel="Fox Crime">
-    <title lang="en">Border Security Australia</title>
-    <sub-title lang="en">A Nutty Surprise</sub-title>
-    <desc lang="en">A woman with extravagant taste attempts to smuggle an expensive gift back into Australia. A male escort and his boyfriend are held in separately. When the truth is revealed, it may shock one of them.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">.6.</episode-num>
-  </programme>
-  <programme start="20191119213000 +0000" stop="20191119220000 +0000" channel="Fox Crime">
-    <title lang="en">Border Security Australia</title>
-    <sub-title lang="en">Seeds Of Doubt</sub-title>
-    <desc lang="en">The fidgety behavior of a passenger returning to Australia has officers on high alert. What lies under the floor boards of a suburban home has immigration scrambling.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20191119220000 +0000" stop="20191119223000 +0000" channel="Fox Crime">
-    <title lang="en">Border Security Australia</title>
-    <sub-title lang="en">Cool, Calm And Busted</sub-title>
-    <desc lang="en">A cool passenger is unshaken by the positive drug readings from his suitcase, even as Customs officers suspect there is something sinister concealed in the bag. A traveling musician says she has special powers.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">.8.</episode-num>
-  </programme>
-  <programme start="20191119223000 +0000" stop="20191119225500 +0000" channel="Fox Crime">
-    <title lang="en">COPS</title>
-    <sub-title lang="en">Bathroom Blitz</sub-title>
-    <desc lang="en">A stubborn suspect prolongs the inevitable when he bargains from a rooftop. Chaos ensues when a nightclub manager confronts the employee who stole his cash. A talkative man insists he meant to get arrested.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality</category>
-    <episode-num system="xmltv_ns">.4.</episode-num>
-  </programme>
-  <programme start="20191119225500 +0000" stop="20191119232000 +0000" channel="Fox Crime">
-    <title lang="en">COPS</title>
-    <sub-title lang="en">The Facts Of Life</sub-title>
-    <desc lang="en">A night of watching football with the family descends into a full-blown fight. A notorious shoplifter wears out officers' goodwill when he's found with some stolen goods. A middle-aged suspect admits he can't escape the streets.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality</category>
-    <episode-num system="xmltv_ns">.5.</episode-num>
-  </programme>
-  <programme start="20191119232000 +0000" stop="20191119234500 +0000" channel="Fox Crime">
-    <title lang="en">COPS</title>
-    <sub-title lang="en">Three's Company</sub-title>
-    <desc lang="en">A regular suspect can't convince deputies that he had a good reason to run. A married couple's nosy roommate holds them back from kicking their bad habits. Neighbors witness a husband and wife fight over their infant son.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality</category>
-    <episode-num system="xmltv_ns">.6.</episode-num>
-  </programme>
-  <programme start="20191119234500 +0000" stop="20191120001000 +0000" channel="Fox Crime">
-    <title lang="en">COPS</title>
-    <sub-title lang="en">Out The Window</sub-title>
-    <desc lang="en">A kitchen fire rapidly engulfs a house and traps one man on the top floor. A surprisingly calm runaway driver confuses officers when he blames his actions on nerves. A quiet suspect asks police to go easy on him.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
   <programme start="20191120001000 +0000" stop="20191120010000 +0000" channel="Fox Crime">
     <title lang="en">Bosch</title>
     <sub-title lang="en">The Last Scrip</sub-title>
@@ -47767,6 +47611,293 @@
     <category lang="en">Drama Series</category>
     <category lang="en">Talkshow</category>
     <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20191126001500 +0000" stop="20191126010500 +0000" channel="Fox Crime">
+    <title lang="en">Bosch</title>
+    <sub-title lang="en">The Wisdom Of The Desert</sub-title>
+    <desc lang="en">Fifteen months after bringing his mother’s killer to justice, Bosch finds himself seeking the truth on two fronts. New evidence in an old case leaves everyone wondering whether Bosch planted evidence to convict the wrong guy. And a murder at a Hollywood pharmacy expose a sophisticated opioid pill mill, sending Bosch down a dark and perilous path in pursuit of the killers.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+  </programme>
+  <programme start="20191126010500 +0000" stop="20191126020000 +0000" channel="Fox Crime">
+    <title lang="en">Bosch</title>
+    <sub-title lang="en">Salvation Mountain</sub-title>
+    <desc lang="en">Fifteen months after bringing his mother’s killer to justice, Bosch finds himself seeking the truth on two fronts. New evidence in an old case leaves everyone wondering whether Bosch planted evidence to convict the wrong guy. And a murder at a Hollywood pharmacy expose a sophisticated opioid pill mill, sending Bosch down a dark and perilous path in pursuit of the killers.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">.7.</episode-num>
+  </programme>
+  <programme start="20191126020000 +0000" stop="20191126025000 +0000" channel="Fox Crime">
+    <title lang="en">Bosch</title>
+    <sub-title lang="en">Hold Back The Night</sub-title>
+    <desc lang="en">Fifteen months after bringing his mother’s killer to justice, Bosch finds himself seeking the truth on two fronts. New evidence in an old case leaves everyone wondering whether Bosch planted evidence to convict the wrong guy. And a murder at a Hollywood pharmacy expose a sophisticated opioid pill mill, sending Bosch down a dark and perilous path in pursuit of the killers.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">.8.</episode-num>
+  </programme>
+  <programme start="20191126025000 +0000" stop="20191126033500 +0000" channel="Fox Crime">
+    <title lang="en">CSI</title>
+    <sub-title lang="en">Bull</sub-title>
+    <desc lang="en">The CSIs investigate two murders during the annual bull riding rodeo in Vegas that may be connected to illegal bull breeding.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">.10.</episode-num>
+  </programme>
+  <programme start="20191126033500 +0000" stop="20191126035959 +0000" channel="Fox Crime">
+    <title lang="en">CSI</title>
+    <sub-title lang="en">Grissom's Divine Comedy</sub-title>
+    <desc lang="en">Grissom and his team battle the flu when they are called upon by DDA Klein (Bedelia) to investigate the deaths of several key witnesses for a grand jury case against a dangerous Las Vegas gang.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+  </programme>
+  <programme start="20191126040000 +0000" stop="20191126042500 +0000" channel="Fox Crime">
+    <title lang="en">CSI</title>
+    <sub-title lang="en">Grissom's Divine Comedy</sub-title>
+    <desc lang="en">Grissom and his team battle the flu when they are called upon by DDA Klein (Bedelia) to investigate the deaths of several key witnesses for a grand jury case against a dangerous Las Vegas gang.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+  </programme>
+  <programme start="20191126042500 +0000" stop="20191126045500 +0000" channel="Fox Crime">
+    <title lang="en">Border Security Australia</title>
+    <sub-title lang="en">Lawless Visitors</sub-title>
+    <desc lang="en">An agitated passenger becomes enraged at being searched, but positive drug readings have Customs concerned. An American Indian says he does not live by laws.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+  </programme>
+  <programme start="20191126045500 +0000" stop="20191126052500 +0000" channel="Fox Crime">
+    <title lang="en">Border Security Australia</title>
+    <sub-title lang="en">Patrolling The Sea</sub-title>
+    <desc lang="en">It's a race against time as a patrol boat is deployed to rescue a sinking vessel crammed with people. An infestation in Biosecurity has officers on high alert.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">.12.</episode-num>
+  </programme>
+  <programme start="20191126052500 +0000" stop="20191126061500 +0000" channel="Fox Crime">
+    <title lang="en">Ten Days In The Valley</title>
+    <sub-title lang="en">Day 9: Recast</sub-title>
+    <desc lang="en">Jane flees town for her own protection while Bird continues to work the case. Meanwhile, Ali tries to keep the peace with Pete; and Red's identity is revealed.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">.8.</episode-num>
+  </programme>
+  <programme start="20191126061500 +0000" stop="20191126070000 +0000" channel="Fox Crime">
+    <title lang="en">Ten Days In The Valley</title>
+    <sub-title lang="en">Day 10: Fade Out</sub-title>
+    <desc lang="en">Jane finds herself in immediate danger when the kidnapper's identity is discovered.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">.9.</episode-num>
+  </programme>
+  <programme start="20191126070000 +0000" stop="20191126075000 +0000" channel="Fox Crime">
+    <title lang="en">Prime Suspect</title>
+    <desc lang="en">When the body of a teenage girl, Julie Ann Collins, is found in the underground car park of a Hackney housing estate, probationer WPC Jane Tennison becomes immersed in her first murder investigation.</desc>
+    <date>1973</date>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20191126075000 +0000" stop="20191126084000 +0000" channel="Fox Crime">
+    <title lang="en">Bosch</title>
+    <sub-title lang="en">The Wisdom Of The Desert</sub-title>
+    <desc lang="en">Fifteen months after bringing his mother’s killer to justice, Bosch finds himself seeking the truth on two fronts. New evidence in an old case leaves everyone wondering whether Bosch planted evidence to convict the wrong guy. And a murder at a Hollywood pharmacy expose a sophisticated opioid pill mill, sending Bosch down a dark and perilous path in pursuit of the killers.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+  </programme>
+  <programme start="20191126084000 +0000" stop="20191126093500 +0000" channel="Fox Crime">
+    <title lang="en">Bosch</title>
+    <sub-title lang="en">Salvation Mountain</sub-title>
+    <desc lang="en">Fifteen months after bringing his mother’s killer to justice, Bosch finds himself seeking the truth on two fronts. New evidence in an old case leaves everyone wondering whether Bosch planted evidence to convict the wrong guy. And a murder at a Hollywood pharmacy expose a sophisticated opioid pill mill, sending Bosch down a dark and perilous path in pursuit of the killers.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">.7.</episode-num>
+  </programme>
+  <programme start="20191126093500 +0000" stop="20191126102500 +0000" channel="Fox Crime">
+    <title lang="en">Bosch</title>
+    <sub-title lang="en">Hold Back The Night</sub-title>
+    <desc lang="en">Fifteen months after bringing his mother’s killer to justice, Bosch finds himself seeking the truth on two fronts. New evidence in an old case leaves everyone wondering whether Bosch planted evidence to convict the wrong guy. And a murder at a Hollywood pharmacy expose a sophisticated opioid pill mill, sending Bosch down a dark and perilous path in pursuit of the killers.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">.8.</episode-num>
+  </programme>
+  <programme start="20191126102500 +0000" stop="20191126112000 +0000" channel="Fox Crime">
+    <title lang="en">Bosch</title>
+    <sub-title lang="en">Creep Signed His Kill</sub-title>
+    <desc lang="en">Fifteen months after bringing his mother’s killer to justice, Bosch finds himself seeking the truth on two fronts. New evidence in an old case leaves everyone wondering whether Bosch planted evidence to convict the wrong guy. And a murder at a Hollywood pharmacy expose a sophisticated opioid pill mill, sending Bosch down a dark and perilous path in pursuit of the killers.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">.9.</episode-num>
+  </programme>
+  <programme start="20191126112000 +0000" stop="20191126115000 +0000" channel="Fox Crime">
+    <title lang="en">Border Security Australia</title>
+    <sub-title lang="en">Guilty Pleasure</sub-title>
+    <desc lang="en">When Customs discovers a concealed white powder in the belongings of a nervous passenger, his behavior becomes increasingly suspicious. Later, Quarantine is on the tail of two Chinese passengers.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">.10.</episode-num>
+  </programme>
+  <programme start="20191126115000 +0000" stop="20191126122000 +0000" channel="Fox Crime">
+    <title lang="en">Border Security Australia</title>
+    <sub-title lang="en">Lawless Visitors</sub-title>
+    <desc lang="en">An agitated passenger becomes enraged at being searched, but positive drug readings have Customs concerned. An American Indian says he does not live by laws.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+  </programme>
+  <programme start="20191126122000 +0000" stop="20191126125500 +0000" channel="Fox Crime">
+    <title lang="en">Border Security Australia</title>
+    <sub-title lang="en">Patrolling The Sea</sub-title>
+    <desc lang="en">It's a race against time as a patrol boat is deployed to rescue a sinking vessel crammed with people. An infestation in Biosecurity has officers on high alert.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">.12.</episode-num>
+  </programme>
+  <programme start="20191126125500 +0000" stop="20191126134500 +0000" channel="Fox Crime">
+    <title lang="en">CSI</title>
+    <sub-title lang="en">Grissom's Divine Comedy</sub-title>
+    <desc lang="en">Grissom and his team battle the flu when they are called upon by DDA Klein (Bedelia) to investigate the deaths of several key witnesses for a grand jury case against a dangerous Las Vegas gang.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+  </programme>
+  <programme start="20191126134500 +0000" stop="20191126143000 +0000" channel="Fox Crime">
+    <title lang="en">CSI</title>
+    <sub-title lang="en">A Thousand Days On Earth</sub-title>
+    <desc lang="en">The disturbing death of a 3-year-old girl has a great impact on Catherine as she searches for clues to her murder.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">.12.</episode-num>
+  </programme>
+  <programme start="20191126143000 +0000" stop="20191126151500 +0000" channel="Fox Crime">
+    <title lang="en">American Crime</title>
+    <desc lang="en">Luis continues his journey in search of his missing son, as Coy struggles to adapt to his new life on the farml and Kimara navigates an insufficient support network, as she works to turn Shae against her former pimp.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20191126151500 +0000" stop="20191126154500 +0000" channel="Fox Crime">
+    <title lang="en">Border Security Australia</title>
+    <sub-title lang="en">Lawless Visitors</sub-title>
+    <desc lang="en">An agitated passenger becomes enraged at being searched, but positive drug readings have Customs concerned. An American Indian says he does not live by laws.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+  </programme>
+  <programme start="20191126154500 +0000" stop="20191126161500 +0000" channel="Fox Crime">
+    <title lang="en">Border Security Australia</title>
+    <sub-title lang="en">Patrolling The Sea</sub-title>
+    <desc lang="en">It's a race against time as a patrol boat is deployed to rescue a sinking vessel crammed with people. An infestation in Biosecurity has officers on high alert.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">.12.</episode-num>
+  </programme>
+  <programme start="20191126161500 +0000" stop="20191126170500 +0000" channel="Fox Crime">
+    <title lang="en">CSI</title>
+    <sub-title lang="en">Grissom's Divine Comedy</sub-title>
+    <desc lang="en">Grissom and his team battle the flu when they are called upon by DDA Klein (Bedelia) to investigate the deaths of several key witnesses for a grand jury case against a dangerous Las Vegas gang.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+  </programme>
+  <programme start="20191126170500 +0000" stop="20191126175500 +0000" channel="Fox Crime">
+    <title lang="en">CSI</title>
+    <sub-title lang="en">A Thousand Days On Earth</sub-title>
+    <desc lang="en">The disturbing death of a 3-year-old girl has a great impact on Catherine as she searches for clues to her murder.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">.12.</episode-num>
+  </programme>
+  <programme start="20191126175500 +0000" stop="20191126185000 +0000" channel="Fox Crime">
+    <title lang="en">Bosch</title>
+    <sub-title lang="en">Salvation Mountain</sub-title>
+    <desc lang="en">Fifteen months after bringing his mother’s killer to justice, Bosch finds himself seeking the truth on two fronts. New evidence in an old case leaves everyone wondering whether Bosch planted evidence to convict the wrong guy. And a murder at a Hollywood pharmacy expose a sophisticated opioid pill mill, sending Bosch down a dark and perilous path in pursuit of the killers.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">.7.</episode-num>
+  </programme>
+  <programme start="20191126185000 +0000" stop="20191126194000 +0000" channel="Fox Crime">
+    <title lang="en">Bosch</title>
+    <sub-title lang="en">Hold Back The Night</sub-title>
+    <desc lang="en">Fifteen months after bringing his mother’s killer to justice, Bosch finds himself seeking the truth on two fronts. New evidence in an old case leaves everyone wondering whether Bosch planted evidence to convict the wrong guy. And a murder at a Hollywood pharmacy expose a sophisticated opioid pill mill, sending Bosch down a dark and perilous path in pursuit of the killers.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">.8.</episode-num>
+  </programme>
+  <programme start="20191126194000 +0000" stop="20191126203500 +0000" channel="Fox Crime">
+    <title lang="en">Bosch</title>
+    <sub-title lang="en">Creep Signed His Kill</sub-title>
+    <desc lang="en">Fifteen months after bringing his mother’s killer to justice, Bosch finds himself seeking the truth on two fronts. New evidence in an old case leaves everyone wondering whether Bosch planted evidence to convict the wrong guy. And a murder at a Hollywood pharmacy expose a sophisticated opioid pill mill, sending Bosch down a dark and perilous path in pursuit of the killers.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">.9.</episode-num>
+  </programme>
+  <programme start="20191126203500 +0000" stop="20191126210500 +0000" channel="Fox Crime">
+    <title lang="en">Border Security Australia</title>
+    <sub-title lang="en">Lawless Visitors</sub-title>
+    <desc lang="en">An agitated passenger becomes enraged at being searched, but positive drug readings have Customs concerned. An American Indian says he does not live by laws.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+  </programme>
+  <programme start="20191126210500 +0000" stop="20191126213500 +0000" channel="Fox Crime">
+    <title lang="en">Border Security Australia</title>
+    <sub-title lang="en">Patrolling The Sea</sub-title>
+    <desc lang="en">It's a race against time as a patrol boat is deployed to rescue a sinking vessel crammed with people. An infestation in Biosecurity has officers on high alert.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">.12.</episode-num>
+  </programme>
+  <programme start="20191126213500 +0000" stop="20191126220500 +0000" channel="Fox Crime">
+    <title lang="en">Border Security Australia</title>
+    <sub-title lang="en">Bandit On The Run</sub-title>
+    <desc lang="en">A French backpacker with a suspicious scent attracts the attention of Customs' sniffer dogs. A baby-faced bandit is on the run from the law.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">.13.</episode-num>
+  </programme>
+  <programme start="20191126220500 +0000" stop="20191126223500 +0000" channel="Fox Crime">
+    <title lang="en">Border Security Australia</title>
+    <sub-title lang="en">Lovers Torn</sub-title>
+    <desc lang="en">A foolish passenger arrives with several bags she claims are not hers, all of which are positive for narcotics. Two young lovers are separated at the border by Immigration.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">.14.</episode-num>
+  </programme>
+  <programme start="20191126223500 +0000" stop="20191126230000 +0000" channel="Fox Crime">
+    <title lang="en">COPS</title>
+    <sub-title lang="en">Out The Window</sub-title>
+    <desc lang="en">A kitchen fire rapidly engulfs a house and traps one man on the top floor. A surprisingly calm runaway driver confuses officers when he blames his actions on nerves. A quiet suspect asks police to go easy on him.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">.7.</episode-num>
+  </programme>
+  <programme start="20191126230000 +0000" stop="20191126232500 +0000" channel="Fox Crime">
+    <title lang="en">COPS</title>
+    <sub-title lang="en">Burning Rubber</sub-title>
+    <desc lang="en">Multiple attempts to stop a fleeing vehicle eventually gain traction. A driver becomes visibly agitated when deputies get closer to uncovering his secret. Officers split up when a young cyclist tries to make a quick getaway.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">.8.</episode-num>
+  </programme>
+  <programme start="20191126232500 +0000" stop="20191126235000 +0000" channel="Fox Crime">
+    <title lang="en">COPS</title>
+    <sub-title lang="en">Breaking The Cycle</sub-title>
+    <desc lang="en">An innocent man is startled when a runaway motorcyclist crashes into his trailer. A stubborn suspect plays dumb when deputies confront him with the truth. Officers are disappointed when they run into a repeat lawbreaker.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">.9.</episode-num>
+  </programme>
+  <programme start="20191126235000 +0000" stop="20191127004500 +0000" channel="Fox Crime">
+    <title lang="en">Bosch</title>
+    <sub-title lang="en">Salvation Mountain</sub-title>
+    <desc lang="en">Fifteen months after bringing his mother’s killer to justice, Bosch finds himself seeking the truth on two fronts. New evidence in an old case leaves everyone wondering whether Bosch planted evidence to convict the wrong guy. And a murder at a Hollywood pharmacy expose a sophisticated opioid pill mill, sending Bosch down a dark and perilous path in pursuit of the killers.</desc>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">.7.</episode-num>
   </programme>
   <programme start="20191119000000 -0500" stop="20191119020000 -0500" channel="ABC (US)">
     <title lang="en">Dancing With the Stars</title>
