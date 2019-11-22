@@ -1,7 +1,7 @@
 # Malaysia Freeview IPTV Channels <img align="right" src="https://www.myfreeview.tv/assets//images/logo_eng.png">
-This repository contains the playlists, EPG and other related resources to enjoy free-to-air TV channels online. 
+This repository contains the playlists, EPG and other related resources to enjoy free-to-air TV channels online. Built for Android TV. 
 
-These playlists are for Android TV.
+![status](https://img.shields.io/badge/Tokenizer-ONLINE-brightgreen.svg?style=flat)
 
 ## Information
 The streams listed here are the official public streams hosted on their live TV websites, and some channels are grabbed from YouTube. A tokenizer server updates the playlists every 6 hours to ensure uptime. EPG contains 7 days worth of TV guide.
