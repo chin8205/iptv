@@ -1,4 +1,4 @@
-# Malaysia Freeview IPTV Channels <img align="right" src="https://www.myfreeview.tv/assets//images/logo_eng.png">
+# Malaysia Freeview IPTV Channels <img align="right" src="http://freeview.github.io/iptv/freeview.png" width="200">
 This repository contains the playlists, EPG and other related resources to enjoy free-to-air TV channels online. Built for Android TV. 
 
 ![status](https://img.shields.io/badge/Tokenizer-ONLINE-brightgreen.svg?style=flat)
