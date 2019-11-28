@@ -6,8 +6,7 @@ This repository contains the playlists, EPG and other related resources to enjoy
 The streams listed here are the official public streams hosted on their live TV websites complete with 7 days worth of EPG.
 
 ## Coming Soon
-Free channels compiled in one single playlist!
-
+MORE free channels compiled in one single playlist.
 <p align="center">
   <img src="http://freeview.github.io/iptv/channels.png" width="600">
 </p>
