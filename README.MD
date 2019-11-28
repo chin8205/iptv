@@ -5,11 +5,10 @@ This repository contains the playlists, EPG and other related resources to enjoy
 ## Information
 The streams listed here are the official public streams hosted on their live TV websites, and some channels are grabbed from YouTube. A tokenizer server updates the playlists every 6 hours to ensure uptime. EPG contains 7 days worth of TV guide.
 
-| No | Channels | Playlist |  EPG |
-| --- | --- | --- | --- |
-| 1 | Malaysia | https://freeview.github.io/iptv/playlist/my.m3u | https://freeview.github.io/iptv/epg/my.xml |
-|  | <img src="http://freeview.github.io/iptv/logos/01/bloomberg.png" width="150"> | | |
-| 2 | Singapore | https://freeview.github.io/iptv/playlist/sg.m3u | https://freeview.github.io/iptv/epg/sg.xml |
-|  | Channel 5, Channel 8, Channel U, Channel NewsAsia, Suria, Vasantham | | |
-
-Report broken streams [here](https://github.com/hsytes/iptv/issues/new).
+| <img src="http://freeview.github.io/iptv/logos/tv1.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/tv2.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/tv3.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/ntv7.png" width="45"> | <img  src="http://freeview.github.io/iptv/logos/8tv.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/tv9.png" width="45"> | 
+| - | - | - | - | - | - |
+| <img src="http://freeview.github.io/iptv/logos/dramasangat.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/okey.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/rtmhdsports.png" width="120"> | <img src="http://freeview.github.io/iptv/logos/bes.png" width="120"> | <img  src="http://freeview.github.io/iptv/logos/onenews.png" width="120"> | <img src="http://freeview.github.io/iptv/logos/tvalhijrah.png" width="75"> | 
+| <img src="http://freeview.github.io/iptv/logos/bernama.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/awani.png" width="120"> | <img src="http://freeview.github.io/iptv/logos/channel-5.png" width="45"> | <img src="http://freeview.github.io/iptv/logos/channel-8.png" width="45"> | <img  src="http://freeview.github.io/iptv/logos/channel-u.png" width="45"> | <img src="http://freeview.github.io/iptv/logos/suria.png" width="120"> | 
+| <img src="http://freeview.github.io/iptv/logos/vasantham.png" width="120"> | <img src="http://freeview.github.io/iptv/logos/aljazeera.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/arirang.png" width="120"> | <img src="http://freeview.github.io/iptv/logos/bloomberg.png" width="120" style="background-color:red"> | <img  src="http://freeview.github.io/iptv/logos/8tv.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/tv9.png" width="45"> | 
+| <img src="http://freeview.github.io/iptv/logos/tv1.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/tv2.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/tv3.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/ntv7.png" width="45"> | <img  src="http://freeview.github.io/iptv/logos/8tv.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/tv9.png" width="45"> | 
+| <img src="http://freeview.github.io/iptv/logos/tv1.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/tv2.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/tv3.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/ntv7.png" width="45"> | <img  src="http://freeview.github.io/iptv/logos/8tv.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/tv9.png" width="45"> | 
