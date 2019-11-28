@@ -5,16 +5,17 @@ This repository contains the playlists, EPG and other related resources to enjoy
 ## Information
 The streams listed here are the official public streams hosted on their live TV websites complete with 7 days worth of EPG.
 
-| No | Channels | Playlist |  EPG |
-| --- | --- | --- | --- |
-| 1 | Malaysia | https://freeview.github.io/iptv/playlist/my.m3u | https://freeview.github.io/iptv/epg/my.xml |
-| 2 | Singapore | https://freeview.github.io/iptv/playlist/sg.m3u | https://freeview.github.io/iptv/epg/sg.xml |
-
-We update the streams every 6 hours, however, we can't always guarantee 100% uptime. Help report broken streams [here](https://github.com/hsytes/iptv/issues/new).
-
 ## Coming Soon
 Free channels compiled in one single playlist!
 
 <p align="center">
   <img src="http://freeview.github.io/iptv/channels.png" width="600">
 </p>
+
+| No | Channels | Playlist |  EPG |
+| --- | --- | --- | --- |
+| 1 | Complete | https://freeview.github.io/iptv/playlist/my.m3u | https://freeview.github.io/iptv/epg/my.xml |
+| 1 | Malaysia | https://freeview.github.io/iptv/playlist/my.m3u | https://freeview.github.io/iptv/epg/my.xml |
+| 2 | Singapore | https://freeview.github.io/iptv/playlist/sg.m3u | https://freeview.github.io/iptv/epg/sg.xml |
+
+We update the streams every 6 hours, however, we can't guarantee 100% uptime. Help report broken streams [here](https://github.com/hsytes/iptv/issues/new).
