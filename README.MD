@@ -18,4 +18,4 @@ Free channels compiled in one single playlist!
 | 1 | Malaysia | https://freeview.github.io/iptv/playlist/my.m3u | https://freeview.github.io/iptv/epg/my.xml |
 | 2 | Singapore | https://freeview.github.io/iptv/playlist/sg.m3u | https://freeview.github.io/iptv/epg/sg.xml |
 
-We update the streams every 6 hours, however, we can't guarantee 100% uptime. Help report broken streams [here](https://github.com/hsytes/iptv/issues/new).
+Streams are automatically updated with valid session tokens every 6 hours. However, we can't guarantee 100% uptime. Help report broken streams [here](https://github.com/hsytes/iptv/issues/new).
