@@ -17,4 +17,6 @@ Report broken streams [here](https://github.com/hsytes/iptv/issues/new).
 ## Coming Soon
 Free channels compiled in one single playlist!
 
-<img align="center" src="http://freeview.github.io/iptv/channels.png" width="600">
+<p align="center">
+  <img src="http://freeview.github.io/iptv/channels.png" width="600">
+</p>
