@@ -12,3 +12,25 @@ The streams listed here are the official public streams hosted on their live TV 
 | <img src="http://freeview.github.io/iptv/logos/vasantham.png" width="120"> | <img src="http://freeview.github.io/iptv/logos/aljazeera.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/arirang.png" width="120"> | <img src="http://freeview.github.io/iptv/logos/bloomberg.png" width="120" style="background-color:red"> | <img  src="http://freeview.github.io/iptv/logos/8tv.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/tv9.png" width="45"> | 
 | <img src="http://freeview.github.io/iptv/logos/tv1.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/tv2.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/tv3.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/ntv7.png" width="45"> | <img  src="http://freeview.github.io/iptv/logos/8tv.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/tv9.png" width="45"> | 
 | <img src="http://freeview.github.io/iptv/logos/tv1.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/tv2.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/tv3.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/ntv7.png" width="45"> | <img  src="http://freeview.github.io/iptv/logos/8tv.png" width="75"> | <img src="http://freeview.github.io/iptv/logos/tv9.png" width="45"> | 
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
+<table bgcolor="#BGBGBAA">
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$80</td>
+  </tr>
+</table>
+
