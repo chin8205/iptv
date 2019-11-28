@@ -13,7 +13,7 @@ MORE free channels compiled in one single playlist.
 
 | No | Channels | Playlist |  EPG |
 | --- | --- | --- | --- |
-| 1 | Complete | https://freeview.github.io/iptv/playlist/my.m3u | https://freeview.github.io/iptv/epg/my.xml |
+| 1 | Complete | SOON | SOON |
 | 2 | Malaysia | https://freeview.github.io/iptv/playlist/my.m3u | https://freeview.github.io/iptv/epg/my.xml |
 | 3 | Singapore | https://freeview.github.io/iptv/playlist/sg.m3u | https://freeview.github.io/iptv/epg/sg.xml |
 
