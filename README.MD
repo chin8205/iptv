@@ -15,6 +15,6 @@ The streams listed here are the official public streams hosted on their live TV 
 Report broken streams [here](https://github.com/hsytes/iptv/issues/new).
 
 ## Coming Soon
-Complete free channels compiled in one single playlist!
+Free channels compiled in one single playlist!
 
 <img align="center" src="http://freeview.github.io/iptv/channels.png" width="600">
