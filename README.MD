@@ -2,8 +2,6 @@
 This repository contains the playlists, EPG and other related resources to enjoy free-to-air TV channels online. Compiled for Android TV. 
 
 ![status](https://img.shields.io/badge/tokenizer-ONLINE-brightgreen.svg?style=flat)
-## Information
-The streams listed here are the official public streams hosted on their live TV websites complete with 7 days worth of EPG.
 
 ## Information
 The streams listed here are the official public streams hosted on their live TV websites, and some channels are grabbed from YouTube. A tokenizer server updates the playlists every 6 hours to ensure uptime. EPG contains 7 days worth of TV guide.
