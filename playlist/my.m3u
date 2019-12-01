@@ -28,7 +28,7 @@ https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png",RTM Sports HD
 https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/rtm.png",RTM BES
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/bes.png",RTM BES
 https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2096000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/onenews.png",One News
@@ -39,7 +39,7 @@ https://rtmonenews.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2096000.
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tvalhijrah.png",TV Alhijrah 
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1575216030/ei/Po_jXYyOENKn1Ab35YSgDg/ip/202.187.46.91/id/rkvWmg4-jIQ.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-uphxqvujvh-30az.googlevideo.com/playlist_type/DVR/initcwndbps/12490/mm/44/mn/sn-uphxqvujvh-30az/ms/lva/mv/m/mvi/3/pl/17/dover/11/keepalive/yes/fexp/23842630/mt/1575194369/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_type/sig/ALgxI2wwRQIgGpZfsJcw9SrM6MdlDB8lBlBhawDwFSfx1F9bQzfTcDcCIQCpBrCzVDBr7lz2NHBjWYNAMaB4HI1v6m9bO7NSaVctlQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRQIgKc0e1q3rj-BsCKrWnlebyEnbCgnQk5GSxHn9H7ke5QcCIQCpowEyguxqTMyG5Hojt0zowXDIKP7WF7kxQLnpMDrJvQ%3D%3D/playlist/index.m3u8|Referer=https://www.youtube.com
 
-#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/bnma.png",BNC 
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/bernama.png",BNC 
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1575216034/ei/Qo_jXe7dKoLToQPRipCACQ/ip/202.187.46.91/id/20OZ_5OxKvo.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-uphxqvujvh-30az.googlevideo.com/playlist_type/DVR/initcwndbps/12490/mm/44/mn/sn-uphxqvujvh-30az/ms/lva/mv/m/mvi/1/pl/17/dover/11/keepalive/yes/fexp/23842630/mt/1575194369/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_type/sig/ALgxI2wwRAIgO9FqV9IxWok0FvIA8kBtFcA-EqpN4bW4TQgErDM0vgMCIFPhund49-tT9rHyCsHHEHYyYFL2cRBhzMRun4Ukjlo5/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRgIhAPO8kTxWbrioiiNlTB_fxrCPdDOw8VS3cCHUnPFxxg3QAiEA2D55VzuCXpfWiOearberfFDLZvPE8WKf9BrddOS44SA%3D/playlist/index.m3u8|Referer=https://www.youtube.com
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/awani.png",Astro Awani 
