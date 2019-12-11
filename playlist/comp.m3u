@@ -70,7 +70,7 @@ https://euronews-en-p7-cdn.hexaglobe.net/dba764688d1a688ba9ea5133f7adfdf0/5ddf38
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/nhkworldjp.png" group-title="News",NHK World Japan
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_4200.m3u8
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_4M.m3u8
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/rt.png" group-title="News",RT
 https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
